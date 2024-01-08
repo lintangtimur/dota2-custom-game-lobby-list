@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311163116765 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | МОРГЕНШТЕРН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:21:00 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311163232515 |
-| Players | 13/15 |
-| Host Name | MrZlobr |
+| Lobby ID | 28595311162648393 |
+| Players | 3/8 |
+| Host Name | кратет |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:21:05 |
+| Lobby Creation Time | Monday, January 8, 2024 22:20:40 |
 
 
 |  | ot3_desert_octet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311162310837 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | #YoonAreMyDestiny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:20:26 |
@@ -140,19 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311162455088 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rezn1chenko._ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:20:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311163871816 |
+| Players | 2/15 |
+| Host Name | Pibbs |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:21:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311162648393 |
-| Players | 3/8 |
-| Host Name | кратет |
+| Lobby ID | 28595311163919190 |
+| Players | 2/8 |
+| Host Name | нет |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:20:40 |
+| Lobby Creation Time | Monday, January 8, 2024 22:21:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,9 +185,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311160537026 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:19:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311163807571 |
+| Players | 2/5 |
+| Host Name | fruit party<3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:21:30 |
 
 
