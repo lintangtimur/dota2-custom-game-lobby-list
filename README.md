@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310896611412 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Nurumeoi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:14:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310896092979 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Kenot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:13:55 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310895266496 |
+| Lobby ID | 28595310896746696 |
 | Players | 8/10 |
-| Host Name | пузо для арбуза |
+| Host Name | Pipok |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:12:54 |
+| Lobby Creation Time | Monday, January 8, 2024 18:14:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310896636709 |
-| Players | 3/8 |
-| Host Name | H.I.K.K.A.N.I.K.O.T.A.N |
+| Lobby ID | 28595310896809349 |
+| Players | 4/8 |
+| Host Name | MATTHEW马修 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:14:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310896746696 |
-| Players | 3/10 |
-| Host Name | Pipok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:14:43 |
+| Lobby Creation Time | Monday, January 8, 2024 18:14:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310896288750 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | ENEKANDO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:14:10 |
