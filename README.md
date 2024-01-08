@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310969086202 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:32:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310971184892 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | syjzer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:34:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310968703498 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:32:36 |
@@ -101,57 +101,84 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:29:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310972012263 |
+| Players | 1/8 |
+| Host Name | Дабула чада |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310971702993 |
+| Players | 2/10 |
+| Host Name | kaito shoma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:26 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310970418541 |
-| Players | 14/24 |
-| Host Name | yhwach |
+| Lobby ID | 28595310972085113 |
+| Players | 6/24 |
+| Host Name | Maldini |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:34:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310970960277 |
-| Players | 3/8 |
-| Host Name | M.129 JuicyJasik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:34:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310971088809 |
-| Players | 1/8 |
-| Host Name | Лютый личинус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:34:52 |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310971377768 |
-| Players | 6/15 |
-| Host Name | JAQmanGoGDudBKidsdepresion |
+| Lobby ID | 28595310972048368 |
+| Players | 2/15 |
+| Host Name | halloworld |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:35:08 |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310969463313 |
-| Players | 9/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:20 |
+| Lobby ID | 28595310972059489 |
+| Players | 7/8 |
+| Host Name | K1!!c2!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310972219624 |
+| Players | 2/15 |
+| Host Name | Chuvachok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310972319746 |
+| Players | 3/8 |
+| Host Name | сосу за меф |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:36:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310971269925 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Urek Mazino |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:35:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310971791758 |
+| Players | 2/10 |
+| Host Name | невермор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:35:31 |
 
 
