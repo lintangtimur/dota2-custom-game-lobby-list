@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486816283 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | (♦ GhOsT ♦) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:05:08 |
@@ -22,18 +22,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311488546192 |
-| Players | 13/15 |
-| Host Name | Paid in full |
+| Lobby ID | 28595311488996725 |
+| Players | 1/15 |
+| Host Name | mode: CUM ON |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:07:26 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:08:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311487668710 |
-| Players | 4/8 |
-| Host Name | FROGI |
+| Players | 1/8 |
+| Host Name | g[fg[f[g[fg[ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:16 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311485215712 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | la bika me hizo mejor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:02:58 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311488890909 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Hans Zimmer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:07:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311488924896 |
+| Players | 4/8 |
+| Host Name | Clever Tactick But Fail |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:07:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:46 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595311488925905 |
+| Players | 1/7 |
+| Host Name | ДідАутсайд |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:07:57 |
 
 
