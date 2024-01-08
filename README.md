@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310822112340 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | georgyargen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:27:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310822207615 |
-| Players | 1/10 |
-| Host Name | A.XVI_973 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:27:50 |
 
 
 |  | epic_boss_fight_hard |
