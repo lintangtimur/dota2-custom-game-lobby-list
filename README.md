@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311264269444 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | S U M M E R ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311262464495 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 23:53:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311264356493 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | miau |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311262150459 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Elysium |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:53:25 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311265472585 |
-| Players | 9/10 |
-| Host Name | Botan |
+| Lobby ID | 28595311265719968 |
+| Players | 8/10 |
+| Host Name | Andrey100Miparey |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:56:44 |
+| Lobby Creation Time | Monday, January 8, 2024 23:56:58 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311265597274 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Трахозавр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:56:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311265640604 |
-| Players | 6/24 |
+| Players | 2/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:56:54 |
@@ -128,22 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:56:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311265719968 |
-| Players | 2/10 |
-| Host Name | Andrey100Miparey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:56:58 |
+| Lobby ID | 28595311265894287 |
+| Players | 2/8 |
+| Host Name | udacha |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311264849905 |
-| Players | 8/10 |
-| Host Name | ไม่เมี้ยว |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:56:06 |
+| Lobby ID | 28595311265874518 |
+| Players | 1/8 |
+| Host Name | Z+ |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311265065270 |
+| Players | 2/5 |
+| Host Name | ELF_saeed |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 23:56:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311258778286 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:03 |
@@ -194,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311264638378 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:53 |
