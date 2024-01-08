@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:06:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311568065894 |
-| Players | 5/10 |
-| Host Name | Lobotomy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:13:34 |
+| Lobby ID | 28595311568490528 |
+| Players | 1/15 |
+| Host Name | 喝采叫喚死屍累々 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:14:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311568160756 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:13:45 |
@@ -95,25 +95,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311568378182 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:14:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311568458193 |
+| Players | 4/15 |
+| Host Name | 50.Centaur (EU) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:14:19 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311568416260 |
-| Players | 5/8 |
-| Host Name | pivasik |
+| Lobby ID | 28595311568431280 |
+| Players | 3/8 |
+| Host Name | Оскорбительно красив |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:14:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311568483373 |
+| Players | 2/8 |
+| Host Name | адидас младший |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:14:14 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:14:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311567278075 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:12:08 |
