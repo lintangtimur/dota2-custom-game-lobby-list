@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310962626072 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Kenshin Himura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:43 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310960430135 |
-| Players | 3/8 |
-| Host Name | xoxol |
+| Lobby ID | 28595310962748649 |
+| Players | 1/8 |
+| Host Name | DG_COACH |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:24:37 |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:50 |
 
 
 |  | ot3_desert_octet |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ODESKIN |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310962922420 |
+| Players | 2/10 |
+| Host Name | Kid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:27:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310962909250 |
+| Players | 2/10 |
+| Host Name | tbari. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310962948655 |
+| Players | 2/8 |
+| Host Name | Оливка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:27:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -114,7 +141,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310962846616 |
 | Players | 1/5 |
-| Host Name | hypocrite |
+| Host Name | ГрЕмЛеН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:56 |
 
