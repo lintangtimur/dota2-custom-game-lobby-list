@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311151447133 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Renji(пудж) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311151800222 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | little helper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:12:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311141249461 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Neonsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311149296044 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | PickachuDM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:09:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311150804056 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:19 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311151109266 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Luckyman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311151856300 |
+| Players | 1/24 |
+| Host Name | Evol |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:12:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311148986534 |
+| Players | 8/10 |
+| Host Name | Nicki Minaj |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:09:40 |
 
 
 |  | epic_boss_fight_nightmare |
