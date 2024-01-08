@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310868724078 |
-| Players | 1/8 |
-| Host Name | стрей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:37:35 |
+| Lobby ID | 28595310868621115 |
+| Players | 4/8 |
+| Host Name | SonOfaLich |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:37:26 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310868840524 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | yahoroshii |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:37:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310868581980 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Бумыч |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 17:37:23 |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310868826757 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Note |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:37:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310868621115 |
-| Players | 4/8 |
-| Host Name | SonOfaLich |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:37:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310869059587 |
-| Players | 5/8 |
-| Host Name | денис теребонько |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:38:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310867035748 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SpEEDRunMSK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:35:17 |
