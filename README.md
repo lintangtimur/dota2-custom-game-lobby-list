@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310928279114 |
-| Players | 7/8 |
-| Host Name | победилдо |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:51:38 |
+| Lobby ID | 28595310929763618 |
+| Players | 2/8 |
+| Host Name | PussyDon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:53:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310920490559 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ВАРАН УЕБАН_228 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:45 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:48:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310925562123 |
-| Players | 22/24 |
-| Host Name | 謙虚さを身につけろ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:48:35 |
+| Lobby ID | 28595310929550595 |
+| Players | 2/8 |
+| Host Name | Barbarik |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:53:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,28 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:52:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310929550595 |
-| Players | 1/8 |
-| Host Name | Barbarik |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:53:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310929584741 |
-| Players | 1/8 |
-| Host Name | PussyDon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:53:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310929330508 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 𝓢𝓵𝓪𝓴𝓲𝓬𝓱 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:52:47 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310929437189 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Bipolar Bear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:52:54 |
