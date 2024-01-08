@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310969086202 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:32:58 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310854955684 |
-| Players | 1/15 |
-| Host Name | AURELIO CASILLAS |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
+| Lobby ID | 28595310979769797 |
+| Players | 10/15 |
+| Host Name | sonches |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:43:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310980107962 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Relax |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:43:19 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:28:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310979689642 |
-| Players | 6/10 |
-| Host Name | мистер рудик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:42:55 |
+| Lobby ID | 28595310980266126 |
+| Players | 1/24 |
+| Host Name | wabisabi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:43:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:42:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310979769797 |
-| Players | 8/15 |
-| Host Name | sonches |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:43:00 |
+| Lobby ID | 28595310980401172 |
+| Players | 4/24 |
+| Host Name | 乌龟的黑头 |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 19:43:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310980405212 |
+| Players | 1/24 |
+| Host Name | 云南最昌盛瑞奇的曼 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:43:36 |
 
 
 |  | epic_boss_fight_nightmare |
