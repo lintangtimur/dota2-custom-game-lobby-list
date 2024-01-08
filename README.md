@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311316170453 |
-| Players | 1/8 |
-| Host Name | tModLoader |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:48:03 |
+| Lobby ID | 28595311316212533 |
+| Players | 1/10 |
+| Host Name | My Tears Are Becoming A Sea |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311315904745 |
-| Players | 12/15 |
-| Host Name | big mad187 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:46 |
+| Lobby ID | 28595311316250935 |
+| Players | 7/10 |
+| Host Name | エンジェルダスト:雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311314412707 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:46:15 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:47:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311315907372 |
-| Players | 7/10 |
-| Host Name | too old to argue |
+| Lobby ID | 28595311316296557 |
+| Players | 3/15 |
+| Host Name | Schitzofrieund |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:47 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311312300780 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Хлібинка |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:03 |
@@ -103,29 +103,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311315358126 |
+| Lobby ID | 28595311314383628 |
 | Players | 9/10 |
-| Host Name | brxndxd |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:13 |
+| Host Name | 44 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:46:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311316144854 |
-| Players | 1/24 |
-| Host Name | А? |
+| Lobby ID | 28595311316305960 |
+| Players | 2/8 |
+| Host Name | Великий Австрийский Художник |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:48:01 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311316212533 |
-| Players | 1/10 |
-| Host Name | My Tears Are Becoming A Sea |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:48:06 |
+| Lobby ID | 28595311316297428 |
+| Players | 1/15 |
+| Host Name | Oldwarx |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311316361456 |
+| Players | 1/8 |
+| Host Name | se |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,9 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595311311706446 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Primordialb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:43:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311316390710 |
+| Players | 1/5 |
+| Host Name | Пупс на Линии |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:17 |
 
 
