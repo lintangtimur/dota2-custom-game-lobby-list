@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310818419600 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Bertrand Russell |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:21:44 |
@@ -40,17 +40,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310818831593 |
-| Players | 1/8 |
-| Host Name | ERROR SPIRIT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:22:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28595310818832892 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | QBash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:22:24 |
