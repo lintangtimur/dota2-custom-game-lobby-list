@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311059950908 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | IExpo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:53:33 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:45:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311057869620 |
-| Players | 9/10 |
-| Host Name | 14 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:51:45 |
+| Lobby ID | 28595311060154214 |
+| Players | 2/15 |
+| Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:53:44 |
 
 
 |  | ot3_gardens_duo |
@@ -83,6 +83,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:25:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311060191425 |
+| Players | 2/8 |
+| Host Name | marangun |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:53:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311059202459 |
+| Players | 5/8 |
+| Host Name | F0xmen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:52:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311060329778 |
+| Players | 2/8 |
+| Host Name | амням пиздарик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:53:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311060360543 |
+| Players | 2/10 |
+| Host Name | Люда Цибарка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:53:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
@@ -99,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kry__} |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:50:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311060068820 |
-| Players | 1/5 |
-| Host Name | atahaptaha |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 20:53:39 |
 
 
