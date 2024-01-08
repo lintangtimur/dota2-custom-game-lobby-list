@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311348032800 |
-| Players | 9/10 |
-| Host Name | ❌XART✅❤ |
+| Lobby ID | 28595311348773010 |
+| Players | 2/24 |
+| Host Name | Talento Nada |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311348979647 |
+| Players | 3/8 |
+| Host Name | blade of miquella |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311337503210 |
-| Players | 9/10 |
-| Host Name | Jack Forest |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:10:13 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311345219160 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | [ПОЛИБЛАНК] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:18:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311345400225 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BoB LeE SwaGgeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:18:31 |
@@ -110,31 +110,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:19:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311348970928 |
+| Players | 1/10 |
+| Host Name | They Call Me Matrix |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:15 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311348581848 |
-| Players | 10/15 |
-| Host Name | PoMaH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:50 |
+| Lobby ID | 28595311349003581 |
+| Players | 1/15 |
+| Host Name | Офицер пудж 6-3.7 |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311348773010 |
-| Players | 1/24 |
-| Host Name | Talento Nada |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:22:02 |
+| Lobby ID | 28595311349013796 |
+| Players | 1/10 |
+| Host Name | Meetlok |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311348840886 |
-| Players | 1/8 |
-| Host Name | numb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:22:06 |
+| Lobby ID | 28595311349084162 |
+| Players | 3/8 |
+| Host Name | Flexyw1be <3 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:22 |
 
 
 |  | epic_boss_fight_nightmare |
