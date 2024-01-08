@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:12:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311284949617 |
-| Players | 4/8 |
-| Host Name | 11111 |
+| Lobby ID | 28595311274874060 |
+| Players | 23/24 |
+| Host Name | arhikent |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:16:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:06:01 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311282830852 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | МАТЬЕБАЛОВА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:13:59 |
@@ -110,22 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311274874060 |
-| Players | 22/24 |
-| Host Name | arhikent |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:06:01 |
+| Lobby ID | 28595311286788808 |
+| Players | 3/8 |
+| Host Name | HUMBLE. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311286812601 |
+| Players | 1/10 |
+| Host Name | Doktor dota |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311286651317 |
-| Players | 4/15 |
-| Host Name | D3ADMAU5 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:17:52 |
+| Lobby ID | 28595311286837117 |
+| Players | 2/15 |
+| Host Name | boots of travel to your mom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311285926639 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | A- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:08 |
