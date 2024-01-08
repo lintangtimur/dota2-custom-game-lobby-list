@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310797906987 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:47:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310798267117 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:25 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310799834363 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 愛 PaH†uOH 恨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:51:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310791250836 |
-| Players | 1/24 |
-| Host Name | slapping prank with dubai Sheikh |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310789752472 |
-| Players | 1/24 |
-| Host Name | ꧁☬༺S₱₳Ɽ₮₳༻☬ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310800311350 |
-| Players | 2/8 |
-| Host Name | Mortal4451 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:51:56 |
 
 
 |  | epic_boss_fight_nightmare |
