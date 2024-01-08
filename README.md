@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311465159268 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | neverbackdownneverwhat?? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:36:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311462610923 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Kick Boy giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:33:21 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311466649568 |
+| Lobby ID | 28595311467006920 |
 | Players | 5/10 |
-| Host Name | poka stoit tron ya ne proigral |
+| Host Name | you can not fix that |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:38:28 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:38:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:38:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311466996252 |
-| Players | 3/8 |
-| Host Name | XD |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:38:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311467006920 |
-| Players | 1/10 |
-| Host Name | you can not fix that |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:38:56 |
+| Lobby ID | 28595311467091233 |
+| Players | 3/10 |
+| Host Name | ALPACA MENOR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:39:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311467146889 |
+| Players | 1/24 |
+| Host Name | 月老離職，財神管姻緣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:39:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | |OG|YAKUZA |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:37:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311466993703 |
-| Players | 1/5 |
-| Host Name | Добрый Я(ДА-ДА-Я) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:38:55 |
 
 
