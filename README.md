@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310822597832 |
-| Players | 23/24 |
-| Host Name | sdasd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:28:28 |
+| Lobby ID | 28595310822426803 |
+| Players | 9/10 |
+| Host Name | A.XVI_973 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:28:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310823733891 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | cini4ka1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:30:19 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310823847784 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | TΛNCTUM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:30:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310823965170 |
+| Players | 1/15 |
+| Host Name | Nenhuma Pessoa |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 8, 2024 16:30:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310824002451 |
+| Players | 1/8 |
+| Host Name | ~КОРБЕН ДЕТКА~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:30:45 |
 
 
 |  | epic_boss_fight_hard |
@@ -63,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Twice |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310823879104 |
-| Players | 1/10 |
-| Host Name | Archon The Seven |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:30:33 |
 
 
