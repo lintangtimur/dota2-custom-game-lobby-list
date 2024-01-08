@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311027026397 |
-| Players | 23/24 |
-| Host Name | Larry Capija |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 20:25:20 |
+| Lobby ID | 28595311053218765 |
+| Players | 5/8 |
+| Host Name | smooph(no grief plsss) |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 20:47:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311053551700 |
-| Players | 3/10 |
-| Host Name | СИГМА 1 |
+| Players | 9/10 |
+| Host Name | PoisonMeat |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:48:05 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311050466126 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:45:27 |
@@ -67,29 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311053277252 |
-| Players | 8/10 |
-| Host Name | Токсичный уголек |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:47:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311053021566 |
-| Players | 7/15 |
-| Host Name | skrr skrr |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:47:38 |
+| Lobby ID | 28595311053720770 |
+| Players | 2/10 |
+| Host Name | ga |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 20:48:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311053218765 |
-| Players | 2/8 |
-| Host Name | smooph(no grief plsss) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 20:47:48 |
+| Lobby ID | 28595311053898377 |
+| Players | 3/8 |
+| Host Name | мальчик стрея пиу |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:48:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311053903698 |
+| Players | 2/10 |
+| Host Name | тварь-мразь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:48:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311053908556 |
+| Players | 2/15 |
+| Host Name | Paul Kalkbrenner |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:48:23 |
 
 
 |  | epic_boss_fight_nightmare |
