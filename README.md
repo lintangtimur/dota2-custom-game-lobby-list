@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:32:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310788999757 |
-| Players | 10/15 |
-| Host Name | Kenshin Himura |
+| Lobby ID | 28595310789261609 |
+| Players | 2/24 |
+| Host Name | Терминатор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:32:11 |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310789200078 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ПЕРДОЛЕТОЧКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:33 |
@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310789255070 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | キピッシュ.気色悪い |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:38 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310789261609 |
-| Players | 1/24 |
-| Host Name | Терминатор |
+| Lobby ID | 28595310789401518 |
+| Players | 1/10 |
+| Host Name | karmageddon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:54 |
 
 
