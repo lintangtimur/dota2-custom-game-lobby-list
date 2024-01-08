@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310779029354 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Belifan |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:14:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -76,29 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310780120369 |
-| Players | 1/15 |
-| Host Name | VooDooScooBeeDoo |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 15:16:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28595310780447395 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Arthas |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:17:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310780855497 |
-| Players | 4/8 |
-| Host Name | Lifex |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 15:17:44 |
 
 
 |  | epic_boss_fight_normal |
