@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311519184849 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:51:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311520529205 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Insomniac |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:34 |
@@ -77,37 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311520628296 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311520974268 |
-| Players | 1/10 |
-| Host Name | Drunk moose |
+| Lobby ID | 28595311520982869 |
+| Players | 3/8 |
+| Host Name | АДСКИЙ САТАНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:54:14 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311520974833 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | why i am so bad? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:54:14 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311521093853 |
+| Players | 1/10 |
+| Host Name | Drunk moose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311520982869 |
-| Players | 1/8 |
-| Host Name | АДСКИЙ САТАНА |
+| Lobby ID | 28595311519417204 |
+| Players | 7/8 |
+| Host Name | скоро лузстрик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:54:15 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:51:54 |
 
 
 |  | epic_boss_fight_nightmare |
