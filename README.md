@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310977158313 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | nn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:40:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310976137395 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | xXx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:39:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310975836463 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Wowzer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:39:18 |
@@ -119,24 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:39:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310975960921 |
-| Players | 1/15 |
-| Host Name | SAYA (chill dota) |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 19:39:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310976886524 |
-| Players | 4/10 |
-| Host Name | Ицык Striper |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:40:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310977118437 |
@@ -144,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | la pulga  :V  2.0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 19:40:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310976886524 |
+| Players | 6/10 |
+| Host Name | Ицык Striper |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:40:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310977616541 |
+| Players | 1/10 |
+| Host Name | TAMARS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:40:57 |
 
 
