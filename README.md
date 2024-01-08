@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311408147534 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Peruano Universal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:27:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311413464232 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Formula! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:07 |
@@ -77,46 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311413457319 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | spoiled |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311406901207 |
-| Players | 7/8 |
-| Host Name | Lost2525 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:26:25 |
+| Lobby ID | 28595311413626698 |
+| Players | 1/24 |
+| Host Name | WYVERN |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:34:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311413568743 |
-| Players | 2/15 |
-| Host Name | Last or throw |
+| Players | 1/15 |
+| Host Name | jazzi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311413566514 |
-| Players | 2/10 |
-| Host Name | 30191073010 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:34:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311413584472 |
-| Players | 2/10 |
-| Host Name | Solowind |
+| Lobby ID | 28595311413739809 |
+| Players | 1/8 |
+| Host Name | я гниль |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:34:16 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:34:26 |
 
 
 |  | epic_boss_fight_nightmare |
