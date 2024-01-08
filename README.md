@@ -74,31 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:28:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311356307122 |
-| Players | 14/15 |
-| Host Name | Deer God |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:30:01 |
+| Lobby ID | 28595311359011515 |
+| Players | 2/8 |
+| Host Name | Grim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:32:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311355301652 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GTA VI COMMING 2025 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:28:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311357916179 |
-| Players | 5/10 |
-| Host Name | Marlin |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:31:43 |
+| Lobby ID | 28595311358913806 |
+| Players | 11/15 |
+| Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:32:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311358555330 |
-| Players | 8/10 |
-| Host Name | Быбло |
+| Lobby ID | 28595311359123267 |
+| Players | 2/10 |
+| Host Name | ВиталяБластОФ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:32:24 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:33:00 |
 
 
 |  | ot3_desert_octet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358052809 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Rando 3,4o5 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:31:51 |
@@ -164,31 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311358913806 |
-| Players | 6/15 |
-| Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:32:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311359011515 |
-| Players | 2/8 |
-| Host Name | Grim |
+| Lobby ID | 28595311359281345 |
+| Players | 4/8 |
+| Host Name | スレイ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:32:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311359079245 |
-| Players | 6/8 |
-| Host Name | Mooncake |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:32:57 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:33:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -216,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shaina .Gaming |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311359253165 |
+| Players | 2/5 |
+| Host Name | Миликанес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:33:08 |
 
 
