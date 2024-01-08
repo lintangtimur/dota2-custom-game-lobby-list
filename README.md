@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311307076253 |
-| Players | 14/24 |
-| Host Name | rossi |
+| Players | 8/24 |
+| Host Name | vi v mute clowni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:38:40 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311305035011 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Urio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:36:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311304859981 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Real CatOwner |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:36:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311306556513 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Buenos Dias Perú lindo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:38:09 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:38:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311307663755 |
-| Players | 7/8 |
-| Host Name | Андрей Вежливый |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:39:16 |
+| Lobby ID | 28595311308287136 |
+| Players | 3/10 |
+| Host Name | arhe_lisss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:39:54 |
 
 
 |  | ot3_gardens_duo |
@@ -137,37 +137,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:39:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311307797720 |
-| Players | 1/10 |
-| Host Name | Empty soul |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:39:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311308136656 |
-| Players | 6/10 |
-| Host Name | ВОТ И ВЕСЬ ФУТБОЛ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:39:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311308066102 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | SM |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:39:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311308136656 |
+| Players | 7/10 |
+| Host Name | ВОТ И ВЕСЬ ФУТБОЛ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:39:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311308450828 |
+| Players | 8/10 |
+| Host Name | rossi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:40:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311308484922 |
+| Players | 2/8 |
+| Host Name | dolbaeBUS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:40:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311308485141 |
+| Players | 2/10 |
+| Host Name | Empty soul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:40:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311307412167 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | сосиска |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:39:01 |
