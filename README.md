@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311529287280 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Ры |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:07:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311527484293 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | La vaca Lola |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:04:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311529377693 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:07:10 |
