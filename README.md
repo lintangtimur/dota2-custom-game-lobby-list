@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311212612989 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:05:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311214491375 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ttabq.℃om找妹看片手机浏览器打开 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:07:07 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311213151734 |
-| Players | 14/15 |
-| Host Name | шнапс |
+| Lobby ID | 28595311215847840 |
+| Players | 5/8 |
+| Host Name | mogy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:05:50 |
+| Lobby Creation Time | Monday, January 8, 2024 23:08:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311215732143 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | YATOVOROT |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311215499062 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | xD |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:04 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311202309776 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ORSHABAAL |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:55:26 |
@@ -180,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | StIngeR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 23:07:09 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595311215983687 |
+| Players | 2/7 |
+| Host Name | FuXia |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 23:08:32 |
 
 
