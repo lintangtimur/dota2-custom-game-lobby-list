@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:18:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311095423544 |
-| Players | 11/15 |
-| Host Name | ЗАЛУЖНИЙ БАТЬКО |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:23:22 |
+| Lobby ID | 28595311095842922 |
+| Players | 6/24 |
+| Host Name | Astral Ado E678 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:23:44 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:14:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311091362245 |
-| Players | 7/8 |
-| Host Name | Mr. Cruel |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 21:19:58 |
+| Lobby ID | 28595311095907762 |
+| Players | 1/15 |
+| Host Name | GHOST |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:23:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311093079467 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | JhonnyBvB |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:21:25 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311093977502 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 123123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:22:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311095392633 |
-| Players | 7/10 |
-| Host Name | /-|-\Liquid_M1nd/-|-\ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:23:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311095737449 |
-| Players | 6/8 |
-| Host Name | ебал улей |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 21:23:38 |
 
 
 |  | epic_boss_fight_hard |
