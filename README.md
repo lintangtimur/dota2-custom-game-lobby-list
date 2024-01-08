@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310838476630 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:53:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310838610594 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Куст |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:53:47 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310838500672 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | aC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:53:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310838259527 |
-| Players | 2/8 |
-| Host Name | Satoru!!! |
+| Lobby ID | 28595310837835625 |
+| Players | 9/10 |
+| Host Name | Сижу дома и играю |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:53:15 |
+| Lobby Creation Time | Monday, January 8, 2024 16:52:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:53:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310838190993 |
-| Players | 14/15 |
-| Host Name | N. |
+| Lobby ID | 28595310838919596 |
+| Players | 1/8 |
+| Host Name | Circus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:53:09 |
+| Lobby Creation Time | Monday, January 8, 2024 16:54:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:45:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310828997612 |
-| Players | 4/5 |
-| Host Name | Razvedos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:38:43 |
 
 
