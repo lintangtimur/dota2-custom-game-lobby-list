@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311467598694 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | Conq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:39:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311467377080 |
-| Players | 15/15 |
-| Host Name | SUPREME# [16] |
+| Lobby ID | 28595311467243036 |
+| Players | 6/10 |
+| Host Name | 大大hate myself |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:39:24 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:39:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311462610923 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Kick Boy giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:33:21 |
@@ -65,58 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:38:43 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311459895188 |
-| Players | 20/24 |
-| Host Name | Jr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:29:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311467091233 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Megumin's |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:39:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311467243036 |
-| Players | 5/10 |
-| Host Name | 大大hate myself |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:39:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311467210049 |
-| Players | 9/10 |
-| Host Name | shintaro |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:39:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311467223074 |
-| Players | 1/8 |
-| Host Name | Блинк в пиварню |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:39:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311467687094 |
-| Players | 1/24 |
-| Host Name | Skip |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:39:48 |
 
 
 |  | epic_boss_fight_nightmare |
