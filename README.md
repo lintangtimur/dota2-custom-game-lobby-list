@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310918483249 |
-| Players | 14/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 18:40:25 |
+| Lobby ID | 28595310920829911 |
+| Players | 1/15 |
+| Host Name | torkotor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310920536166 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Тимбер |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310920778259 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MATTHEW马修 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:05 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310920812372 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Baobab |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310921066597 |
+| Players | 6/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:26 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310920829911 |
-| Players | 1/15 |
-| Host Name | torkotor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:09 |
+| Lobby ID | 28595310921082166 |
+| Players | 2/15 |
+| Host Name | Ben Simmons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:27 |
 
 
 |  | epic_boss_fight_nightmare |
