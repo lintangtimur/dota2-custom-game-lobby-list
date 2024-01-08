@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310962680576 |
-| Players | 1/24 |
-| Host Name | ☯•S么MUR么I•☯ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:46 |
+| Lobby ID | 28595310963972551 |
+| Players | 2/15 |
+| Host Name | TMMR |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310963435755 |
-| Players | 10/15 |
-| Host Name | H3lix |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:27:30 |
+| Lobby ID | 28595310959981542 |
+| Players | 6/15 |
+| Host Name | Crook 1 lvl. |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 19:24:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310961297495 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
@@ -92,19 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:27:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310959981542 |
-| Players | 5/15 |
-| Host Name | Crook 1 lvl. |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 19:24:10 |
+| Lobby ID | 28595310963958008 |
+| Players | 3/8 |
+| Host Name | 000 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310963942068 |
+| Players | 1/8 |
+| Host Name | Mad Goose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310960300944 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Demolition @ Internet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 19:24:29 |
