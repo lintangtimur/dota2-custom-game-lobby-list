@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311000595714 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Beethoven |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:02:10 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:04:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311003026393 |
-| Players | 9/15 |
-| Host Name | БатьМать |
+| Lobby ID | 28595311003728905 |
+| Players | 2/10 |
+| Host Name | eew |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:04:19 |
+| Lobby Creation Time | Monday, January 8, 2024 20:04:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | V1rsa4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:04:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311003701409 |
+| Players | 2/10 |
+| Host Name | Вова Адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:04:55 |
 
 
