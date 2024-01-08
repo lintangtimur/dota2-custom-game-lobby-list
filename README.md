@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311025299010 |
-| Players | 2/8 |
-| Host Name | Positive Mental Animal |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 20:23:51 |
+| Lobby ID | 28595311027920791 |
+| Players | 6/10 |
+| Host Name | Nachalnik Zavoda |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:26:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311027399432 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311016117260 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 卵虫身上的粪便 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:15:58 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311025827601 |
-| Players | 7/24 |
-| Host Name | 皮卡丘级别 |
+| Players | 1/24 |
+| Host Name | . |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:24:18 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311027574271 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Escanor the lions sin pride |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311027255477 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | アイシテル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311027805753 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Para kang halaman |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 20:26:01 |
@@ -110,6 +110,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:25:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311027933787 |
+| Players | 3/8 |
+| Host Name | Анальный Маэстро |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:26:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311027955984 |
+| Players | 1/15 |
+| Host Name | Gri33ly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:26:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311028028701 |
+| Players | 4/8 |
+| Host Name | Какой-то Вадим? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:26:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311014876969 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | hasbulla.hushetskiy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:14:52 |
@@ -140,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311026570461 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:24:57 |
@@ -157,10 +184,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311027807576 |
+| Lobby ID | 28595311028036017 |
 | Players | 1/5 |
-| Host Name | Mirai~ |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 20:26:01 |
+| Host Name | Pos1tivchik) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:26:12 |
 
 
