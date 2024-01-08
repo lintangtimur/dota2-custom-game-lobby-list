@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311287202031 |
-| Players | 5/8 |
-| Host Name | (-_-) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:25 |
+| Lobby ID | 28595311286521664 |
+| Players | 1/8 |
+| Host Name | AFK |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:17:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311280226222 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | PAPI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:11:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311284796492 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:16:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:16:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311287075056 |
-| Players | 5/10 |
-| Host Name | Ghost |
+| Lobby ID | 28595311287318171 |
+| Players | 4/15 |
+| Host Name | Attakiera |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:17 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311286521664 |
+| Lobby ID | 28595311287288671 |
 | Players | 1/8 |
-| Host Name | AFK |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:17:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311286788808 |
-| Players | 7/8 |
-| Host Name | HUMBLE. |
+| Host Name | ИЗИ 0 БАЛЛОВ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311287321113 |
+| Players | 1/15 |
+| Host Name | mamania |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:32 |
 
 
 |  | epic_boss_fight_nightmare |
