@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310826871100 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Черное Авокадо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:35:20 |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:35:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310825522633 |
-| Players | 14/15 |
-| Host Name | hendO |
+| Lobby ID | 28595310827729343 |
+| Players | 4/8 |
+| Host Name | 操你妈 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:33:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310827670227 |
-| Players | 1/24 |
-| Host Name | Danger Line |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:36:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310827660441 |
-| Players | 1/24 |
-| Host Name | ✪Gen.Secret |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:36:36 |
+| Lobby Creation Time | Monday, January 8, 2024 16:36:42 |
 
 
 |  | epic_boss_fight_nightmare |
