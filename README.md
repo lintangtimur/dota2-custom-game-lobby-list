@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | GoD SeRenA |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310796690685 |
-| Players | 2/10 |
-| Host Name | О боже!!! |
+| Lobby ID | 28595310796658702 |
+| Players | 7/15 |
+| Host Name | пт на силую детей |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:45:42 |
+| Lobby Creation Time | Monday, January 8, 2024 15:45:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,34 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310796609178 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | beautiful pain |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:45:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310796658702 |
-| Players | 6/15 |
-| Host Name | пт на силую детей |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:45:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310796978317 |
-| Players | 1/15 |
-| Host Name | Конёк Горбунок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:46:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310795843170 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Кецалун- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:44:13 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310795580279 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
