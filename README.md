@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310824396045 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Absmuui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:31:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310825509853 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Tyrambar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:33:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310825665426 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | IAMNOTSADASDYAFISDGOARISTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:33:25 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1273438276 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 16:33:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310826025752 |
+| Players | 1/24 |
+| Host Name | HER NIG雨 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:33:59 |
 
 
 |  | epic_boss_fight_hard |
