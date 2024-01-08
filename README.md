@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310789001297 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | Dekant |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310787849460 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310789255070 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | キピッシュ.気色悪い |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:38 |
@@ -81,5 +81,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asta La Vista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310789739108 |
+| Players | 5/8 |
+| Host Name | Ryan Gosling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:33:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310789752472 |
+| Players | 4/24 |
+| Host Name | BoSS |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310789963139 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:33:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310789946136 |
+| Players | 1/10 |
+| Host Name | Maestro Show |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
 
 
