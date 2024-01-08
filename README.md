@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311151447133 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Renji(пудж) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311141249461 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Neonsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311150804056 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:19 |
@@ -131,10 +131,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311148986534 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nicki Minaj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:09:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311152177696 |
+| Players | 3/8 |
+| Host Name | x_Sato_x |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:12:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311149861515 |
+| Players | 6/10 |
+| Host Name | 4YI7A4YI7C |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:10:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -157,10 +175,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311151573832 |
+| Lobby ID | 28595311152272551 |
 | Players | 1/10 |
 | Host Name | x |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:11:59 |
+| Lobby Creation Time | Monday, January 8, 2024 22:12:35 |
 
 
