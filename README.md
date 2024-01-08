@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311137673119 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 21:59:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -56,42 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:58:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311137817870 |
-| Players | 6/8 |
-| Host Name | ЧЕТКИЙ ЧИРЕБОН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:59:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311134873792 |
-| Players | 9/10 |
-| Host Name | Feminist parker |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 21:57:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311138315665 |
-| Players | 2/15 |
-| Host Name | Codi |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 22:00:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311137284014 |
-| Players | 9/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:59:19 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311136823836 |
@@ -112,8 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28595311138315665 |
+| Players | 2/15 |
+| Host Name | Codi |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 22:00:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28595311138095537 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | 0.5 kd mosnter |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:00:02 |
