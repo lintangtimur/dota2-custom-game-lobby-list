@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310866939106 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 🤠BLOHA🐖 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:35:09 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310868581980 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Бумыч |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 17:37:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310867991922 |
-| Players | 7/10 |
-| Host Name | Вомбат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:36:35 |
+| Lobby ID | 28595310868804313 |
+| Players | 1/15 |
+| Host Name | مربا |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 17:37:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SonOfaLich |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:37:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310868724078 |
+| Players | 1/8 |
+| Host Name | стрей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:37:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310866992523 |
+| Players | 2/8 |
+| Host Name | Gokubn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:35:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:36:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310868748020 |
+| Players | 1/5 |
+| Host Name | TOPSONG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:37:37 |
 
 
