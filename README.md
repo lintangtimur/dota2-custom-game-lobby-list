@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311456453153 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | twitch |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:25:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311457506315 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:26:58 |
@@ -77,37 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311457313049 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:26:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311455770077 |
+| Players | 2/8 |
+| Host Name | Шериф РНР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:24:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311458291957 |
+| Players | 3/10 |
+| Host Name | Mr. Kartoplya |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:27:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311455499551 |
-| Players | 12/15 |
-| Host Name | Maxibabs |
+| Lobby ID | 28595311458384649 |
+| Players | 4/15 |
+| Host Name | spadybady68 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:24:27 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:28:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311458233902 |
-| Players | 1/8 |
-| Host Name | [KillJoy] KOKERforJOKER |
+| Lobby ID | 28595311458365946 |
+| Players | 3/8 |
+| Host Name | First_Dragon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:27:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311457345727 |
-| Players | 9/10 |
-| Host Name | Yukinoshito YukiNon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:26:46 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:28:03 |
 
 
 |  | epic_boss_fight_normal |
