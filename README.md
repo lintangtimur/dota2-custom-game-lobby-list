@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311133483593 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ME GUSTA LA PINGA CHUECA |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:55:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311129329107 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:52:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311134697013 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | GooDman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:57:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311134801452 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Meid |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:57:08 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 鎰グuglykグ鎰 anlak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:57:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311134873792 |
+| Players | 1/10 |
+| Host Name | Feminist parker |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 21:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
