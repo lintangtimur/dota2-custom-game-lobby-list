@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311062532504 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:55:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311082608426 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Чилипиздрик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:12:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311081489482 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:11:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311080847301 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | V e L i K a |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:11:08 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311083035048 |
-| Players | 5/10 |
-| Host Name | chiki briki |
+| Players | 6/10 |
+| Host Name | Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:13:00 |
 
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311083150973 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | marangun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:13:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311058285817 |
+| Players | 14/15 |
+| Host Name | .👑D⚜️K👑. |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 8, 2024 20:52:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311083394728 |
+| Players | 1/24 |
+| Host Name | Первая кровь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:13:18 |
 
 
 |  | epic_boss_fight_nightmare |
