@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311125811096 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Stewie |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311132597955 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:55:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311132260092 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | fashion червь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:54:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311129329107 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:52:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311132136448 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | СУДАРЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:54:49 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311132642717 |
-| Players | 1/15 |
-| Host Name | Dante57 |
+| Players | 3/15 |
+| Host Name | EBY BOMJEY |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:55:15 |
 
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311131344178 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nyx-Kyoron |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:54:08 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595311131921067 |
-| Players | 1/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:54:37 |
 
 
