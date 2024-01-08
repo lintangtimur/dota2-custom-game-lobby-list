@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310906635236 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ЭТО ВТОРОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:26:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310903966241 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Triki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:23:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310907467212 |
-| Players | 9/10 |
-| Host Name | QU4DRO |
+| Lobby ID | 28595310907987548 |
+| Players | 3/10 |
+| Host Name | Dassama |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:27:32 |
+| Lobby Creation Time | Monday, January 8, 2024 18:28:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310907918797 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ПЛАТОША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:28:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310907987548 |
-| Players | 2/10 |
-| Host Name | Dassama |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:28:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310903664673 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | mr.guid2517 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:23:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310908122254 |
+| Players | 1/5 |
+| Host Name | Пожилое пианино |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:28:17 |
 
 
