@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:11:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310948877737 |
-| Players | 1/8 |
-| Host Name | eLTree |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 8, 2024 19:13:12 |
+| Lobby ID | 28595310949097350 |
+| Players | 2/10 |
+| Host Name | )) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:13:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310948770659 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Анальный Маэстро |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:13:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310937536843 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:01:33 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:12:57 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310949025122 |
+| Players | 1/24 |
+| Host Name | 永远不要提前开香槟 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:13:21 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310948970187 |
-| Players | 4/8 |
-| Host Name | Котофей |
+| Lobby ID | 28595310949076312 |
+| Players | 3/8 |
+| Host Name | K1!!c2!! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:13:18 |
+| Lobby Creation Time | Monday, January 8, 2024 19:13:25 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 千面之王法拉利 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 19:12:47 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595310949024339 |
-| Players | 1/7 |
-| Host Name | s3v3n |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:13:21 |
 
 
