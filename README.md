@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:37:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311362892108 |
-| Players | 4/8 |
-| Host Name | Он вам не Димон |
+| Lobby ID | 28595311364140051 |
+| Players | 9/10 |
+| Host Name | ™D1glFlash™ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:37:03 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:38:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311363917838 |
-| Players | 1/24 |
+| Players | 22/24 |
 | Host Name | M r . C h o c o |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:38:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311362462816 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | DrEaMmyZ.LovE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:36:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311362848633 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Eduardo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:37:00 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311363832633 |
-| Players | 13/15 |
-| Host Name | через пацифизм |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:38:04 |
+| Lobby ID | 28595311364383848 |
+| Players | 1/15 |
+| Host Name | LastHit Stuff |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:38:39 |
 
 
 |  | ot3_gardens_duo |
@@ -112,29 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311364140051 |
-| Players | 6/10 |
-| Host Name | ™D1glFlash™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:38:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311364015980 |
-| Players | 5/8 |
-| Host Name | АДСКИЙ САТАНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:38:16 |
+| Lobby ID | 28595311364427330 |
+| Players | 2/10 |
+| Host Name | Lorduka |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:38:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311364164070 |
-| Players | 2/15 |
-| Host Name | quiet,monkey |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:38:25 |
+| Lobby ID | 28595311364436118 |
+| Players | 1/15 |
+| Host Name | zzz |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:38:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -148,24 +139,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311361765844 |
-| Players | 8/10 |
-| Host Name | Картман |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:35:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311362537756 |
-| Players | 2/5 |
-| Host Name | Nechaika69rus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:36:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28595311363919406 |
 | Players | 4/10 |
 | Host Name | Lu Bu |
@@ -175,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311364042693 |
-| Players | 1/5 |
-| Host Name | ✪数字1. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:38:17 |
+| Lobby ID | 28595311362537756 |
+| Players | 2/5 |
+| Host Name | Nechaika69rus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:36:40 |
 
 
