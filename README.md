@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310920511062 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | whatever |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:46 |
@@ -86,19 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310922497486 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Виктор Петрович |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:45:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310923155726 |
+| Players | 3/8 |
+| Host Name | K1!!c2!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:45:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310923197525 |
+| Players | 1/24 |
+| Host Name | Cemka |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:45:53 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310922927002 |
-| Players | 2/10 |
-| Host Name | MASHIKA |
+| Lobby ID | 28595310923167562 |
+| Players | 1/10 |
+| Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:45:34 |
+| Lobby Creation Time | Monday, January 8, 2024 18:45:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | невермор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310923154982 |
+| Players | 2/10 |
+| Host Name | Sunghacor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:45:50 |
 
 
