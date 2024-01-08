@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311478051351 |
-| Players | 3/8 |
-| Host Name | ++ its trash |
+| Lobby ID | 28595311480682358 |
+| Players | 6/8 |
+| Host Name | Andryxa |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:53:26 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:56:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311481412610 |
-| Players | 1/8 |
-| Host Name | Блинк в пиварню |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:57:52 |
+| Lobby ID | 28595311480768050 |
+| Players | 4/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:57:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311480786169 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:57:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311478194415 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:53:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311480893534 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Шабит_Хапаев[95] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:57:11 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311478560042 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | EL SHOW DEL MONO PEGALON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:54:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311480682358 |
-| Players | 6/8 |
-| Host Name | Andryxa |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:56:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311480768050 |
-| Players | 4/8 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:57:01 |
 
 
 |  | epic_boss_fight_normal |
