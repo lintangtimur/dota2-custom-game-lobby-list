@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:07:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310813731551 |
-| Players | 7/10 |
-| Host Name | CrabStick |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:14:13 |
+| Lobby ID | 28595310811817301 |
+| Players | 12/24 |
+| Host Name | Jin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:11:06 |
 
 
 |  | ot3_gardens_duo |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310811817301 |
-| Players | 10/24 |
-| Host Name | Jin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:11:06 |
 
 
 |  | epic_boss_fight_nightmare |
