@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311566146196 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Italiano Gangster |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:10:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311566853177 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | el sueños hija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:11:21 |
@@ -119,24 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:11:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311566048213 |
-| Players | 13/15 |
-| Host Name | O.o |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:09:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311566334877 |
-| Players | 7/8 |
-| Host Name | badbadnotgood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:10:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311567083924 |
@@ -146,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:11:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311567176226 |
-| Players | 5/8 |
-| Host Name | проклятая |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:11:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311563384592 |
-| Players | 2/10 |
+| Lobby ID | 28595311567278075 |
+| Players | 1/10 |
 | Host Name | ORSHABAAL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:05:03 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:12:08 |
 
 
