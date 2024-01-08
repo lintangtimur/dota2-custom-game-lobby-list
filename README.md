@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311196594865 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:49:59 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:51:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311198214592 |
-| Players | 10/15 |
-| Host Name | БУДЕЙКА |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 22:51:32 |
+| Lobby ID | 28595311198703624 |
+| Players | 6/8 |
+| Host Name | Дима |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:52:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311198589323 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | JIKU 塔蒂亚娜 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:51:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311191690501 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | SSSFFFKKK |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:45:21 |
@@ -110,10 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:51:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311198948412 |
+| Players | 2/10 |
+| Host Name | .hippo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:52:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311199063743 |
+| Players | 4/15 |
+| Host Name | schizop[hrenic |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 22:52:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311192588855 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | JIMMY |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:46:12 |
