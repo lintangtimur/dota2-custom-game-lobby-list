@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311461751704 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ogre magi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:32:17 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311462132947 |
-| Players | 14/15 |
-| Host Name | Pleasewait... |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:32:46 |
+| Lobby ID | 28595311462353151 |
+| Players | 3/15 |
+| Host Name | Капитан 1 дивизии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:33:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311460141112 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:30:15 |
+| Lobby ID | 28595311462349186 |
+| Players | 1/15 |
+| Host Name | kardy |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:33:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311461784396 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Waffle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:32:19 |
@@ -95,34 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311459356501 |
-| Players | 9/10 |
-| Host Name | ZEINI |
+| Players | 6/10 |
+| Host Name | Insomniac |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:29:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311462304501 |
-| Players | 2/8 |
-| Host Name | Ellie- |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:32:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311462306696 |
-| Players | 1/8 |
-| Host Name | MC GROB |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:32:59 |
+| Lobby ID | 28595311462354190 |
+| Players | 1/15 |
+| Host Name | Titan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:33:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311460627619 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ~4SVAudio~ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:30:52 |
