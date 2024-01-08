@@ -23,26 +23,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311031186356 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Мгякий |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:28:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311030913789 |
-| Players | 9/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 20:28:41 |
+| Lobby ID | 28595311032370000 |
+| Players | 1/8 |
+| Host Name | friendly |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:29:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311029992757 |
-| Players | 4/24 |
-| Host Name | China eat dog |
+| Players | 2/24 |
+| Host Name | Bubblicious |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:27:54 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311031666704 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Interesting_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:29:20 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311032134692 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | cro ss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:29:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311031203674 |
+| Players | 14/15 |
+| Host Name | YAVOGOROD |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:28:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anti-Creep |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311032330854 |
-| Players | 2/5 |
-| Host Name | ccvv |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 8, 2024 20:29:54 |
 
 
