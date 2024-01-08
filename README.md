@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311496438444 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:18:29 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311494367838 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:15:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311495622165 |
-| Players | 6/8 |
-| Host Name | Чорножопа мавпа |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:17:20 |
+| Lobby ID | 28595311496652357 |
+| Players | 5/10 |
+| Host Name | hapatich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:18:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311496420469 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | бляха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:18:27 |
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Довгий котик зсу |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:18:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311495655516 |
+| Players | 14/15 |
+| Host Name | Kyouji |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:17:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311496733611 |
+| Players | 1/5 |
+| Host Name | 我恨你们这些生物 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:18:54 |
 
 
