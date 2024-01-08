@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311340944106 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | поцеловался с защеканкой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:13:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311341003890 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | unknown |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:13:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311340807156 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SmokeChan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:13:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311341138234 |
-| Players | 4/8 |
-| Host Name | Манта |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:14:01 |
+| Lobby ID | 28595311341124026 |
+| Players | 1/8 |
+| Host Name | Mary Ann死 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:14:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:13:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311338625687 |
-| Players | 5/8 |
-| Host Name | ̷D̷ϋ❦ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:11:23 |
+| Lobby ID | 28595311341066355 |
+| Players | 13/15 |
+| Host Name | Негр амотный |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:13:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311339490497 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:12:17 |
@@ -119,40 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:13:46 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311341032160 |
-| Players | 7/10 |
-| Host Name | #suspеt# |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:13:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311341066355 |
-| Players | 6/15 |
-| Host Name | Негр амотный |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:13:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311341124026 |
-| Players | 1/8 |
-| Host Name | Mary Ann死 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:14:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311339381796 |
-| Players | 1/5 |
-| Host Name | ЗаSHITник |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:12:10 |
+| Lobby ID | 28595311334060777 |
+| Players | 3/10 |
+| Host Name | MUTANT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:06:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -185,18 +158,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311339167588 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ебашу ваших Папаш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:11:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311334060777 |
-| Players | 3/10 |
-| Host Name | MUTANT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:06:35 |
+| Lobby ID | 28595311341311326 |
+| Players | 1/5 |
+| Host Name | Ain't It Funny |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:14:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311341310489 |
+| Players | 1/5 |
+| Host Name | MADNESS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:14:12 |
 
 
