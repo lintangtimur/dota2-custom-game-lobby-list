@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310817593301 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | кефтеме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:20:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310817663142 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Torpeda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:20:32 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310816476454 |
-| Players | 5/8 |
-| Host Name | DİMDİCK |
+| Players | 3/8 |
+| Host Name | TEMELkaa |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 16:18:38 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310815924712 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Reikn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:17:45 |
