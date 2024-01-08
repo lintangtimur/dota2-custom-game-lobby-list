@@ -50,19 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310810015449 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PoliG^ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:08:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310810160858 |
+| Players | 3/8 |
+| Host Name | damn bro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:08:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310810152576 |
+| Players | 2/10 |
+| Host Name | MGNCITYSHUFFLE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:08:25 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310810144175 |
-| Players | 1/24 |
+| Lobby ID | 28595310810187818 |
+| Players | 2/24 |
 | Host Name | GLIU$KR |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:08:24 |
+| Lobby Creation Time | Monday, January 8, 2024 16:08:29 |
 
 
 |  | epic_boss_fight_nightmare |
