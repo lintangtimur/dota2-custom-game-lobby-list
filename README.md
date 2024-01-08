@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310814618864 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | 秘魯殺手 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 16:15:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310815341187 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | [TeamSifilis] ⸸aso⸸ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:16:49 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 16:15:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310815657566 |
+| Players | 2/15 |
+| Host Name | Лавровый лист |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:17:19 |
 
 
 |  | epic_boss_fight_nightmare |
