@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:14:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311221670912 |
-| Players | 1/15 |
-| Host Name | El Miraculosgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 23:13:58 |
+| Lobby ID | 28595311221982831 |
+| Players | 4/8 |
+| Host Name | Na 4iLe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311222236357 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | W бозон 弱相互作用 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:30 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311221982831 |
-| Players | 4/8 |
-| Host Name | Na 4iLe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:14:16 |
+| Lobby ID | 28595311222667087 |
+| Players | 3/8 |
+| Host Name | ТАЛАНТ НАСТЯ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311222445332 |
-| Players | 4/10 |
-| Host Name | Xaynix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:14:42 |
+| Lobby ID | 28595311222733366 |
+| Players | 3/8 |
+| Host Name | camel |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:59 |
 
 
 |  | epic_boss_fight_nightmare |
