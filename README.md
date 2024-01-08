@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:45:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311552724184 |
-| Players | 12/15 |
-| Host Name | love is a murderer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:45:58 |
+| Lobby ID | 28595311553108508 |
+| Players | 2/8 |
+| Host Name | LearDH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:46:40 |
 
 
 |  | ot3_gardens_duo |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311551680068 |
+| Lobby ID | 28595311553069511 |
 | Players | 7/10 |
-| Host Name | defi |
+| Host Name | селявка |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:44:05 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:46:35 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:39:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311552540480 |
-| Players | 5/10 |
-| Host Name | big boss |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:45:38 |
+| Lobby ID | 28595311553132367 |
+| Players | 1/8 |
+| Host Name | Spray!! |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:46:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311553144132 |
+| Players | 1/15 |
+| Host Name | Greta Thunberg |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:46:44 |
 
 
 |  | epic_boss_fight_nightmare |
