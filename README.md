@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311504756093 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mojo DOYO CASA Hause |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:30:09 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311511243144 |
-| Players | 13/15 |
-| Host Name | А когда не ебали |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:39:41 |
+| Lobby ID | 28595311511818675 |
+| Players | 10/15 |
+| Host Name | Ssser |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:40:31 |
 
 
 |  | ot3_desert_octet |
@@ -86,17 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311511777813 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | агент габена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:40:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311511775998 |
-| Players | 6/8 |
-| Host Name | АМНЯМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:40:28 |
 
