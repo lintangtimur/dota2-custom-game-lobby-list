@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310894696123 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:11 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310894365711 |
-| Players | 3/8 |
-| Host Name | Awe$ome.N0Tail |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 18:11:46 |
+| Lobby ID | 28595310894887040 |
+| Players | 1/8 |
+| Host Name | 12+12-(456*2)/2+432=0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:12:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310894935632 |
+| Players | 4/8 |
+| Host Name | Кирилл альфач |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:12:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 18:10:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310890209958 |
-| Players | 9/10 |
-| Host Name | Sunghacor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:06:25 |
 
 
 |  | epic_boss_fight_normal |
