@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311562351334 |
-| Players | 13/15 |
-| Host Name | olexanderkrasiukbinance |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:03:12 |
+| Lobby ID | 28595311562848300 |
+| Players | 6/8 |
+| Host Name | 4eJloBek K.O.M.B.E.K |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
 
 
 |  | ot3_desert_octet |
@@ -67,24 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311562627045 |
-| Players | 6/8 |
-| Host Name | Gandalfs |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:03:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311562848300 |
-| Players | 4/8 |
-| Host Name | 4eJloBek K.O.M.B.E.K |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28595311563205135 |
 | Players | 1/8 |
 | Host Name | я забрал |
@@ -92,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311563398912 |
+| Players | 4/8 |
+| Host Name | 🎅🏼NaНо🎄#DangerZone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311563408708 |
+| Players | 1/10 |
+| Host Name | GOD MODE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311563398518 |
+| Players | 2/15 |
+| Host Name | Cypher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311559884180 |
-| Players | 9/10 |
-| Host Name | Bachira Meguru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:58:45 |
+| Lobby ID | 28595311563384592 |
+| Players | 2/10 |
+| Host Name | SOY CALVO Y QUE? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:03 |
 
 
 |  | epic_boss_fight_nightmare |
