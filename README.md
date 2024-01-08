@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562220291 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | В ДУШЕ ВЛАСТЕЛИН! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562351334 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311562627045 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Gandalfs |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:41 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311563090130 |
-| Players | 1/10 |
-| Host Name | PERICOTE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:04:31 |
+| Lobby ID | 28595311563205135 |
+| Players | 1/8 |
+| Host Name | я забрал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311559884180 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Bachira Meguru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:58:45 |
