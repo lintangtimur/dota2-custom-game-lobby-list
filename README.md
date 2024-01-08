@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310920511062 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | whatever |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310920812372 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Baobab |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:08 |
@@ -119,10 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:43:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310921143664 |
+| Players | 5/15 |
+| Host Name | ☆ VAZ ☆ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310921196966 |
+| Players | 2/15 |
+| Host Name | Chuvachok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310921233378 |
+| Players | 2/8 |
+| Host Name | pahakir08 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310918415331 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | GreShnik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:40:20 |
