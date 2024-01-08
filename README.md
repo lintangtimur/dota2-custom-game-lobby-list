@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311562848300 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 4eJloBek K.O.M.B.E.K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311563064653 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KR4$AB3Ц |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:29 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311563398912 |
-| Players | 4/8 |
-| Host Name | 🎅🏼NaНо🎄#DangerZone |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:05:05 |
+| Lobby ID | 28595311563449596 |
+| Players | 1/15 |
+| Host Name | Σ오로러시ψ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311563408708 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GOD MODE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:05:06 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311563398518 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Cypher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:05:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311563384592 |
-| Players | 2/10 |
-| Host Name | SOY CALVO Y QUE? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:05:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311560513631 |
-| Players | 2/10 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:59:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311561339320 |
-| Players | 2/10 |
-| Host Name | FROST.Azzillerie |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:01:24 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311560513631 |
+| Players | 2/10 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:59:55 |
 
 
 |  | epic_boss_fight_normal |
