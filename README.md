@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311519940824 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:52:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311524860040 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | GluArt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:11 |
@@ -59,43 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311524711782 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 1𝟡S҉ ℤ06 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:59:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311525054645 |
-| Players | 2/8 |
-| Host Name | fair_blood/twitch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:00:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311525074805 |
-| Players | 1/8 |
-| Host Name | припиздил с армиии |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:00:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311525077283 |
-| Players | 1/10 |
-| Host Name | AL VITO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:00:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311525077663 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Нравится? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:31 |
@@ -104,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311525067468 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | tu abuela |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311525077283 |
+| Players | 2/10 |
+| Host Name | AL VITO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:00:31 |
 
 
 |  | epic_boss_fight_nightmare |
