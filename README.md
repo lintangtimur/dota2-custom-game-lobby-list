@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310872895456 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Pipok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:43:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310871046621 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | АААААА ЖЕНЩИНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:40:46 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310873022698 |
-| Players | 12/15 |
-| Host Name | SpyNet™ |
+| Lobby ID | 28595310873449844 |
+| Players | 1/15 |
+| Host Name | СОСЕШЬ? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:43:31 |
+| Lobby Creation Time | Monday, January 8, 2024 17:44:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310867035748 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | SpEEDRunMSK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:35:17 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baba Yega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:43:26 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310873450758 |
+| Players | 2/7 |
+| Host Name | мачомен |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:44:07 |
 
 
