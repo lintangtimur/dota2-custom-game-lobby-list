@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311097431616 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | абсолют |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311100457231 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | lets_fight |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:27:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311098638096 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:26:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311097518151 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Hero |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311099896314 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | KRUTO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:27:09 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311100478621 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:27:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311100799713 |
+| Players | 6/24 |
+| Host Name | §āpriռce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:27:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311100810451 |
+| Players | 3/8 |
+| Host Name | yamete kodasai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:27:55 |
 
 
 |  | epic_boss_fight_hard |
