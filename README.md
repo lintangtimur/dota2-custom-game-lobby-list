@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311433692322 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | LI4INU$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311433607866 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Deyreri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311432457062 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | si no fedeas carreo :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:21 |
@@ -121,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311433716545 |
-| Players | 3/8 |
-| Host Name | ㄠᴍᴀʟɪɴᴏᴠsᴋʏㄠ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:57:51 |
+| Lobby ID | 28595311433745364 |
+| Players | 6/8 |
+| Host Name | MC GROB |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:57:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311432477156 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | 6dog |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:22 |
@@ -158,19 +158,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311433756970 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | КЛИМСАНЫЧ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311433745364 |
-| Players | 4/8 |
-| Host Name | MC GROB |
+| Lobby ID | 28595311433870751 |
+| Players | 6/10 |
+| Host Name | Don Pablo |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:57:53 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:58:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -198,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Зловещая Eбулka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311433930778 |
+| Players | 1/5 |
+| Host Name | Джон Вік |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:58:06 |
 
 
