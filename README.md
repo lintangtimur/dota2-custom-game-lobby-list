@@ -5,28 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310831080063 |
-| Players | 11/15 |
-| Host Name | Ben Simmons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:42:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310829804830 |
-| Players | 4/8 |
-| Host Name | not quite my tempo |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:40:02 |
 
 
 |  | ot3_desert_octet |
@@ -38,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310829316680 |
-| Players | 22/24 |
-| Host Name | 123 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:39:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310832020012 |
-| Players | 1/8 |
-| Host Name | анальный дебошир |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:43:42 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310831896201 |
@@ -63,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ради неё [Dead Inside] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:43:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310832139256 |
+| Players | 1/15 |
+| Host Name | alina |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:43:54 |
 
 
 |  | epic_boss_fight_nightmare |
