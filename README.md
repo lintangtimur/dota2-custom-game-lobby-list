@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311431265247 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311432758276 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | рязанский сахар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:43 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311432710305 |
-| Players | 8/10 |
-| Host Name | Саня Белый prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:56:39 |
+| Lobby ID | 28595311433118262 |
+| Players | 1/8 |
+| Host Name | friendly |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:57:09 |
 
 
 |  | ot3_gardens_duo |
@@ -140,19 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311433069059 |
-| Players | 11/15 |
+| Players | 8/15 |
 | Host Name | EXIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311433118262 |
-| Players | 1/8 |
-| Host Name | friendly |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:57:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -176,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311433011515 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Rav3n |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311433206946 |
+| Players | 3/5 |
+| Host Name | Fen1xx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:57:15 |
 
 
