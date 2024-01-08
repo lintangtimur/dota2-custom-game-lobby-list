@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311529342921 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | СМАКСОМХИМАРЯКУРНУЛМИНУСЗАПИСАЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:07:06 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311531242829 |
-| Players | 8/10 |
-| Host Name | TAP TAP A LA PANTALLA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:10:05 |
+| Lobby ID | 28595311532216849 |
+| Players | 6/10 |
+| Host Name | КРАСАВЧИИИИИК!!! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:11:37 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311532066715 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | AnusSlaughter |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:11:23 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311532387018 |
+| Lobby ID | 28595311532354321 |
 | Players | 5/8 |
-| Host Name | neverwakeupagain |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:11:53 |
+| Host Name | во все тяжечки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:11:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,27 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311532443007 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | O Avestruz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:11:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311532216849 |
-| Players | 5/10 |
-| Host Name | КРАСАВЧИИИИИК!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:11:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311532354321 |
-| Players | 5/8 |
-| Host Name | во все тяжечки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:11:50 |
 
 
