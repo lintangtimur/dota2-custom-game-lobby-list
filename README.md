@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311566892645 |
-| Players | 10/15 |
-| Host Name | love is a murderer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:11:25 |
+| Lobby ID | 28595311568098384 |
+| Players | 4/10 |
+| Host Name | KO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:13:37 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311567769156 |
-| Players | 2/10 |
-| Host Name | Lobotomy |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:13:03 |
+| Lobby ID | 28595311566794284 |
+| Players | 14/15 |
+| Host Name | Tae |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:11:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:06:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311568065894 |
+| Players | 3/10 |
+| Host Name | Lobotomy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:13:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311568141194 |
+| Players | 3/8 |
+| Host Name | Оскорбительно красив |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:13:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311566794284 |
-| Players | 5/15 |
-| Host Name | Tae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:11:15 |
+| Lobby ID | 28595311568160756 |
+| Players | 3/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:13:45 |
 
 
 |  | epic_boss_fight_nightmare |
