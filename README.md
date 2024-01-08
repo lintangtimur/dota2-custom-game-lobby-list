@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -49,44 +49,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310865882827 |
-| Players | 11/15 |
-| Host Name | Черное Авокадо |
+| Lobby ID | 28595310866509471 |
+| Players | 1/15 |
+| Host Name | Emotional Damage |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:33:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310863445262 |
-| Players | 4/8 |
-| Host Name | Amigoooooo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:30:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310866218852 |
-| Players | 7/8 |
-| Host Name | Руха Луивитон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:34:11 |
+| Lobby Creation Time | Monday, January 8, 2024 17:34:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310866215968 |
+| Lobby ID | 28595310866398704 |
 | Players | 1/24 |
-| Host Name | Why So Ez? |
+| Host Name | quiescent |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:34:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310866490796 |
+| Players | 5/10 |
+| Host Name | Чичигагакукуляля |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:34:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310866641915 |
+| Players | 1/8 |
+| Host Name | Gule картошка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:34:10 |
+| Lobby Creation Time | Monday, January 8, 2024 17:34:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310866177404 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Weedy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:34:07 |
