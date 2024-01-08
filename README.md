@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310800621152 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:52:28 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310800512270 |
-| Players | 6/8 |
-| Host Name | 死 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:52:16 |
+| Lobby ID | 28595310801659305 |
+| Players | 2/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 15:54:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [HeyJoe] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:52:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310801659305 |
-| Players | 1/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 15:54:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310798556503 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:55 |
