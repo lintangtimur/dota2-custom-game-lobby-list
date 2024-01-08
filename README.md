@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311532443007 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | MONO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:11:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311533954271 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311534067454 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311534035578 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311534441644 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | IfukeNYPD |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:15:16 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311534514174 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Ali 13 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:15:24 |
