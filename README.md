@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311431265247 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:54 |
@@ -121,29 +121,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311432652061 |
-| Players | 1/15 |
-| Host Name | granerst |
+| Lobby ID | 28595311432714557 |
+| Players | 8/15 |
+| Host Name | That's What I Want [турбо] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:56:35 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311432477156 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | 6dog |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:22 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311432710305 |
+| Players | 2/10 |
+| Host Name | Саня Белый prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:39 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311432453069 |
-| Players | 7/8 |
-| Host Name | 85.RAVAR.85 |
+| Lobby ID | 28595311432758276 |
+| Players | 3/8 |
+| Host Name | рязанский сахар |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:56:20 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311432829175 |
+| Players | 2/8 |
+| Host Name | 3 тира до мечты |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cesar |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311432247984 |
-| Players | 1/5 |
-| Host Name | Holy_Dad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:56:05 |
 
 
