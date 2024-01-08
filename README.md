@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311216979190 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | from the dark |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:09:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | GoRa |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311217527804 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Edibae! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:10:00 |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311215990406 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | xzcnaaxz |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311216863600 |
-| Players | 13/15 |
-| Host Name | Neon Riot |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 23:09:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311216887247 |
-| Players | 5/24 |
-| Host Name | Puck Fuck Duck |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:09:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311217194989 |
-| Players | 4/8 |
-| Host Name | . |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:09:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,13 +101,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:09:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311216887247 |
+| Players | 6/24 |
+| Host Name | Puck Fuck Duck |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:09:24 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311217712830 |
+| Lobby ID | 28595311217841471 |
 | Players | 1/15 |
-| Host Name | husnters |
+| Host Name | Kyouji |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:10:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311217777590 |
+| Players | 2/8 |
+| Host Name | Bantclan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:10:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311217832884 |
+| Players | 5/15 |
+| Host Name | Maleort |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:10:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311217923225 |
+| Players | 2/8 |
+| Host Name | cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:10:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311217926923 |
+| Players | 2/10 |
+| Host Name | Лора Пьяна |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 23:10:11 |
+| Lobby Creation Time | Monday, January 8, 2024 23:10:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -185,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311216269350 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:48 |
@@ -194,9 +212,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595311214436938 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:07:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311217889755 |
+| Players | 2/5 |
+| Host Name | СЫН ОЛИВКИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:10:21 |
 
 
