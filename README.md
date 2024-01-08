@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311561043965 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311561046119 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Fli_ppy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311561503371 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | god’s favourite since 00 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:01:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311560823500 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El tio gonza |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:29 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Alexa-Love♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311561638001 |
-| Players | 2/8 |
-| Host Name | Славик анальный водопад |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:01:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311561620795 |
-| Players | 1/8 |
-| Host Name | лера |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:01:55 |
 
 
 |  | epic_boss_fight_nightmare |
