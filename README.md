@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311363095374 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | unknown |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:37:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311363475234 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Хуякс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:37:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311362462816 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | DrEaMmyZ.LovE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:36:35 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311363423927 |
-| Players | 1/15 |
-| Host Name | Melómano...! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:37:37 |
+| Lobby ID | 28595311363477227 |
+| Players | 7/15 |
+| Host Name | Shok |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:37:41 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:37:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311363477227 |
-| Players | 4/15 |
-| Host Name | Shok |
+| Lobby ID | 28595311363643719 |
+| Players | 2/8 |
+| Host Name | Jandar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:37:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311363707463 |
+| Players | 2/8 |
+| Host Name | GHOST MOUNTAIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:37:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311363711894 |
+| Players | 1/8 |
+| Host Name | Teamspeak |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:37:41 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:37:56 |
 
 
 |  | epic_boss_fight_nightmare |
