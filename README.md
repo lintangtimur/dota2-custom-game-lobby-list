@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311459895188 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Jr |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:29:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311468085490 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:40:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311467880689 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:40:03 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311468377788 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:40:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311468640305 |
-| Players | 10/15 |
-| Host Name | Bi8oskinSSS |
+| Lobby ID | 28595311468937620 |
+| Players | 4/8 |
+| Host Name | PaPkoO^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:41:02 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:41:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311468694681 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 123 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:41:06 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harkeu Kamui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:41:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311469023043 |
+| Players | 1/15 |
+| Host Name | Connmal |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:41:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311469030506 |
+| Players | 5/8 |
+| Host Name | Фекалистый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:41:32 |
 
 
 |  | epic_boss_fight_nightmare |
