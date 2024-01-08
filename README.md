@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310798106186 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310797830884 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | BRUHDUKE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:47:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310798047497 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | OveOveOve |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:03 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310798254165 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Золотой цыган |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310798461429 |
+| Players | 3/8 |
+| Host Name | NE PROEBALI,A NE VIYGRALI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:48:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310798556503 |
+| Players | 1/10 |
+| Host Name | ЛЕНИН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:48:55 |
 
 
