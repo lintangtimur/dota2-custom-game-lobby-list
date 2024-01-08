@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311401048060 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ОТЕЦ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:19:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311401200877 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ZEINI |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:19:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311394872664 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Zen Master Vulkan |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:12:29 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:18:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311400702096 |
-| Players | 7/15 |
-| Host Name | KASHA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:19:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311400864999 |
-| Players | 2/24 |
-| Host Name | mi pene tiene 18,3cm |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:19:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311400941939 |
@@ -110,10 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:19:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311401386964 |
+| Players | 1/15 |
+| Host Name | Pretty |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311401387039 |
+| Players | 1/24 |
+| Host Name | TatsuGod™ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311401392368 |
+| Players | 1/8 |
+| Host Name | Chippin’ In |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311401444735 |
+| Players | 1/15 |
+| Host Name | Krokaska |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311399268906 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Зловещая Eбулka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:17:33 |
