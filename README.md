@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310802353981 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Лимфоузел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:55:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310802481589 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Nigihayami Kohakunushi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:55:40 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310802601267 |
+| Lobby ID | 28595310802737167 |
 | Players | 1/10 |
 | Host Name | Gintoki |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:55:53 |
+| Lobby Creation Time | Monday, January 8, 2024 15:56:06 |
 
 
