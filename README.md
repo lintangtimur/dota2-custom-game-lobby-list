@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310852791390 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | JHIIAAEEAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:14:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310854413256 |
-| Players | 7/8 |
-| Host Name | Fe"Nik"s |
+| Lobby ID | 28595310855208455 |
+| Players | 1/8 |
+| Host Name | Рапес |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:17:20 |
+| Lobby Creation Time | Monday, January 8, 2024 17:18:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310855157379 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | why do you kill me |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:24 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310854878833 |
-| Players | 3/8 |
-| Host Name | let's forget the past |
+| Lobby ID | 28595310855189779 |
+| Players | 1/8 |
+| Host Name | сигма |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:18:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310855115149 |
-| Players | 2/15 |
-| Host Name | Not Today |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:18:21 |
+| Lobby Creation Time | Monday, January 8, 2024 17:18:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310854712575 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | wot7.12.90 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:17:46 |
