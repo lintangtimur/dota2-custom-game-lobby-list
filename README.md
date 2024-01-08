@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311491857207 |
-| Players | 6/10 |
-| Host Name | ionex |
+| Lobby ID | 28595311492186560 |
+| Players | 2/8 |
+| Host Name | ZEINI |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:11:59 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:12:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,6 +108,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Taimen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311492079898 |
+| Players | 2/10 |
+| Host Name | раздевайся |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:12:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311492107721 |
+| Players | 4/15 |
+| Host Name | 伝説 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:12:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311492102001 |
+| Players | 1/15 |
+| Host Name | Steppenwolf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:12:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311485215712 |
+| Players | 8/10 |
+| Host Name | la bika me hizo mejor |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:02:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311491522407 |
+| Players | 3/8 |
+| Host Name | POLKOVNIK SPAIS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:11:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311491783400 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ebashu#babushki.net |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:11:53 |
