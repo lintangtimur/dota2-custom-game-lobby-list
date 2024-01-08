@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310890184982 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Jungle or 1 ( try me! ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:06:23 |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310891829506 |
-| Players | 5/15 |
-| Host Name | ) |
+| Players | 13/15 |
+| Host Name | hiro |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310892015049 |
-| Players | 7/8 |
-| Host Name | pradid |
+| Lobby ID | 28595310892289609 |
+| Players | 4/8 |
+| Host Name | ZeNtEx |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:08:45 |
+| Lobby Creation Time | Monday, January 8, 2024 18:09:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310892008532 |
+| Lobby ID | 28595310892288810 |
 | Players | 1/8 |
-| Host Name | пися(￢‿￢ ) |
+| Host Name | деловая колбаска |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:08:44 |
+| Lobby Creation Time | Monday, January 8, 2024 18:09:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sunghacor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:06:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310892289073 |
+| Players | 1/5 |
+| Host Name | Стенки подъезда |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:09:06 |
 
 
