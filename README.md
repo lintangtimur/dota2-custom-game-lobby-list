@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310802475798 |
-| Players | 10/15 |
-| Host Name | Pain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:55:40 |
+| Lobby ID | 28595310803205627 |
+| Players | 5/24 |
+| Host Name | Happiness |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:56:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310802531608 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:55:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310803205627 |
-| Players | 3/24 |
-| Host Name | Happiness |
+| Lobby ID | 28595310803417619 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:56:55 |
+| Lobby Creation Time | Monday, January 8, 2024 15:57:16 |
 
 
 |  | epic_boss_fight_nightmare |
