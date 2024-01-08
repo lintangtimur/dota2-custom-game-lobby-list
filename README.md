@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:25:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311048938512 |
-| Players | 6/8 |
-| Host Name | мамикс дото |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:44:09 |
+| Lobby ID | 28595311049695441 |
+| Players | 7/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 20:44:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311038278566 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:35:00 |
@@ -32,28 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311048339052 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ??????????? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:43:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311049241490 |
-| Players | 3/15 |
-| Host Name | luxeon |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:44:24 |
+| Lobby ID | 28595311049885937 |
+| Players | 2/8 |
+| Host Name | Mordragon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:44:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311049364469 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | diabeetus |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:44:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311049843200 |
+| Players | 2/10 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:44:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311049981783 |
+| Players | 1/15 |
+| Host Name | CELESTIAL BEING |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:45:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,32 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Veronica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:40:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311047815527 |
-| Players | 2/5 |
-| Host Name | 一木 2AM 火一 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:43:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311049354277 |
-| Players | 1/10 |
-| Host Name | невермор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:44:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311049351489 |
-| Players | 1/5 |
-| Host Name | ♠︎✦︎RUSSIANHOOLIGAN✦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:44:30 |
 
 
