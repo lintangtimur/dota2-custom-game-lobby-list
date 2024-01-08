@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311431265247 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:54 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311430989666 |
-| Players | 6/8 |
-| Host Name | 優勢 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:54:35 |
+| Lobby ID | 28595311431162347 |
+| Players | 3/24 |
+| Host Name | MoonDio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:54:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311430450652 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | DoomRamon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:53:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311429183419 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | MaLast |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:52:27 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:50:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311431569675 |
+| Players | 3/8 |
+| Host Name | 乂ＳＴＩＮＧＫＹツ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:55:16 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311431113959 |
-| Players | 9/10 |
-| Host Name | KAWASAKI |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:54:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311431162347 |
-| Players | 2/24 |
-| Host Name | MoonDio |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:54:47 |
+| Lobby ID | 28595311431572704 |
+| Players | 2/10 |
+| Host Name | Awe$ome.N0Tail |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:55:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cesar |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311431405707 |
-| Players | 1/5 |
-| Host Name | Magilok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:55:04 |
 
 
