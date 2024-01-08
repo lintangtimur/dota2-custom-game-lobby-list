@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310890156010 |
-| Players | 9/10 |
-| Host Name | Папа Римский |
+| Lobby ID | 28595310890559693 |
+| Players | 4/8 |
+| Host Name | тоха |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:06:20 |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:52 |
 
 
 |  | ot3_desert_octet |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:06:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310890520626 |
-| Players | 12/15 |
-| Host Name | злодей |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:06:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310890559693 |
-| Players | 4/8 |
-| Host Name | тоха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:06:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310890757854 |
@@ -81,6 +63,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Аня Белова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:07:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310890894603 |
+| Players | 3/15 |
+| Host Name | Imagine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:07:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310890909872 |
+| Players | 1/8 |
+| Host Name | ПЕТЯ НАСВАЙКИН'ВК |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:07:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310890920065 |
+| Players | 1/8 |
+| Host Name | Ингалятор 228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:07:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310890925305 |
+| Players | 1/10 |
+| Host Name | T.D.S. |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:07:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310890944586 |
+| Players | 4/8 |
+| Host Name | blossom_orchid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:07:22 |
 
 
 |  | epic_boss_fight_normal |
