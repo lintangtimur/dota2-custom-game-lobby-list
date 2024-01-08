@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:29:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311576845217 |
-| Players | 12/15 |
-| Host Name | Smc_MotU. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:30:06 |
+| Lobby ID | 28595311577154057 |
+| Players | 6/10 |
+| Host Name | Akagami No Shanks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:30:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311576922548 |
-| Players | 14/15 |
-| Host Name | -HerrSchatten-Steve |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:30:15 |
+| Lobby ID | 28595311577240716 |
+| Players | 2/15 |
+| Host Name | tmr |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:30:51 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311575105027 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | EL SHOW DEL MONO PEGALON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:26:47 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Sin instinto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:30:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311577154057 |
-| Players | 6/10 |
-| Host Name | Akagami No Shanks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:30:42 |
 
 
 |  | epic_boss_fight_nightmare |
