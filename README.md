@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310852791390 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | JHIIAAEEAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:14:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310855208455 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Рапес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310855157379 |
-| Players | 11/15 |
-| Host Name | why do you kill me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:18:24 |
+| Lobby ID | 28595310855342634 |
+| Players | 2/10 |
+| Host Name | CleverV |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:18:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310855189779 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310854712575 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | wot7.12.90 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:17:46 |
