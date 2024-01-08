@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310943988947 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:08:10 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | かcса#2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:12:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310948770659 |
+| Players | 1/8 |
+| Host Name | Анальный Маэстро |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:13:06 |
 
 
 |  | epic_boss_fight_challenger |
