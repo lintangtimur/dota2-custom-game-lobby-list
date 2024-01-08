@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311102479625 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | 500MMR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:29:19 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311102652745 |
-| Players | 9/15 |
-| Host Name | UriFury |
+| Lobby ID | 28595311103210823 |
+| Players | 2/8 |
+| Host Name | Illic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:29:28 |
+| Lobby Creation Time | Monday, January 8, 2024 21:29:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311103220922 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | radbix |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:29:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311103210823 |
-| Players | 1/8 |
-| Host Name | Illic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:29:56 |
+| Lobby ID | 28595311103591395 |
+| Players | 8/15 |
+| Host Name | hated |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:30:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DYPLO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311103473847 |
+| Players | 2/5 |
+| Host Name | dinori |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:30:10 |
 
 
