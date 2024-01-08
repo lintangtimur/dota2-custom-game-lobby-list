@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311254165917 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 𝖂𝖆𝖓𝖙𝖔𝖓𝖞 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:45:27 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | PMA |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311254183681 |
-| Players | 9/10 |
-| Host Name | Марко Ройс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:45:28 |
+| Lobby ID | 28595311254888564 |
+| Players | 2/24 |
+| Host Name | DX7 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:10 |
 
 
 |  | ot3_desert_octet |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311254546326 |
-| Players | 14/15 |
-| Host Name | XaosEnd |
+| Lobby ID | 28595311254938691 |
+| Players | 4/15 |
+| Host Name | Luo vis-à-vis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:45:50 |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311254702253 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | i have brain damage, sry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:45:59 |
@@ -128,30 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:46:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311254770101 |
-| Players | 1/8 |
-| Host Name | Тильтроник |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 23:46:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311254888564 |
-| Players | 1/24 |
-| Host Name | DX7 |
+| Lobby ID | 28595311254968406 |
+| Players | 1/10 |
+| Host Name | Sakazuki |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:46:10 |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:15 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311254664147 |
-| Players | 3/5 |
-| Host Name | BENDER |
+| Lobby ID | 28595311255031559 |
+| Players | 1/5 |
+| Host Name | MoTaLыGa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:45:57 |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311255058221 |
+| Players | 1/10 |
+| Host Name | HamsterVOL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:21 |
 
 
