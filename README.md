@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311519940824 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:52:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311523682984 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | QTab |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:58:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311521894703 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | adad |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:55:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311524060084 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Akulamg: prime |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:58:56 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:58:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311522049952 |
+| Players | 14/15 |
+| Host Name | La antimaldicion de Jasoul |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:55:52 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595311523560969 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:58:10 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Helb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:58:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311524084251 |
-| Players | 4/5 |
-| Host Name | Pyloncheg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:58:59 |
 
 
