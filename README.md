@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311554305569 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:48:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311554389325 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | bops |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:48:54 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311554619827 |
-| Players | 1/15 |
-| Host Name | x.x |
+| Players | 2/15 |
+| Host Name | Ковальски |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:49:18 |
 
@@ -74,20 +74,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:46:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311553835188 |
-| Players | 14/15 |
-| Host Name | Chico Holiudi |
+| Lobby ID | 28595311554897805 |
+| Players | 5/8 |
+| Host Name | Dr. Livesey |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:47:56 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:49:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311553181024 |
-| Players | 3/10 |
-| Host Name | Kheee? |
+| Players | 1/10 |
+| Host Name | pato6661 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:46:48 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311554390048 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Curze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:48:54 |
