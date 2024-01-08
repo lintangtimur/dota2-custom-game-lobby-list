@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311407876077 |
-| Players | 8/15 |
-| Host Name | Caillou |
+| Players | 9/15 |
+| Host Name | MYAVE |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:27:33 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311411220282 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Dll.2.0 You Can (Not) Advance |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:31:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311411772744 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Насрал в тапок)))) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:32:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311408147534 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:27:52 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311411980090 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Langlyaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:32:23 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311411924153 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | fly solo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:32:19 |
@@ -148,11 +148,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311412112096 |
-| Players | 1/8 |
-| Host Name | twitch.tv/fl_vix |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:32:32 |
+| Lobby ID | 28595311411932090 |
+| Players | 7/8 |
+| Host Name | chibake |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:32:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311410624218 |
+| Players | 9/10 |
+| Host Name | сын майка вазовск |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:30:48 |
 
 
 |  | epic_boss_fight_nightmare |
