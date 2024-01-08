@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311013110639 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Acumen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:13:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311013062911 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | streetyha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:13:16 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:12:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311012696289 |
-| Players | 5/8 |
-| Host Name | beep! |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:12:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311010710560 |
@@ -76,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311013420333 |
-| Players | 6/10 |
-| Host Name | DeathWinG |
+| Lobby ID | 28595311013997262 |
+| Players | 3/10 |
+| Host Name | blessed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:14:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311014054263 |
+| Players | 1/8 |
+| Host Name | ZhekaSchwarzenegger |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:13:35 |
+| Lobby Creation Time | Monday, January 8, 2024 20:14:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311014193929 |
+| Players | 6/10 |
+| Host Name | 6lankname |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:14:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nsk_0220 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:12:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311013858086 |
+| Players | 1/5 |
+| Host Name | ZXC_purple night  ( icelove ) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:13:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311013962579 |
+| Players | 1/10 |
+| Host Name | InYourDick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 20:14:04 |
 
 
