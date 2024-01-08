@@ -13,38 +13,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311526768105 |
-| Players | 3/10 |
-| Host Name | qvq罪 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:03:07 |
+| Lobby ID | 28595311526959171 |
+| Players | 1/10 |
+| Host Name | Gah |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311524053582 |
-| Players | 4/8 |
-| Host Name | ICHZ |
+| Lobby ID | 28595311526912368 |
+| Players | 2/8 |
+| Host Name | NiKo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:58:56 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311525958374 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:01:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311526334805 |
-| Players | 9/10 |
-| Host Name | "Siempre Parador" |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:02:27 |
+| Lobby ID | 28595311526525517 |
+| Players | 1/8 |
+| Host Name | willams |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:02:45 |
 
 
 |  | ot3_desert_octet |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311525067468 |
-| Players | 2/15 |
-| Host Name | ♪ |
+| Players | 1/15 |
+| Host Name | MC DRXCX BADAS |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311526525517 |
-| Players | 1/8 |
-| Host Name | willams |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:02:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311526838612 |
-| Players | 3/8 |
-| Host Name | youhateme |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:03:13 |
+| Lobby ID | 28595311527021797 |
+| Players | 1/5 |
+| Host Name | Fatal |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:30 |
 
 
