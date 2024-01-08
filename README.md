@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310791289187 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | SSH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310790987937 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | sigma skibidi toilet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:35:40 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hellosofia |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310791467581 |
+| Players | 3/8 |
+| Host Name | зря вы меня из лп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310791537923 |
+| Players | 2/10 |
+| Host Name | Solowind |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Michaelmical Romance |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:15 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310791473322 |
+| Players | 1/7 |
+| Host Name | Pachunya |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310791527015 |
+| Players | 1/5 |
+| Host Name | ATWA |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:36 |
 
 
