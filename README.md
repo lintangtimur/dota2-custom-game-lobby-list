@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310811874176 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | zrapier |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:11:11 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310812834246 |
-| Players | 3/8 |
-| Host Name | каркас |
+| Players | 1/8 |
+| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:12:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310810187818 |
+| Players | 22/24 |
+| Host Name | GLIU$KR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:08:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310813087953 |
+| Players | 1/8 |
+| Host Name | black&black |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:13:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310813090960 |
+| Players | 1/15 |
+| Host Name | LinkB |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 16:13:12 |
 
 
 |  | epic_boss_fight_nightmare |
