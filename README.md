@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848522315 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PMA |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -50,46 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310862086589 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | PrincePocket |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:28:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310860958966 |
-| Players | 7/8 |
-| Host Name | дядя попа |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:26:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310862564215 |
-| Players | 8/10 |
-| Host Name | ? |
+| Lobby ID | 28595310863370936 |
+| Players | 1/15 |
+| Host Name | Серега Рябчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:29:07 |
+| Lobby Creation Time | Monday, January 8, 2024 17:30:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310862360102 |
+| Lobby ID | 28595310863429569 |
 | Players | 1/8 |
 | Host Name | korol' hardbl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:28:49 |
+| Lobby Creation Time | Monday, January 8, 2024 17:30:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310862755908 |
-| Players | 11/15 |
-| Host Name | sumecdota2 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:29:23 |
+| Lobby ID | 28595310863445262 |
+| Players | 4/8 |
+| Host Name | Amigoooooo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:30:22 |
 
 
 |  | epic_boss_fight_nightmare |
