@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311380064412 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | GTO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:55:52 |
@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311379939396 |
-| Players | 7/8 |
-| Host Name | X4CUK |
+| Lobby ID | 28595311379670833 |
+| Players | 4/8 |
+| Host Name | Krico |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:55:43 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:55:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311378055269 |
-| Players | 9/10 |
-| Host Name | _____________ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:53:38 |
+| Lobby ID | 28595311380251357 |
+| Players | 1/15 |
+| Host Name | ssirriuss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:56:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311377825877 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Geraldex |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:53:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311378061446 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:53:38 |
@@ -121,35 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311380251357 |
+| Lobby ID | 28595311380457663 |
 | Players | 1/15 |
-| Host Name | ssirriuss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:56:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311380257269 |
-| Players | 7/15 |
-| Host Name | Langlyaaa |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:56:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311380283611 |
-| Players | 5/8 |
-| Host Name | alt cunningham |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:56:06 |
+| Host Name | ⓐⓝⓓⓔⓡ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:56:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311378363051 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | karmageddon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:53:58 |
