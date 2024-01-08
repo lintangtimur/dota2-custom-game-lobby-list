@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310782862431 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Janna Nick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:21:20 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310787014630 |
-| Players | 7/24 |
-| Host Name | Yeager |
+| Players | 5/24 |
+| Host Name | The King of Soldier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:28:42 |
 
