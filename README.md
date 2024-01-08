@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311573685898 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | CaTaDiaoLoY |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311577628609 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | hola tonotos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:31:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311577495194 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | j0mba ♥ docirela |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:31:20 |
@@ -68,16 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311577429985 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kagami taiga |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:31:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311577938964 |
+| Players | 3/10 |
+| Host Name | YATORODOG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:32:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311577977489 |
+| Players | 1/24 |
+| Host Name | "TumanboX" |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:32:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311576197081 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ihhh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:28:52 |
