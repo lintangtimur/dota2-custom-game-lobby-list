@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310832668629 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | zXw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310832695782 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | froqsy <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310832805581 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:58 |
@@ -58,28 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310829626610 |
-| Players | 6/10 |
-| Host Name | Tess Tickles |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:39:44 |
+| Lobby ID | 28595310832679167 |
+| Players | 3/10 |
+| Host Name | WhyAlwaysMe* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:44:46 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310828997612 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Razvedos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:38:43 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310833048866 |
+| Players | 1/5 |
+| Host Name | Dome_Cheshire4Life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:45:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310832679167 |
-| Players | 2/10 |
-| Host Name | WhyAlwaysMe* |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:44:46 |
+| Lobby ID | 28595310833066288 |
+| Players | 1/10 |
+| Host Name | Minez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:45:23 |
 
 
