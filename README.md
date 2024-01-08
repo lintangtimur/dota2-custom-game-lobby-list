@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087714383645 |
-| Players | 2/15 |
-| Host Name | Puto el que lo lea |
+| Players | 1/15 |
+| Host Name | 23 CM |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:56:38 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087714097162 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | JonaX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:56:01 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:57:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087714746430 |
-| Players | 14/15 |
-| Host Name | DaurenKai |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:57:25 |
+| Lobby ID | 28601087714987611 |
+| Players | 1/10 |
+| Host Name | Pablo de los BackYordiganz 2.0 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:57:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087715060947 |
+| Players | 3/8 |
+| Host Name | Perrolol |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:58:05 |
 
 
 |  | epic_boss_fight_nightmare |
