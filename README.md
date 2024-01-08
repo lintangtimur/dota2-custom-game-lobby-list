@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310985862012 |
-| Players | 6/8 |
-| Host Name | bftv |
+| Lobby ID | 28595310987079241 |
+| Players | 7/8 |
+| Host Name | ЕБАЛО ОФНИ,ПЕНСИЯ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:48:39 |
+| Lobby Creation Time | Monday, January 8, 2024 19:49:46 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310986997981 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | BH ur mom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:49:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310985163739 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:48:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310987010294 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | d_damage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:49:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310987079241 |
-| Players | 6/8 |
-| Host Name | ЕБАЛО ОФНИ,ПЕНСИЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:49:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
