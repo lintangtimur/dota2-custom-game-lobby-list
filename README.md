@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311231303920 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | A. Einstein prime |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:23:06 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311232201760 |
-| Players | 10/15 |
-| Host Name | u think u caught me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:23:58 |
+| Lobby ID | 28595311232765738 |
+| Players | 8/15 |
+| Host Name | sapphiron |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:24:31 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311232270020 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Abozo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:24:02 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311230356119 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | J.N. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:22:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311231561104 |
-| Players | 7/8 |
-| Host Name | Последний самурай |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:23:21 |
+| Lobby ID | 28595311233283371 |
+| Players | 1/15 |
+| Host Name | HaileN- |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:25:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,84 +119,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:23:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311231229297 |
-| Players | 6/8 |
-| Host Name | Великий Австрийский Художник |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 23:23:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311232284813 |
-| Players | 1/8 |
-| Host Name | Being alive = pain |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:24:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311231926434 |
-| Players | 5/15 |
-| Host Name | Lucky Cat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:23:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311232173953 |
-| Players | 3/10 |
-| Host Name | https://www.twitch.tv/goodvil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:23:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311232195321 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | DAY |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:23:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311232871365 |
+| Players | 7/8 |
+| Host Name | Karlucha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:24:37 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311232477588 |
-| Players | 1/15 |
-| Host Name | HaileN- |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 23:24:14 |
+| Lobby ID | 28595311231926434 |
+| Players | 8/15 |
+| Host Name | Lucky Cat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:23:42 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311226229808 |
-| Players | 4/5 |
-| Host Name | x65nchanter |
+| Lobby ID | 28595311233273734 |
+| Players | 1/8 |
+| Host Name | байландо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:18:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311228275862 |
-| Players | 3/10 |
-| Host Name | hiasfabio |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 8, 2024 23:20:14 |
+| Lobby Creation Time | Monday, January 8, 2024 23:25:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311232308844 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | ✪ GrAD |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:24:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311228275862 |
+| Players | 2/10 |
+| Host Name | hiasfabio |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 8, 2024 23:20:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595311232679346 |
+| Players | 1/7 |
+| Host Name | toxic + critic |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:24:26 |
 
 
