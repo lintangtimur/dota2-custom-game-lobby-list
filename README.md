@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310828137420 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310832805581 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:58 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:46:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310834382305 |
-| Players | 6/8 |
-| Host Name | ТвердосплавЪ |
+| Lobby ID | 28595310834636994 |
+| Players | 4/15 |
+| Host Name | Dr. Johansson |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:47:25 |
+| Lobby Creation Time | Monday, January 8, 2024 16:47:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310834216192 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | новогодн1й п0к3м0н |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:47:10 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zxh |
 | Region | PWUNICOM |
 | Lobby Creation Time | Monday, January 8, 2024 16:47:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310834711776 |
+| Players | 4/8 |
+| Host Name | hoserd |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:47:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310834732895 |
+| Players | 1/24 |
+| Host Name | LinkB |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 16:47:57 |
 
 
 |  | epic_boss_fight_nightmare |
