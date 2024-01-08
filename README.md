@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310728386906 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | -qwerty |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 13:37:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310790084206 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ~КОРБЕН ДЕТКА~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:34:06 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310787849460 |
-| Players | 22/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:30:10 |
+| Lobby ID | 28595310789752472 |
+| Players | 4/24 |
+| Host Name | BoSS |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
 
 
 |  | ot3_desert_octet |
@@ -67,47 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310789255070 |
-| Players | 9/10 |
-| Host Name | キピッシュ.気色悪い |
+| Lobby ID | 28595310790134850 |
+| Players | 3/10 |
+| Host Name | pohui proebali |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:32:38 |
+| Lobby Creation Time | Monday, January 8, 2024 15:34:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310789963139 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310789739108 |
-| Players | 6/8 |
-| Host Name | Ryan Gosling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:33:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310789752472 |
-| Players | 4/24 |
-| Host Name | BoSS |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310790134850 |
-| Players | 2/10 |
-| Host Name | pohui proebali |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:34:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595310790560122 |
+| Players | 1/7 |
+| Host Name | 哑巴天才 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, January 8, 2024 15:34:56 |
 
 
