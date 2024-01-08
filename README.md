@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311449157857 |
-| Players | 14/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:16:36 |
+| Lobby ID | 28595311449491682 |
+| Players | 3/24 |
+| Host Name | S U M M E R ♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:17:01 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311449128850 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Fe"Nik"s |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:16:34 |
@@ -122,18 +122,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311449050962 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 2393 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:16:28 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311449430839 |
-| Players | 1/5 |
+| Lobby ID | 28595311445273531 |
+| Players | 6/8 |
+| Host Name | MoonDream |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:11:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311449575019 |
+| Players | 4/15 |
+| Host Name | 배 정지 제발 재생하지 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:17:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311449499190 |
+| Players | 1/10 |
+| Host Name | ADRENALINe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:17:01 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595311449621868 |
+| Players | 1/7 |
 | Host Name | DsjiNN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:16:56 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:17:10 |
 
 
