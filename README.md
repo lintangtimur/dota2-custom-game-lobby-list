@@ -11,76 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311490433252 |
-| Players | 4/10 |
-| Host Name | дядя попа |
+| Lobby ID | 28595311490598185 |
+| Players | 8/15 |
+| Host Name | IVAN top 10 по порядоч |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:01 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311490090638 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:09:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311490491805 |
-| Players | 1/24 |
-| Host Name | ♥Sєє Tιηн♥ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311489482953 |
-| Players | 7/15 |
-| Host Name | NEAR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:08:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311486201365 |
-| Players | 14/24 |
-| Host Name | Ruunzayndae |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311490500218 |
-| Players | 4/15 |
-| Host Name | СНЕЖОК |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311489342690 |
-| Players | 6/8 |
-| Host Name | krico |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:08:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311490268658 |
-| Players | 6/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:09:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +38,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:10:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311486889857 |
-| Players | 8/10 |
-| Host Name | Someone |
+| Lobby ID | 28595311489482953 |
+| Players | 9/15 |
+| Host Name | NEAR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:08:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311486201365 |
+| Players | 13/24 |
+| Host Name | Ruunzayndae |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311490268658 |
+| Players | 7/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:09:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311489342690 |
+| Players | 7/8 |
+| Host Name | krico |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:05:14 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:08:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311490601317 |
+| Players | 1/8 |
+| Host Name | †Lopestark† |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311490633486 |
+| Players | 1/10 |
+| Host Name | ❄Christmas❄ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311490648759 |
+| Players | 2/10 |
+| Host Name | Control |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311490625153 |
+| Players | 1/5 |
+| Host Name | inside |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:17 |
 
 
