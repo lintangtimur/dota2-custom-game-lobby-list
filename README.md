@@ -14,18 +14,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311286521664 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311290504285 |
-| Players | 2/24 |
-| Host Name | chidori |
-| Region | STOCKHOLM |
+| Lobby ID | 28595311290513730 |
+| Players | 1/10 |
+| Host Name | F-14 Tomcat |
+| Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:45 |
 
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311290152146 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Санечка снимаешь? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311288630805 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Pablo Brutalidad Valencia |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:19:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311284796492 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:16:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311285403904 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:16:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311290214619 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Lackey |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:27 |
@@ -101,42 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311289314317 |
-| Players | 7/8 |
-| Host Name | дафна |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:20:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311290457011 |
-| Players | 6/10 |
-| Host Name | Ps1x |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:21:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311290513730 |
-| Players | 1/10 |
-| Host Name | F-14 Tomcat |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:21:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311290531724 |
-| Players | 4/10 |
-| Host Name | wooo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:21:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311264431528 |
@@ -149,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595311289232182 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | Cupcakke_b1tch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:20:27 |
@@ -158,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311289634496 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | B1412 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:20:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311290502294 |
-| Players | 1/10 |
-| Host Name | PA3BPATHA9 6A6YJI9 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:21:45 |
 
 
