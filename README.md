@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087711870672 |
-| Players | 6/8 |
-| Host Name | Izi papá |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:51:30 |
+| Lobby ID | 28595311584788448 |
+| Players | 8/10 |
+| Host Name | PirateStation |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:45:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087711762457 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Министр Хапок |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:51:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087711993942 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Alize |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:51:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087710812917 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | // |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:50:27 |
@@ -104,10 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087710823626 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:50:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087712087674 |
+| Players | 4/8 |
+| Host Name | Borealis |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:51:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087712127442 |
+| Players | 2/10 |
+| Host Name | Garrimajo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:51:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311585483982 |
+| Players | 14/15 |
+| Host Name | Hawk |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:47:19 |
 
 
 |  | epic_boss_fight_nightmare |
