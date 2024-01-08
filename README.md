@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310952388756 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Сасай Кудасай |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310854955684 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Deid |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310956044845 |
-| Players | 2/8 |
-| Host Name | Hazb1n |
+| Players | 1/8 |
+| Host Name | 11minus |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:20:20 |
 
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:19:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310955023265 |
-| Players | 13/15 |
-| Host Name | шерлок холби |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:19:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310956230377 |
-| Players | 2/24 |
-| Host Name | Egoist |
+| Players | 3/24 |
+| Host Name | potatoboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:20:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310956350870 |
+| Players | 3/15 |
+| Host Name | booby boob |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:20:39 |
 
 
 |  | epic_boss_fight_normal |
