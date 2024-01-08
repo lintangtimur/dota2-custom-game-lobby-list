@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310952388756 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Сасай Кудасай |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310961497361 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | данек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310961417382 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | UriFury |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:33 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310961297495 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310961567946 |
+| Players | 2/8 |
+| Host Name | Trrrorize(sup only) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:25:42 |
 
 
 |  | epic_boss_fight_hard |
