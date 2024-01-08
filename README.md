@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310886835109 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:02:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874181493 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310887125890 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ¡Ãct1votorre? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:02:22 |
