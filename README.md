@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311151447133 |
-| Players | 13/15 |
-| Host Name | Renji(пудж) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:11:52 |
+| Lobby ID | 28595311152919165 |
+| Players | 2/15 |
+| Host Name | Dr. Brandy |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:13:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311150988887 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | lepeva07 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311151800222 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | little helper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:12:10 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311150436041 |
-| Players | 3/10 |
-| Host Name | СИСЬКА ПИСЬКА КИС |
+| Players | 2/10 |
+| Host Name | Glossaryck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:10:56 |
 
@@ -130,26 +130,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311152353717 |
-| Players | 2/8 |
-| Host Name | CELESTIAL BEING |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:12:39 |
+| Lobby ID | 28595311152787451 |
+| Players | 1/8 |
+| Host Name | dubov prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:13:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311149493315 |
-| Players | 6/8 |
-| Host Name | 2T |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:10:07 |
+| Lobby ID | 28595311095506349 |
+| Players | 21/24 |
+| Host Name | Indio Boca Mole |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311149278816 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | crocodile |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:09:55 |
