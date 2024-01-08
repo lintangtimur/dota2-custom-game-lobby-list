@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310896092979 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Kenot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:13:55 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310898562982 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Gooddi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:16:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310897755400 |
-| Players | 7/8 |
-| Host Name | WildBerries |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:15:57 |
+| Lobby ID | 28595310898719348 |
+| Players | 3/15 |
+| Host Name | Сладкий бубалех |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:17:07 |
 
 
 |  | ot3_gardens_duo |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nightlight |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:16:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310898558513 |
-| Players | 10/15 |
-| Host Name | нежныерукидеда |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:16:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310898697012 |
-| Players | 4/10 |
-| Host Name | Leave me alone, I wanna go home |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:17:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310898719348 |
-| Players | 1/15 |
-| Host Name | Сладкий бубалех |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:17:07 |
 
 
 |  | epic_boss_fight_nightmare |
