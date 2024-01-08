@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311280226222 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | PAPI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:11:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311283449505 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | TU OGETE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:14:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311282830852 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | МАТЬЕБАЛОВА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:13:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311284796492 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:16:00 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311286365512 |
 | Players | 12/15 |
-| Host Name | Maleort |
+| Host Name | Me Am Monkey |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:34 |
 
@@ -113,28 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311286788808 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | HUMBLE. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:18:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311286812601 |
-| Players | 1/10 |
-| Host Name | Doktor dota |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311286837117 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | boots of travel to your mom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:18:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311286967005 |
+| Players | 5/8 |
+| Host Name | ПИЗДАБОЛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311287006249 |
+| Players | 2/10 |
+| Host Name | 17'5 4 7Я4P |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311285926639 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | A- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:08 |
