@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310895265396 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | БИБАСЯН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310895276963 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Annette |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:55 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | гроза тугосерь |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:13:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310895531239 |
-| Players | 1/15 |
-| Host Name | Anita Maxx Wynn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:13:14 |
 
 
 |  | epic_boss_fight_normal |
