@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311472509841 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Parsibal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:46:06 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:46:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311473475819 |
-| Players | 13/15 |
-| Host Name | ПолковникАбалдуй |
+| Lobby ID | 28595311473767593 |
+| Players | 6/8 |
+| Host Name | lets_fight |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:47:22 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:47:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311470342678 |
-| Players | 13/15 |
-| Host Name | 13 Years Old |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:43:14 |
+| Lobby ID | 28595311473843876 |
+| Players | 3/15 |
+| Host Name | Chico Holiudi |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:47:51 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy MilfFinger |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:45:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311473830276 |
+| Players | 2/24 |
+| Host Name | все в прошлом |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:47:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311473905720 |
+| Players | 2/10 |
+| Host Name | ЇBASH |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:47:55 |
 
 
 |  | epic_boss_fight_normal |
