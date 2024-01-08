@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311098523391 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311097518151 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Astral Ado E678 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:08 |
