@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562220291 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | В ДУШЕ ВЛАСТЕЛИН! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562351334 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311562848300 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 4eJloBek K.O.M.B.E.K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311562872319 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Thawne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:08 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311562987397 |
-| Players | 3/8 |
-| Host Name | neverwakeupagain |
+| Lobby ID | 28595311563040349 |
+| Players | 2/8 |
+| Host Name | LearDH |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:04:20 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311563064653 |
+| Players | 2/10 |
+| Host Name | KR4$AB3Ц |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311563090130 |
+| Players | 1/10 |
+| Host Name | PERICOTE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:31 |
 
 
 |  | epic_boss_fight_nightmare |
