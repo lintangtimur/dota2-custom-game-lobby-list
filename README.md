@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311353825628 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Килька |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311353523958 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:03 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311350435581 |
-| Players | 23/24 |
-| Host Name | Ace of Spades |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:23:47 |
+| Lobby ID | 28595311353772463 |
+| Players | 2/8 |
+| Host Name | .Sperma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:27:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311352726544 |
-| Players | 4/8 |
-| Host Name | YO PINGA LOCA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:26:13 |
+| Lobby ID | 28595311354020016 |
+| Players | 3/8 |
+| Host Name | hitela |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:27:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311353534588 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ПиВ-БуХ-АлКо |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:04 |
@@ -114,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311353423182 |
 | Players | 2/15 |
-| Host Name | Uwu's |
+| Host Name | Alto Cheems |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:26:57 |
 
@@ -137,19 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311353772463 |
-| Players | 2/8 |
-| Host Name | .Sperma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:27:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311353200852 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | B Experience |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:26:43 |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:53:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311353851068 |
-| Players | 1/5 |
-| Host Name | HAK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:27:24 |
 
 
