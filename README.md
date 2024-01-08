@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311449491682 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | WeedFather |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:17:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311453490304 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:21:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311453574489 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:22:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311454171954 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | vladkyd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:22:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311450001763 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ∅454M1∅ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:17:38 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311454410247 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Vale |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:23:06 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311454394347 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Fantasma_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:23:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311454453356 |
-| Players | 1/8 |
-| Host Name | Mooncake |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:23:09 |
+| Lobby ID | 28595311454497930 |
+| Players | 10/15 |
+| Host Name | *[U]riEL* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:23:12 |
 
 
 |  | epic_boss_fight_nightmare |
