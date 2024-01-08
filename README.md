@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848522315 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | PMA |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310860304172 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | МаГиЧеСкОе НеВеЖеСтВо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:25:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310860211846 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | IvanZolo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:25:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310860315030 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | geroiN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:25:54 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hony |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:25:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310859118626 |
-| Players | 8/10 |
-| Host Name | Jack The Ripper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:24:10 |
 
 
 |  | epic_boss_fight_nightmare |
