@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310782862431 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Janna Nick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:21:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310787014630 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Утка |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:28:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310787963199 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | kotegop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310788076759 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Cpt Karl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310786527838 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:27:50 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:30:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310788538873 |
+| Players | 1/10 |
+| Host Name | сплин |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:31:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310784881630 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Toji Fushiguro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:24:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310788522568 |
+| Players | 1/5 |
+| Host Name | Коля Геморой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:31:21 |
 
 
