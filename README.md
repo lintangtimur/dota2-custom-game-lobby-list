@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:34:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311507513519 |
-| Players | 1/8 |
-| Host Name | sicoo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:34:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311506954335 |
-| Players | 6/8 |
-| Host Name | МояМамаТвояБабуш |
+| Lobby ID | 28595311508171189 |
+| Players | 9/10 |
+| Host Name | Sloooooooow. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:33:23 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:35:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311508709338 |
+| Players | 2/10 |
+| Host Name | iloaw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:35:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311507141403 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:33:39 |
@@ -83,28 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:30:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311508171189 |
-| Players | 8/10 |
-| Host Name | Sloooooooow. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:35:10 |
+| Lobby ID | 28595311508689895 |
+| Players | 4/8 |
+| Host Name | the way ephey says yatoro>>>>> |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:35:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311504908792 |
-| Players | 9/10 |
-| Host Name | ArtOfJukes |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:30:22 |
+| Lobby ID | 28595311508784830 |
+| Players | 5/8 |
+| Host Name | Dr. Livesey |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:36:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311506935655 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Bottom.Dust jo it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:33:21 |
