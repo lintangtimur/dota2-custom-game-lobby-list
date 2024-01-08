@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:52:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310801046859 |
+| Players | 1/15 |
+| Host Name | я шишка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:53:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310797235687 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Dome_Cheshire4Life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:46:38 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310798556503 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:55 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hasbulla.hushetskiy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:52:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310800772229 |
-| Players | 3/5 |
-| Host Name | kubik |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:52:43 |
 
 
