@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311408147534 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Peruano Universal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:27:52 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311403749898 |
+| Lobby ID | 28595311414327576 |
 | Players | 1/8 |
-| Host Name | Ember |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:22:46 |
+| Host Name | it |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:35:08 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311413949734 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | PelvisDestroyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:41 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311413086329 |
-| Players | 7/15 |
-| Host Name | ДАЗЕЛ |
+| Players | 3/15 |
+| Host Name | Prometey_X |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:33:40 |
 
@@ -131,17 +131,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311414073029 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | я гниль |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311414360409 |
+| Players | 2/8 |
+| Host Name | Киберспорт |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:35:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311400429394 |
-| Players | 3/10 |
-| Host Name | hiasfabio |
+| Players | 2/10 |
+| Host Name | AsNiTe |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:18:54 |
 
