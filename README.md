@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310916169627 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 18:37:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310914376206 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | torcheck(ee bb) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310914878929 |
-| Players | 7/10 |
-| Host Name | Быбло |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:36:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310915612133 |
-| Players | 5/8 |
-| Host Name | derevonovogodnee |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:37:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310916793499 |
-| Players | 3/8 |
-| Host Name | 000 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 18:38:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
+| Lobby ID | 28595310915612133 |
+| Players | 5/8 |
+| Host Name | derevonovogodnee |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:37:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
 | Lobby ID | 28595310916804506 |
 | Players | 1/8 |
 | Host Name | f1ashmix |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:38:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310916951188 |
+| Players | 2/10 |
+| Host Name | Neoxa محمد سومبول |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 18:38:39 |
 
 
 |  | epic_boss_fight_normal |
