@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311485215712 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | la bika me hizo mejor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:02:58 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311492287288 |
-| Players | 1/24 |
-| Host Name | Alimpije Miric |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:12:35 |
+| Lobby ID | 28595311492453997 |
+| Players | 2/15 |
+| Host Name | oO.DecanO 99.9% |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:12:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311491899860 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Tommy MilfFinger |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311492102001 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Steppenwolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:20 |
@@ -110,31 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311492079898 |
-| Players | 6/10 |
-| Host Name | раздевайся |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:12:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311492107721 |
-| Players | 14/15 |
-| Host Name | 伝説 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:12:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311492453997 |
-| Players | 1/15 |
-| Host Name | oO.DecanO 99.9% |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:12:50 |
+| Lobby ID | 28595311492576841 |
+| Players | 1/24 |
+| Host Name | Dayman, Fighter of the Nightman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:13:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ebashu#babushki.net |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:11:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311492545018 |
+| Players | 1/5 |
+| Host Name | Hawk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:12:57 |
 
 
