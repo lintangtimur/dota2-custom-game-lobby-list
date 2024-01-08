@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310951938995 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Who |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310952480637 |
-| Players | 4/8 |
-| Host Name | Mozaika |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:16:49 |
+| Lobby ID | 28595310952589797 |
+| Players | 9/15 |
+| Host Name | SAY NO MORE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:16:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310951367328 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:15:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -67,29 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310952589797 |
-| Players | 8/15 |
-| Host Name | SAY NO MORE |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:16:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310952785308 |
-| Players | 3/8 |
-| Host Name | Mr.Lemon |
+| Lobby ID | 28595310953020463 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:17:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310952810495 |
-| Players | 1/8 |
-| Host Name | стрей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:17:08 |
+| Lobby Creation Time | Monday, January 8, 2024 19:17:21 |
 
 
 |  | epic_boss_fight_normal |
