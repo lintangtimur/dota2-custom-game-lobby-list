@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310818435337 |
-| Players | 6/10 |
-| Host Name | Doyki.Xddcc.fullpohuy |
+| Lobby ID | 28595310819063224 |
+| Players | 6/15 |
+| Host Name | Blackbird |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:21:46 |
+| Lobby Creation Time | Monday, January 8, 2024 16:22:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310817163854 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:19:44 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310818832892 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | QBash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:22:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310819063224 |
-| Players | 5/15 |
-| Host Name | Blackbird |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:22:45 |
 
 
 |  | epic_boss_fight_hard |
