@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311431265247 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:54 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311431162347 |
-| Players | 23/24 |
-| Host Name | MoonDio |
+| Lobby ID | 28595311430899874 |
+| Players | 12/15 |
+| Host Name | Mr_Mox |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:54:47 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:54:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311434531877 |
-| Players | 13/15 |
-| Host Name | Nevalyashka |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:58:49 |
+| Lobby ID | 28595311435095177 |
+| Players | 1/15 |
+| Host Name | B E B Z E B K |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311432192449 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:01 |
@@ -146,30 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311430899874 |
-| Players | 11/15 |
-| Host Name | Mr_Mox |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:54:29 |
+| Lobby ID | 28595311435151313 |
+| Players | 4/8 |
+| Host Name | Пиво реарм пиво |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:59:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311433765459 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Зловещая Eбулka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:57:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311434626160 |
-| Players | 1/10 |
-| Host Name | Wew |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:58:56 |
 
 
