@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311126283272 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | طالبان member |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:46 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311126086245 |
-| Players | 7/10 |
-| Host Name | Мұз Cube |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:49:35 |
+| Lobby ID | 28595311126883177 |
+| Players | 3/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:50:17 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311124046725 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:47:50 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311126512317 |
-| Players | 13/15 |
-| Host Name | DJ_Ебан |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:49:58 |
+| Lobby ID | 28595311111532619 |
+| Players | 14/15 |
+| Host Name | Mr Perturbado |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 21:37:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sobra na yan insan! |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 21:50:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311111532619 |
-| Players | 14/15 |
-| Host Name | Mr Perturbado |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 21:37:02 |
 
 
 |  | epic_boss_fight_nightmare |
