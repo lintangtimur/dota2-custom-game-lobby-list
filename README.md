@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562220291 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | В ДУШЕ ВЛАСТЕЛИН! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562351334 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562339232 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Kbeza |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311562848300 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 4eJloBek K.O.M.B.E.K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311562872319 |
-| Players | 5/10 |
-| Host Name | Akagami No Shanks |
+| Players | 7/10 |
+| Host Name | Thawne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311562987397 |
+| Players | 3/8 |
+| Host Name | neverwakeupagain |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311562933084 |
+| Players | 1/5 |
+| Host Name | Smart Challenged |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:14 |
 
 
