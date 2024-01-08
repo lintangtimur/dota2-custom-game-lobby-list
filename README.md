@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310874730648 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874227774 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ✪ Spray 'n' Pray ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:10 |
