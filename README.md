@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311477150444 |
-| Players | 3/8 |
-| Host Name | РОТ ПОЛОН СОЛИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:52:14 |
+| Lobby ID | 28595311477361925 |
+| Players | 4/8 |
+| Host Name | SOUL々KILĒR✓ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311475921095 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Horny Toss |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311477054329 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | QTab |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311476994188 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | James |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311477279978 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | elimS |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311476949378 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Mionei |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:51:58 |
@@ -122,16 +122,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311477301701 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | l0cuqp10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311477317931 |
+| Players | 1/8 |
+| Host Name | BABYBARA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311477387526 |
+| Players | 1/15 |
+| Host Name | Et3rnauta |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311477444246 |
+| Players | 3/8 |
+| Host Name | zxc маеров юра |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311477432777 |
+| Players | 5/8 |
+| Host Name | Mooncake |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311475819044 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Aonka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:28 |
