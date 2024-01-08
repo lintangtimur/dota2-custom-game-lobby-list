@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311501791450 |
-| Players | 11/15 |
-| Host Name | idell |
+| Lobby ID | 28595311502418377 |
+| Players | 1/8 |
+| Host Name | renoroko |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:25:58 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:26:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311500649768 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | sideral_frio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:24:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311498658317 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:21:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311502085581 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Аналитик Титек |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:26:23 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:26:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311502276788 |
-| Players | 1/8 |
-| Host Name | каземир няманяма |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:26:39 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311500270118 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311498802245 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DYPLO |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:21:46 |
