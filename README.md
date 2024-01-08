@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310790084206 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ~КОРБЕН ДЕТКА~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:34:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | BoSS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310789963139 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:53 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595310790560122 |
-| Players | 1/7 |
-| Host Name | 哑巴天才 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, January 8, 2024 15:34:56 |
 
 
