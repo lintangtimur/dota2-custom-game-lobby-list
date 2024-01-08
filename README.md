@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310923729034 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | This is pezdec naxui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:46:29 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310924446563 |
-| Players | 9/10 |
-| Host Name | J7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:47:19 |
+| Lobby ID | 28595310925155641 |
+| Players | 2/10 |
+| Host Name | C-KAN |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 18:48:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310923389456 |
-| Players | 14/15 |
-| Host Name | не умею играть |
+| Lobby ID | 28595310925243821 |
+| Players | 4/15 |
+| Host Name | Fatal Error |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:46:06 |
+| Lobby Creation Time | Monday, January 8, 2024 18:48:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310925297136 |
+| Players | 1/8 |
+| Host Name | xxx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:48:17 |
 
 
 |  | epic_boss_fight_nightmare |
