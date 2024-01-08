@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310915657988 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Ruslan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:37:09 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310914376206 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | torcheck(ee bb) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310915706670 |
-| Players | 13/15 |
-| Host Name | Syηoρsys 🐍 |
+| Lobby ID | 28595310916184344 |
+| Players | 7/8 |
+| Host Name | GENEK |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:37:13 |
+| Lobby Creation Time | Monday, January 8, 2024 18:37:46 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310915627511 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Glossaryck |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:37:07 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310916169627 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 18:37:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310916257787 |
+| Players | 1/24 |
+| Host Name | Kenot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:37:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310914004495 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:14 |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мейклав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310916190050 |
+| Players | 1/5 |
+| Host Name | mr.guid2517 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:37:46 |
 
 
