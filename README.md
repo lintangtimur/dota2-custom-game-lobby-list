@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311261974798 |
-| Players | 6/8 |
-| Host Name | Jigsaw |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 23:53:14 |
+| Lobby ID | 28595311264215963 |
+| Players | 4/8 |
+| Host Name | дзиґар Neoxa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:55:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311263041272 |
-| Players | 7/15 |
-| Host Name | vier |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:54:19 |
+| Lobby ID | 28595311264179641 |
+| Players | 6/15 |
+| Host Name | bop balls |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:55:26 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311263870639 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | le coque |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:08 |
@@ -140,19 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311261324360 |
-| Players | 8/10 |
-| Host Name | PUSSY DESTROYER |
+| Players | 7/10 |
+| Host Name | Chang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:52:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311262000948 |
-| Players | 9/10 |
-| Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:53:16 |
 
 
 |  | ot3_gardens_duo |
@@ -216,5 +207,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мейклав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595311264249733 |
+| Players | 1/7 |
+| Host Name | toxic + critic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:55:30 |
 
 
