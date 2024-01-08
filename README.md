@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311429241615 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Monsieur Lapin |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:52:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311430038380 |
-| Players | 3/8 |
-| Host Name | GaBone |
+| Lobby ID | 28595311430188307 |
+| Players | 6/10 |
+| Host Name | Суперпихарь 64 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:53:27 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:53:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311430227856 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | NAVI ☼ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:53:41 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311429831434 |
+| Lobby ID | 28595311427374196 |
 | Players | 9/10 |
-| Host Name | 2393 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:53:13 |
+| Host Name | Граф Трахула |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:50:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311429183419 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | MaLast |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:52:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311430022049 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kocharga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:53:26 |
@@ -95,45 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311430041651 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | 1 dmg |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:53:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311430035189 |
-| Players | 12/15 |
-| Host Name | Левин? нет Правин |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:53:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311430188307 |
-| Players | 2/10 |
-| Host Name | Суперпихарь 64 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:53:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311428230045 |
-| Players | 14/15 |
-| Host Name | LoveLera |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:51:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311427374196 |
-| Players | 9/10 |
-| Host Name | Граф Трахула |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:50:20 |
 
 
