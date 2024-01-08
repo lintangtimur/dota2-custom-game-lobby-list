@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310841546316 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ПальцыЛюбви |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:58:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310840385561 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Пузоотвод |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:56:25 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | чемпик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:56:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310841380955 |
-| Players | 9/10 |
-| Host Name | Яндекс.Такси |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:57:56 |
 
 
 |  | ot3_gardens_duo |
