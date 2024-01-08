@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562220291 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | В ДУШЕ ВЛАСТЕЛИН! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562351334 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:12 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311562769244 |
-| Players | 1/8 |
-| Host Name | mistakes sequence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:03:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311562627045 |
-| Players | 1/8 |
-| Host Name | Gandalfs |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:03:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311562339232 |
@@ -83,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:03:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311562627045 |
+| Players | 2/8 |
+| Host Name | Gandalfs |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:03:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311562848300 |
+| Players | 2/8 |
+| Host Name | 4eJloBek K.O.M.B.E.K |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311562525051 |
-| Players | 8/10 |
-| Host Name | Hisoka |
+| Lobby ID | 28595311562872319 |
+| Players | 5/10 |
+| Host Name | Akagami No Shanks |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:03:30 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:04:08 |
 
 
 |  | epic_boss_fight_nightmare |
