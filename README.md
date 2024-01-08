@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310789752472 |
-| Players | 4/24 |
-| Host Name | FOCUS ME |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
+| Lobby ID | 28595310798267117 |
+| Players | 1/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 15:48:25 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310797830884 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | BRUHDUKE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:47:41 |
@@ -113,25 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310798254165 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Золотой цыган |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310798267117 |
-| Players | 1/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 15:48:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310797235687 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:46:38 |
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595310798357643 |
-| Players | 1/7 |
-| Host Name | Dome_Cheshire4Life |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:48:34 |
 
 
