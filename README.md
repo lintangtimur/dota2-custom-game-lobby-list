@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310964074116 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | я...ТАЛАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:28:08 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310965927163 |
-| Players | 9/10 |
-| Host Name | Sombra |
+| Lobby ID | 28595310966862973 |
+| Players | 4/8 |
+| Host Name | かcса#2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:29:55 |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310966054483 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Вася профетроль123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:30:02 |
@@ -128,21 +128,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:30:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310966862973 |
-| Players | 2/8 |
-| Host Name | かcса#2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:30:49 |
+| Lobby ID | 28595310966965943 |
+| Players | 7/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310966539904 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:30:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310966961053 |
+| Players | 2/5 |
+| Host Name | батько бандера |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310967101889 |
+| Players | 1/5 |
+| Host Name | Boss.D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:31:03 |
 
 
