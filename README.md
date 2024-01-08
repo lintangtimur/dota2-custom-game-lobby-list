@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311539884147 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Polyhedron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:24:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311539203992 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | asd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:23:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311536254977 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:20 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:23:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311539784869 |
-| Players | 8/10 |
-| Host Name | MaKa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:24:02 |
+| Lobby ID | 28595311540267539 |
+| Players | 3/8 |
+| Host Name | MADARA |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:24:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311539378969 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:23:23 |
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:24:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311540267539 |
-| Players | 1/8 |
-| Host Name | MADARA |
+| Lobby ID | 28595311540410954 |
+| Players | 1/15 |
+| Host Name | Jhon AP |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:24:50 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:25:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311539975404 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:24:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311540386104 |
+| Players | 1/10 |
+| Host Name | ihhh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:25:02 |
 
 
