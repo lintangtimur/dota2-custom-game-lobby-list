@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311576845217 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Smc_MotU. |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:30:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311576922548 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | -HerrSchatten-Steve |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:30:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311575105027 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | EL SHOW DEL MONO PEGALON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:26:47 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:30:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311577105290 |
-| Players | 2/15 |
-| Host Name | love is a murderer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:30:36 |
+| Lobby ID | 28595311577154057 |
+| Players | 6/10 |
+| Host Name | Akagami No Shanks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:30:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreenApple |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:27:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311577103190 |
-| Players | 1/5 |
-| Host Name | Sonia Nevermind |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:30:36 |
 
 
