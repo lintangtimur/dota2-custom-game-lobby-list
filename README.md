@@ -20,60 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:32:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311544775596 |
-| Players | 14/15 |
-| Host Name | märt ringmuskel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:32:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311544820016 |
-| Players | 9/10 |
-| Host Name | "Siempre Parador" |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:32:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311544634795 |
-| Players | 2/8 |
-| Host Name | ¥ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:32:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311486201365 |
-| Players | 2/24 |
-| Host Name | iDiOTA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311544360247 |
-| Players | 7/10 |
-| Host Name | Самый слабый троль в мире |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311544951269 |
-| Players | 5/24 |
-| Host Name | MONO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:32:38 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311544956688 |
@@ -83,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:32:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311545037971 |
-| Players | 3/15 |
-| Host Name | Swanky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:32:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311545037299 |
@@ -99,6 +36,69 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:32:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311545037971 |
+| Players | 6/15 |
+| Host Name | Swanky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:32:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311486201365 |
+| Players | 1/24 |
+| Host Name | iDiOTA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311545140015 |
+| Players | 2/10 |
+| Host Name | mentally negative |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:32:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311544951269 |
+| Players | 9/24 |
+| Host Name | MONO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:32:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311545131348 |
+| Players | 2/8 |
+| Host Name | Coffee |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:32:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311545199347 |
+| Players | 1/15 |
+| Host Name | Joel |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:33:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311545210351 |
+| Players | 1/8 |
+| Host Name | SmokeChan |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:33:05 |
 
 
 |  | epic_boss_fight_normal |
