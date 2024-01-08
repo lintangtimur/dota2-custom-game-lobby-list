@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310895149160 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 10К main |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310894995555 |
-| Players | 14/15 |
-| Host Name | ancienthelheima |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:12:33 |
+| Lobby ID | 28595310895442931 |
+| Players | 4/8 |
+| Host Name | гроза тугосерь |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:13:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310895265396 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | БИБАСЯН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310895276963 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Annette |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310895266496 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | destruction |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:54 |
@@ -101,19 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:13:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310895783536 |
+| Players | 1/24 |
+| Host Name | Yupzor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:13:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310895442931 |
+| Lobby ID | 28595310895814258 |
 | Players | 4/8 |
-| Host Name | гроза тугосерь |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:13:08 |
+| Host Name | キピッシュ.気色悪い |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:13:35 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310892289073 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | благуша |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:09:06 |
