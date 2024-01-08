@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310928380282 |
-| Players | 6/8 |
-| Host Name | ПЛАТОША |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:51:45 |
+| Lobby ID | 28595310928847386 |
+| Players | 2/10 |
+| Host Name | b00bl1k |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 18:52:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848522315 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PMA |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310928279114 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | победилдо |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:51:38 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310928624608 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Я КYРЮ ЛECНYЮ ДYРb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:52:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310928815042 |
+| Players | 2/10 |
+| Host Name | yc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:52:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cheezy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:48:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310928912591 |
+| Players | 1/5 |
+| Host Name | ReCors |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:52:20 |
 
 
