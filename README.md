@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:01:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310886138779 |
-| Players | 7/8 |
-| Host Name | i won't last here |
+| Lobby ID | 28595310887395516 |
+| Players | 1/10 |
+| Host Name | trash teammate |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:01:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310887244033 |
-| Players | 2/8 |
-| Host Name | sxoqxm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:02:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310887213811 |
-| Players | 6/15 |
-| Host Name | MIGHTY_ZAPAD_KGZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:02:29 |
+| Lobby Creation Time | Monday, January 8, 2024 18:02:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:02:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310887395516 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:02:44 |
+| Lobby ID | 28595310887213811 |
+| Players | 7/15 |
+| Host Name | MIGHTY_ZAPAD_KGZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:02:29 |
 
 
 |  | epic_boss_fight_normal |
