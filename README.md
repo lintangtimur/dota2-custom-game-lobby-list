@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311492017822 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | DEATH_KNIGHT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311492662921 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | _Arumka_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:13:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311492453997 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | oO.DecanO 99.9% |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:50 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311492643271 |
-| Players | 5/8 |
-| Host Name | elimS |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:13:05 |
+| Lobby ID | 28595311492738384 |
+| Players | 4/15 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:13:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311492026115 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Taimen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:12:13 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311492604767 |
-| Players | 5/10 |
-| Host Name | ОЛЕГ |
+| Lobby ID | 28595311492838428 |
+| Players | 2/10 |
+| Host Name | 𝖟𝖝𝖈𝖑𝖔𝖜𝖓 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:13:02 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:13:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311488045153 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mishelkot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:46 |
