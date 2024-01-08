@@ -4,29 +4,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310953994061 |
-| Players | 7/8 |
-| Host Name | Дабула чада |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:18:19 |
+| Lobby ID | 28595310954301529 |
+| Players | 1/8 |
+| Host Name | xXx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:18:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310953020463 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:17:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310951367328 |
-| Players | 23/24 |
-| Host Name | Teudoongie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:15:42 |
+| Lobby ID | 28595310954864348 |
+| Players | 1/8 |
+| Host Name | Jack |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:19:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:16:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310953699706 |
-| Players | 7/10 |
-| Host Name | Insomniac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:18:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310954301529 |
-| Players | 1/8 |
-| Host Name | xXx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:18:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310954740528 |
-| Players | 1/10 |
-| Host Name | ПЛАТОША |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:19:03 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310951837916 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:10 |
@@ -104,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310951893765 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:13 |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310952187949 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | невермор |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:31 |
