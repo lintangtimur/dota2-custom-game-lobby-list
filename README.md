@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310786646050 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 1945 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:28:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310785107515 |
-| Players | 12/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 15:25:20 |
+| Lobby ID | 28595310787014630 |
+| Players | 3/24 |
+| Host Name | Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:28:42 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:27:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310787014630 |
-| Players | 3/24 |
-| Host Name | Yeager |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:28:42 |
 
 
 |  | epic_boss_fight_nightmare |
