@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311058285817 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | .👑D⚜️K👑. |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 20:52:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311077966131 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | VitaminLLO Biznes |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311077141069 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:03 |
@@ -68,28 +68,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311078085741 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Bibikrem PudgeLord |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311078611897 |
-| Players | 3/15 |
-| Host Name | МАКТРАХЕР |
+| Lobby ID | 28595311077476408 |
+| Players | 8/10 |
+| Host Name | twitch.tv/kot4033 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:09:16 |
+| Lobby Creation Time | Monday, January 8, 2024 21:08:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311074028103 |
-| Players | 14/15 |
-| Host Name | чезахуйняхочувзятьврукиоружие |
+| Lobby ID | 28595311078662469 |
+| Players | 3/15 |
+| Host Name | jamil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:05:27 |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311078823218 |
+| Players | 3/8 |
+| Host Name | practice |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311078875072 |
+| Players | 1/8 |
+| Host Name | clown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311078841578 |
+| Players | 1/10 |
+| Host Name | Атаквейшен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:28 |
 
 
 |  | epic_boss_fight_nightmare |
