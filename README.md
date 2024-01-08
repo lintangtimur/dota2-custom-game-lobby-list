@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311071211799 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | diabeetus |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311058285817 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | .👑D⚜️K👑. |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 20:52:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311071171533 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311071426820 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:03:19 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311071829730 |
+| Players | 4/8 |
+| Host Name | WOORPOOCH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:37 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311067919621 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311070075896 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Caesar_091 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:02:09 |
