@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311023756576 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Gerzson12 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:22:32 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311023635873 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Dazzle |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 20:22:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311024984989 |
-| Players | 3/24 |
-| Host Name | 皮卡丘级别 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 8, 2024 20:23:35 |
+| Lobby ID | 28595311025274041 |
+| Players | 6/8 |
+| Host Name | master оogway |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:23:50 |
 
 
 |  | ot3_gardens_duo |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:15:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311022668711 |
-| Players | 22/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:21:37 |
+| Lobby ID | 28595311025413644 |
+| Players | 1/8 |
+| Host Name | Анальный Маэстро |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:23:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311025053711 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | абсолют |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:23:39 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311025196456 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | 7uP |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:23:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311025299010 |
+| Players | 4/8 |
+| Host Name | Para kang halaman |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 20:23:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311025473684 |
+| Players | 1/8 |
+| Host Name | 64594156 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, January 8, 2024 20:24:00 |
 
 
 |  | epic_boss_fight_nightmare |
