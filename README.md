@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310798106186 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310794734866 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Cucumba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:42:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310799671825 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | сеньор камушки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:50:50 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:47:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310799834363 |
+| Players | 1/8 |
+| Host Name | 愛 PaH†uOH 恨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:51:07 |
 
 
 |  | epic_boss_fight_nightmare |
