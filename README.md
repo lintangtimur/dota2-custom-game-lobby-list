@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310839714796 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Platon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:24 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310840385561 |
-| Players | 6/8 |
-| Host Name | Her |
+| Players | 4/8 |
+| Host Name | Пузоотвод |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:56:25 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310840056516 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Despian Luluwalilith |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310840084171 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | ♥So.Incredible.pkg♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310840533856 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | FErman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:56:38 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:56:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310833329377 |
-| Players | 9/10 |
-| Host Name | 4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:45:48 |
+| Lobby ID | 28595310840756313 |
+| Players | 3/8 |
+| Host Name | Her |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:56:59 |
 
 
 |  | epic_boss_fight_nightmare |
