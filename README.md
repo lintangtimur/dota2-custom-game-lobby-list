@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311352715432 |
-| Players | 5/10 |
-| Host Name | ВАТНИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:26:12 |
+| Lobby ID | 28595311354454904 |
+| Players | 2/10 |
+| Host Name | 金雨 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:28:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311353653263 |
-| Players | 4/10 |
-| Host Name | Последний самурай |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:27:11 |
+| Lobby ID | 28595311354525053 |
+| Players | 6/10 |
+| Host Name | Ералаш |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:28:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311352866307 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | AHeahFullOfDreams- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:26:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311349003581 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sooyaa |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311354498667 |
+| Players | 3/15 |
+| Host Name | Mr.Won.GG |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:28:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311353200852 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | B Experience |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:26:43 |
