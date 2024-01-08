@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310800247547 |
-| Players | 8/10 |
-| Host Name | Shevrassa |
+| Lobby ID | 28595310802068035 |
+| Players | 4/8 |
+| Host Name | boz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:51:49 |
+| Lobby Creation Time | Monday, January 8, 2024 15:54:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310800621152 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:52:28 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310800717847 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | [HeyJoe] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:52:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310800681464 |
-| Players | 1/5 |
-| Host Name | hasbulla.hushetskiy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:52:34 |
 
 
 |  | epic_boss_fight_nightmare |
