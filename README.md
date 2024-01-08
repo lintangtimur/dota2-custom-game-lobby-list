@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311566146196 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Italiano Gangster |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:10:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311566794284 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Tae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:11:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311566529581 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:10:46 |
@@ -137,13 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:10:25 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311567083924 |
+| Players | 1/10 |
+| Host Name | Zugzwang |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:11:46 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311567047197 |
-| Players | 6/8 |
-| Host Name | [ŜŬРΣŘŜТДŘ] |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:11:42 |
+| Lobby ID | 28595311567176226 |
+| Players | 5/8 |
+| Host Name | проклятая |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:11:56 |
 
 
 |  | epic_boss_fight_nightmare |
