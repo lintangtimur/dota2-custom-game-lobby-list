@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311579836255 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Wanderlust |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:35:52 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311579802698 |
-| Players | 9/10 |
-| Host Name | Deiidream |
+| Lobby ID | 28595311580131360 |
+| Players | 6/10 |
+| Host Name | РУССКИЙ ОККУПАНТ |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:35:49 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:36:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311579805248 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:35:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311579279575 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:34:48 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Я керри, курва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:34:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311580055235 |
-| Players | 1/5 |
-| Host Name | ~;,,;~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:36:19 |
 
 
