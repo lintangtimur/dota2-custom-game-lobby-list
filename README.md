@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310920778259 |
-| Players | 6/8 |
-| Host Name | MATTHEW马修 |
+| Lobby ID | 28595310921474533 |
+| Players | 1/15 |
+| Host Name | Mr. penis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:05 |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310921913986 |
-| Players | 6/8 |
-| Host Name | K1!!c2!! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:44:25 |
+| Lobby ID | 28595310921082166 |
+| Players | 4/15 |
+| Host Name | Ben Simmons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310920511062 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | whatever |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310921911552 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ДЖОЙКАНИСТРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:44:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310921337752 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | tort1pur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:45 |
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310921082166 |
-| Players | 3/15 |
-| Host Name | Ben Simmons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310921474533 |
-| Players | 1/15 |
-| Host Name | Mr. penis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310918415331 |
-| Players | 9/10 |
-| Host Name | GreShnik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:40:20 |
 
 
 |  | epic_boss_fight_nightmare |
