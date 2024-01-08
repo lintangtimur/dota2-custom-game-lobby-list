@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:55:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311276682297 |
-| Players | 6/10 |
-| Host Name | Radical Highway |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:07:50 |
+| Lobby ID | 28595311271811831 |
+| Players | 7/8 |
+| Host Name | 4 burros y conmigo 5 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:03:00 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311277051324 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | wtf? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:08:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311270215038 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:01:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311276087627 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:07:14 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311276969274 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | SnuSnu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:08:08 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311276048878 |
-| Players | 5/10 |
-| Host Name | Девочка :> |
+| Players | 2/10 |
+| Host Name | TAWeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:07:11 |
 
@@ -131,28 +131,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311276810618 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | i've grown from a man to a god |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:07:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311271811831 |
-| Players | 7/8 |
-| Host Name | 4 burros y conmigo 5 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:03:00 |
+| Lobby ID | 28595311277344787 |
+| Players | 3/15 |
+| Host Name | hichin enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:08:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311277209866 |
-| Players | 5/8 |
-| Host Name | Ясо Су - 苏亚索 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:08:22 |
+| Lobby ID | 28595311277368301 |
+| Players | 2/15 |
+| Host Name | Polyhedron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:08:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311275308566 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ไม่เมี้ยว |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:06:27 |
@@ -189,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT THE FUCK IS THAT!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:08:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311270065141 |
+| Players | 10/10 |
+| Host Name | Kendrick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:01:16 |
 
 
