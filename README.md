@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311328438371 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Покемон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:00:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311325848569 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | SKY666 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:58:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311328695097 |
-| Players | 7/10 |
-| Host Name | twitch.tv/kot4033 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:59 |
+| Lobby ID | 28595311328701875 |
+| Players | 1/8 |
+| Host Name | Ya toy viejo! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:01:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311328452000 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | shmoney sound |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:00:44 |
@@ -119,31 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:00:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311327167388 |
-| Players | 7/8 |
-| Host Name | инкассатор |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:59:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311328601511 |
-| Players | 4/24 |
-| Host Name | KZ02 |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:54 |
+| Lobby ID | 28595311328842447 |
+| Players | 4/10 |
+| Host Name | Lorduka |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:01:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311328690609 |
-| Players | 1/8 |
-| Host Name | ebo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:59 |
+| Lobby ID | 28595311328911011 |
+| Players | 2/8 |
+| Host Name | humiliation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:01:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311328885631 |
+| Players | 1/10 |
+| Host Name | WoodyPlant |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:01:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -153,24 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | demiLEGENDA |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:00:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311328701875 |
-| Players | 1/8 |
-| Host Name | Ya toy viejo! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:01:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311328718638 |
-| Players | 4/8 |
-| Host Name | SICARIO DE DIOS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:01:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -191,13 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:53:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311325934441 |
-| Players | 9/10 |
-| Host Name | Your Idol (Nya) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:58:08 |
+| Lobby ID | 28595311328835724 |
+| Players | 1/5 |
+| Host Name | cshyst zqwf |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:01:08 |
 
 
 |  | epic_boss_fight_normal |
