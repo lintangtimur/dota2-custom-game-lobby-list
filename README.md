@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311539919618 |
+| Lobby ID | 28595311544036890 |
 | Players | 1/8 |
-| Host Name | [ŜŬРΣŘŜТДŘ] |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:24:16 |
+| Host Name | renoroko |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:31:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311543092969 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Tony Slark |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:29:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,37 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311543986345 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Gah |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:31:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311544097319 |
+| Players | 1/15 |
+| Host Name | wilg |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:31:13 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311541939413 |
-| Players | 8/10 |
-| Host Name | big boss |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:27:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311543973983 |
-| Players | 1/8 |
-| Host Name | Bobr_kyrva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311544036890 |
-| Players | 1/8 |
-| Host Name | renoroko |
+| Lobby ID | 28595311544147471 |
+| Players | 4/10 |
+| Host Name | peprike |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:07 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:31:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311544173056 |
+| Players | 5/8 |
+| Host Name | Happy Happy Happy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:31:20 |
 
 
 |  | epic_boss_fight_normal |
