@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310942772142 |
-| Players | 3/10 |
-| Host Name | ThOrflnn |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:06:55 |
+| Lobby ID | 28595310943631651 |
+| Players | 4/10 |
+| Host Name | kaito shoma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:07:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,45 +59,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310937536843 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:01:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310942826178 |
-| Players | 7/15 |
-| Host Name | PoluFabrikat |
+| Lobby ID | 28595310943735442 |
+| Players | 1/8 |
+| Host Name | reilereet |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:06:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310941229252 |
-| Players | 20/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:05:21 |
+| Lobby Creation Time | Monday, January 8, 2024 19:07:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310943096628 |
-| Players | 1/8 |
-| Host Name | Noobachyo |
+| Lobby ID | 28595310943802954 |
+| Players | 5/8 |
+| Host Name | Andryxa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:07:15 |
+| Lobby Creation Time | Monday, January 8, 2024 19:07:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310941854114 |
-| Players | 1/5 |
-| Host Name | だ っ て 君 弱 い も ん |
+| Lobby ID | 28595310943807039 |
+| Players | 1/24 |
+| Host Name | [N]-Never-[N] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:07:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310943562333 |
+| Players | 4/10 |
+| Host Name | Kiddo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:07:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310943596531 |
+| Players | 1/10 |
+| Host Name | Twice |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:07:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310938028193 |
+| Players | 9/10 |
+| Host Name | Helb |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:05:59 |
+| Lobby Creation Time | Monday, January 8, 2024 19:02:04 |
 
 
