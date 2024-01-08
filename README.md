@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311561861888 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | fresh meat |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311561043965 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311560229992 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ----R2D2---- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:59:24 |
@@ -74,28 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311561503371 |
-| Players | 7/8 |
-| Host Name | god’s favourite since 00 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:01:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311560823500 |
-| Players | 6/8 |
-| Host Name | El tio gonza |
+| Lobby ID | 28595311562154262 |
+| Players | 1/24 |
+| Host Name | Chupete |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:00:29 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:02:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311559884180 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bachira Meguru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:58:45 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:02:17 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595311562137371 |
+| Players | 1/7 |
+| Host Name | Eustia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:02:50 |
 
 
