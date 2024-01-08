@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311332570348 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:05:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311330673699 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Peruano Universal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:03:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311331615882 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:04:02 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311333648625 |
-| Players | 3/15 |
-| Host Name | 最好的 |
+| Players | 9/15 |
+| Host Name | Сахарок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:06:09 |
 
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:05:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311332920514 |
-| Players | 9/10 |
-| Host Name | Hades |
+| Lobby ID | 28595311333490635 |
+| Players | 1/15 |
+| Host Name | S.Santana93 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:05:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311333719536 |
+| Players | 2/15 |
+| Host Name | tice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:05:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311332598219 |
-| Players | 7/8 |
-| Host Name | Чебупельмень |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:05:03 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:06:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311330857713 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Анальная патока |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:03:14 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311332129498 |
-| Players | 5/10 |
-| Host Name | новичок |
+| Players | 2/10 |
+| Host Name | neofit |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:04:34 |
 
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Don payiyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:05:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311333490635 |
-| Players | 1/15 |
-| Host Name | S.Santana93 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:05:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311333714740 |
-| Players | 1/24 |
-| Host Name | Let him cook, now |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:06:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311321353584 |
-| Players | 4/10 |
-| Host Name | hatdog |
+| Players | 2/10 |
+| Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:53:25 |
 
@@ -162,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [*BaSkeTka*] |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:05:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311327491895 |
-| Players | 3/5 |
-| Host Name | Marshmello |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:59:44 |
 
 
