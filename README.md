@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311477138459 |
-| Players | 1/8 |
-| Host Name | Жека |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:52:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311478227396 |
-| Players | 8/10 |
-| Host Name | борис бритва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:53:40 |
+| Lobby ID | 28595311477172971 |
+| Players | 9/10 |
+| Host Name | Javier Milei |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311478593827 |
+| Players | 11/15 |
+| Host Name | Vira |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:54:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311474604915 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | The Turn Tabler |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:48:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311477803404 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Waffle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:53:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311477955158 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ZZ666 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:53:19 |
@@ -119,28 +119,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:53:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311478593827 |
-| Players | 1/15 |
-| Host Name | Vira |
+| Lobby ID | 28595311478677080 |
+| Players | 2/8 |
+| Host Name | Жека |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:54:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:54:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311478264050 |
-| Players | 4/8 |
-| Host Name | чувство стиля |
+| Lobby ID | 28595311478684982 |
+| Players | 7/8 |
+| Host Name | Yoty |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:53:43 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:54:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311478692564 |
+| Players | 3/8 |
+| Host Name | HiForYou |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:54:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311478744772 |
+| Players | 1/10 |
+| Host Name | TODD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:54:21 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311477476034 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Maxbob |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:40 |
