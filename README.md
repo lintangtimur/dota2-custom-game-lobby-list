@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310828137420 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310832805581 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310833962823 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | куська |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:46:47 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310834117010 |
-| Players | 2/8 |
-| Host Name | silhouette |
+| Lobby ID | 28595310834216192 |
+| Players | 1/8 |
+| Host Name | новогодн1й п0к3м0н |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:47:01 |
+| Lobby Creation Time | Monday, January 8, 2024 16:47:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310828997612 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Razvedos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:38:43 |
