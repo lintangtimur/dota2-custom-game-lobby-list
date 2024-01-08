@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311258887463 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Xynister |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:09 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311265894287 |
-| Players | 4/8 |
-| Host Name | udacha |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:57:09 |
+| Lobby ID | 28595311266452143 |
+| Players | 1/8 |
+| Host Name | 도미니크 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311262697008 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | [ N O V A ] |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:53:58 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:56:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311266000519 |
-| Players | 14/15 |
-| Host Name | F9 |
+| Lobby ID | 28595311266138834 |
+| Players | 5/8 |
+| Host Name | あなたのお母さんは売 |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 23:57:15 |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:23 |
 
 
 |  | ot3_desert_octet |
@@ -122,46 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311266224701 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | El Miraculosgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:57:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311259939223 |
-| Players | 23/24 |
-| Host Name | EL SHOW DEL MONO PEGALON |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 23:51:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311266225233 |
-| Players | 8/10 |
-| Host Name | Водняшка |
+| Lobby ID | 28595311266425162 |
+| Players | 4/15 |
+| Host Name | Девочка c зaколкой |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:57:28 |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311266138834 |
-| Players | 4/8 |
-| Host Name | あなたのお母さんは売 |
+| Lobby ID | 28595311266435124 |
+| Players | 6/8 |
+| Host Name | Чел с паблика |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 23:57:23 |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311266274188 |
-| Players | 1/10 |
-| Host Name | RHODOLITE |
+| Lobby ID | 28595311266442659 |
+| Players | 7/10 |
+| Host Name | Илюня |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:57:31 |
+| Lobby Creation Time | Monday, January 8, 2024 23:57:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311258778286 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:03 |
@@ -198,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | n0oB |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:54:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311257209060 |
+| Players | 6/10 |
+| Host Name | InDiGo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 23:48:29 |
 
 
