@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310828137420 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
@@ -23,25 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310831896201 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ради неё [Dead Inside] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:43:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310832139256 |
-| Players | 1/15 |
-| Host Name | alina |
+| Lobby ID | 28595310832169851 |
+| Players | 2/8 |
+| Host Name | лучший |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:43:54 |
+| Lobby Creation Time | Monday, January 8, 2024 16:43:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310832257501 |
+| Players | 3/8 |
+| Host Name | у мядомза330кевро |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:44:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310829626610 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Tess Tickles |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:39:44 |
