@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311574363008 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311574580497 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:48 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311574442596 |
-| Players | 1/10 |
-| Host Name | UwU |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:25:32 |
+| Lobby ID | 28595311575188611 |
+| Players | 4/10 |
+| Host Name | люблю доту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:26:56 |
 
 
 |  | ot3_desert_octet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL SHOW DEL MONO PEGALON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:26:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311575188611 |
-| Players | 2/10 |
-| Host Name | люблю доту |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:26:56 |
 
 
 |  | epic_boss_fight_nightmare |
