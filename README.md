@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310962014427 |
-| Players | 7/8 |
-| Host Name | IO |
+| Lobby ID | 28595310962680576 |
+| Players | 1/24 |
+| Host Name | ☯•S么MUR么I•☯ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:08 |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310962325585 |
-| Players | 4/10 |
-| Host Name | тварь-мразь |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:26 |
+| Lobby ID | 28595310962626072 |
+| Players | 4/15 |
+| Host Name | Kenshin Himura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310962626072 |
-| Players | 1/15 |
-| Host Name | Kenshin Himura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310962680576 |
-| Players | 1/24 |
-| Host Name | ☯•S么MUR么I•☯ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:46 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310962681804 |
+| Lobby ID | 28595310962832106 |
 | Players | 3/8 |
-| Host Name | god of ded |
+| Host Name | ODESKIN |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:46 |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pos1tivchik) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310962846616 |
+| Players | 1/5 |
+| Host Name | hypocrite |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:56 |
 
 
