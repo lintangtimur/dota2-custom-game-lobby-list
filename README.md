@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311502837796 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | shuba |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:27:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311506095376 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Joel |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:32:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311506087230 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | H |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:32:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311505114207 |
-| Players | 14/15 |
-| Host Name | stygiant |
+| Lobby ID | 28595311506704439 |
+| Players | 3/10 |
+| Host Name | Road to titan |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:30:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311506602030 |
-| Players | 1/8 |
-| Host Name | GoodScaredMonerro |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:32:52 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:33:01 |
 
 
 |  | epic_boss_fight_nightmare |
