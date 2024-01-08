@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310788707841 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:31:40 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310787963199 |
-| Players | 12/15 |
-| Host Name | kotegop |
+| Lobby ID | 28595310788617282 |
+| Players | 6/8 |
+| Host Name | luvv? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:30:22 |
+| Lobby Creation Time | Monday, January 8, 2024 15:31:31 |
 
 
 |  | ot3_desert_octet |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310787849460 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310788617282 |
-| Players | 4/8 |
-| Host Name | luvv? |
+| Lobby ID | 28595310788999757 |
+| Players | 3/15 |
+| Host Name | Kenshin Himura |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:31:31 |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310789001297 |
+| Players | 1/15 |
+| Host Name | Dekant |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310788960436 |
+| Players | 1/5 |
+| Host Name | ENEKANDO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:07 |
 
 
