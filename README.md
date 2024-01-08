@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310820062627 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Hailmary |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:24:21 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:25:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310820298759 |
-| Players | 9/10 |
-| Host Name | SSH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:24:44 |
+| Lobby ID | 28595310820849222 |
+| Players | 4/24 |
+| Host Name | chudai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:25:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310820714952 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BORZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:25:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310820849222 |
-| Players | 3/24 |
-| Host Name | chudai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:25:37 |
+| Lobby ID | 28595310821035271 |
+| Players | 1/8 |
+| Host Name | zxcкомпот |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:25:55 |
 
 
 |  | epic_boss_fight_hard |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:15:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310819765858 |
-| Players | 1/5 |
-| Host Name | WHAT THE FUCK IS THAT!? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:23:52 |
 
 
 |  | epic_boss_fight_nightmare |
