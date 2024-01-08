@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310961892847 |
-| Players | 13/15 |
-| Host Name | 5poz farm or fid |
+| Lobby ID | 28595310962014427 |
+| Players | 7/8 |
+| Host Name | IO |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:01 |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310961998705 |
-| Players | 1/8 |
-| Host Name | Туалет_эксперт |
+| Lobby ID | 28595310962325585 |
+| Players | 4/10 |
+| Host Name | тварь-мразь |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:07 |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310962626072 |
+| Players | 1/15 |
+| Host Name | Kenshin Himura |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310962680576 |
+| Players | 1/24 |
+| Host Name | ☯•S么MUR么I•☯ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:46 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310962014427 |
-| Players | 6/8 |
-| Host Name | IO |
+| Lobby ID | 28595310962681804 |
+| Players | 3/8 |
+| Host Name | god of ded |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310962325585 |
-| Players | 4/10 |
-| Host Name | тварь-мразь |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:26 |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Demolition @ Internet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 19:24:29 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595310962537235 |
+| Players | 2/7 |
+| Host Name | Pos1tivchik) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:38 |
 
 
