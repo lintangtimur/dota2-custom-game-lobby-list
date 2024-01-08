@@ -58,26 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310884050915 |
+| Lobby ID | 28595310884841961 |
 | Players | 4/8 |
-| Host Name | hoserd |
+| Host Name | короткие юбочки |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:19 |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310884168778 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310884749731 |
+| Players | 5/15 |
+| Host Name | Арсеникум |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310881010544 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Baba Yega |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:17 |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310882304979 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:56:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310884793364 |
+| Players | 1/5 |
+| Host Name | XANAX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310884866856 |
+| Players | 1/5 |
+| Host Name | leraeveryday |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:24 |
 
 
