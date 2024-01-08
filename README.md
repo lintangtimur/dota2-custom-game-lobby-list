@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311290513730 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | F-14 Tomcat |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:45 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311290152146 |
-| Players | 5/8 |
-| Host Name | Санечка снимаешь? |
+| Lobby ID | 28595311290999287 |
+| Players | 1/8 |
+| Host Name | |MaQin| |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:21:23 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:22:15 |
 
 
 |  | ot3_desert_octet |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311264431528 |
-| Players | 1/10 |
-| Host Name | JapaKama |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 23:55:41 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595311289232182 |
-| Players | 3/7 |
-| Host Name | Cupcakke_b1tch |
+| Lobby ID | 28595311291015854 |
+| Players | 1/8 |
+| Host Name | Лесби |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:20:27 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:22:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311290588006 |
+| Players | 5/8 |
+| Host Name | 1.2.3._____ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:21:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | B1412 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:20:51 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595311289232182 |
+| Players | 2/7 |
+| Host Name | Cupcakke_b1tch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:20:27 |
 
 
