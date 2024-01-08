@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311071211799 |
-| Players | 9/10 |
-| Host Name | diabeetus |
+| Lobby ID | 28595311071412702 |
+| Players | 1/8 |
+| Host Name | [AbF]120 см жести |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:07 |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311070805106 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 米粉 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 21:02:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311058285817 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | .👑D⚜️K👑. |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 20:52:06 |
@@ -58,62 +58,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311070743981 |
-| Players | 13/15 |
-| Host Name | 从乞义幺丈从💓 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:02:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311071421376 |
-| Players | 2/8 |
-| Host Name | PMC WAGNER GROUP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311071426820 |
-| Players | 9/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311071412702 |
-| Players | 1/8 |
-| Host Name | [AbF]120 см жести |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28595311071451591 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DOTA=JUEGO BASURA |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311071829730 |
-| Players | 4/8 |
-| Host Name | WOORPOOCH |
+| Lobby ID | 28595311072055922 |
+| Players | 3/15 |
+| Host Name | 動畫史萊克 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311071426820 |
+| Players | 13/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311072173799 |
+| Players | 3/10 |
+| Host Name | SlowMotion |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:37 |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311072250857 |
+| Players | 6/15 |
+| Host Name | 狂热激战A-Rev.3 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:58 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311067919621 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Миликанес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:00:21 |
