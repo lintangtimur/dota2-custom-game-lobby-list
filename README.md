@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310871567745 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | marko botoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:41:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310870514347 |
-| Players | 22/24 |
-| Host Name | Smoke weed every Day |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:40:02 |
+| Lobby ID | 28595310871847234 |
+| Players | 1/15 |
+| Host Name | 大谷everlasting hate谷大 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:41:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:41:42 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595310871739714 |
-| Players | 1/7 |
-| Host Name | Morello |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:41:43 |
 
 
