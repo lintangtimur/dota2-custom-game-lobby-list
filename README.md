@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310989025386 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | icant |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:51:35 |
@@ -50,25 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310989868854 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ZoRo_Killer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:52:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310987811992 |
-| Players | 9/10 |
-| Host Name | иГлА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:50:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310989771840 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Emotional Damage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:52:17 |
