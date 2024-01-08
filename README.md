@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310886661272 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | marko botoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:01:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310889309120 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | РОРУ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:05:14 |
@@ -56,10 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:05:23 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310889930605 |
+| Players | 3/24 |
+| Host Name | Izana |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310889895174 |
+| Players | 1/8 |
+| Host Name | Harry Brasko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310889927631 |
+| Players | 1/10 |
+| Host Name | Папа Римский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310887702967 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | C.C. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:03:08 |
