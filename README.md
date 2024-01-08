@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:37:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310919537496 |
-| Players | 14/15 |
-| Host Name | hanamiya` |
+| Lobby ID | 28595310920131902 |
+| Players | 1/10 |
+| Host Name | MATTHEW马修 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:41:38 |
+| Lobby Creation Time | Monday, January 8, 2024 18:42:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310919872243 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | _BlackPrince_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:01 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310919251818 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | TSpirit.Cavaps |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:41:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310920131902 |
-| Players | 1/10 |
-| Host Name | MATTHEW马修 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:42:19 |
 
 
 |  | epic_boss_fight_nightmare |
