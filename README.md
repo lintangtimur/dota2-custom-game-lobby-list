@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310969086202 |
-| Players | 13/24 |
+| Players | 11/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:32:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310973939424 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | шельма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:37:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310968703498 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:32:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310975836463 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Wowzer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:39:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310977235246 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Bävern |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:40:36 |
@@ -131,10 +131,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310976886524 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ицык Striper |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:40:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310977729593 |
+| Players | 1/8 |
+| Host Name | Mr.Lemon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:41:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310977812846 |
+| Players | 1/15 |
+| Host Name | BAROKY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:41:09 |
 
 
 |  | epic_boss_fight_nightmare |
