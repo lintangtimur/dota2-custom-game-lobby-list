@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311435987638 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:00:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311436263770 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | LoKi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:00:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311435532151 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:00:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311434641494 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | OjotaAsesina |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:58:57 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311432192449 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:01 |
@@ -130,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311436263415 |
+| Lobby ID | 28595311436255450 |
 | Players | 1/8 |
-| Host Name | Vortigern |
-| Region | USEAST |
+| Host Name | СЫРНИК |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:00:53 |
 
 
@@ -146,22 +146,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311436157073 |
-| Players | 9/15 |
-| Host Name | X |
+| Lobby ID | 28595311436426768 |
+| Players | 4/10 |
+| Host Name | мафака |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:00:45 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:01:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311436255450 |
-| Players | 1/8 |
-| Host Name | СЫРНИК |
+| Lobby ID | 28595311436408459 |
+| Players | 3/8 |
+| Host Name | zxc_goodbos811 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:01:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311436540507 |
+| Players | 1/10 |
+| Host Name | Frogelus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:01:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311436542063 |
+| Players | 2/10 |
+| Host Name | Ruzz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:01:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311436549937 |
+| Players | 3/8 |
+| Host Name | Лунный факт |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:00:53 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:01:13 |
 
 
 |  | epic_boss_fight_nightmare |
