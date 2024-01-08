@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311348032800 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ❌XART✅❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:21:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311346441562 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | KO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:19:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311345400225 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | BoB LeE SwaGgeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:18:31 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311348581848 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | PoMaH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:21:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311348773010 |
+| Players | 1/24 |
+| Host Name | Talento Nada |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311348840886 |
+| Players | 1/8 |
+| Host Name | numb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,21 +164,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:21:32 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311348363550 |
-| Players | 4/5 |
-| Host Name | ᶠᶸᶜᵏᵧₒᵤ.net |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:36 |
+| Lobby ID | 28595311348807691 |
+| Players | 1/10 |
+| Host Name | Scrappy CoCo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:04 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311348719811 |
-| Players | 4/7 |
-| Host Name | Alfy Fox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:58 |
+| Lobby ID | 28595311348886452 |
+| Players | 1/10 |
+| Host Name | shaina .Gaming |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:09 |
 
 
