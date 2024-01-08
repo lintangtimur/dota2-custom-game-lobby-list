@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310802068035 |
-| Players | 7/8 |
-| Host Name | boz |
+| Lobby ID | 28595310802475798 |
+| Players | 8/15 |
+| Host Name | Pain |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:54:57 |
+| Lobby Creation Time | Monday, January 8, 2024 15:55:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310802531608 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:55:45 |
@@ -49,38 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310801659305 |
-| Players | 3/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 15:54:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310802353981 |
-| Players | 3/10 |
-| Host Name | Лимфоузел |
+| Lobby ID | 28595310803219268 |
+| Players | 1/8 |
+| Host Name | анлаки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:55:27 |
+| Lobby Creation Time | Monday, January 8, 2024 15:56:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310802481589 |
-| Players | 13/15 |
-| Host Name | Nigihayami Kohakunushi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:55:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310802475798 |
-| Players | 1/15 |
-| Host Name | Pain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:55:40 |
+| Lobby ID | 28595310803205627 |
+| Players | 3/24 |
+| Host Name | Happiness |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:56:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gintoki |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:56:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310803176414 |
+| Players | 1/5 |
+| Host Name | Адольф бибер невс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:56:52 |
 
 
