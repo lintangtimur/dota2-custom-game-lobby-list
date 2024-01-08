@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311327927858 |
-| Players | 5/8 |
-| Host Name | Hikki❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311327777098 |
-| Players | 8/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:02 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311327762644 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Slasher |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:00:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311328198529 |
+| Players | 3/8 |
+| Host Name | i was never |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:00:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311327835375 |
+| Players | 1/8 |
+| Host Name | чин чан чон чи |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:00:05 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:58:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311327669055 |
-| Players | 1/24 |
-| Host Name | Pientuś |
+| Lobby ID | 28595311328089921 |
+| Players | 6/8 |
+| Host Name | Cryfer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:59:55 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:00:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TAUREN.IG |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:59:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311327835375 |
-| Players | 1/8 |
-| Host Name | чин чан чон чи |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311327445232 |
-| Players | 13/15 |
-| Host Name | каркас |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:59:41 |
 
 
 |  | epic_boss_fight_nightmare |
