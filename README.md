@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310825509853 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Tyrambar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:33:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310825665426 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | IAMNOTSADASDYAFISDGOARISTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:33:25 |
