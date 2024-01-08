@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311397058292 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | кровосися |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:15:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311392755399 |
-| Players | 21/24 |
-| Host Name | eggsandwich |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:10:04 |
+| Lobby ID | 28595311400379135 |
+| Players | 9/15 |
+| Host Name | звой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:18:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311397189825 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ya toy viejo! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:15:13 |
@@ -68,81 +68,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311394872664 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Zen Master Vulkan |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:12:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311397638091 |
-| Players | 14/15 |
-| Host Name | ₚᵢₜ bᵤₗₗ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:15:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311395978266 |
-| Players | 20/24 |
-| Host Name | 123 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:13:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311397948510 |
-| Players | 8/10 |
-| Host Name | MrPDaniel |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:16:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311399417653 |
-| Players | 6/10 |
-| Host Name | Sunshine? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:17:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311399763844 |
-| Players | 6/15 |
-| Host Name | Taimo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:18:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311399830163 |
+| Lobby ID | 28595311400373546 |
 | Players | 4/8 |
-| Host Name | Cat bread |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:18:12 |
+| Host Name | MegaKabanchick |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:18:50 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311395356604 |
-| Players | 4/7 |
-| Host Name | ᶠᶸᶜᵏᵧₒᵤ.net |
+| Lobby ID | 28595311399908389 |
+| Players | 7/10 |
+| Host Name | Лупа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:13:04 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:18:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311399268906 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Зловещая Eбулka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:17:33 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595311400375869 |
+| Players | 2/7 |
+| Host Name | мачомен |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:18:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311400429394 |
+| Players | 1/10 |
+| Host Name | hiasfabio |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:18:54 |
 
 
