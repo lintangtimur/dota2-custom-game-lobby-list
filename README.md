@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:33:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311036703456 |
-| Players | 5/8 |
-| Host Name | Forge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:33:39 |
+| Lobby ID | 28595311037373307 |
+| Players | 3/15 |
+| Host Name | 󠀡󠀡GabrielitoEC |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 20:34:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:33:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311037256375 |
-| Players | 1/15 |
-| Host Name | Тетя Шмаля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:34:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311014876969 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | hasbulla.hushetskiy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:14:52 |
