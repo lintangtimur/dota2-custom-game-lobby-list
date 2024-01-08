@@ -74,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:26:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310786055357 |
+| Players | 5/10 |
+| Host Name | LoMaTb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:27:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310786108181 |
+| Players | 2/8 |
+| Host Name | бандит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:27:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310784881630 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Toji Fushiguro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:24:56 |
@@ -86,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310785850932 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | epileptick1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:26:39 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310786115908 |
+| Players | 1/7 |
+| Host Name | Ylylysha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:27:07 |
 
 
