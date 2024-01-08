@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310898924191 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Ben Simmons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 18:17:22 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310900322611 |
-| Players | 5/10 |
-| Host Name | dorofeeva smurf |
+| Players | 6/10 |
+| Host Name | -sk1sx |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:19:03 |
 
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310900311981 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | BarFaCk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:19:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310898558513 |
+| Players | 12/15 |
+| Host Name | нежныерукидеда |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:16:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310895213541 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:50 |
@@ -86,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310899803706 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | kolpacheque |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:18:25 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595310892289073 |
-| Players | 2/5 |
-| Host Name | What? |
+| Lobby ID | 28595310900748489 |
+| Players | 2/7 |
+| Host Name | мачомен |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:09:06 |
+| Lobby Creation Time | Monday, January 8, 2024 18:19:34 |
 
 
