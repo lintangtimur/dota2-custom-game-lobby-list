@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310854955684 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Deid |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310920511062 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | whatever |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:42:46 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:43:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310920812372 |
-| Players | 14/15 |
-| Host Name | Baobab |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:08 |
+| Lobby ID | 28595310921337752 |
+| Players | 1/8 |
+| Host Name | tort1pur |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:45 |
 
 
 |  | ot3_desert_octet |
@@ -121,35 +121,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310921143664 |
-| Players | 9/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:31 |
+| Lobby ID | 28595310921474533 |
+| Players | 1/15 |
+| Host Name | Mr. penis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310921196966 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Chuvachok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310921337752 |
-| Players | 1/8 |
-| Host Name | tort1pur |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:43:45 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310918415331 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | GreShnik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:40:20 |
