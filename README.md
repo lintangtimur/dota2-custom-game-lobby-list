@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311573617450 |
-| Players | 22/24 |
-| Host Name | For Thaina Fields |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:24:00 |
+| Lobby ID | 28595311574598973 |
+| Players | 2/8 |
+| Host Name | he will win |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:50 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311573403103 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311574286721 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | В ДУШЕ ВЛАСТЕЛИН! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311574442596 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:32 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311574598973 |
-| Players | 1/8 |
-| Host Name | he will win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:25:50 |
 
 
 |  | epic_boss_fight_nightmare |
