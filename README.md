@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311580421755 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:37:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311582531993 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:41:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311582213701 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311582275834 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Migs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311578217012 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | QuakerOath |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:32:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311582897138 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | THC Enjoyer |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:42:00 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311582415858 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Sloop |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:41:02 |
