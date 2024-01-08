@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311027026397 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:20 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:33:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311038173016 |
-| Players | 5/8 |
-| Host Name | K1!!c2!! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:34:54 |
+| Lobby ID | 28595311038278566 |
+| Players | 1/15 |
+| Host Name | ..c.I.e.. |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 20:35:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311036254195 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:33:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311037712239 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | flawless |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:34:31 |
@@ -76,35 +76,71 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311037997918 |
-| Players | 11/15 |
-| Host Name | 狂热激战A-Rev.3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 8, 2024 20:34:45 |
+| Lobby ID | 28595311038788256 |
+| Players | 5/15 |
+| Host Name | M |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:35:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311038216912 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Пукано Дэ Бомбини |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:34:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311032134692 |
+| Players | 5/8 |
+| Host Name | cro ss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:29:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311038487066 |
+| Players | 7/10 |
+| Host Name | pisdoter228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:35:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311038460030 |
+| Players | 6/8 |
+| Host Name | казявка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:35:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311038278566 |
-| Players | 2/15 |
-| Host Name | el_Almirante_aOKi |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 20:35:00 |
+| Lobby ID | 28595311038608748 |
+| Players | 5/15 |
+| Host Name | Aylardex Vlael |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:35:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311038718836 |
+| Players | 1/8 |
+| Host Name | Frukt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:35:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311036883299 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Caesar_091 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:33:48 |
@@ -113,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311014876969 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | hasbulla.hushetskiy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:14:52 |
@@ -131,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
