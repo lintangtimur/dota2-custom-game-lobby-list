@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310846174506 |
-| Players | 22/24 |
-| Host Name | ryan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:05:07 |
+| Lobby ID | 28595310848522315 |
+| Players | 2/15 |
+| Host Name | GyattZilla |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,25 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848521222 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | 0_0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310848522315 |
-| Players | 2/15 |
-| Host Name | GyattZilla |
-| Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310847003085 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | (--pwetmalu--) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:06:22 |
@@ -77,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310848510388 |
-| Players | 3/10 |
-| Host Name | Манта |
+| Players | 2/10 |
+| Host Name | 𝓢𝓵𝓪𝓴𝓲𝓬𝓱 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:36 |
 
