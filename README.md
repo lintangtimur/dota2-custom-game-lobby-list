@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310846174506 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ryan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:05:07 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310847847408 |
-| Players | 13/15 |
-| Host Name | no future |
+| Lobby ID | 28595310848373655 |
+| Players | 5/8 |
+| Host Name | КАСАКУ ГРАДУСНИК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:07:37 |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310847760233 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | G卄ㄖ丂ㄒ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:29 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310847003085 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | (--pwetmalu--) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:06:22 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310848353285 |
+| Players | 1/10 |
+| Host Name | 无言灬剧终 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:22 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310848223864 |
+| Lobby ID | 28595310848385426 |
 | Players | 1/5 |
 | Host Name | Shrekas |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:08:10 |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:25 |
 
 
