@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311472339671 |
-| Players | 8/10 |
-| Host Name | Triaxis |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:45:53 |
+| Lobby ID | 28595311473941606 |
+| Players | 1/8 |
+| Host Name | kn9z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:47:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:46:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311473767593 |
-| Players | 6/8 |
-| Host Name | lets_fight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:47:45 |
+| Lobby ID | 28595311473905720 |
+| Players | 3/10 |
+| Host Name | ЇBASH |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:47:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311473843876 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:47:51 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | все в прошлом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:47:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311473905720 |
-| Players | 2/10 |
-| Host Name | ЇBASH |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:47:55 |
 
 
 |  | epic_boss_fight_normal |
