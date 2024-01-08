@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310783721629 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | CHIRA.JUNIOR TOP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:22:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310782862431 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:21:20 |
@@ -56,48 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310783971612 |
-| Players | 5/10 |
-| Host Name | Батя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:23:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310783974517 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Kisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:23:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310783992631 |
-| Players | 4/8 |
-| Host Name | 24/7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:23:22 |
+| Lobby ID | 28595310784142934 |
+| Players | 2/10 |
+| Host Name | PC_PS |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 15:23:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310784156250 |
+| Players | 2/10 |
+| Host Name | MOORC |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:23:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310782006856 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:19:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310783567652 |
-| Players | 1/5 |
-| Host Name | lexazxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:22:36 |
 
 
