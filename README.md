@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310886661272 |
-| Players | 22/24 |
-| Host Name | marko botoy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:01:46 |
+| Lobby ID | 28595310889996735 |
+| Players | 1/10 |
+| Host Name | Takatho |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310889309120 |
-| Players | 14/15 |
-| Host Name | РОРУ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:05:14 |
+| Lobby ID | 28595310889927631 |
+| Players | 1/10 |
+| Host Name | Папа Римский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310889426624 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | фанат мышки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:05:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310889930605 |
-| Players | 3/24 |
-| Host Name | Izana |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:06:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:06:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310889927631 |
-| Players | 1/10 |
-| Host Name | Папа Римский |
+| Lobby ID | 28595310889976249 |
+| Players | 1/15 |
+| Host Name | EPICLOOT.IN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:06:02 |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310887702967 |
-| Players | 9/10 |
-| Host Name | C.C. |
+| Lobby ID | 28595310889309120 |
+| Players | 10/15 |
+| Host Name | РОРУ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:05:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310890063098 |
+| Players | 1/15 |
+| Host Name | wallnutz |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:03:08 |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310889985793 |
+| Players | 3/5 |
+| Host Name | Стенки подъезда |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:06:07 |
 
 
