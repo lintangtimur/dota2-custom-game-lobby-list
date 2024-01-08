@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311476965638 |
-| Players | 3/10 |
-| Host Name | Mamut Rakhal |
+| Players | 9/10 |
+| Host Name | i`m so sorry |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:51:59 |
 
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311472852192 |
-| Players | 7/8 |
-| Host Name | chamo=objeto |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:46:34 |
+| Lobby ID | 28595311477150444 |
+| Players | 1/8 |
+| Host Name | РОТ ПОЛОН СОЛИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311475921095 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Horny Toss |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:36 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311474604915 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | The Turn Tabler |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:48:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311476478996 |
-| Players | 14/15 |
-| Host Name | Panda! |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:51:21 |
+| Lobby ID | 28595311477054329 |
+| Players | 4/8 |
+| Host Name | QTab |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311476949378 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Mionei |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:51:58 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311474201939 |
-| Players | 9/10 |
-| Host Name | :3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:48:18 |
+| Lobby ID | 28595311477138459 |
+| Players | 1/8 |
+| Host Name | Жека |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:13 |
 
 
 |  | epic_boss_fight_nightmare |
