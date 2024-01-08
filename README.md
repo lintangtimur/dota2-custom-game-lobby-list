@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310951938995 |
-| Players | 9/10 |
-| Host Name | Who |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:16:16 |
+| Lobby ID | 28595310953357222 |
+| Players | 3/8 |
+| Host Name | bungee |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:17:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310952589797 |
-| Players | 13/15 |
-| Host Name | SAY NO MORE |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:16:55 |
+| Lobby ID | 28595310953020463 |
+| Players | 4/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:17:21 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 6/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310953020463 |
-| Players | 3/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:17:21 |
+| Lobby ID | 28595310953418131 |
+| Players | 1/15 |
+| Host Name | Meow_Meow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:17:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310952187949 |
+| Players | 6/10 |
+| Host Name | невермор |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:16:31 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310953439131 |
+| Players | 4/7 |
+| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:17:46 |
 
 
