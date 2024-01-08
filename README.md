@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310943988947 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:08:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310945810733 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Лёня Бензопила |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:10:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310937536843 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:01:33 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310945222342 |
-| Players | 6/8 |
-| Host Name | POPULAR FORCE |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 19:09:26 |
+| Lobby ID | 28595310946053228 |
+| Players | 4/8 |
+| Host Name | Sukini. i.show.style |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:10:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310946140242 |
+| Players | 4/8 |
+| Host Name | Kentafarik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:10:23 |
 
 
 |  | epic_boss_fight_nightmare |
