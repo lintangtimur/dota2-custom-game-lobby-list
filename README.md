@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311569412152 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Migs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:16:10 |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:17:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311570016873 |
-| Players | 3/8 |
-| Host Name | p-sune |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:17:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311570199162 |
-| Players | 1/8 |
-| Host Name | Que ven mis oidos |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:17:37 |
+| Lobby ID | 28595311568655979 |
+| Players | 7/15 |
+| Host Name | El Terror De Los Llorones |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:14:42 |
 
 
 |  | epic_boss_fight_nightmare |
