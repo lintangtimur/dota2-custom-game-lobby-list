@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310877630610 |
-| Players | 14/15 |
-| Host Name | Яблочки |
+| Lobby ID | 28595310878219537 |
+| Players | 6/8 |
+| Host Name | CoraLeaFriedrichPlankton |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:49:47 |
+| Lobby Creation Time | Monday, January 8, 2024 17:50:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874181493 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
@@ -67,17 +67,89 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310878219537 |
-| Players | 5/8 |
-| Host Name | CoraLeaFriedrichPlankton |
+| Lobby ID | 28595310878523137 |
+| Players | 3/8 |
+| Host Name | Butterfly |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:50:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310878518159 |
+| Players | 4/24 |
+| Host Name | Maldini |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:50:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310878564249 |
+| Players | 4/10 |
+| Host Name | Sanyo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:50:34 |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310878576303 |
+| Players | 2/8 |
+| Host Name | я верю только в любовь` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310878585902 |
+| Players | 2/15 |
+| Host Name | Ben Simmons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310878581992 |
+| Players | 4/15 |
+| Host Name | Feanor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310878582730 |
+| Players | 1/15 |
+| Host Name | Зеленый Фен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310878604070 |
+| Players | 5/8 |
+| Host Name | El Gato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310877163687 |
+| Players | 8/10 |
+| Host Name | Мұз Cube |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:49:10 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310877370783 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:49:26 |
@@ -86,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310877506952 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | LoL Refugee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:49:37 |
@@ -99,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baba Yega |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:50:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310878553234 |
+| Players | 1/10 |
+| Host Name | RexTers |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:51:01 |
 
 
