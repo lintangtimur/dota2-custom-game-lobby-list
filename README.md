@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311448489299 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Conq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:15:46 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311448659918 |
-| Players | 7/8 |
-| Host Name | WHAT IS LOVE? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:15:59 |
+| Lobby ID | 28595311448775485 |
+| Players | 2/8 |
+| Host Name | 3 тира до мечты |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:16:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311448036220 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:15:11 |
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Butterfly |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:15:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311448833066 |
+| Players | 4/10 |
+| Host Name | ПТ на спокойствие |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:16:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311448853980 |
+| Players | 1/24 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:16:13 |
 
 
 |  | epic_boss_fight_nightmare |
