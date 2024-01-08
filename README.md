@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311114711957 |
-| Players | 5/8 |
-| Host Name | hazard stalker |
+| Players | 4/8 |
+| Host Name | Devilaugh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:39:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311114148910 |
-| Players | 9/15 |
-| Host Name | Kratos |
+| Lobby ID | 28595311114902535 |
+| Players | 4/8 |
+| Host Name | qeopwe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:39:18 |
+| Lobby Creation Time | Monday, January 8, 2024 21:39:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311113218501 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CM Axl |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:38:30 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:29:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311111002887 |
-| Players | 21/24 |
-| Host Name | A |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:36:35 |
+| Lobby ID | 28595311115045677 |
+| Players | 5/8 |
+| Host Name | Para kang halaman |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 21:40:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:36:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311114902535 |
-| Players | 3/8 |
-| Host Name | qeopwe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:39:56 |
+| Lobby ID | 28595311115244978 |
+| Players | 2/10 |
+| Host Name | Люда Цибарка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:40:14 |
 
 
 |  | epic_boss_fight_nightmare |
