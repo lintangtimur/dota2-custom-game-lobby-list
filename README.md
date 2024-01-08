@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311514003460 |
-| Players | 9/10 |
-| Host Name | Джон Траволта |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:43:46 |
+| Lobby ID | 28595311514511539 |
+| Players | 2/10 |
+| Host Name | балтика 9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:44:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311512650075 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:41:45 |
@@ -67,24 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311513874499 |
-| Players | 7/8 |
-| Host Name | ЗОМБИ-ШАХТЁР! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:43:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311514100734 |
-| Players | 8/15 |
-| Host Name | Excuse You? |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:43:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28595311514341142 |
 | Players | 4/8 |
 | Host Name | FANTAzeR |
@@ -92,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:44:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311514100734 |
+| Players | 10/15 |
+| Host Name | Excuse You? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:43:55 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311514420872 |
-| Players | 2/10 |
-| Host Name | wwt11 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:44:24 |
+| Lobby ID | 28595311514533308 |
+| Players | 1/10 |
+| Host Name | PAPA BEKO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:44:34 |
 
 
 |  | epic_boss_fight_nightmare |
