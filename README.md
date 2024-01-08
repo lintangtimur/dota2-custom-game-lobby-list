@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310828696623 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | церковная мышь |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:38:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310828137420 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310828696497 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ПиВнОй БОМЖ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:38:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310828667947 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ШМАРОКРАД |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:38:13 |
