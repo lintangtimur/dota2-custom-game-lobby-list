@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310842679911 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | QBash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:59:53 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310842784469 |
-| Players | 14/15 |
-| Host Name | MR |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:00:03 |
+| Lobby ID | 28595310843446715 |
+| Players | 3/15 |
+| Host Name | Ben Simmons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 17:01:02 |
 
 
 |  | ot3_gardens_duo |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310843446715 |
-| Players | 1/15 |
-| Host Name | Ben Simmons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 17:01:02 |
+| Lobby ID | 28595310843582780 |
+| Players | 2/15 |
+| Host Name | onwhenon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:01:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310842930137 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sunghacor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:00:16 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:59:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310843435524 |
-| Players | 1/10 |
-| Host Name | 无言灬剧终 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, January 8, 2024 17:01:01 |
 
 
