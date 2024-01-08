@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311468906749 |
-| Players | 8/10 |
-| Host Name | Harkeu Kamui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:41:22 |
+| Lobby ID | 28595311471623962 |
+| Players | 6/10 |
+| Host Name | »Rewrite] |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:44:56 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311471579992 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ChapMan |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:44:53 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311471677336 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | macabre |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:45:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311468377788 |
-| Players | 23/24 |
-| Host Name | 黙れ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:40:41 |
+| Lobby ID | 28595311471854273 |
+| Players | 1/15 |
+| Host Name | 无望的爱 (Nat) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:45:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,38 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311471756465 |
-| Players | 2/8 |
-| Host Name | Crhistian Antony Savina Casanova |
+| Lobby ID | 28595311471849842 |
+| Players | 1/8 |
+| Host Name | zxc |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:45:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311471623962 |
-| Players | 6/10 |
-| Host Name | »Rewrite] |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:44:56 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:45:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311471673164 |
-| Players | 4/8 |
-| Host Name | John |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:45:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311471768291 |
+| Lobby ID | 28595311471889051 |
 | Players | 3/8 |
-| Host Name | чувство стиля |
+| Host Name | Aflap0id |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:45:08 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:45:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311471915874 |
+| Players | 3/8 |
+| Host Name | Hyoukoh |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:45:19 |
 
 
 |  | epic_boss_fight_nightmare |
