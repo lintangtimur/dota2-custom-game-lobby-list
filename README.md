@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311353653263 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Последний самурай |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -40,35 +40,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311353523958 |
-| Players | 14/15 |
-| Host Name | Aylardex Vlael |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:27:03 |
+| Lobby ID | 28595311353423182 |
+| Players | 4/15 |
+| Host Name | Alto Cheems |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:26:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311352866307 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | AHeahFullOfDreams- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:26:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311352279218 |
-| Players | 5/10 |
-| Host Name | A Hi Toe Tami |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:25:44 |
+| Lobby ID | 28595311354335777 |
+| Players | 1/8 |
+| Host Name | Crisss |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:27:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311349003581 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sooyaa |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311353772463 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | blade of miquella |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:19 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311353534588 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | ПиВ-БуХ-АлКо |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:27:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311353423182 |
-| Players | 2/15 |
-| Host Name | Alto Cheems |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:26:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311354212773 |
-| Players | 1/8 |
-| Host Name |  |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:27:47 |
 
 
 |  | epic_boss_fight_nightmare |
