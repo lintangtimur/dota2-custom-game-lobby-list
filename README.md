@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:21:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311180839787 |
-| Players | 7/10 |
-| Host Name | BringMeToLife |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:35:16 |
+| Lobby ID | 28595311180962503 |
+| Players | 4/8 |
+| Host Name | Mikisha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:35:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:14:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311180527378 |
-| Players | 5/8 |
-| Host Name | True Warrior |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:34:59 |
+| Lobby ID | 28595311181413204 |
+| Players | 6/10 |
+| Host Name | айгуль дед инсайд |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:35:47 |
 
 
 |  | ot3_desert_octet |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311181129013 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Матвей пуки каки |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:35:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311178422066 |
-| Players | 23/24 |
-| Host Name | 浮生幻梦 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:33:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311180962503 |
-| Players | 4/8 |
-| Host Name | Mikisha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:35:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311180855116 |
-| Players | 14/15 |
-| Host Name | meme |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:35:17 |
 
 
 |  | ot3_gardens_duo |
@@ -117,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Only |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:34:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311181413204 |
-| Players | 4/10 |
-| Host Name | айгуль дед инсайд |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:35:47 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311181370966 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Urek Mazino |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:35:44 |
