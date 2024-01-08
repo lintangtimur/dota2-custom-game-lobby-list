@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310954301529 |
+| Lobby ID | 28595310953994061 |
 | Players | 7/8 |
-| Host Name | xXx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:18:37 |
+| Host Name | i'm sad n'low yuh |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:18:19 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310955505498 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ☆ VAZ ☆ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:19:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310955020693 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WahaBeat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:19:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310955159437 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ПЛАТОША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:19:28 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310951893765 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595310955620534 |
-| Players | 1/10 |
-| Host Name | Чмыреслав |
+| Lobby ID | 28595310955788529 |
+| Players | 4/7 |
+| Host Name | kubik |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:19:55 |
+| Lobby Creation Time | Monday, January 8, 2024 19:20:05 |
 
 
