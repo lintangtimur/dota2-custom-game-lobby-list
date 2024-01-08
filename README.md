@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311382370135 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Elerne |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:58:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311379899823 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Tu cachero |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:55:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311381218632 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Аl dente bachelor |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:57:09 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311382119937 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | PINGOROCHO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:58:09 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311381552778 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | геноцид |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:57:31 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311381456650 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Asalomu Alekum Inshallahovich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:57:25 |
@@ -158,19 +158,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311382565220 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Charl3i |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:58:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311382848690 |
-| Players | 2/15 |
-| Host Name | SeR@FiM |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:58:58 |
+| Lobby ID | 28595311383014773 |
+| Players | 4/10 |
+| Host Name | Remember to gedrate, friends |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:59:09 |
 
 
 |  | epic_boss_fight_nightmare |
