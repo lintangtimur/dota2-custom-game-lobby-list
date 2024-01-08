@@ -51,51 +51,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310881207568 |
 | Players | 9/24 |
-| Host Name | KuKorn |
+| Host Name | Mashmallow7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310882253361 |
-| Players | 5/8 |
-| Host Name | baobab |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:55:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310882007630 |
-| Players | 14/15 |
-| Host Name | RIVaLZz |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:55:36 |
+| Lobby ID | 28595310882863449 |
+| Players | 6/10 |
+| Host Name | Черный динозавр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:56:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310881840451 |
-| Players | 7/10 |
-| Host Name | ДЖОЙКАНИСТРА |
+| Lobby ID | 28595310883070942 |
+| Players | 1/10 |
+| Host Name | Вомбат |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:55:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310882390556 |
-| Players | 4/8 |
-| Host Name | gde tut okno?? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:56:07 |
+| Lobby Creation Time | Monday, January 8, 2024 17:57:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310881010544 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Baba Yega |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:17 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310882304979 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:56:00 |
