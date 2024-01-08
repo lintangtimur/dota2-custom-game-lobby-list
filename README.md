@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311573617450 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | For Thaina Fields |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311573669117 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | d0kk |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311571029872 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | ----- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:19:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311573499020 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Polyhedron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311574140108 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | alexanderps2208 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311572431974 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:21:45 |
