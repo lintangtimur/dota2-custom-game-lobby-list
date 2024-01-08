@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311550184895 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | only webeo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:41:26 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:35:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311549731938 |
-| Players | 9/10 |
-| Host Name | eToP.PaRaZiTu_BoB |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:40:39 |
+| Lobby ID | 28595311551051472 |
+| Players | 1/8 |
+| Host Name | black mamba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:42:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311550301641 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:41:38 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311550864230 |
-| Players | 8/10 |
-| Host Name | Aknori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:42:38 |
+| Lobby ID | 28595311551057389 |
+| Players | 3/15 |
+| Host Name | ghoul triple s range |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:42:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:39:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311550594546 |
-| Players | 14/15 |
-| Host Name | scotland |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:42:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311550853302 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311550828743 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WarFendi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:42:34 |
