@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310861419928 |
-| Players | 3/8 |
-| Host Name | АААААА ЖЕНЩИНА |
+| Lobby ID | 28595310864394450 |
+| Players | 9/15 |
+| Host Name | h.tati20.game |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:27:29 |
+| Lobby Creation Time | Monday, January 8, 2024 17:31:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310864473708 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Butterfly |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:31:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310863916795 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | раздевайся |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:31:01 |
@@ -83,46 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:30:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310864394450 |
-| Players | 5/15 |
-| Host Name | h.tati20.game |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:31:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310863460941 |
-| Players | 9/10 |
-| Host Name | thinkin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:30:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310864635895 |
-| Players | 5/8 |
-| Host Name | ебал улей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:32:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310864615644 |
-| Players | 5/8 |
-| Host Name | skj |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:32:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310862950823 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fowo..x' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:29:40 |
