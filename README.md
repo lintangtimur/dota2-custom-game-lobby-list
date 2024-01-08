@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310857838154 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | GIGA CHAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:22:18 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:22:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310858034503 |
-| Players | 2/15 |
-| Host Name | wake up to reality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:22:35 |
+| Lobby ID | 28595310858189690 |
+| Players | 1/24 |
+| Host Name | MVRiCK- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:22:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:22:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310858189690 |
-| Players | 1/24 |
-| Host Name | MVRiCK- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:22:49 |
+| Lobby ID | 28595310858414445 |
+| Players | 1/15 |
+| Host Name | wake up to reality |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:23:08 |
 
 
 |  | epic_boss_fight_nightmare |
