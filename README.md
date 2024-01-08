@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Desterrado |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | GoD SeRenA |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310796609178 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | beautiful pain |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:45:34 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310796658702 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | пт на силую детей |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:45:39 |
