@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311498103211 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:20:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311500529708 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:24:11 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311498658317 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:21:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311500314779 |
-| Players | 7/8 |
-| Host Name | s1mple |
+| Lobby ID | 28595311500509933 |
+| Players | 9/10 |
+| Host Name | Шабит_Хапаев[95] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:23:52 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:24:09 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311500699271 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | MIKE TYSON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:24:25 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311500469094 |
-| Players | 7/10 |
-| Host Name | MaKa |
+| Lobby ID | 28595311500960841 |
+| Players | 2/10 |
+| Host Name | Madison |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:24:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311500509933 |
-| Players | 8/10 |
-| Host Name | Шабит_Хапаев[95] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:24:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:24:47 |
 
 
 |  | epic_boss_fight_nightmare |
