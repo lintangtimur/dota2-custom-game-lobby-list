@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311068820131 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:01:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311050205057 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | NeverGiveUp |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:45:14 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:00:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311069734814 |
-| Players | 8/10 |
-| Host Name | bongo~ |
+| Lobby ID | 28595311069194278 |
+| Players | 14/15 |
+| Host Name | Tomas |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:01:52 |
+| Lobby Creation Time | Monday, January 8, 2024 21:01:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311069991282 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Itachi Pro Killer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:02:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311070201489 |
+| Players | 2/10 |
+| Host Name | Т₽ycЬI-s-VOkZala |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:02:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311070250512 |
+| Players | 1/8 |
+| Host Name | Kul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:02:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Миликанес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:00:21 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595311069958553 |
-| Players | 2/7 |
-| Host Name | deadpandA |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 21:02:04 |
 
 
 |  | epic_boss_fight_nightmare |
