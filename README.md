@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311148019762 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:08:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311150591009 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:11:06 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311146593630 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ШАЙТАНАМАНАМА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:07:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311149609169 |
-| Players | 3/8 |
-| Host Name | nerf(тренер) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:10:13 |
+| Lobby ID | 28595311150449228 |
+| Players | 1/15 |
+| Host Name | Тильтроник |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 22:10:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:11:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311150449228 |
-| Players | 1/15 |
-| Host Name | Тильтроник |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 22:10:57 |
+| Lobby ID | 28595311150804056 |
+| Players | 1/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 22:11:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:10:23 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595311150753026 |
+| Players | 1/7 |
+| Host Name | HEEEEEEEEEEEEEEEEEEEEEELP |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:11:16 |
 
 
