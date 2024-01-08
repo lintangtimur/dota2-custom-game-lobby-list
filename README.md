@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311506954335 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Quentry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:33:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311507513519 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Tommy MilfFinger |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:34:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311506943761 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:33:22 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mojo DOYO CASA Hause |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:30:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311508171189 |
+| Players | 2/10 |
+| Host Name | Шприбам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:35:10 |
 
 
 |  | epic_boss_fight_nightmare |
