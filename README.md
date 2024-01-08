@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311549731938 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | eToP.PaRaZiTu_BoB |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:40:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311549464919 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 4eJloBek K.O.M.B.E.K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:40:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311549807939 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | chiste algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:40:47 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:39:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311548768414 |
-| Players | 6/8 |
-| Host Name | Лучший |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:39:02 |
+| Lobby ID | 28595311550302978 |
+| Players | 6/10 |
+| Host Name | ctrl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:41:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:41:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311550302978 |
-| Players | 6/10 |
-| Host Name | ctrl |
+| Lobby ID | 28595311550560046 |
+| Players | 4/8 |
+| Host Name | FetisovVodonos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:41:38 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:42:05 |
 
 
 |  | epic_boss_fight_hard |
