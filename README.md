@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310993396267 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:55:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311002685898 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:04:01 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311003026393 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | БатьМать |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:04:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311003036015 |
-| Players | 1/15 |
-| Host Name | привет 1337 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:04:19 |
+| Lobby ID | 28595311003067503 |
+| Players | 4/8 |
+| Host Name | проказница артем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:04:21 |
 
 
 |  | epic_boss_fight_nightmare |
