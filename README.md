@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310862086589 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | PrincePocket |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:28:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310863370936 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Серега Рябчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:30:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310863429569 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | korol' hardbl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:30:20 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:30:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310863460941 |
-| Players | 3/10 |
-| Host Name | thinkin |
+| Lobby ID | 28595310863623872 |
+| Players | 3/8 |
+| Host Name | gde tut okno?? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:30:23 |
+| Lobby Creation Time | Monday, January 8, 2024 17:30:36 |
 
 
 |  | ot3_gardens_duo |
