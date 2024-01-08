@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:58:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310839312092 |
-| Players | 4/8 |
-| Host Name | Ингалятор 228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:54:49 |
+| Lobby ID | 28595310841042442 |
+| Players | 7/10 |
+| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 16:57:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:55:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310841100560 |
-| Players | 6/8 |
-| Host Name | pushin P |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:57:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310841889391 |
-| Players | 7/10 |
-| Host Name | WTF?!о_0 |
+| Lobby ID | 28595310842385876 |
+| Players | 3/15 |
+| Host Name | MagiX |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:58:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310841042442 |
-| Players | 8/10 |
-| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:57:25 |
+| Lobby Creation Time | Monday, January 8, 2024 16:59:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:59:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310842368407 |
-| Players | 1/5 |
-| Host Name | Помазание |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:59:25 |
 
 
