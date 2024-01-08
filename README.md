@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 13:37:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310790084206 |
-| Players | 5/8 |
-| Host Name | ~КОРБЕН ДЕТКА~ |
+| Lobby ID | 28595310791289187 |
+| Players | 1/10 |
+| Host Name | SSH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:34:06 |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:11 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | BoSS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310790987937 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | sigma skibidi toilet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:35:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310790134850 |
-| Players | 8/10 |
-| Host Name | pohui proebali |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:34:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310791126399 |
-| Players | 3/8 |
-| Host Name | эа я немножко зап |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:35:54 |
+| Lobby ID | 28595310791250836 |
+| Players | 2/24 |
+| Host Name | hellosofia |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595310791202095 |
-| Players | 1/7 |
-| Host Name | tsukiyomi |
+| Lobby ID | 28595310791241519 |
+| Players | 4/7 |
+| Host Name | Осел |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:36:02 |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:06 |
 
 
