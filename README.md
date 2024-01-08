@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310988253983 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Leekholic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:50:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310992746404 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sukini. i.show.style |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:55:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310992766396 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | pohui proebali |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:55:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310992538542 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Zohan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:54:50 |
