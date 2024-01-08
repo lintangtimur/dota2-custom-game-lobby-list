@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311053218765 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | smooph(no grief plsss) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 20:47:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311054575043 |
-| Players | 7/10 |
-| Host Name | abouaua |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:48:57 |
+| Lobby ID | 28595311054497741 |
+| Players | 10/15 |
+| Host Name | still cold |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:48:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311038278566 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:35:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311054189550 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:48:37 |
@@ -58,56 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311052238491 |
-| Players | 23/24 |
-| Host Name | P |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:46:58 |
+| Lobby ID | 28595311027026397 |
+| Players | 22/24 |
+| Host Name | Larry Capija |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 20:25:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311053720770 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ga |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:48:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311053898377 |
-| Players | 7/8 |
-| Host Name | мальчик стрея пиу |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:48:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311054497741 |
-| Players | 7/15 |
-| Host Name | still cold |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:48:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311053198242 |
-| Players | 7/8 |
-| Host Name | qqq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:47:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311052722867 |
-| Players | 14/15 |
-| Host Name | Dyno |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:47:23 |
 
 
 |  | epic_boss_fight_nightmare |
