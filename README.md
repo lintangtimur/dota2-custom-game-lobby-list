@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311546644236 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | swap reports |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:35:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311545037299 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:32:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311546114963 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Radiance |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:34:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311548199652 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | All Time Joe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:38:04 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:38:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311548424645 |
-| Players | 7/10 |
-| Host Name | xOwned |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:38:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311548721594 |
-| Players | 4/10 |
-| Host Name | giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:38:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311548768414 |
@@ -108,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SOUL々KILĒR✓ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:39:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311546926034 |
+| Players | 7/8 |
+| Host Name | улетела шваль |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:35:56 |
 
 
 |  | epic_boss_fight_normal |
