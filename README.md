@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311171738198 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Jizzybizzy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:27:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311160186107 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Darkness.38 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:18:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311171664548 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Максим |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:27:14 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311169915123 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | БУДЕЙКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:25:51 |
@@ -122,19 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311169629715 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Who TAO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:25:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311172444178 |
+| Players | 1/15 |
+| Host Name | Аркадий Бахмут |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:27:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311172464616 |
+| Players | 2/10 |
+| Host Name | 76561198138890862 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:27:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311171991259 |
-| Players | 1/10 |
-| Host Name | Danh hài Vân Sơn |
+| Lobby ID | 28595311160537026 |
+| Players | 8/10 |
+| Host Name | Tony Slark |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:27:30 |
+| Lobby Creation Time | Monday, January 8, 2024 22:19:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,12 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:24:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311160537026 |
-| Players | 8/10 |
-| Host Name | Tony Slark |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:19:11 |
+| Lobby ID | 28595311172436058 |
+| Players | 3/5 |
+| Host Name | Максимка :3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:27:52 |
 
 
