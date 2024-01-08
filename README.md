@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310961892847 |
-| Players | 10/15 |
-| Host Name | перри членосос |
+| Players | 13/15 |
+| Host Name | 5poz farm or fid |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:01 |
 
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310962014427 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | IO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310959981542 |
-| Players | 14/15 |
-| Host Name | MOTERM[S] |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 19:24:10 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595310958344849 |
-| Players | 1/7 |
-| Host Name | Pos1tivchik) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:22:35 |
+| Lobby ID | 28595310962325585 |
+| Players | 4/10 |
+| Host Name | тварь-мразь |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:26:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Demolition @ Internet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 19:24:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310960401851 |
-| Players | 9/10 |
-| Host Name | Deadlyiel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:24:35 |
 
 
