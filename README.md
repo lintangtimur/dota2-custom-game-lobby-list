@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311520281817 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ALT |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311519901153 |
-| Players | 5/8 |
-| Host Name | soulless月読命 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:52:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311520628296 |
-| Players | 3/8 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:53:43 |
 
 
 |  | ot3_desert_octet |
@@ -92,37 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:52:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311520288895 |
-| Players | 14/15 |
-| Host Name | amirka7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:53:12 |
+| Lobby ID | 28595311520628296 |
+| Players | 5/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:53:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311520794125 |
+| Lobby ID | 28595311520974268 |
 | Players | 1/10 |
 | Host Name | Drunk moose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:53:58 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311520974833 |
+| Players | 4/15 |
+| Host Name | why i am so bad? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311520891114 |
+| Lobby ID | 28595311520982869 |
 | Players | 1/8 |
-| Host Name | be here now |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:54:07 |
+| Host Name | АДСКИЙ САТАНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311518461390 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:50:27 |
