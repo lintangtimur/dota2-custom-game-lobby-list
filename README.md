@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311564763992 |
-| Players | 9/10 |
-| Host Name | Дашка |
+| Lobby ID | 28595311565715897 |
+| Players | 2/8 |
+| Host Name | тильт |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:07:33 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:09:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311564999660 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:07:59 |
@@ -95,19 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311565484246 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:08:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311565813878 |
+| Players | 1/15 |
+| Host Name | Qal3awi |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:09:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311565851091 |
+| Players | 2/10 |
+| Host Name | черная птица |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:09:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311565715897 |
-| Players | 1/8 |
-| Host Name | тильт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:09:17 |
+| Lobby ID | 28595311565850707 |
+| Players | 3/8 |
+| Host Name | puta estafador |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:09:32 |
 
 
 |  | epic_boss_fight_nightmare |
