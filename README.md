@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310880685059 |
-| Players | 2/8 |
-| Host Name | SoreX |
+| Players | 7/8 |
+| Host Name | .no lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:53:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310878585902 |
-| Players | 12/15 |
-| Host Name | Ben Simmons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 17:51:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310880645140 |
-| Players | 4/10 |
-| Host Name | раздевайся |
+| Lobby ID | 28595310880772127 |
+| Players | 2/8 |
+| Host Name | gde tut okno?? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:53:49 |
+| Lobby Creation Time | Monday, January 8, 2024 17:53:59 |
 
 
 |  | epic_boss_fight_nightmare |
