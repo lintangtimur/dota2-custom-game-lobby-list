@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311539255923 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Schizophrenia |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:23:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311536168596 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Viejo Dotero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:11 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311539590938 |
-| Players | 2/10 |
-| Host Name | ulalilel5 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:23:44 |
+| Lobby ID | 28595311539712580 |
+| Players | 3/15 |
+| Host Name | Smile:) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:23:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311536254977 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:20 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311539644633 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ПусиПистол |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:23:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311539641971 |
-| Players | 1/15 |
-| Host Name | Jp-PMA |
-| Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:23:49 |
 
 
