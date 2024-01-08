@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311479520576 |
-| Players | 14/15 |
-| Host Name | ΔU = Q-W. |
+| Lobby ID | 28595311479913352 |
+| Players | 5/8 |
+| Host Name | ODESKIN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:55:22 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:55:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311474604915 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | The Turn Tabler |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:48:50 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311477803404 |
-| Players | 7/8 |
-| Host Name | Waffle |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:53:06 |
+| Lobby ID | 28595311479969457 |
+| Players | 5/8 |
+| Host Name | 833akirablade |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:55:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311479742930 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Sailor FreakMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:55:40 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311479903917 |
-| Players | 4/8 |
-| Host Name | ESTRIPER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:55:53 |
+| Lobby ID | 28595311480011909 |
+| Players | 1/8 |
+| Host Name | ДЕ Я |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:56:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝔸𝕤𝕤𝕒𝕤𝕤𝕚𝕟 |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:54:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311480011844 |
+| Players | 1/5 |
+| Host Name | Shisui |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:56:01 |
 
 
