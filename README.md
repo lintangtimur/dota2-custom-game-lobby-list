@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310845675142 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Ramen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:04:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310846134830 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Beezy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:05:03 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:05:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310846226085 |
+| Players | 1/24 |
+| Host Name | RednWhite |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:05:11 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595310842204247 |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:59:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310846227298 |
+| Players | 1/5 |
+| Host Name | (--pwetmalu--) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:05:12 |
 
 
