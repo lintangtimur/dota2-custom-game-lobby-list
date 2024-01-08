@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310925155641 |
-| Players | 1/10 |
-| Host Name | Luck |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 18:48:07 |
+| Lobby ID | 28595310930355427 |
+| Players | 8/24 |
+| Host Name | 愚昧的恶魔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:53:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310929253756 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | OmegaLuL~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:52:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310930444585 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | JIGA(happy blessed marriage) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:53:59 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:53:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310930355427 |
-| Players | 7/24 |
-| Host Name | 愚昧的恶魔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:53:54 |
+| Lobby ID | 28595310930718734 |
+| Players | 5/8 |
+| Host Name | RancHes |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 18:54:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310929437189 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Oni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:52:54 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:53:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310930604619 |
-| Players | 1/10 |
-| Host Name | WhyAlwaysMe* |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:54:10 |
 
 
