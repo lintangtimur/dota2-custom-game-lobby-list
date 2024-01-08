@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310865014072 |
-| Players | 1/8 |
-| Host Name | Ингалятор 228 |
+| Lobby ID | 28595310771502982 |
+| Players | 21/24 |
+| Host Name | Sallofos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:32:32 |
+| Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310866992523 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Gokubn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:35:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310870039736 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Лимфоузел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:39:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310870350137 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Кабан |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:39:49 |
@@ -77,37 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310870032730 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Мастурбиньо |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:39:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310870048167 |
-| Players | 7/8 |
-| Host Name | ¡Ãct1votorre? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:39:24 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310771502982 |
-| Players | 22/24 |
-| Host Name | Sallofos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310870399113 |
-| Players | 4/8 |
-| Host Name | blossom_orchid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:39:53 |
+| Lobby ID | 28595310870514347 |
+| Players | 1/24 |
+| Host Name | Smoke weed every Day |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:40:02 |
 
 
 |  | epic_boss_fight_nightmare |
