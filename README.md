@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311281404745 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | allmute |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:12:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311286521664 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:44 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311287321113 |
-| Players | 6/15 |
-| Host Name | mamania |
+| Lobby ID | 28595311287939448 |
+| Players | 1/15 |
+| Host Name | quarantaquattro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:32 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:19:08 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311285403904 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:16:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311287318171 |
-| Players | 14/15 |
-| Host Name | Attakiera |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:31 |
+| Lobby ID | 28595311287288671 |
+| Players | 4/8 |
+| Host Name | Jmaster210 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:18:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Elysium |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:17:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311287288671 |
-| Players | 3/8 |
-| Host Name | ИЗИ 0 БАЛЛОВ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:18:30 |
 
 
 |  | epic_boss_fight_nightmare |
