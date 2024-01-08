@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310862086589 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | PrincePocket |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:28:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310863370936 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Серега Рябчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:30:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310863429569 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | korol' hardbl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:30:20 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amigoooooo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:30:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310863460941 |
+| Players | 3/10 |
+| Host Name | thinkin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:30:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310863546516 |
+| Players | 1/10 |
+| Host Name | Ya feel me? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:30:30 |
 
 
 |  | epic_boss_fight_nightmare |
