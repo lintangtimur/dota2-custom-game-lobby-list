@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310820062627 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Hailmary |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:24:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310820298759 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SSH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:24:44 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BORZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:25:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310820823176 |
+| Players | 1/15 |
+| Host Name | Daniel-san |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 16:25:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310820842066 |
+| Players | 4/8 |
+| Host Name | Super sperme 2000 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:25:36 |
 
 
 |  | epic_boss_fight_hard |
