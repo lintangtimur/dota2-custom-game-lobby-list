@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310794537228 |
-| Players | 7/8 |
-| Host Name | Ryan Gosling |
+| Lobby ID | 28595310795067179 |
+| Players | 1/10 |
+| Host Name | Дима (СОСАЛ) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:41:50 |
+| Lobby Creation Time | Monday, January 8, 2024 15:42:49 |
 
 
 |  | ot3_desert_octet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 12/24 |
-| Host Name | Ayesha♥♥♥ |
+| Players | 10/24 |
+| Host Name | Ghedophit |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310793203603 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:30 |
@@ -92,37 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:41:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310794495159 |
-| Players | 8/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:41:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310794513546 |
-| Players | 13/15 |
-| Host Name | Юта Оккоцу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:41:48 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Libra |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310795036305 |
+| Players | 1/10 |
+| Host Name | backr00ms |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:42:46 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310789946136 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
