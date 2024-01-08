@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311573546233 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | sempiternal雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311573099990 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Niño Payday |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311573685898 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | J.N. |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
