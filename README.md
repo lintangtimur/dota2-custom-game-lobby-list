@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310821384610 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | dissembler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310821256685 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:17 |
