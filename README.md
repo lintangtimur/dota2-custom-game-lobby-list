@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310765009986 |
-| Players | 1/15 |
-| Host Name | Drathal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 14:49:14 |
+| Lobby ID | 28595310779402235 |
+| Players | 9/10 |
+| Host Name | Annette |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:15:09 |
 
 
 |  | ot3_desert_octet |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:15:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310779256033 |
-| Players | 2/10 |
-| Host Name | Granite |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 15:14:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310779402235 |
-| Players | 7/10 |
-| Host Name | Annette |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:15:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310779809051 |
-| Players | 1/8 |
-| Host Name | lets_fight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:15:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310778381867 |
@@ -104,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310779464812 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Jetts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:15:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310779702720 |
-| Players | 1/10 |
-| Host Name | Kago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:15:41 |
 
 
