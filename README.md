@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311183962657 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | hehe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:38:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311186947209 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Platon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:40:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311183198898 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | old Prince Petrarha |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:37:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311185991955 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | JhonnyBvB |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:39:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311187076376 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | Dog |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:40:58 |
@@ -131,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311187108149 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | QuS0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:41:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311187304413 |
+| Players | 2/10 |
+| Host Name | KumaBear |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:41:11 |
 
 
