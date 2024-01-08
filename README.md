@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311542625307 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311542713990 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tbgk7 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311542499150 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Túrin |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:32 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311543092969 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Tony Slark |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:29:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311543050137 |
-| Players | 7/8 |
-| Host Name | 123 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:29:28 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311543443629 |
+| Players | 1/8 |
+| Host Name | Aomine daiki |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:30:07 |
 
 
 |  | epic_boss_fight_normal |
