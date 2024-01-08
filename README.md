@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311535140074 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | селявка |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:16:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311535672568 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Scream~ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311535399732 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Illusionist- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:16:54 |
@@ -104,10 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311535827002 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | denzo_thebull |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311536168596 |
+| Players | 1/24 |
+| Host Name | Viejo Dotero |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:18:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311536250529 |
+| Players | 2/15 |
+| Host Name | rzks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:18:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311536254977 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:18:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311536001909 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | MI PRIMERA CHAMBA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:54 |
