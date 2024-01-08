@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310807020780 |
-| Players | 7/8 |
-| Host Name | Antithesis |
+| Lobby ID | 28595310807193403 |
+| Players | 6/10 |
+| Host Name | Gays_Tapo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:03:21 |
+| Lobby Creation Time | Monday, January 8, 2024 16:03:38 |
 
 
 |  | ot3_desert_octet |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:04:05 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310807193403 |
-| Players | 5/10 |
-| Host Name | Gays_Tapo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:03:38 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310805758584 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310802737167 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Gintoki |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:56:06 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:04:15 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310807792099 |
+| Players | 1/7 |
+| Host Name | Iris |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:04:37 |
 
 
