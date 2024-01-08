@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311547490462 |
-| Players | 7/8 |
-| Host Name | Superviviente de la chocolatada3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:36:53 |
+| Lobby ID | 28595311549272376 |
+| Players | 2/8 |
+| Host Name | god’s favourite since 00 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:39:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311546644236 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | swap reports |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:35:28 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311548225430 |
-| Players | 14/15 |
-| Host Name | -ЧЕRNЫЙ DEL{Ь}FИN ZEK- |
+| Lobby ID | 28595311549230083 |
+| Players | 7/10 |
+| Host Name | avtorje |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:38:07 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:39:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311548385613 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | @Obsessive-compulsive! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:38:23 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311548957214 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | J.A |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:39:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311549125581 |
-| Players | 2/15 |
-| Host Name | Rhythm |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:39:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311549230083 |
-| Players | 2/10 |
-| Host Name | avtorje |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:39:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311549272376 |
-| Players | 1/8 |
-| Host Name | god’s favourite since 00 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:39:53 |
 
 
 |  | epic_boss_fight_hard |
