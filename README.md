@@ -5,43 +5,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311490769928 |
-| Players | 3/8 |
-| Host Name | optimus_prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:29 |
+| Lobby ID | 28595311490693615 |
+| Players | 2/10 |
+| Host Name | SleepLess |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311490648759 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Control |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:10:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311490416220 |
-| Players | 2/8 |
-| Host Name | ZZ666 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:00 |
+| Lobby ID | 28595311490977623 |
+| Players | 1/24 |
+| Host Name | PauloLondra |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311489482953 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | NEAR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:08:43 |
@@ -56,49 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311490706550 |
-| Players | 7/8 |
-| Host Name | Secret |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:24 |
+| Lobby ID | 28595311490881086 |
+| Players | 1/10 |
+| Host Name | 100% cachero!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311489342690 |
-| Players | 7/8 |
-| Host Name | krico |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:08:31 |
+| Lobby ID | 28595311488445622 |
+| Players | 1/10 |
+| Host Name | BLESS THIS MESS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:07:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311490601317 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | sideral_frio |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:10:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311490633486 |
-| Players | 1/10 |
-| Host Name | ❄Christmas❄ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311490693615 |
-| Players | 2/10 |
-| Host Name | SleepLess |
+| Lobby ID | 28595311490844098 |
+| Players | 6/15 |
+| Host Name | pachino |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:10:23 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:10:35 |
 
 
 |  | epic_boss_fight_nightmare |
