@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310986139471 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Macrophage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:48:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310985163739 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:48:00 |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:28:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310986547660 |
-| Players | 4/10 |
-| Host Name | Ana nam |
-| Region | STOCKHOLM |
+| Lobby ID | 28595310986554968 |
+| Players | 6/24 |
+| Host Name | 보보씨 |
+| Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:49:17 |
 
 
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310986402904 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Ruiner |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:49:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310986554968 |
-| Players | 6/24 |
-| Host Name | 보보씨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:49:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310986566624 |
-| Players | 2/10 |
-| Host Name | penis |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 19:49:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lmfaowhocares™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:48:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310986542701 |
-| Players | 1/5 |
-| Host Name | JesTheGreat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:49:16 |
 
 
