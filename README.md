@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310782862431 |
-| Players | 16/24 |
+| Players | 13/24 |
 | Host Name | Janna Nick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:21:20 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:27:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310787849460 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:30:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310787435405 |
-| Players | 6/8 |
-| Host Name | Ahmetali |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:29:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310785107515 |
-| Players | 14/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 15:25:20 |
+| Lobby ID | 28595310787908275 |
+| Players | 1/8 |
+| Host Name | العسل الحلو |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:30:16 |
 
 
 |  | epic_boss_fight_nightmare |
