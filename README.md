@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311529342921 |
-| Players | 7/24 |
-| Host Name | хочу детокс |
+| Players | 5/24 |
+| Host Name | Jojoricot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:07:06 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311530747297 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:09:19 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311531242829 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | TAP TAP A LA PANTALLA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:10:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311530103332 |
-| Players | 14/15 |
-| Host Name | Hawk |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:08:17 |
+| Lobby ID | 28595311531066595 |
+| Players | 1/24 |
+| Host Name | Epul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:09:49 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311531132524 |
-| Players | 7/10 |
-| Host Name | Пупа |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:09:55 |
+| Lobby ID | 28595311531681967 |
+| Players | 1/8 |
+| Host Name | Пивослав Мудрый гроза ящеров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:10:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,43 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311530921226 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | qwer123 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:09:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311531430513 |
-| Players | 5/15 |
-| Host Name | Слава Україні |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:10:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311531066595 |
-| Players | 1/24 |
-| Host Name | Epul |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:09:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311527127919 |
-| Players | 23/24 |
-| Host Name | Perro chusco |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:03:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311530542245 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | rohanec1993 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:08:59 |
