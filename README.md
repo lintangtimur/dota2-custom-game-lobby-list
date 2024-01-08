@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311299481071 |
-| Players | 9/10 |
-| Host Name | Teregue |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:30:57 |
+| Lobby ID | 28595311305694431 |
+| Players | 8/10 |
+| Host Name | антиклоун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:37:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311304542664 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Peruano Universal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:36:05 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311305359961 |
-| Players | 9/10 |
-| Host Name | InvokerHedgehogTTV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:36:55 |
+| Lobby ID | 28595311305705972 |
+| Players | 1/24 |
+| Host Name | Whis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:37:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311305035011 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Urio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:36:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311304859981 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Real CatOwner |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:36:25 |
@@ -92,49 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:37:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311305679746 |
-| Players | 2/10 |
-| Host Name | Sofia |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:37:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311305694431 |
-| Players | 2/10 |
-| Host Name | антиклоун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:37:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311305378732 |
-| Players | 13/15 |
-| Host Name | ❅ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:36:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311305705972 |
-| Players | 1/24 |
-| Host Name | Whis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:37:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311302699725 |
-| Players | 9/10 |
-| Host Name | 嗨 蛋炒饭 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:34:12 |
+| Lobby ID | 28595311305883214 |
+| Players | 3/15 |
+| Host Name | Оушен Гузок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:37:27 |
 
 
 |  | epic_boss_fight_nightmare |
