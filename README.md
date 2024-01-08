@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310847490562 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
+| Lobby ID | 28595310884651471 |
+| Players | 3/8 |
+| Host Name | wvnna die |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,37 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874181493 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310884209148 |
-| Players | 12/15 |
-| Host Name | Emotional Damage |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310883175122 |
-| Players | 7/8 |
-| Host Name | Somnus~ |
+| Lobby ID | 28595310884064210 |
+| Players | 5/10 |
+| Host Name | )) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:57:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310884168778 |
-| Players | 3/24 |
-| Host Name | Teudoongie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:58:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310884064210 |
-| Players | 5/10 |
-| Host Name | )) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:20 |
+| Lobby ID | 28595310884168778 |
+| Players | 4/24 |
+| Host Name | Teudoongie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310882304979 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:56:00 |
