@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311084394641 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Борис Нюхач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:14:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311083394728 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:13:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311081489482 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:11:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311084974980 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | чезахуйняхочувзятьврукиоружие |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:14:38 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311084898586 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | тварь-мразь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:14:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311085204267 |
+| Players | 1/10 |
+| Host Name | SUN ♥ |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 21:14:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311082804454 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Born on a Monday |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:12:48 |
