@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:27:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310862021877 |
-| Players | 14/15 |
-| Host Name | MAMA |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:28:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310862432164 |
-| Players | 9/10 |
-| Host Name | Traktoristo младший |
+| Lobby ID | 28595310862564215 |
+| Players | 4/10 |
+| Host Name | ? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:28:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310862230059 |
-| Players | 6/8 |
-| Host Name | Аня Белова |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:28:38 |
+| Lobby Creation Time | Monday, January 8, 2024 17:29:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:28:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310862564215 |
-| Players | 4/10 |
-| Host Name | ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:29:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310862656401 |
-| Players | 1/24 |
-| Host Name | 8laze |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 17:29:14 |
+| Lobby ID | 28595310862755908 |
+| Players | 2/15 |
+| Host Name | sumecdota2 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:29:23 |
 
 
 |  | epic_boss_fight_normal |
