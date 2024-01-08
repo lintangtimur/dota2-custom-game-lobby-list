@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310839753345 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | игрок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310840058817 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | EFF3CTS8<♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310840056516 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Despian Luluwalilith |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:55 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:55:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310840113438 |
-| Players | 2/10 |
-| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:56:00 |
+| Lobby ID | 28595310840180656 |
+| Players | 1/24 |
+| Host Name | IM BUNNY ISREAL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:56:07 |
 
 
 |  | epic_boss_fight_nightmare |
