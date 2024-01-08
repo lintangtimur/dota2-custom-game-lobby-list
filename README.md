@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | BoSS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310790987937 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | sigma skibidi toilet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:35:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | hellosofia |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:36:29 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310791591325 |
+| Players | 1/8 |
+| Host Name | lokoespartano |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:42 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310791537923 |
+| Lobby ID | 28595310791615826 |
 | Players | 2/10 |
 | Host Name | Solowind |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 15:36:37 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310791330066 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Michaelmical Romance |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:15 |
@@ -119,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:36:30 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595310791527015 |
-| Players | 1/5 |
-| Host Name | ATWA |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:36:36 |
+| Lobby ID | 28595310791549688 |
+| Players | 4/7 |
+| Host Name | Осел |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:38 |
 
 
