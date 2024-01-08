@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310901982549 |
-| Players | 3/8 |
-| Host Name | Mr.Lemon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:21:03 |
+| Lobby ID | 28595310902211388 |
+| Players | 8/15 |
+| Host Name | OxXyte |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:21:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310899403140 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:17:57 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310902159321 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 829 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:21:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310902211388 |
-| Players | 4/15 |
-| Host Name | GodVorob |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:21:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310902243669 |
-| Players | 3/8 |
-| Host Name | Абу хазми буль-бу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:21:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310902254418 |
-| Players | 2/8 |
-| Host Name | я верю только в любовь` |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:21:22 |
 
 
 |  | epic_boss_fight_nightmare |
