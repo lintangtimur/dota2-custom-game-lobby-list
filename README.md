@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310817663142 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Torpeda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:20:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310816476454 |
-| Players | 3/8 |
-| Host Name | TEMELkaa |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 16:18:38 |
 
 
 |  | ot3_desert_octet |
@@ -54,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Reikn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:17:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310817700337 |
-| Players | 1/10 |
-| Host Name | Tony Tony Chopp3r |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 16:20:35 |
 
 
 |  | epic_boss_fight_hard |
@@ -77,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310816871758 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Devil Mackarin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:19:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310817954260 |
+| Players | 1/5 |
+| Host Name | Totoy_**pinkzzZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:20:59 |
 
 
