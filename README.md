@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311136823836 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 01010100_01001100_01000101 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:58:55 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:59:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311140677014 |
-| Players | 9/15 |
-| Host Name | Кибур |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:02:18 |
+| Lobby ID | 28595311141391098 |
+| Players | 7/10 |
+| Host Name | mOOKa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:02:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:02:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311141181594 |
-| Players | 3/8 |
-| Host Name | Samarskiy traktorniy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:02:45 |
+| Lobby ID | 28595311141610278 |
+| Players | 2/10 |
+| Host Name | Preff_S |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:03:07 |
 
 
 |  | ot3_desert_octet |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311141391098 |
-| Players | 7/10 |
-| Host Name | mOOKa |
+| Lobby ID | 28595311140644165 |
+| Players | 3/5 |
+| Host Name | ⌜J7⌟ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:02:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311141610278 |
-| Players | 1/10 |
-| Host Name | Preff_S |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:03:07 |
+| Lobby Creation Time | Monday, January 8, 2024 22:02:17 |
 
 
