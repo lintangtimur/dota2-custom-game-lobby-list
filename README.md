@@ -14,37 +14,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310828137420 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310831896201 |
-| Players | 6/10 |
-| Host Name | Ради неё [Dead Inside] |
+| Lobby ID | 28595310832668629 |
+| Players | 1/8 |
+| Host Name | zXw |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:43:29 |
+| Lobby Creation Time | Monday, January 8, 2024 16:44:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310832695782 |
+| Players | 3/15 |
+| Host Name | froqsy <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:44:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310832169851 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | лучший |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:43:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310832279121 |
-| Players | 2/15 |
-| Host Name | alina |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:44:07 |
+| Lobby ID | 28595310832805581 |
+| Players | 1/24 |
+| Host Name | Kaleen bhaiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:44:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GGOVER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:41:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310832679167 |
+| Players | 1/10 |
+| Host Name | WhyAlwaysMe* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:44:46 |
 
 
