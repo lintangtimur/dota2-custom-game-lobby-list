@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311550184895 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | only webeo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:41:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311551057389 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ghoul triple s range |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:42:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311549807939 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | chiste algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:40:47 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:42:36 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311551178455 |
+| Players | 2/10 |
+| Host Name | ALPACA MENOR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:43:11 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595311547755194 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311550828743 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | WarFendi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:42:34 |
