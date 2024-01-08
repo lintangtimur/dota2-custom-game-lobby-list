@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311583395264 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | SCUERO EL TERROR DE ILABAYA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:43:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311584281904 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | RazorJeKrál |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:44:53 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:44:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311584482168 |
+| Players | 2/8 |
+| Host Name | Ынкылда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:45:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311584424353 |
+| Lobby ID | 28595311584490689 |
 | Players | 1/15 |
 | Host Name | Yamiツ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:45:11 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:45:19 |
 
 
 |  | epic_boss_fight_nightmare |
