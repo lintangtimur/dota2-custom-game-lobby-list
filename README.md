@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310911287956 |
-| Players | 7/8 |
-| Host Name | GOYDAAAAAA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:32:03 |
+| Lobby ID | 28595310912159070 |
+| Players | 5/10 |
+| Host Name | clav3k |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:33:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310912031337 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Game_over_v.2.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:56 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310912159070 |
-| Players | 2/10 |
-| Host Name | clav3k |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:33:04 |
+| Lobby ID | 28595310912320787 |
+| Players | 1/10 |
+| Host Name | Shabilov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:33:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310911769199 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
