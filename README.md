@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311482251698 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | egoist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:58:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311480768050 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:57:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311482379163 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | slik |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:59:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311478194415 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:53:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311482517689 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | De hecho.. :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:59:21 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311482397864 |
-| Players | 6/10 |
-| Host Name | Ssser |
+| Lobby ID | 28595311482826516 |
+| Players | 2/10 |
+| Host Name | рокстар(панк) |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:59:11 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:59:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311482852957 |
+| Players | 1/24 |
+| Host Name | Leman Russ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:59:48 |
 
 
 |  | epic_boss_fight_normal |
