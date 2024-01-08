@@ -14,37 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311518778645 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | J!N |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:50:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311519356429 |
-| Players | 8/15 |
-| Host Name | Tiān wēi zhèn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:51:48 |
+| Lobby ID | 28595311519184849 |
+| Players | 3/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:51:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311519147410 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | KshimaXD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:51:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311519290680 |
-| Players | 3/10 |
-| Host Name | tt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:51:42 |
+| Lobby ID | 28595311519227235 |
+| Players | 9/15 |
+| Host Name | Neo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:51:37 |
 
 
 |  | ot3_desert_octet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:51:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311518921064 |
-| Players | 6/8 |
-| Host Name | krico |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:51:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311518217848 |
@@ -83,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:50:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311519184849 |
-| Players | 2/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:51:33 |
+| Lobby ID | 28595311519611914 |
+| Players | 4/8 |
+| Host Name | Gojo Satoru |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:52:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311519227235 |
-| Players | 5/15 |
-| Host Name | Neo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:51:37 |
+| Lobby ID | 28595311519628406 |
+| Players | 2/10 |
+| Host Name | Madison |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:52:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311519308933 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:51:44 |
