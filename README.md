@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311522623818 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Masaru Aoki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:56:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311522049952 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Aldim |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:55:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311522210223 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MilQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:56:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311521758031 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | .: XV :.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:55:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311522611320 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Виктор ТУМБЛЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:56:44 |
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Money |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:56:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311521903924 |
+| Players | 8/10 |
+| Host Name | РУБИЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:55:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311519417204 |
+| Players | 7/8 |
+| Host Name | скоро лузстрик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:51:54 |
 
 
