@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311219653258 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | rafiki |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:12:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311222218375 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Milky Way |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311222236357 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | W бозон 弱相互作用 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:30 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311221890471 |
-| Players | 2/8 |
-| Host Name | Бабушка Стрея |
+| Players | 5/8 |
+| Host Name | Rory IVIercury |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:10 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311221955443 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:14 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Na 4iLe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311222445332 |
+| Players | 4/10 |
+| Host Name | Xaynix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -134,15 +143,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/10 |
 | Host Name | Alchemist's Bones |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:14:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311222164554 |
-| Players | 1/10 |
-| Host Name | Alfy Fox |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:26 |
 
 
