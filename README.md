@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310806700047 |
-| Players | 5/8 |
-| Host Name | КАСАКУ ГРАДУСНИК |
+| Lobby ID | 28595310807020780 |
+| Players | 1/8 |
+| Host Name | Antithesis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:02:49 |
+| Lobby Creation Time | Monday, January 8, 2024 16:03:21 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310806069198 |
-| Players | 12/15 |
-| Host Name | Pray for something |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:01:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310805589699 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Lê Duẩn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:00:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310806811424 |
-| Players | 6/10 |
-| Host Name | Doyki.Xddcc.fullpohuy |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:03:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310806904196 |
-| Players | 4/8 |
-| Host Name | подлый детригнус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:03:09 |
 
 
 |  | epic_boss_fight_normal |
