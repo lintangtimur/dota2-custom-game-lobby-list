@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:56:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310804305837 |
-| Players | 5/8 |
-| Host Name | Эскапизм Души |
+| Lobby ID | 28595310804807247 |
+| Players | 8/15 |
+| Host Name | venomus_44 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:58:46 |
+| Lobby Creation Time | Monday, January 8, 2024 15:59:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310803417619 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:57:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310804401898 |
-| Players | 7/10 |
-| Host Name | Drkngg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:58:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310804511670 |
-| Players | 9/15 |
-| Host Name | حعسسغيثسفقخغثق |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:59:07 |
 
 
 |  | epic_boss_fight_nightmare |
