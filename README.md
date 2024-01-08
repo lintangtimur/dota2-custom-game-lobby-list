@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311148019762 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:08:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311141249461 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Neonsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311143737512 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:05:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311147933916 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | NoName |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:08:44 |
@@ -113,27 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311148225872 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | ꧁༒♛ĶI†♛༒꧂(Argent) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:08:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311144711907 |
-| Players | 14/15 |
-| Host Name | epileptic |
+| Lobby ID | 28595311148702021 |
+| Players | 2/8 |
+| Host Name | gorilla mango |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:05:52 |
+| Lobby Creation Time | Monday, January 8, 2024 22:09:25 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311148556701 |
-| Players | 2/7 |
-| Host Name | ^^ |
+| Lobby ID | 28595311148716046 |
+| Players | 1/5 |
+| Host Name | Dome_Cheshire4Life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:09:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311148747770 |
+| Players | 1/5 |
+| Host Name | ХУХ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:09:17 |
+| Lobby Creation Time | Monday, January 8, 2024 22:09:27 |
 
 
