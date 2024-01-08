@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311574383578 |
-| Players | 4/10 |
-| Host Name | AL |
+| Players | 2/10 |
+| Host Name | FSDC | Kapsy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:26 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311573403103 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:35 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311571029872 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ----- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:19:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311574286721 |
-| Players | 10/15 |
-| Host Name | В ДУШЕ ВЛАСТЕЛИН! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:25:15 |
+| Lobby ID | 28595311574580497 |
+| Players | 2/24 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:48 |
 
 
 |  | ot3_gardens_duo |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311574453928 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | salstic |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311574580497 |
-| Players | 1/24 |
-| Host Name | Poomp |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:25:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311572431974 |
-| Players | 9/10 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:21:45 |
+| Lobby ID | 28595311574831651 |
+| Players | 3/8 |
+| Host Name | HateEverything |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:26:16 |
 
 
 |  | epic_boss_fight_nightmare |
