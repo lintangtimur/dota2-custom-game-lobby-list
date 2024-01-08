@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310914376206 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | torcheck(ee bb) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310917296629 |
-| Players | 7/15 |
-| Host Name | СОБАКА БАСКЕРВИЛИ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:39:03 |
+| Lobby ID | 28595310917601292 |
+| Players | 2/10 |
+| Host Name | Neoxa محمد سومبول |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:39:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310917042563 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | BARINOV1VOEVAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:38:45 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310917396005 |
-| Players | 3/10 |
+| Lobby ID | 28595310917678668 |
+| Players | 2/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:39:10 |
+| Lobby Creation Time | Monday, January 8, 2024 18:39:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310916190050 |
-| Players | 1/5 |
-| Host Name | mr.guid2517 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:37:46 |
 
 
