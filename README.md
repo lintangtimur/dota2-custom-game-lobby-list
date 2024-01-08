@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310876400183 |
-| Players | 5/8 |
-| Host Name | 13 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:48:08 |
+| Lobby ID | 28595310876298659 |
+| Players | 5/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 17:47:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,46 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874181493 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310876492814 |
-| Players | 9/10 |
-| Host Name | три рейза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:48:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310874227774 |
-| Players | 15/24 |
-| Host Name | ✪ Spray 'n' Pray ✪ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:45:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310875271842 |
-| Players | 12/15 |
-| Host Name | Торшер Good Boy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:46:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310876298659 |
-| Players | 1/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 17:47:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 359 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:48:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310874227774 |
+| Players | 17/24 |
+| Host Name | ✪ Spray 'n' Pray ✪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:10 |
 
 
