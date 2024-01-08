@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310826871100 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Черное Авокадо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:35:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310826972203 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | aC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:35:30 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:33:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310827165515 |
-| Players | 1/15 |
-| Host Name | ♥worship♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 16:35:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310827729343 |
-| Players | 4/8 |
-| Host Name | 操你妈 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:36:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310825939175 |
@@ -81,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Guts |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:57 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595310814364345 |
+| Players | 6/7 |
+| Host Name | kolpacheque |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:15:14 |
 
 
