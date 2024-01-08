@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310964285291 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 19:28:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310961297495 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310964235485 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | dolbojop spieler |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:28:17 |
@@ -113,34 +113,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310955159437 |
-| Players | 2/10 |
-| Host Name | NEGIBATOR |
+| Players | 1/10 |
+| Host Name | лосось |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:19:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310965259478 |
-| Players | 14/15 |
-| Host Name | RASL |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:29:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310965927163 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Sombra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:29:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310966062538 |
+| Players | 5/10 |
+| Host Name | ПЛАТОША |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310966054483 |
+| Players | 3/15 |
+| Host Name | Вася профетроль123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310960300944 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Demolition @ Internet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 19:24:29 |
