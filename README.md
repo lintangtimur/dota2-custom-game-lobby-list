@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311169606161 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:25:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311169398472 |
-| Players | 1/8 |
-| Host Name | PLAY WITH BEER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:25:27 |
+| Lobby ID | 28595311170010145 |
+| Players | 1/10 |
+| Host Name | Tripa Seca BOLADÃO |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 22:25:56 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:25:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311168984631 |
-| Players | 13/15 |
-| Host Name | Sir Geus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:25:08 |
+| Lobby ID | 28595311170135941 |
+| Players | 3/8 |
+| Host Name | Чвк Вагнер |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:26:02 |
 
 
 |  | ot3_desert_octet |
@@ -123,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311169629715 |
 | Players | 1/24 |
-| Host Name | pake nanya |
+| Host Name | Who TAO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:25:38 |
 
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311160537026 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:19:11 |
@@ -167,18 +167,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311168043991 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | epileptick1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:24:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311169821192 |
-| Players | 1/5 |
-| Host Name | KATSU |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:25:47 |
 
 
