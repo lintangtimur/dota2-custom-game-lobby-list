@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311551612921 |
-| Players | 2/15 |
-| Host Name | NoChance |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:43:58 |
+| Lobby ID | 28595311551663161 |
+| Players | 6/15 |
+| Host Name | ALEXIITO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:44:03 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311551467818 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | [ZА]КАЛДУЮ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:43:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311551343945 |
-| Players | 8/10 |
-| Host Name | Slasher |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:43:29 |
+| Lobby ID | 28595311549184082 |
+| Players | 2/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:39:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:43:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311549184082 |
-| Players | 3/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:39:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311550853302 |
-| Players | 6/8 |
-| Host Name | absolute. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:42:36 |
+| Lobby ID | 28595311551680068 |
+| Players | 4/10 |
+| Host Name | defi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:44:05 |
 
 
 |  | epic_boss_fight_hard |
