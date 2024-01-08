@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311435095177 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | xzc |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311449491682 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | WeedFather |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:17:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311450569911 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | YALNIZKURT42!! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:18:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311450406653 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 123w |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:18:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311444539156 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:10:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311448036220 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:15:11 |
@@ -146,21 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:18:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311451262696 |
+| Players | 2/15 |
+| Host Name | c.354.1_OOKA_EREF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:19:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311450706634 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Любимые дрова |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:18:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311451085017 |
-| Players | 4/10 |
-| Host Name | Не заебуй |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:18:58 |
 
 
