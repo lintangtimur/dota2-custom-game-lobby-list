@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310957260864 |
-| Players | 10/15 |
-| Host Name | kei |
+| Lobby ID | 28595310958307293 |
+| Players | 1/15 |
+| Host Name | Сексуалка |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:21:31 |
+| Lobby Creation Time | Monday, January 8, 2024 19:22:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310958071423 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | гроза тугосерь |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:22:19 |
@@ -94,26 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310958094045 |
-| Players | 1/10 |
+| Lobby ID | 28595310958176526 |
+| Players | 3/10 |
 | Host Name | GhasT |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:22:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310958122122 |
-| Players | 4/8 |
-| Host Name | писька джан ♿ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:22:22 |
+| Lobby Creation Time | Monday, January 8, 2024 19:22:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310951893765 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:13 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MASONUHA |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:22:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310958310122 |
+| Players | 1/5 |
+| Host Name | Cardinal |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:22:33 |
 
 
