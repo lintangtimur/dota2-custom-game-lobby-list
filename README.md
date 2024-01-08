@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311383699277 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Rasm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:59:55 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311383126207 |
-| Players | 7/24 |
-| Host Name | < blank > |
+| Players | 9/24 |
+| Host Name | 🅵🅴🅳🅴🅰🅽🅳🅾 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:59:16 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311383545397 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Собачий кайф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:59:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311381281039 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | locked |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:57:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311379449697 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | BoB LeE SwaGgeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:55:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311382119937 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | PINGOROCHO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:58:09 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311381684323 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | деафывйцу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:57:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311383844749 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Гендос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:00:05 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311381456650 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Asalomu Alekum Inshallahovich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:57:25 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311383452980 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | наказатель |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:59:38 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311383557092 |
-| Players | 7/15 |
+| Players | 15/15 |
 | Host Name | Pupsik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:59:45 |
@@ -173,6 +173,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:00:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311384016090 |
+| Players | 5/8 |
+| Host Name | alt cunningham |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:00:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311382440677 |
@@ -180,14 +189,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aria |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:58:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311383842257 |
-| Players | 1/5 |
-| Host Name | -Anime_Yuuki- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:00:04 |
 
 
