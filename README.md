@@ -41,35 +41,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310996265635 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | sb |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311020052586 |
-| Players | 1/8 |
-| Host Name | курение |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:19:23 |
+| Lobby ID | 28595311021394759 |
+| Players | 8/10 |
+| Host Name | xxoda04 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:20:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311020025145 |
-| Players | 5/8 |
-| Host Name | Meid |
+| Lobby ID | 28595311021945057 |
+| Players | 3/8 |
+| Host Name | Life Prophet |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:19:21 |
+| Lobby Creation Time | Monday, January 8, 2024 20:20:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311016561913 |
-| Players | 10/24 |
-| Host Name | ? |
+| Players | 4/24 |
+| Host Name | Razer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:16:22 |
 
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311021803892 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Arne på språng! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:20:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311021835978 |
+| Players | 2/10 |
+| Host Name | The Alpha and the Omega |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:20:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311021563921 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Hiraeth |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 20:20:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311021818043 |
+| Players | 1/5 |
+| Host Name | That's the end? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:20:53 |
 
 
