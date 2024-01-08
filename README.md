@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311552603680 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:45:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311559175143 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | EGOIST. giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311559272898 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:37 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311559206972 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Elon Tusk |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311559539600 |
-| Players | 6/10 |
-| Host Name | Dea D Igami |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:58:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311557476530 |
-| Players | 14/15 |
-| Host Name | M.R-YoEL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:54:21 |
+| Lobby ID | 28595311559768480 |
+| Players | 7/8 |
+| Host Name | Zeylod |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:58:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,21 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:55:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311550828743 |
-| Players | 9/10 |
-| Host Name | CYTCYT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:42:34 |
+| Lobby ID | 28595311559695517 |
+| Players | 3/8 |
+| Host Name | Маша Шишкина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:58:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311557638615 |
+| Players | 23/24 |
+| Host Name | J!N |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:54:38 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311557071238 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Миликанес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:53:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311559884180 |
+| Players | 1/10 |
+| Host Name | Ебашу ваших Папаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:58:45 |
 
 
