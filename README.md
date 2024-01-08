@@ -47,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:05:37 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310808480593 |
+| Players | 6/15 |
+| Host Name | Snake |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:05:44 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310805758584 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:01:15 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310802737167 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Gintoki |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:56:06 |
