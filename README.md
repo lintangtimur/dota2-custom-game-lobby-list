@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311583395264 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SCUERO EL TERROR DE ILABAYA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:43:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311582683182 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:41:35 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311582213701 |
-| Players | 14/15 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:40:38 |
+| Lobby ID | 28595311583584172 |
+| Players | 1/24 |
+| Host Name | Nimetal |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:43:25 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311578217012 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | QuakerOath |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:32:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311582513414 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Ash |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:41:14 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311583382173 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 3plDabl |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:43:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311583566162 |
-| Players | 1/10 |
-| Host Name | Apolly |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:43:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311583584172 |
-| Players | 1/24 |
-| Host Name | Nimetal |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:43:25 |
 
 
 |  | epic_boss_fight_nightmare |
