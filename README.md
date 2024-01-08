@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311524758239 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Anisotropic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311524860040 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | GluArt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:11 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311524711782 |
-| Players | 7/8 |
-| Host Name | 1𝟡S҉ ℤ06 |
+| Lobby ID | 28595311525211203 |
+| Players | 2/10 |
+| Host Name | раздевайся |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:59:57 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:00:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311525077663 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Нравится? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311525067468 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | tu abuela |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:30 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311525077283 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | AL VITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:00:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311525204052 |
+| Players | 2/8 |
+| Host Name | Tsuki Lawliet |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:00:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311525265491 |
+| Players | 1/24 |
+| Host Name | La12Rlxツ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:00:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311525309767 |
+| Players | 2/8 |
+| Host Name | ALL ME |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:00:53 |
 
 
 |  | epic_boss_fight_nightmare |
