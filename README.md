@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310969086202 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:32:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310969341171 |
 | Players | 2/10 |
-| Host Name | Morozyaka |
+| Host Name | Людмил Огурченко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:13 |
 
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:33:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310969269030 |
-| Players | 6/15 |
-| Host Name | Lackey |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310969340241 |
@@ -128,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:33:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310969775358 |
+| Players | 1/15 |
+| Host Name | печальный жнец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:33:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310967318239 |
-| Players | 9/10 |
-| Host Name | На покури |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:31:15 |
+| Lobby ID | 28595310969463313 |
+| Players | 2/10 |
+| Host Name | 男人哭吧哭吧不是罪>.< |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:33:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Urek Mazino |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310969463313 |
-| Players | 1/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:20 |
 
 
