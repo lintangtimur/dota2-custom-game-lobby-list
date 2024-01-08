@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848522315 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PMA |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310883755762 |
-| Players | 7/8 |
-| Host Name | spacestalker slayer300raw1200cpm |
+| Lobby ID | 28595310884116707 |
+| Players | 4/8 |
+| Host Name | SonOfaLich |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:57:55 |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310883981107 |
-| Players | 2/15 |
-| Host Name | ГОРЯЧИЙ МУЧАЧОС |
+| Players | 13/15 |
+| Host Name | Яблочко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:58:13 |
 
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:58:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310884064210 |
+| Players | 4/10 |
+| Host Name | )) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310884168778 |
+| Players | 1/24 |
+| Host Name | Teudoongie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310881010544 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Baba Yega |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:17 |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310882304979 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:56:00 |
