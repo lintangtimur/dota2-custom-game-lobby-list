@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310955159437 |
-| Players | 9/10 |
-| Host Name | ПЛАТОША |
+| Lobby ID | 28595310964074116 |
+| Players | 7/8 |
+| Host Name | я...ТАЛАНТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:19:28 |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:08 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310963766223 |
-| Players | 7/10 |
-| Host Name | ДЖОЙКАНИСТРА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:27:49 |
+| Lobby ID | 28595310964285291 |
+| Players | 1/8 |
+| Host Name | POPULAR FORCE |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310961297495 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
@@ -92,19 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:27:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310964598966 |
+| Players | 11/15 |
+| Host Name | топ 5 болезней |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:38 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310964074116 |
-| Players | 4/8 |
-| Host Name | я...ТАЛАНТ |
+| Lobby ID | 28595310964235485 |
+| Players | 2/8 |
+| Host Name | dolbojop spieler |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310964531210 |
+| Players | 9/10 |
+| Host Name | CLARISE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310964979304 |
+| Players | 2/10 |
+| Host Name | серега |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:28:08 |
+| Lobby Creation Time | Monday, January 8, 2024 19:29:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310960300944 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Demolition @ Internet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 19:24:29 |
@@ -113,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310963531305 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:27:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310964680760 |
+| Players | 2/5 |
+| Host Name | Данил Алексеевич |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:28:43 |
 
 
