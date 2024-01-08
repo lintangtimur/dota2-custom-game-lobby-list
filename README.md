@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311541561767 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Sid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311542122237 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311542685869 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Dea D Igami |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311542431972 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Твоя сестра |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:25 |
@@ -104,16 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311542499150 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Túrin |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311542713990 |
+| Players | 2/10 |
+| Host Name | tbgk7 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:54 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311540725088 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | péricles-atéquedurou.mp3 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:25:35 |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Haron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311539975404 |
-| Players | 9/10 |
-| Host Name | ORSHABAAL |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:24:21 |
 
 
