@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311393484864 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | EL DEMANDADO |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:10:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311392987317 |
-| Players | 7/8 |
-| Host Name | ICHZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:10:19 |
+| Lobby ID | 28595311393716648 |
+| Players | 1/24 |
+| Host Name | JohnNy |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:11:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311393388063 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | BrummiKraftgalli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:10:46 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311392755399 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | eggsandwich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:10:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311393654259 |
-| Players | 1/24 |
-| Host Name | WaffleMaker |
+| Lobby ID | 28595311393728162 |
+| Players | 14/15 |
+| Host Name | 97rising |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:11:04 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:11:09 |
 
 
 |  | epic_boss_fight_nightmare |
