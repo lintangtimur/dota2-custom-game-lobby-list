@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311033492889 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:30:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311031666704 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Interesting_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:29:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311033958090 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Suslik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:31:17 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 'DPTKH]'PKDHT;OJK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:27:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311034264579 |
+| Players | 2/8 |
+| Host Name | 72Регион |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:31:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311034164460 |
+| Players | 1/8 |
+| Host Name | Хан 7000 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:31:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anti-Creep |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311034132292 |
+| Players | 3/10 |
+| Host Name | 10K Behavior Score |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 20:31:26 |
 
 
