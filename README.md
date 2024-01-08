@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310814618864 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | 秘魯殺手 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 16:15:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310815924900 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:17:45 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310814827058 |
-| Players | 4/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:15:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310815657566 |
-| Players | 10/15 |
-| Host Name | Шкилет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:17:19 |
+| Lobby ID | 28595310816408235 |
+| Players | 2/8 |
+| Host Name | 女人只会影响我变盒子 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:18:32 |
 
 
 |  | epic_boss_fight_nightmare |
