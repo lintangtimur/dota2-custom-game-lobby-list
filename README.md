@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311141249461 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Neonsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311142993993 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ChatGPT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:04:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311142031203 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Waffle |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:03:29 |
@@ -74,22 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:59:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311141869168 |
-| Players | 5/8 |
-| Host Name | empathy bastard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:03:21 |
+| Lobby ID | 28595311143486197 |
+| Players | 2/10 |
+| Host Name | Антонио Фрикачелли |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:04:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311141019989 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | SwankyGank |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311139004297 |
+| Players | 23/24 |
+| Host Name | = CANONIC BE CANONIC = |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:00:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311143479306 |
+| Players | 1/15 |
+| Host Name | Тильтроник |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:04:46 |
 
 
 |  | epic_boss_fight_nightmare |
