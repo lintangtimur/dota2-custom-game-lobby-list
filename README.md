@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310943631651 |
-| Players | 7/10 |
-| Host Name | kaito shoma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:07:48 |
+| Lobby ID | 28595310943909319 |
+| Players | 1/8 |
+| Host Name | Po |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:08:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310943735442 |
+| Lobby ID | 28595310944025737 |
 | Players | 2/8 |
-| Host Name | reilereet |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:07:54 |
+| Host Name | ayoungpsicho in prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:08:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310943387214 |
-| Players | 9/15 |
-| Host Name | Samurai |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:07:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310943882839 |
-| Players | 6/15 |
-| Host Name | someone clipped my wings |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:08:03 |
+| Lobby ID | 28595310943988947 |
+| Players | 2/24 |
+| Host Name | BPLD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:08:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,37 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:08:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310943909319 |
-| Players | 1/8 |
-| Host Name | Po |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:08:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310942772142 |
-| Players | 9/10 |
-| Host Name | ThOrflnn |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:06:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310943988947 |
-| Players | 1/24 |
-| Host Name | BPLD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 19:08:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310943562333 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kiddo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:07:44 |
