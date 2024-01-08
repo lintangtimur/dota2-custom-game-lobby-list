@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311334623033 |
-| Players | 23/24 |
-| Host Name | Bino cagada |
+| Lobby ID | 28595311336895803 |
+| Players | 6/8 |
+| Host Name | SIDERAL FRIO |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:07:11 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:09:35 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311339044144 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | JS |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:11:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311334560507 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Micio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:07:08 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311338766558 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Яж Гуевреев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:11:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311337101712 |
-| Players | 6/8 |
-| Host Name | CM Axl |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:09:48 |
+| Lobby ID | 28595311339182978 |
+| Players | 1/10 |
+| Host Name | changuito 10000 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:11:58 |
 
 
 |  | ot3_desert_octet |
@@ -112,29 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311336895803 |
-| Players | 5/8 |
-| Host Name | SIDERAL FRIO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:09:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311339173420 |
-| Players | 5/8 |
-| Host Name | MAISONdes |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:11:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311339182978 |
-| Players | 1/10 |
-| Host Name | changuito 10000 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:11:58 |
+| Lobby ID | 28595311339336794 |
+| Players | 1/8 |
+| Host Name | Doker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:12:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -164,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:07:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311334060777 |
-| Players | 6/10 |
-| Host Name | ~Namuuu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:06:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311338661286 |
-| Players | 2/10 |
-| Host Name | LMao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:11:25 |
+| Lobby ID | 28595311339364075 |
+| Players | 1/5 |
+| Host Name | FishBunnyCat |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:12:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -193,10 +166,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311339185689 |
+| Lobby ID | 28595311339339456 |
 | Players | 1/10 |
-| Host Name | hatdog |
+| Host Name | Ya Me Te |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:11:58 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:12:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311339368983 |
+| Players | 2/10 |
+| Host Name | LMao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:12:09 |
 
 
