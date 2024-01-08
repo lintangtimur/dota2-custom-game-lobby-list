@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310852791390 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | JHIIAAEEAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:14:58 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310854570296 |
-| Players | 8/15 |
-| Host Name | Даже девственницa |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:17:34 |
+| Lobby ID | 28595310852600201 |
+| Players | 23/24 |
+| Host Name | 闻人翊悬 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:14:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310854413256 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Fe"Nik"s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:17:20 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310854905050 |
+| Lobby ID | 28595310854955684 |
 | Players | 1/15 |
 | Host Name | FOCUS ME |
 | Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 17:18:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310854892286 |
-| Players | 1/15 |
-| Host Name | Factory enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:18:02 |
+| Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
 |  | epic_boss_fight_nightmare |
