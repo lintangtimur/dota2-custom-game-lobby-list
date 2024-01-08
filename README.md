@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311108510006 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | = CANONIC BE CANONIC = |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:34:26 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:36:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311112177191 |
-| Players | 7/15 |
-| Host Name | †Di† |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:37:36 |
+| Lobby ID | 28595311112961366 |
+| Players | 3/8 |
+| Host Name | ꧁༒☬СИГМА☬༒꧂ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:38:16 |
 
 
 |  | ot3_gardens_duo |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311107059881 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | TEAR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:33:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311112913128 |
+| Players | 1/10 |
+| Host Name | Preff_S |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:38:14 |
 
 
 |  | epic_boss_fight_nightmare |
