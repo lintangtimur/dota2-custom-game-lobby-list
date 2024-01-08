@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311148019762 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:08:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311149493315 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 3RAW |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:10:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311141249461 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Neonsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311149296044 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | PickachuDM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:09:56 |
@@ -101,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:07:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311148871261 |
-| Players | 11/15 |
-| Host Name | intothebottle |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:09:34 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311149607896 |
-| Players | 4/8 |
-| Host Name | murlyga |
-| Region | STOCKHOLM |
+| Lobby ID | 28595311149609169 |
+| Players | 1/8 |
+| Host Name | nerf(тренер) |
+| Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:10:13 |
 
 
@@ -131,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311149293169 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:09:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311149796892 |
+| Players | 1/10 |
+| Host Name | ORSHABAAL |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 22:10:23 |
 
 
