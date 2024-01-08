@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | CHUPAPI |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310952388756 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Сасай Кудасай |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:43 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310956044845 |
-| Players | 6/8 |
-| Host Name | 11minus |
+| Lobby ID | 28595310956854650 |
+| Players | 4/8 |
+| Host Name | vlast' |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:20:20 |
+| Lobby Creation Time | Monday, January 8, 2024 19:21:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310955020693 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | WahaBeat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:19:20 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310956230377 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | potatoboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:20:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310956350870 |
-| Players | 11/15 |
-| Host Name | booby boob |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:20:39 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310951893765 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:13 |
