@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311435095177 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | LEO |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311444363257 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | xX_Tilincito_pro9000_Xx |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:10:37 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311444700148 |
-| Players | 7/8 |
-| Host Name | vladkyd |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:11:02 |
+| Lobby ID | 28595311445722630 |
+| Players | 2/8 |
+| Host Name | Dec |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:12:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311445335121 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | gwin htu dk lin nu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:11:48 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311445548189 |
-| Players | 2/8 |
-| Host Name | Stepler0k |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:12:04 |
+| Lobby ID | 28595311442830818 |
+| Players | 7/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:08:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311444512887 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:10:48 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ARYx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:10:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311443230276 |
-| Players | 9/10 |
-| Host Name | Бешеный Сарай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:09:14 |
 
 
 |  | epic_boss_fight_normal |
