@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:29:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311175383134 |
-| Players | 8/10 |
-| Host Name | FatherFucker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:30:24 |
+| Lobby ID | 28595311176287148 |
+| Players | 1/15 |
+| Host Name | Страшнеслав |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:31:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311175598909 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | cheesit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:30:35 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:31:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311175861885 |
-| Players | 6/10 |
-| Host Name | NotComba |
+| Lobby ID | 28595311176285190 |
+| Players | 2/15 |
+| Host Name | 愛-幸福-罪-落胆 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:30:49 |
+| Lobby Creation Time | Monday, January 8, 2024 22:31:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311176060700 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | J O T A |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:31:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311176285190 |
-| Players | 1/15 |
-| Host Name | 愛-幸福-罪-落胆 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:31:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311176287148 |
-| Players | 1/15 |
-| Host Name | Страшнеслав |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:31:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -185,8 +167,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311176333708 |
-| Players | 1/5 |
-| Host Name | cancer |
+| Players | 2/5 |
+| Host Name | ✧血まみれのカエル✧ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:31:14 |
 
