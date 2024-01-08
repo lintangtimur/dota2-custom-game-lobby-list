@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310809310859 |
-| Players | 1/15 |
-| Host Name | Akame |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 16:07:04 |
+| Lobby ID | 28595310817361004 |
+| Players | 5/8 |
+| Host Name | Bigrila |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:20:03 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310816705167 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 醉师傅 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310816476454 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | DİMDİCK |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 16:18:38 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310816663393 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tony Tony Chopp3r |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 16:18:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310817361004 |
-| Players | 3/8 |
-| Host Name | Bigrila |
+| Lobby ID | 28595310817593301 |
+| Players | 1/15 |
+| Host Name | кефтеме |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:20:03 |
+| Lobby Creation Time | Monday, January 8, 2024 16:20:25 |
 
 
 |  | epic_boss_fight_hard |
