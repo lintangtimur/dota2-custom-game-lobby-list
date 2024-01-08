@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311545618624 |
+| Lobby ID | 28595311541584473 |
 | Players | 14/15 |
-| Host Name | amirka7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:33:45 |
+| Host Name | Leyo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:27:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311545131348 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Coffee |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:32:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311545806734 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | БимБамБум |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:34:04 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311541584473 |
-| Players | 12/15 |
-| Host Name | Leyo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:27:00 |
+| Lobby ID | 28595311545928098 |
+| Players | 3/15 |
+| Host Name | Eru Ilúvatar™ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:34:16 |
 
 
 |  | epic_boss_fight_normal |
