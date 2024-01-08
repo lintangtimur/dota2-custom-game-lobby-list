@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311573403103 |
-| Players | 7/8 |
-| Host Name | Rousseau |
+| Lobby ID | 28595311575281280 |
+| Players | 2/15 |
+| Host Name | HaileN- |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:23:35 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:27:07 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311574363008 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:23 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Сергей Солодовни |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311575239126 |
+| Players | 1/5 |
+| Host Name | GreenApple |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:27:02 |
 
 
