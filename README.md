@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311269269330 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | no vibe |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:00:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311262464495 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 23:53:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311258887463 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Xynister |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | PMA |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311269161009 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Dubi Dubi 666 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:00:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311265640604 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:56:54 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:56:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311266224701 |
-| Players | 13/15 |
-| Host Name | Desconchatumarizador |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 23:57:28 |
+| Lobby ID | 28595311269208650 |
+| Players | 2/8 |
+| Host Name | RAMZES_322 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:00:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311268889355 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Creed |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:00:07 |
@@ -128,15 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:00:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311269208650 |
-| Players | 2/8 |
-| Host Name | RAMZES_322 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:00:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311264431528 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311267161980 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Omsimism |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:58:24 |
@@ -158,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311258778286 |
-| Players | 2/10 |
-| Host Name | TEAM CALLER |
+| Players | 1/10 |
+| Host Name | sawita |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:03 |
 
@@ -167,9 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311269009795 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | мейклав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:00:14 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595311269529256 |
+| Players | 3/7 |
+| Host Name | furiosha |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:00:45 |
 
 
