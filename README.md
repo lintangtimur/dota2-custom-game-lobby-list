@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311580421755 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:37:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311582531993 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:41:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311582213701 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311582897138 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | THC Enjoyer |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:42:00 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311581611677 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tomfoolery |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:39:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311582415858 |
-| Players | 4/5 |
-| Host Name | Sloop |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:41:02 |
 
 
