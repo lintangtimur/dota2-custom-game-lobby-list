@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310847847408 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | no future |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:37 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310847760233 |
-| Players | 3/10 |
-| Host Name | АНАКОНДА |
+| Players | 6/10 |
+| Host Name | G卄ㄖ丂ㄒ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:29 |
 
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847777014 |
-| Players | 7/8 |
-| Host Name | КАСАКУ ГРАДУСНИК |
+| Players | 3/8 |
+| Host Name | ШАЙГИТЛЕРШАЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:31 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310847003085 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | (--pwetmalu--) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:06:22 |
