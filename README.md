@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311005496610 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | WillHard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:06:31 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:55:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311005268866 |
-| Players | 6/15 |
-| Host Name | 动物实验学家 |
+| Lobby ID | 28595311000595714 |
+| Players | 23/24 |
+| Host Name | Beethoven |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:06:19 |
+| Lobby Creation Time | Monday, January 8, 2024 20:02:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311005416423 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:06:26 |
@@ -86,46 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311005170607 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Mega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:06:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311005842834 |
-| Players | 4/8 |
-| Host Name | radbix |
+| Lobby ID | 28595311002685898 |
+| Players | 8/10 |
+| Host Name | trash teammate |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:06:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311005845931 |
-| Players | 1/8 |
-| Host Name | Прокат Дисков |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:06:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311005853114 |
-| Players | 1/8 |
-| Host Name | senkach |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:06:49 |
+| Lobby Creation Time | Monday, January 8, 2024 20:04:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311005957436 |
-| Players | 3/15 |
-| Host Name | 新手入坑 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 8, 2024 20:06:55 |
+| Lobby ID | 28595311006163679 |
+| Players | 2/15 |
+| Host Name | Shambooh ֎ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:07:06 |
 
 
 |  | epic_boss_fight_nightmare |
