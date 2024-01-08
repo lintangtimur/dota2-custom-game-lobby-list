@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310875533779 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ben Simmons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 17:46:57 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310875474009 |
-| Players | 7/8 |
-| Host Name | xXx |
+| Lobby ID | 28595310875646074 |
+| Players | 9/10 |
+| Host Name | zxc zerо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:46:52 |
+| Lobby Creation Time | Monday, January 8, 2024 17:47:06 |
 
 
 |  | ot3_desert_octet |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:45:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310875646074 |
-| Players | 8/10 |
-| Host Name | zxc zerо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:47:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310876111881 |
-| Players | 1/15 |
+| Lobby ID | 28595310876263667 |
+| Players | 4/15 |
 | Host Name | ASTE1K |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:47:44 |
+| Lobby Creation Time | Monday, January 8, 2024 17:47:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baba Yega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:43:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310876255679 |
+| Players | 1/10 |
+| Host Name | >OnLy LoVe< |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:47:56 |
 
 
