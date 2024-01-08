@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311514511539 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | балтика 9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:44:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311513557161 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 乂ｙａｋｕｚａ .LΞGION |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:43:06 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:43:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311514533308 |
-| Players | 1/10 |
-| Host Name | PAPA BEKO |
+| Lobby ID | 28595311514564714 |
+| Players | 5/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:44:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311514628484 |
+| Players | 1/8 |
+| Host Name | giordota.com |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:44:34 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:44:43 |
 
 
 |  | epic_boss_fight_nightmare |
