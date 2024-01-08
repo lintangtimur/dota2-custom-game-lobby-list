@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310792180637 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:37:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310792426144 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | managilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:38:09 |
@@ -68,28 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | hellosofia |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310792515977 |
+| Players | 8/10 |
+| Host Name | Проснулся дал zazy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:38:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310792890596 |
+| Players | 3/8 |
+| Host Name | Eric Whitney ☿ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:38:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310789946136 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310791330066 |
-| Players | 6/10 |
-| Host Name | Michaelmical Romance |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:36:15 |
 
 
 |  | epic_boss_fight_challenger |
