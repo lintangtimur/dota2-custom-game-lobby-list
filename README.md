@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310836137962 |
-| Players | 10/15 |
-| Host Name | ASTE1K |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:50:03 |
+| Lobby ID | 28595310836392094 |
+| Players | 1/15 |
+| Host Name | Dragon 拖钓儿童 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:50:26 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BoSS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 16:49:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310836200433 |
-| Players | 7/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:50:09 |
 
 
 |  | epic_boss_fight_nightmare |
