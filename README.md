@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310858189690 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:22:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310859346096 |
-| Players | 7/8 |
-| Host Name | pushin P |
+| Lobby ID | 28595310859707010 |
+| Players | 8/15 |
+| Host Name | miraculous |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:24:30 |
+| Lobby Creation Time | Monday, January 8, 2024 17:25:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310859118626 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jack The Ripper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:24:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310859707010 |
-| Players | 1/15 |
-| Host Name | miraculous |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
