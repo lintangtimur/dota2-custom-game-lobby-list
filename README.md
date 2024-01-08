@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311111581653 |
-| Players | 8/10 |
-| Host Name | Ya feel me? |
+| Lobby ID | 28595311112733890 |
+| Players | 2/8 |
+| Host Name | nemec1306 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:37:05 |
+| Lobby Creation Time | Monday, January 8, 2024 21:38:05 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311103257591 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | NeverGiveUp |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:29:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311108510006 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | = CANONIC BE CANONIC = |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:34:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311112177191 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | †Di† |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:37:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311111002887 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:36:35 |
@@ -119,30 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:37:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311109580765 |
-| Players | 7/10 |
-| Host Name | ⁂•☃Donald Treantツ☃•⁂ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:35:21 |
+| Lobby ID | 28595311107059881 |
+| Players | 11/15 |
+| Host Name | TEAR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 21:33:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311111308662 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ivsc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:36:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311111832201 |
-| Players | 3/5 |
-| Host Name | CH4SER |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:37:18 |
 
 
