@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310805123842 |
-| Players | 12/15 |
-| Host Name | ASTE1K |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:00:10 |
+| Lobby ID | 28595310805635217 |
+| Players | 2/8 |
+| Host Name | QBash |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:01:03 |
 
 
 |  | ot3_desert_octet |
@@ -38,64 +38,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310803417619 |
-| Players | 23/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:57:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310805477921 |
-| Players | 3/10 |
-| Host Name | Br0ker |
+| Lobby ID | 28595310806069198 |
+| Players | 4/15 |
+| Host Name | Pray for something |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:00:46 |
+| Lobby Creation Time | Monday, January 8, 2024 16:01:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310805589699 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Lê Duẩn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:00:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310805635217 |
-| Players | 2/8 |
-| Host Name | QBash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:01:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310805700539 |
-| Players | 1/8 |
-| Host Name | Tima |
+| Lobby ID | 28595310805909416 |
+| Players | 2/10 |
+| Host Name | Blackout |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:01:09 |
+| Lobby Creation Time | Monday, January 8, 2024 16:01:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310795580279 |
-| Players | 9/10 |
-| Host Name | Tess Tickles |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
+| Lobby ID | 28595310805758584 |
+| Players | 1/5 |
+| Host Name | 5 cm Savage |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:01:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310802737167 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Gintoki |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:56:06 |
