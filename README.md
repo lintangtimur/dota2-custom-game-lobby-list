@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311428886771 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | Yhwachユーハバッハ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:52:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311423425645 |
-| Players | 9/10 |
-| Host Name | ZENA TESTA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:45:56 |
+| Lobby ID | 28595311429340406 |
+| Players | 1/15 |
+| Host Name | wow_you_are_really_dance |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:52:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311428804033 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ПиВнОй БОМЖ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:52:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311426562297 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | Yo, Panthro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:49:24 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:38:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311428954935 |
-| Players | 1/10 |
-| Host Name | ZOLDYCK |
+| Lobby ID | 28595311429330840 |
+| Players | 5/15 |
+| Host Name | USDA_Prime |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:52:10 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:52:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311427802014 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Everything love is |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:50:50 |
@@ -86,28 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311428952434 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | RichieZones |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:52:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311428933304 |
-| Players | 1/15 |
-| Host Name | Humble |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:52:09 |
+| Lobby ID | 28595311429241615 |
+| Players | 5/24 |
+| Host Name | Monsieur Lapin |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:52:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311428984542 |
-| Players | 1/15 |
-| Host Name | DIO! |
+| Lobby ID | 28595311429183419 |
+| Players | 2/24 |
+| Host Name | MaLast |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:52:13 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:52:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311429609192 |
+| Players | 1/10 |
+| Host Name | arthas is alive |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:52:57 |
 
 
 |  | epic_boss_fight_nightmare |
