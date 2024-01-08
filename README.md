@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311573685898 |
 | Players | 2/24 |
-| Host Name | J.N. |
+| Host Name | 黙れ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311573617450 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | For Thaina Fields |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311573669117 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | d0kk |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311573403103 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311571029872 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ----- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:19:08 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311573499020 |
-| Players | 13/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:23:46 |
+| Lobby ID | 28595311574286721 |
+| Players | 7/15 |
+| Host Name | В ДУШЕ ВЛАСТЕЛИН! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311574140108 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | alexanderps2208 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:59 |
