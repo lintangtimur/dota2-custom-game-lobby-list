@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311013110639 |
-| Players | 2/24 |
-| Host Name | ☭Fuck Bluehole Inc |
+| Players | 3/24 |
+| Host Name | Acumen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:13:19 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310996265635 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Slick Rick |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:16 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:11:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311013420333 |
+| Players | 3/10 |
+| Host Name | DeathWinG |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:13:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nsk_0220 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:12:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311013521842 |
+| Players | 1/5 |
+| Host Name | aihanmedved2008 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:13:40 |
 
 
