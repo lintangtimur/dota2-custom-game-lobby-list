@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:21:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311538662918 |
-| Players | 1/10 |
-| Host Name | N'aix |
+| Lobby ID | 28595311538746449 |
+| Players | 13/15 |
+| Host Name | Pincir |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:22:13 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:22:21 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311535540945 |
-| Players | 4/8 |
-| Host Name | Yūta Okkotsu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:17:08 |
+| Lobby ID | 28595311537774838 |
+| Players | 9/15 |
+| Host Name | KA LE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:20:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311536254977 |
-| Players | 15/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311537636856 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:20:34 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311538655538 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Baunz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:22:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311537774838 |
-| Players | 5/15 |
-| Host Name | KA LE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:20:48 |
+| Lobby ID | 28595311538928139 |
+| Players | 4/10 |
+| Host Name | Grey# |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:22:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311538954687 |
+| Players | 3/8 |
+| Host Name | Bully |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:22:41 |
 
 
