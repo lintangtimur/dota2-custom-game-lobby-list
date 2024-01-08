@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311062532504 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ǝʞıN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:55:47 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311073121457 |
 | Players | 7/8 |
-| Host Name | Velaso |
+| Host Name | CLARISE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:04:41 |
 
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311071171533 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311074635971 |
-| Players | 6/8 |
-| Host Name | 59 years. |
+| Lobby ID | 28595311074286469 |
+| Players | 6/15 |
+| Host Name | B4JleT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:05:57 |
+| Lobby Creation Time | Monday, January 8, 2024 21:05:39 |
 
 
 |  | ot3_gardens_duo |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311074014206 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | midasoctarine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:05:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311074286469 |
-| Players | 4/15 |
-| Host Name | B4JleT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:05:39 |
 
 
 |  | epic_boss_fight_nightmare |
