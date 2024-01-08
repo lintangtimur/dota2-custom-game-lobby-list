@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311435095177 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | arishek |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311453490304 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:21:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311453574489 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:22:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311453740786 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | MVP |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:22:15 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311450001763 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ∅454M1∅ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:17:38 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311453335856 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Repka |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:21:45 |
@@ -122,25 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311452887585 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Σ오로러시ψ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:21:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311453427698 |
-| Players | 5/8 |
-| Host Name | はまかぜ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:21:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311450706634 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Makeakill-Neoxa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:18:30 |
