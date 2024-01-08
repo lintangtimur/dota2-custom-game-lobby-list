@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848522315 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PMA |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -110,28 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:30:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310910183669 |
-| Players | 10/15 |
-| Host Name | ALEEZHAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:30:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310910279234 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | prof |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:30:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310910457960 |
+| Players | 2/15 |
+| Host Name | bekhterdi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:31:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310909533246 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Skinwalker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:29:58 |
@@ -139,19 +139,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310909811857 |
-| Players | 2/5 |
+| Lobby ID | 28595310910506109 |
+| Players | 1/5 |
 | Host Name | Осел |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:30:18 |
+| Lobby Creation Time | Monday, January 8, 2024 18:31:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310910355756 |
-| Players | 1/5 |
-| Host Name | mr.guid2517 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:30:57 |
+| Lobby ID | 28595310910432104 |
+| Players | 1/10 |
+| Host Name | KoKo anKo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:31:02 |
 
 
