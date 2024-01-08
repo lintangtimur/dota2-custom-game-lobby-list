@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311070805106 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | God Mother |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 21:02:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311062532504 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ǝʞıN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:55:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311058285817 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | .👑D⚜️K👑. |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 20:52:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311077966131 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | VitaminLLO Biznes |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311077141069 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:03 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311077810298 |
+| Lobby ID | 28595311078875072 |
 | Players | 3/8 |
-| Host Name | matthew |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:08:36 |
+| Host Name | МАКТРАХЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311077476408 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | twitch.tv/kot4033 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:20 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:09:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311078823218 |
-| Players | 3/8 |
-| Host Name | practice |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:09:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311078875072 |
-| Players | 1/8 |
-| Host Name | clown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:09:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311078841578 |
@@ -119,21 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:09:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311076914489 |
-| Players | 2/10 |
-| Host Name | ℓ'αмσυr. |
+| Lobby ID | 28595311074028103 |
+| Players | 11/15 |
+| Host Name | qwe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:07:52 |
+| Lobby Creation Time | Monday, January 8, 2024 21:05:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311079074873 |
+| Players | 1/24 |
+| Host Name | ANY |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311078241973 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:08:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311079009440 |
+| Players | 1/5 |
+| Host Name | Stefi (͡° ͜ʖ ͡°) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:09:36 |
 
 
