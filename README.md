@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310821384610 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | dissembler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310820465987 |
-| Players | 3/8 |
-| Host Name | Рапес |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:25:00 |
+| Lobby ID | 28595310821256685 |
+| Players | 6/10 |
+| Host Name | Br0ker |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:26:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310820849222 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | chudai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:25:37 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BORZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:25:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310821256685 |
-| Players | 4/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:26:17 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Twice |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310821672914 |
+| Players | 1/5 |
+| Host Name | Guts |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:26:57 |
 
 
