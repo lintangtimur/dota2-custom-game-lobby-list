@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310848522315 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
@@ -38,49 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310856977529 |
-| Players | 6/10 |
-| Host Name | Пивозавр |
+| Lobby ID | 28595310857705072 |
+| Players | 3/15 |
+| Host Name | Инопричленец |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:21:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310857004399 |
-| Players | 1/8 |
-| Host Name | GIGA CHAD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:21:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310853793685 |
-| Players | 7/8 |
-| Host Name | acryldecaf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:16:25 |
+| Lobby Creation Time | Monday, January 8, 2024 17:22:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310857440291 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Xtassy |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:21:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310857705072 |
-| Players | 1/15 |
-| Host Name | Инопричленец |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:22:06 |
 
 
 |  | epic_boss_fight_nightmare |
