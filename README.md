@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310829804830 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 16:40:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310829316680 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:39:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310831080063 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Ben Simmons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 16:42:07 |
