@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087712329291 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Bosta Grande |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:52:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087712559740 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | .DoMeASolid |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:52:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087712824430 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ПАПА Seed'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:53:22 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087712921145 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SOY YO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:53:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087713397290 |
+| Players | 1/8 |
+| Host Name | eliasii |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:54:32 |
 
 
 |  | epic_boss_fight_nightmare |
