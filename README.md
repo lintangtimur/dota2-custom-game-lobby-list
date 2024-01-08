@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310901824776 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ranní ptáče bez lahváče |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310901968968 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 18:21:02 |
@@ -76,17 +76,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310891445988 |
-| Players | 23/24 |
-| Host Name | Cemka |
+| Lobby ID | 28595310902159321 |
+| Players | 1/24 |
+| Host Name | 829 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:21:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310902211388 |
+| Players | 4/15 |
+| Host Name | GodVorob |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:21:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310902243669 |
+| Players | 3/8 |
+| Host Name | Абу хазми буль-бу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
+| Lobby Creation Time | Monday, January 8, 2024 18:21:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310902254418 |
+| Players | 2/8 |
+| Host Name | я верю только в любовь` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:21:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310895213541 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 18:12:50 |
@@ -99,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kolpacheque |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:18:25 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595310901859666 |
-| Players | 1/7 |
-| Host Name | ne micagek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:20:54 |
 
 
