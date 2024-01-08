@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311475366559 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | tchitchinadze1 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:49:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311472852192 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | chamo=objeto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:46:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311474604915 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | The Turn Tabler |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:48:50 |
@@ -68,36 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311470342678 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | 321 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:43:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311475492465 |
-| Players | 1/15 |
-| Host Name | // |
-| Region | STOCKHOLM |
+| Lobby ID | 28595311475497967 |
+| Players | 1/8 |
+| Host Name | CengizHan |
+| Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311475479189 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | lil.whale |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311475355010 |
-| Players | 1/5 |
-| Host Name | НЕТ ЧТО-ЛИ ? |
+| Lobby ID | 28595311475507559 |
+| Players | 1/8 |
+| Host Name | veter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:49:51 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:50:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311475550443 |
+| Players | 3/8 |
+| Host Name | Drykan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:50:07 |
 
 
