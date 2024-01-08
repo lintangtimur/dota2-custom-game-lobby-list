@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311524341230 |
-| Players | 2/15 |
-| Host Name | la pinga del chala |
+| Players | 4/15 |
+| Host Name | ★Ars Goetia |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:59:22 |
 
@@ -56,55 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311524053582 |
-| Players | 6/8 |
-| Host Name | ICHZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:58:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311521681764 |
-| Players | 5/8 |
-| Host Name | Wolfelement |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:55:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311524060084 |
-| Players | 14/15 |
-| Host Name | Akulamg: prime |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:58:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311524462724 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Gycu_Lebedu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:59:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311521894703 |
-| Players | 8/10 |
-| Host Name | adad |
+| Lobby ID | 28595311521681764 |
+| Players | 6/8 |
+| Host Name | Wolfelement |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:55:38 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:55:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311524027253 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Helb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:58:53 |
