@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310884651471 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | wvnna die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:59:07 |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874181493 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310884064210 |
-| Players | 8/10 |
-| Host Name | )) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:20 |
+| Lobby ID | 28595310884168778 |
+| Players | 7/24 |
+| Host Name | Teudoongie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310884749731 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Арсеникум |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:59:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310884168778 |
-| Players | 6/24 |
-| Host Name | Teudoongie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:56:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310884793364 |
-| Players | 1/5 |
-| Host Name | XANAX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:59:18 |
 
 
