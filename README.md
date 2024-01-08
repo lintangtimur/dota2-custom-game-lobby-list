@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310963972551 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | TMMR |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 19:28:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310961297495 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310964235485 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | dolbojop spieler |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:28:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310955159437 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | NEGIBATOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:19:28 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310965259478 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | RASL |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:29:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310965927163 |
+| Players | 1/10 |
+| Host Name | Sombra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:29:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310965589782 |
-| Players | 2/10 |
-| Host Name | d4c |
+| Players | 1/10 |
+| Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:29:36 |
 
