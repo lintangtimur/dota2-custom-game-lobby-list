@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:03:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311526912368 |
-| Players | 2/8 |
-| Host Name | NiKo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:03:20 |
+| Lobby ID | 28595311525067468 |
+| Players | 2/15 |
+| Host Name | MC DRXCX BADAS |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:00:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311525958374 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:01:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311526525517 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | willams |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:02:45 |
@@ -65,21 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:02:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311527101047 |
+| Players | 6/8 |
+| Host Name | Andryxa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:38 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311525067468 |
+| Lobby ID | 28595311527111343 |
 | Players | 1/15 |
-| Host Name | MC DRXCX BADAS |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:00:30 |
+| Host Name | MORFEY |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311527021797 |
-| Players | 1/5 |
-| Host Name | Fatal |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:03:30 |
+| Lobby ID | 28595311527114260 |
+| Players | 1/15 |
+| Host Name | 絶対に |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311527127919 |
+| Players | 1/24 |
+| Host Name | Perro chusco |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311527144720 |
+| Players | 1/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:03:42 |
 
 
