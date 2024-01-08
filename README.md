@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310884651471 |
-| Players | 6/8 |
-| Host Name | wvnna die |
+| Lobby ID | 28595310885493300 |
+| Players | 3/8 |
+| Host Name | Лимфоузел |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:59:07 |
+| Lobby Creation Time | Monday, January 8, 2024 18:00:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310874181493 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310884749731 |
-| Players | 14/15 |
-| Host Name | Арсеникум |
+| Lobby ID | 28595310885543069 |
+| Players | 5/15 |
+| Host Name | Причина девичьих |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:59:15 |
+| Lobby Creation Time | Monday, January 8, 2024 18:00:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310885481322 |
+| Players | 1/10 |
+| Host Name | MALEBEL TYT?? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:00:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310882304979 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:56:00 |
