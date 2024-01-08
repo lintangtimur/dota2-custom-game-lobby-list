@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311569564292 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | inhumane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:16:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311569412152 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Migs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:16:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311564981916 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Dr. Livesey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:07:57 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311570016873 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | p-sune |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:17:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311570199162 |
+| Players | 1/8 |
+| Host Name | Que ven mis oidos |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:17:37 |
 
 
 |  | epic_boss_fight_nightmare |
