@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310802475798 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Pain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:55:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310803219268 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | анлаки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:56:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310795580279 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
