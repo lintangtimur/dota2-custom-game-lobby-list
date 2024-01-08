@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311076762001 |
-| Players | 7/8 |
-| Host Name | Para kang halaman |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 21:07:44 |
+| Lobby ID | 28595311084394641 |
+| Players | 2/8 |
+| Host Name | Борис Нюхач |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:14:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311084297843 |
-| Players | 1/8 |
-| Host Name | radbix |
+| Lobby ID | 28595311084204260 |
+| Players | 2/8 |
+| Host Name | 84034038130 |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 21:14:03 |
+| Lobby Creation Time | Monday, January 8, 2024 21:13:58 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311081489482 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:11:41 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:11:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311084144766 |
-| Players | 10/15 |
-| Host Name | Paka |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:13:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311084204260 |
-| Players | 2/8 |
-| Host Name | 84034038130 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 21:13:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311084394641 |
-| Players | 1/8 |
-| Host Name | Борис Нюхач |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:14:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311082057335 |
@@ -95,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311082804454 |
-| Players | 5/10 |
-| Host Name | Hirfan Adira |
+| Players | 4/10 |
+| Host Name | Born on a Monday |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:12:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595311084086442 |
-| Players | 2/10 |
+| Lobby ID | 28595311084696756 |
+| Players | 1/7 |
 | Host Name | курвасаки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:13:52 |
+| Lobby Creation Time | Monday, January 8, 2024 21:14:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311084703439 |
+| Players | 1/5 |
+| Host Name | НЕТ ЧТО-ЛИ ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:14:24 |
 
 
