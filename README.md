@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310905097864 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | MALEBEL TYT?? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:24:45 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310913548206 |
-| Players | 3/8 |
-| Host Name | First dance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:42 |
+| Lobby ID | 28595310913773429 |
+| Players | 3/15 |
+| Host Name | IO |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:34:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310913302953 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | 'le Yan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310913288844 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Pipok |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310909333053 |
-| Players | 23/24 |
-| Host Name | Elune || 嘘月 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:29:43 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310911769199 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
