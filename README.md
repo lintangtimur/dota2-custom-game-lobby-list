@@ -22,10 +22,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310850467060 |
-| Players | 1/15 |
-| Host Name | $Ħ₳IŦȺ₦ |
-| Region | STOCKHOLM |
+| Lobby ID | 28595310850467678 |
+| Players | 5/15 |
+| Host Name | Pray for something |
+| Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:11:30 |
 
 
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310849764032 |
-| Players | 9/10 |
-| Host Name | weika |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:10:27 |
+| Lobby ID | 28595310850666061 |
+| Players | 3/8 |
+| Host Name | Гэрри |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:11:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310849399370 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Reiner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:09:54 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:11:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310850467678 |
-| Players | 4/15 |
-| Host Name | Pray for something |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:11:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310850633032 |
-| Players | 3/8 |
-| Host Name | 24/7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:11:45 |
 
 
 |  | epic_boss_fight_nightmare |
