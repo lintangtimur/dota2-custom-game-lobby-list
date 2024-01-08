@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310779402393 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Torstol |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:15:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310779938769 |
+| Players | 1/8 |
+| Host Name | lets_fight |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:16:06 |
 
 
 |  | epic_boss_fight_nightmare |
