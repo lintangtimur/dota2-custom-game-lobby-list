@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:25:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311099574914 |
-| Players | 5/15 |
-| Host Name | CаDыP aWa |
+| Lobby ID | 28595311100105484 |
+| Players | 9/10 |
+| Host Name | kxbl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:26:53 |
+| Lobby Creation Time | Monday, January 8, 2024 21:27:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311099213369 |
-| Players | 3/8 |
-| Host Name | friendly |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:26:34 |
+| Lobby ID | 28595311099677620 |
+| Players | 4/8 |
+| Host Name | Andryxa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:26:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311098638096 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:26:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311099896314 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | KRUTO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:27:09 |
@@ -85,38 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311099677620 |
-| Players | 4/8 |
-| Host Name | Andryxa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:26:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311100105484 |
-| Players | 8/10 |
-| Host Name | kxbl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:27:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311097451481 |
-| Players | 3/8 |
-| Host Name | GostRed |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 21:25:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311099800563 |
-| Players | 9/10 |
-| Host Name | sp33dy el' m00d1nY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:27:04 |
+| Lobby ID | 28595311100358471 |
+| Players | 1/8 |
+| Host Name | lets_fight |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:27:32 |
 
 
 |  | epic_boss_fight_hard |
