@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310996265635 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Maotisco |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310998556085 |
-| Players | 14/15 |
-| Host Name | ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:00:21 |
+| Lobby ID | 28595310999165284 |
+| Players | 4/8 |
+| Host Name | Маша БКБ Няша |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:00:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310997637497 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Rin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:59:32 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310999044179 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | stojkov |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:00:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310999165284 |
-| Players | 4/8 |
-| Host Name | Маша БКБ Няша |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:00:54 |
+| Lobby ID | 28595310999532461 |
+| Players | 1/10 |
+| Host Name | ПЛАТОША |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:01:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310996300672 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ĂʟӍάƷ♛► |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:19 |
