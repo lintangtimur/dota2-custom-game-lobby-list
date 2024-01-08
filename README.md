@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311168468928 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | fckingworldbrokemedown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:24:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311168094737 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | амням пиздарик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:24:29 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311168618207 |
-| Players | 4/15 |
-| Host Name | Sou1tice |
+| Lobby ID | 28595311168887276 |
+| Players | 1/8 |
+| Host Name | dubov prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:24:52 |
+| Lobby Creation Time | Monday, January 8, 2024 22:25:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311167533520 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | = CANONIC BE CANONIC = |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:24:06 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:24:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311168662418 |
-| Players | 1/24 |
-| Host Name | 出生在海边 从小喜欢浪 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 22:24:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311168670730 |
-| Players | 6/10 |
-| Host Name | Цепная залупа |
+| Lobby ID | 28595311168284685 |
+| Players | 9/10 |
+| Host Name | Mahoraga |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:24:54 |
+| Lobby Creation Time | Monday, January 8, 2024 22:24:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311168968087 |
+| Players | 6/8 |
+| Host Name | ДØVЕСNЫVKØCMØC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:25:08 |
 
 
 |  | epic_boss_fight_nightmare |
