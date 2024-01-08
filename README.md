@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311098523391 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311098326610 |
-| Players | 1/8 |
-| Host Name | Put Tang Sara Nung Kut Cha Mi |
+| Lobby ID | 28595311098638096 |
+| Players | 8/24 |
+| Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:25:49 |
+| Lobby Creation Time | Monday, January 8, 2024 21:26:05 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311097579978 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | |||||||||||| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:25:11 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:25:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311098638096 |
-| Players | 6/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:26:05 |
+| Lobby ID | 28595311099213369 |
+| Players | 1/8 |
+| Host Name | friendly |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:26:34 |
 
 
 |  | epic_boss_fight_hard |
