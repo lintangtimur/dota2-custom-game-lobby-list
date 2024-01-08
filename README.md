@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311543092969 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Tony Slark |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:29:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311543986345 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Gah |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:31:02 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311544147471 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | peprike |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:31:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311544173056 |
-| Players | 5/8 |
-| Host Name | Happy Happy Happy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:20 |
+| Lobby ID | 28595311542713990 |
+| Players | 9/10 |
+| Host Name | tbgk7 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:54 |
 
 
 |  | epic_boss_fight_normal |
