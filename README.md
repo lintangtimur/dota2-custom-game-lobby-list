@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310914161938 |
-| Players | 5/8 |
-| Host Name | победилдо |
+| Lobby ID | 28595310915166305 |
+| Players | 2/8 |
+| Host Name | eew |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:35:25 |
+| Lobby Creation Time | Monday, January 8, 2024 18:36:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310914376206 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | torcheck(ee bb) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:40 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310913945702 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 🌸温柔 丶小太陽🌸 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310914165439 |
-| Players | 6/8 |
-| Host Name | GENEK |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:35:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310914605084 |
-| Players | 5/10 |
-| Host Name | антиклоун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:35:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310914781205 |
-| Players | 5/15 |
-| Host Name | Jimmy2k |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:36:08 |
 
 
 |  | ot3_gardens_duo |
@@ -110,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:36:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310915109897 |
+| Players | 11/15 |
+| Host Name | 829 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:36:31 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310911769199 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310914004495 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:14 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310914068247 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | мейклав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:18 |
