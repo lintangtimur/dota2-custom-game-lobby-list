@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311125811096 |
-| Players | 3/10 |
-| Host Name | Взрывчатка очка |
+| Players | 2/10 |
+| Host Name | Stewie |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:21 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311129850669 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:52:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311128927799 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | кратет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:52:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311129329107 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | un dota mas y me voy |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:52:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311130489131 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Emlan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 21:53:24 |
@@ -81,6 +81,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nahu |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 21:53:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311130494886 |
+| Players | 13/15 |
+| Host Name | UriFury |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:53:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311131116428 |
+| Players | 2/8 |
+| Host Name | abunga1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:53:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311131130016 |
+| Players | 8/10 |
+| Host Name | Zero Kiryuu |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 21:53:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311118080223 |
+| Players | 21/24 |
+| Host Name | GrandPa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:42:40 |
 
 
 |  | epic_boss_fight_nightmare |
