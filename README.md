@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311317647055 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Elliphas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:49:34 |
@@ -36,42 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311320019729 |
-| Players | 7/15 |
-| Host Name | maku |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:52:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311319985198 |
-| Players | 4/10 |
-| Host Name | TOP 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:52:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311319252508 |
-| Players | 9/15 |
-| Host Name | HIM™ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:51:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311319240137 |
-| Players | 3/10 |
-| Host Name | Bad Boy |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:51:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мерзость |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:52:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311319252508 |
+| Players | 10/15 |
+| Host Name | HIM™ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:51:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311319240137 |
+| Players | 3/10 |
+| Host Name | Bad Boy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:51:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311320312517 |
+| Players | 3/15 |
+| Host Name | Special* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:52:20 |
 
 
 |  | epic_boss_fight_nightmare |
