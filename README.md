@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311573685898 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | CaTaDiaoLoY |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311578333492 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Röyksopp |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:32:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311577429985 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Kagami taiga |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:31:13 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311578230510 |
-| Players | 6/8 |
-| Host Name | ravenpoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:32:46 |
+| Lobby ID | 28595311578700564 |
+| Players | 2/8 |
+| Host Name | I"AM YOU |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:33:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311578492612 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | actor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:33:17 |
@@ -110,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311578700564 |
-| Players | 5/8 |
-| Host Name | MarcoSL |115 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:33:41 |
+| Lobby ID | 28595311576197081 |
+| Players | 9/10 |
+| Host Name | ihhh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:28:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311576197081 |
-| Players | 8/10 |
-| Host Name | ihhh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:28:52 |
+| Lobby ID | 28595311578824511 |
+| Players | 1/10 |
+| Host Name | u.u |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:33:55 |
 
 
