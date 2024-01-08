@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311292017008 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | XTA-970/PE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:23:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311291412721 |
-| Players | 19/24 |
-| Host Name | aea |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:22:41 |
+| Lobby ID | 28595311291812315 |
+| Players | 5/8 |
+| Host Name | LimetteAxt008 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:23:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311293276562 |
-| Players | 12/15 |
-| Host Name | KOUSSSAAAA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:24:36 |
+| Lobby ID | 28595311293769131 |
+| Players | 1/8 |
+| Host Name | i've grown from a man to a god |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:25:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311293335996 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | エンジェルダスト:雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:24:40 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311293381522 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Interpol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:24:43 |
@@ -128,28 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:24:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311293657099 |
-| Players | 5/10 |
-| Host Name | Дядюшка Клоун |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:25:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311293769131 |
+| Lobby ID | 28595311293970200 |
 | Players | 1/8 |
-| Host Name | i've grown from a man to a god |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:25:07 |
+| Host Name | Ясо Су - 苏亚索 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:25:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311292322102 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Tony Slark |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:23:37 |
@@ -166,19 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595311293730494 |
-| Players | 1/7 |
-| Host Name | Cupcakke_b1tch |
+| Lobby ID | 28595311293803844 |
+| Players | 3/7 |
+| Host Name | Alfy Fox |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:25:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311293769980 |
-| Players | 1/10 |
-| Host Name | Yui |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:25:07 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:25:09 |
 
 
