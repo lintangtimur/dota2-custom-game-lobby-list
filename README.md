@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311351960947 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | KOUSSSAAAA |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:25:24 |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:25:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311351506040 |
-| Players | 14/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:24:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311351868404 |
-| Players | 6/10 |
-| Host Name | Insomniac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:25:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311349003581 |
-| Players | 1/15 |
-| Host Name | Sooyaa |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311350435581 |
-| Players | 11/24 |
-| Host Name | Ace of Spades |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:23:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311352258971 |
@@ -101,13 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:25:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311349003581 |
+| Players | 5/15 |
+| Host Name | Sooyaa |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311350435581 |
+| Players | 11/24 |
+| Host Name | Ace of Spades |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:23:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311352568199 |
+| Players | 2/8 |
+| Host Name | REFLI |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:26:02 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311352447230 |
+| Lobby ID | 28595311352544460 |
+| Players | 5/10 |
+| Host Name | шея в петле |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:26:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311352550179 |
 | Players | 1/10 |
-| Host Name | Последний самурай |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:25:55 |
+| Host Name | КуZя иZ УниVера |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:26:01 |
 
 
 |  | epic_boss_fight_nightmare |
