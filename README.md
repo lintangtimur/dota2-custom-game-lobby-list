@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310794537228 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ryan Gosling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:41:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310794513546 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Юта Оккоцу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:41:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310794734866 |
+| Players | 5/8 |
+| Host Name | Cucumba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:42:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 7-Ghost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:40:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310794704379 |
-| Players | 1/5 |
-| Host Name | SASA |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 15:42:09 |
 
 
