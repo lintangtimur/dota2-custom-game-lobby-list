@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311541241143 |
-| Players | 8/10 |
-| Host Name | wanna be rain |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:26:26 |
+| Lobby ID | 28595311541572709 |
+| Players | 6/15 |
+| Host Name | love is a murderer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:26:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311541572709 |
-| Players | 5/15 |
-| Host Name | love is a murderer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:26:59 |
+| Lobby ID | 28595311541768497 |
+| Players | 1/10 |
+| Host Name | Марний |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:27:19 |
 
 
 |  | epic_boss_fight_normal |
