@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310805020016 |
-| Players | 7/10 |
-| Host Name | Dobraik |
+| Lobby ID | 28595310771502982 |
+| Players | 1/24 |
+| Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:59:59 |
+| Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310804807247 |
-| Players | 13/15 |
-| Host Name | venomus_44 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:59:37 |
+| Lobby ID | 28595310805123842 |
+| Players | 7/15 |
+| Host Name | ASTE1K |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:00:10 |
 
 
 |  | ot3_desert_octet |
@@ -36,33 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310771502982 |
-| Players | 1/24 |
-| Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310805123842 |
-| Players | 3/15 |
-| Host Name | ASTE1K |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:00:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310805063305 |
-| Players | 6/8 |
-| Host Name | BlesTyaska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:00:04 |
 
 
 |  | epic_boss_fight_nightmare |
