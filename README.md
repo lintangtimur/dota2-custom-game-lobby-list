@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311319422300 |
-| Players | 7/8 |
-| Host Name | udacha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:51:25 |
+| Lobby ID | 28595311320354020 |
+| Players | 1/24 |
+| Host Name | Koba-Shi! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:52:23 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311320038151 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Мерзость |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:52:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311319240137 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Bad Boy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:51:13 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311320312517 |
-| Players | 3/15 |
-| Host Name | Special* |
+| Players | 4/15 |
+| Host Name | Бабба |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:52:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311320306351 |
+| Players | 1/15 |
+| Host Name | バカ 𒉭 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:52:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311320347165 |
+| Players | 4/10 |
+| Host Name | despoodd |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:52:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:49:44 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311319212180 |
-| Players | 2/5 |
-| Host Name | AriTornin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:51:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311319416564 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:51:24 |
