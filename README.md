@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:14:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311496083188 |
-| Players | 6/10 |
-| Host Name | Pupsik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:17:59 |
+| Lobby ID | 28595311496438444 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:18:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311494367838 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:15:33 |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311495622165 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Чорножопа мавпа |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:17:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311496420469 |
+| Players | 3/15 |
+| Host Name | бляха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:18:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311496358219 |
+| Lobby ID | 28595311496475774 |
 | Players | 4/8 |
-| Host Name | Jack Daniels |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:18:22 |
+| Host Name | Довгий котик зсу |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:18:32 |
 
 
