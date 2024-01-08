@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311573617450 |
-| Players | 8/24 |
+| Players | 22/24 |
 | Host Name | For Thaina Fields |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:00 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311573669117 |
-| Players | 5/10 |
-| Host Name | d0kk |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:24:06 |
+| Lobby ID | 28595311574383578 |
+| Players | 4/10 |
+| Host Name | AL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311571029872 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ----- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:19:08 |
@@ -68,19 +68,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311574286721 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | В ДУШЕ ВЛАСТЕЛИН! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:25:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311574442596 |
+| Players | 1/10 |
+| Host Name | UwU |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311574363008 |
+| Players | 4/15 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:23 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311574140108 |
+| Lobby ID | 28595311574453928 |
 | Players | 6/8 |
-| Host Name | alexanderps2208 |
+| Host Name | salstic |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:24:59 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311574580497 |
+| Players | 1/24 |
+| Host Name | Poomp |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311574598973 |
+| Players | 1/8 |
+| Host Name | he will win |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:25:50 |
 
 
 |  | epic_boss_fight_nightmare |
