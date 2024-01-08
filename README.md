@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310816663393 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tony Tony Chopp3r |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 16:18:56 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310816871758 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Devil Mackarin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:19:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310817365182 |
-| Players | 1/5 |
-| Host Name | Totoy_**pinkzzZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:20:03 |
 
 
