@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310836484946 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | kiyozaka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:50:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310836392094 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Dragon 拖钓儿童 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:50:26 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PrommO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:49:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310836858153 |
+| Players | 2/10 |
+| Host Name | fumimochi prime |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:51:08 |
 
 
 |  | epic_boss_fight_nightmare |
