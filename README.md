@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311351960947 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | KOUSSSAAAA |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:25:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311351554949 |
-| Players | 2/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:24:58 |
+| Lobby ID | 28595311352395080 |
+| Players | 1/24 |
+| Host Name | Vez Larkinson.. |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:25:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311351727131 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | elon tocosh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:25:09 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311351506040 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Polyhedron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:24:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311350125573 |
-| Players | 4/8 |
-| Host Name | focus交qi |
+| Lobby ID | 28595311351868404 |
+| Players | 6/10 |
+| Host Name | Insomniac |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:23:27 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:25:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:22:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311351648860 |
-| Players | 4/8 |
-| Host Name | 11111 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:25:04 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311350435581 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Ace of Spades |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:23:47 |
@@ -94,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311351068704 |
-| Players | 4/8 |
-| Host Name | inLOVEwithElisabeth |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:24:27 |
+| Lobby ID | 28595311352258971 |
+| Players | 1/8 |
+| Host Name | kn9z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:25:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311351868404 |
+| Lobby ID | 28595311352279218 |
 | Players | 5/10 |
-| Host Name | Insomniac |
+| Host Name | A Hi Toe Tami |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:25:18 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:25:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311352447230 |
+| Players | 1/10 |
+| Host Name | Последний самурай |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:25:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:53:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311351410088 |
-| Players | 1/5 |
-| Host Name | Unmaro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:24:49 |
 
 
