@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310809310859 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Akame |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 16:07:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310816927664 |
-| Players | 11/15 |
-| Host Name | chips |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:19:22 |
+| Lobby ID | 28595310817163854 |
+| Players | 5/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:19:44 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:18:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310817163854 |
-| Players | 5/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:19:44 |
+| Lobby ID | 28595310817361004 |
+| Players | 3/8 |
+| Host Name | Bigrila |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:20:03 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Devil Mackarin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:19:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310817365182 |
+| Players | 1/5 |
+| Host Name | Totoy_**pinkzzZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 16:20:03 |
 
 
