@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311347804872 |
-| Players | 12/15 |
-| Host Name | Freeze^^ | Virtus.pro |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:00 |
+| Lobby ID | 28595311348032800 |
+| Players | 6/10 |
+| Host Name | ❌XART✅❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:21:15 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311346441562 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | KO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:19:35 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311348223798 |
-| Players | 5/8 |
-| Host Name | Прости,я был пьян,твоя мать тоже |
+| Lobby ID | 28595311348373696 |
+| Players | 1/8 |
+| Host Name | сын сталина |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:27 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:21:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311345219160 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | [ПОЛИБЛАНК] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:18:19 |
@@ -112,29 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311348032800 |
-| Players | 5/10 |
-| Host Name | ❌XART✅❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311348373696 |
-| Players | 1/8 |
-| Host Name | сын сталина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:21:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311346836431 |
-| Players | 9/10 |
-| Host Name | nahui._. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:20:00 |
+| Lobby ID | 28595311348557758 |
+| Players | 4/10 |
+| Host Name | Yolo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:21:48 |
 
 
 |  | epic_boss_fight_nightmare |
