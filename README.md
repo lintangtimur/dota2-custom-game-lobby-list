@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311498103211 |
-| Players | 21/24 |
-| Host Name | Agua |
+| Lobby ID | 28595311501791450 |
+| Players | 5/15 |
+| Host Name | idell |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:20:48 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:25:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311498658317 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:21:34 |
@@ -58,56 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311501715946 |
-| Players | 9/10 |
-| Host Name | torpKL |
+| Lobby ID | 28595311501927591 |
+| Players | 8/10 |
+| Host Name | протеин по вене |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:25:51 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:26:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311501119320 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | el niño polla@↓∟ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:25:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311501334261 |
-| Players | 7/8 |
-| Host Name | курю зазу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:25:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311501553037 |
-| Players | 6/10 |
-| Host Name | you can not fix that |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:25:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311501791450 |
-| Players | 2/15 |
-| Host Name | idell |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:25:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311501908472 |
-| Players | 1/10 |
-| Host Name | MaKa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:26:08 |
 
 
 |  | epic_boss_fight_nightmare |
