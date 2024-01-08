@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310873629417 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | xetopia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:44:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310873570939 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | wen1x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:44:17 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310874245833 |
-| Players | 7/8 |
-| Host Name | dorlikk |
+| Players | 1/8 |
+| Host Name | ベルセルク(死) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:45:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310874310684 |
+| Players | 3/10 |
+| Host Name | вжоперыба |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310874367936 |
+| Players | 5/8 |
+| Host Name | dorlikk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310874361190 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:21 |
 
 
 |  | epic_boss_fight_nightmare |
