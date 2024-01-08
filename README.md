@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311483747894 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:01:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311484346508 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Repka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:01:48 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311484349318 |
-| Players | 5/8 |
-| Host Name | Фекалистый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:01:48 |
+| Lobby ID | 28595311484594757 |
+| Players | 3/8 |
+| Host Name | Ellie- |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:02:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311482655398 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ivsc |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:59:32 |
