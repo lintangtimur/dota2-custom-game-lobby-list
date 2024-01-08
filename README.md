@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311141249461 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Neonsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:02:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311146550845 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | gypsi  king 81 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:07:30 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311146689278 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | later |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:07:37 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311146846314 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | PusheenTheCat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:07:46 |
@@ -139,46 +139,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311146914258 |
-| Players | 1/10 |
-| Host Name | botirovs03 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 22:07:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311145451956 |
-| Players | 6/10 |
-| Host Name | тимко на кери=победа |
+| Lobby ID | 28595311147025986 |
+| Players | 2/10 |
+| Host Name | Максим |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:06:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311145434842 |
-| Players | 1/10 |
-| Host Name | NoMoreTears |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:06:30 |
+| Lobby Creation Time | Monday, January 8, 2024 22:07:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311146656068 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | KumaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:07:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311146885495 |
-| Players | 1/5 |
-| Host Name | MvP_Legiop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:07:48 |
 
 
