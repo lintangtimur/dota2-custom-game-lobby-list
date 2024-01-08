@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311569859616 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Black Raven |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:17:00 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311570967295 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | MauricioCal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:19:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311572987860 |
-| Players | 1/24 |
-| Host Name | Насвай Кумысович |
+| Lobby ID | 28595311573134390 |
+| Players | 5/15 |
+| Host Name | arqanes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:22:48 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:23:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311572578686 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Joe Biden |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:22:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311572785756 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | АХУЙ ПОВНИЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:22:25 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311573134390 |
-| Players | 4/15 |
-| Host Name | arqanes |
+| Lobby ID | 28595311573190771 |
+| Players | 3/10 |
+| Host Name | [ZА]КАЛДУЮ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:23:04 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:23:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311573195157 |
+| Players | 1/24 |
+| Host Name | J.N. |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:23:11 |
 
 
 |  | epic_boss_fight_nightmare |
