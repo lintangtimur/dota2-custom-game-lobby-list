@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311542122237 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311542215565 |
-| Players | 14/15 |
-| Host Name | [P]ower [A]ce |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:28:04 |
+| Lobby ID | 28595311542537755 |
+| Players | 5/8 |
+| Host Name | припиздил с армиии |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311542304537 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | prime malr1ne |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311542499150 |
+| Players | 1/15 |
+| Host Name | Túrin |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311542589967 |
+| Players | 4/8 |
+| Host Name | Довгий котик зсу |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,18 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311539975404 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:24:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311542461488 |
-| Players | 1/5 |
-| Host Name | Сергей Солодовни |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:28:28 |
+| Lobby ID | 28595311542584467 |
+| Players | 1/10 |
+| Host Name | Wagz |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:41 |
 
 
