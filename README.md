@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311544319828 |
-| Players | 7/15 |
-| Host Name | < Self > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:35 |
+| Lobby ID | 28595311541939413 |
+| Players | 9/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:27:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:30:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311543092969 |
-| Players | 23/24 |
-| Host Name | Tony Slark |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:29:32 |
+| Lobby ID | 28595311544634795 |
+| Players | 2/8 |
+| Host Name | ¥ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:32:06 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311541584473 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:00 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:31:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311544608204 |
-| Players | 1/15 |
-| Host Name | Shrek Mập Địt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:32:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311541939413 |
-| Players | 9/10 |
-| Host Name | big boss |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:27:36 |
+| Lobby ID | 28595311543092969 |
+| Players | 23/24 |
+| Host Name | Tony Slark |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:29:32 |
 
 
 |  | epic_boss_fight_normal |
