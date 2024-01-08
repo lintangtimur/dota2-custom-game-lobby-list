@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311532443007 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | MONO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:11:58 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311533954271 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311534003642 |
-| Players | 7/8 |
-| Host Name | ~𝑒𝓋𝑜𝓀𝑒 𝑒𝓂𝑜𝓉𝒾𝑜𝓃𝓈 |
+| Lobby ID | 28595311534053582 |
+| Players | 9/10 |
+| Host Name | Шабит_Хапаев[95] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:32 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:14:37 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311534107111 |
-| Players | 5/10 |
-| Host Name | Aristocrat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:43 |
+| Lobby ID | 28595311534067454 |
+| Players | 6/24 |
+| Host Name | Nah, I'd win |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:14:39 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311534035578 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:35 |
@@ -85,47 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311534268797 |
-| Players | 2/8 |
-| Host Name | MimimiShNiK |
+| Lobby ID | 28595311534392190 |
+| Players | 1/8 |
+| Host Name | Rippero |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:59 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:15:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311534067454 |
-| Players | 5/24 |
-| Host Name | Nah, I'd win |
+| Lobby ID | 28595311534396464 |
+| Players | 1/15 |
+| Host Name | IfukeNYPD |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311534053582 |
-| Players | 6/10 |
-| Host Name | Шабит_Хапаев[95] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311534155095 |
-| Players | 7/8 |
-| Host Name | другалек |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311534175150 |
-| Players | 4/8 |
-| Host Name | krico |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:50 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:15:12 |
 
 
 |  | epic_boss_fight_nightmare |
