@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311027026397 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311032614471 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | топлю котят |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:30:09 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311032370000 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | friendly |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:29:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311027557887 |
-| Players | 13/15 |
-| Host Name | Яспер Моглот (Dutch) |
+| Lobby ID | 28595311031844905 |
+| Players | 3/8 |
+| Host Name | R<3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:25:48 |
+| Lobby Creation Time | Monday, January 8, 2024 20:29:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311031666704 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Interesting_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:29:20 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311031844905 |
-| Players | 2/8 |
-| Host Name | R<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:29:29 |
+| Lobby ID | 28595311032965916 |
+| Players | 1/8 |
+| Host Name | 立直一发！ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 20:30:27 |
 
 
 |  | epic_boss_fight_nightmare |
