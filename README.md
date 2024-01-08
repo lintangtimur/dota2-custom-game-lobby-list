@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486816283 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | (♦ GhOsT ♦) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:05:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311487938841 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Drykan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311487617075 |
-| Players | 2/24 |
+| Players | 10/24 |
 | Host Name | shuba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311486575274 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Neil Breen |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311485318565 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | GOMEZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:03:06 |
@@ -104,18 +104,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311487799352 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | l0cuqp10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311487979441 |
+| Players | 2/8 |
+| Host Name | мама звонит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:06:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311488083663 |
+| Players | 5/8 |
+| Host Name | абсолют по аналу |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:06:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311486889857 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Someone |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:05:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311488045153 |
+| Players | 1/10 |
+| Host Name | >OnLy LoVe< |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:06:46 |
 
 
