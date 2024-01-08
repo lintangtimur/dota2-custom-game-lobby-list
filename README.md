@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310777246735 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | [       7       ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:11:17 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310781771673 |
-| Players | 14/15 |
-| Host Name | .neff |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:19:23 |
+| Lobby ID | 28595310782193900 |
+| Players | 6/15 |
+| Host Name | КОЛ-ВО ОШИБОК:0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:20:08 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310781998726 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SandX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:19:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310781980427 |
-| Players | 1/8 |
-| Host Name | Chieftain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:19:45 |
 
 
 |  | ot3_gardens_duo |
@@ -92,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:19:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310782193900 |
-| Players | 3/15 |
-| Host Name | КОЛ-ВО ОШИБОК:0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:20:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310779464812 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Jetts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:15:16 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310782006856 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:19:48 |
