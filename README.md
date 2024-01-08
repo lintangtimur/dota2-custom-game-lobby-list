@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310809310859 |
 | Players | 4/15 |
-| Host Name | LinkB |
+| Host Name | トゥルーキャリー |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 16:07:04 |
 
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310811688845 |
-| Players | 3/8 |
-| Host Name | 24/7 |
+| Lobby ID | 28595310811974848 |
+| Players | 8/15 |
+| Host Name | К 11 туз |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:10:53 |
+| Lobby Creation Time | Monday, January 8, 2024 16:11:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310811817301 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Wangers_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:11:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310811917865 |
-| Players | 1/8 |
-| Host Name | Mortal |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:11:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310811974848 |
-| Players | 7/15 |
-| Host Name | К 11 туз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:11:21 |
 
 
 |  | epic_boss_fight_nightmare |
