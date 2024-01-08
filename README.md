@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311569564292 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | inhumane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:16:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311569412152 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Migs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:16:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311564981916 |
-| Players | 7/24 |
+| Players | 15/24 |
 | Host Name | Dr. Livesey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:07:57 |
@@ -94,24 +94,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311568378182 |
-| Players | 23/24 |
-| Host Name | Lolo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:14:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311569482612 |
-| Players | 7/8 |
-| Host Name | No More Pretend1ng |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:16:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28595311569859616 |
 | Players | 1/24 |
 | Host Name | Black Raven |
@@ -126,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Terror De Los Llorones |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:14:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311569878172 |
-| Players | 4/8 |
-| Host Name | P!shi |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:17:02 |
 
 
 |  | epic_boss_fight_nightmare |
