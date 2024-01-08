@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311089139717 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 浮生幻梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:18:07 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311062532504 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:55:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311090475755 |
-| Players | 14/15 |
-| Host Name | Las Noches |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:19:14 |
+| Lobby ID | 28595311090790384 |
+| Players | 1/8 |
+| Host Name | Lucky Luck |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:19:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,25 +77,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311090787724 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | чугун |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:19:29 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311091041031 |
+| Players | 2/15 |
+| Host Name | RiMURAJ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:19:42 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311090790384 |
-| Players | 1/8 |
-| Host Name | Lucky Luck |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:19:29 |
+| Lobby ID | 28595311091065096 |
+| Players | 6/8 |
+| Host Name | чеф киф |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:19:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311090176587 |
+| Players | 9/10 |
+| Host Name | ЧВК Вагнер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:18:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311091106502 |
+| Players | 2/10 |
+| Host Name | Natso - |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 21:19:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311087193711 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:16:29 |
