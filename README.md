@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311254739159 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:46:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | PMA |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311254888564 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | DX7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:46:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311255511588 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 123 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:46:48 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311255197034 |
+| Lobby ID | 28595311255692103 |
 | Players | 1/8 |
 | Host Name | SkiLLeT |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 23:46:29 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:45:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311255354625 |
-| Players | 10/15 |
-| Host Name | Falkonet |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:46:38 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311255623276 |
+| Lobby ID | 28595311255793456 |
 | Players | 1/10 |
-| Host Name | •=М@JlюТk@=• |
+| Host Name | ТамоК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:46:55 |
+| Lobby Creation Time | Monday, January 8, 2024 23:47:05 |
 
 
 |  | epic_boss_fight_nightmare |
