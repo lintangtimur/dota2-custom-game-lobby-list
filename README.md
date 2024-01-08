@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311511235619 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | romchyg |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:39:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311511402146 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | new era |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:39:55 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311512062022 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:40:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311511777813 |
-| Players | 9/10 |
-| Host Name | агент габена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:40:28 |
+| Lobby ID | 28595311512116975 |
+| Players | 2/15 |
+| Host Name | AGGRESSIVECOREPLAYER(PMA) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:40:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311512116975 |
+| Lobby ID | 28595311512208532 |
 | Players | 1/15 |
-| Host Name | AGGRESSIVECOREPLAYER(PMA) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:40:58 |
+| Host Name | BαrryÜωÜ♡ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:41:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311512248295 |
+| Players | 1/8 |
+| Host Name | paz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:41:09 |
 
 
 |  | epic_boss_fight_hard |
