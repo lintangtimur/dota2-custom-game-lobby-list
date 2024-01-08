@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310857138966 |
-| Players | 6/10 |
-| Host Name | ⱤɆⱫ₦Ɏ₳ |
+| Lobby ID | 28595310856977529 |
+| Players | 5/10 |
+| Host Name | Пивозавр |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:21:16 |
+| Lobby Creation Time | Monday, January 8, 2024 17:21:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:21:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310856977529 |
-| Players | 5/10 |
-| Host Name | Пивозавр |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:21:03 |
+| Lobby ID | 28595310857440291 |
+| Players | 1/24 |
+| Host Name | bottomson |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 17:21:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 江南第一深情 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:14:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310857390064 |
+| Players | 1/10 |
+| Host Name | ♥ Твоя мама ツ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:21:39 |
 
 
