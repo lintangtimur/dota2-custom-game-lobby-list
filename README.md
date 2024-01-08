@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310786886243 |
-| Players | 2/8 |
-| Host Name | Panda |
+| Lobby ID | 28595310786584564 |
+| Players | 2/10 |
+| Host Name | Максим |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:28:28 |
+| Lobby Creation Time | Monday, January 8, 2024 15:27:56 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310786755098 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | nnegrov346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:28:14 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:27:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310786584564 |
-| Players | 2/10 |
-| Host Name | Максим |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:27:56 |
 
 
 |  | epic_boss_fight_nightmare |
