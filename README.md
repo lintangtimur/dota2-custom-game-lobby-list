@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311251443669 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | GodWarrior |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 23:42:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | PMA |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311254546326 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | XaosEnd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:45:50 |
@@ -119,19 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:45:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311254440608 |
-| Players | 1/5 |
-| Host Name | Piškóte |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:45:43 |
+| Lobby ID | 28595311254739159 |
+| Players | 2/10 |
+| Host Name | _____________ |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311254770101 |
+| Players | 1/8 |
+| Host Name | Тильтроник |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311254888564 |
+| Players | 1/24 |
+| Host Name | DX7 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:46:10 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311254664147 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | BENDER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:45:57 |
