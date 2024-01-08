@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311294644222 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | แง้ววววววววว |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:26:01 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311302706181 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Talento Nada |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:34:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311299434185 |
-| Players | 2/15 |
-| Host Name | grizlait |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:30:54 |
+| Lobby ID | 28595311302821269 |
+| Players | 5/8 |
+| Host Name | Дима (СОСАЛ) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:34:20 |
 
 
 |  | ot3_desert_octet |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311290214619 |
-| Players | 12/15 |
-| Host Name | fruit party |
+| Players | 10/15 |
+| Host Name | wvsvbi |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:21:27 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311302741805 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Dishake |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:34:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311302555357 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | S |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:34:04 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Elysium |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:34:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311302821269 |
-| Players | 5/8 |
-| Host Name | Дима (СОСАЛ) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:34:20 |
 
 
 |  | epic_boss_fight_normal |
