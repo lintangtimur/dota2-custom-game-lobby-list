@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310880772127 |
-| Players | 5/8 |
-| Host Name | gde tut okno?? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:53:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310880893213 |
-| Players | 1/15 |
-| Host Name | Сладкий бубалех |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:54:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310880935532 |
-| Players | 1/8 |
-| Host Name | ZeNtEx |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:54:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310880986279 |
@@ -83,12 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:54:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310880893213 |
+| Players | 2/15 |
+| Host Name | Сладкий бубалех |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:54:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310880935532 |
+| Players | 4/8 |
+| Host Name | ZeNtEx |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:54:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310878553234 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | RexTers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:51:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310881010544 |
+| Players | 1/10 |
+| Host Name | Baba Yega |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, January 8, 2024 17:54:17 |
 
 
