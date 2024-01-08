@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311569015189 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Enzo Gorlomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:15:24 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311568822482 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:15:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311569192630 |
-| Players | 6/8 |
-| Host Name | Кусюни Писюни |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:15:45 |
+| Lobby ID | 28595311569324718 |
+| Players | 2/10 |
+| Host Name | Kad |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:16:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311568378182 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:14:10 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SirCafiche |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:15:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311569299435 |
+| Players | 2/10 |
+| Host Name | Niño Payday |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:15:57 |
 
 
 |  | epic_boss_fight_nightmare |
