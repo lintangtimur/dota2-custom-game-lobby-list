@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310788707841 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:31:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310787014630 |
-| Players | 1/24 |
-| Host Name | Average Russian Player |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:28:42 |
+| Lobby ID | 28595310789102548 |
+| Players | 3/8 |
+| Host Name | Millicenta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:22 |
 
 
 |  | ot3_gardens_duo |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310788076759 |
-| Players | 11/15 |
-| Host Name | Cpt Karl |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 8, 2024 15:30:34 |
+| Lobby ID | 28595310789001297 |
+| Players | 1/15 |
+| Host Name | Dekant |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:32:12 |
 
 
 |  | ot3_gardens_duo |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310788999757 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Kenshin Himura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310789001297 |
-| Players | 1/15 |
-| Host Name | Dekant |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:32:12 |
 
 
 |  | epic_boss_fight_normal |
