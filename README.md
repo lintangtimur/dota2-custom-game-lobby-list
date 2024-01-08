@@ -11,33 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310822426803 |
-| Players | 9/10 |
-| Host Name | A.XVI_973 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:28:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310823733891 |
-| Players | 6/8 |
-| Host Name | cini4ka1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:30:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310823847784 |
-| Players | 4/15 |
-| Host Name | TΛNCTUM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:30:30 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310823965170 |
@@ -49,11 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310824002451 |
+| Lobby ID | 28595310824084450 |
 | Players | 1/8 |
-| Host Name | ~КОРБЕН ДЕТКА~ |
+| Host Name | Отец Бомбы |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:30:45 |
+| Lobby Creation Time | Monday, January 8, 2024 16:30:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310823847784 |
+| Players | 7/15 |
+| Host Name | TΛNCTUM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:30:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310824084466 |
+| Players | 4/8 |
+| Host Name | Don't look down on me |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:30:53 |
 
 
 |  | epic_boss_fight_hard |
