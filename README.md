@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311125811096 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Null |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311126283272 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | طالبان member |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311126086245 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Мұз Cube |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311116051084 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | D_ZEEZ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 21:40:55 |
@@ -76,29 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311124740774 |
-| Players | 14/15 |
-| Host Name | райан госдолг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:48:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28595311126512317 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | DJ_Ебан |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:49:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311126552506 |
-| Players | 6/10 |
-| Host Name | jerkjerkjerkjerk |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 21:50:00 |
+| Lobby ID | 28595311126673699 |
+| Players | 1/8 |
+| Host Name | Baby Yoda :) |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 21:50:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311126691389 |
+| Players | 1/24 |
+| Host Name | Sobra na yan insan! |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 21:50:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311111532619 |
+| Players | 14/15 |
+| Host Name | Mr Perturbado |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 21:37:02 |
 
 
 |  | epic_boss_fight_nightmare |
