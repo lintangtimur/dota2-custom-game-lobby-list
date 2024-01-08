@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311059950908 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | IExpo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:53:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311060756932 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Black_Owl |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:54:15 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311060862390 |
-| Players | 4/10 |
+| Lobby ID | 28595311061322438 |
+| Players | 6/10 |
 | Host Name | godzira |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:54:20 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:54:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,24 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311056058656 |
-| Players | 9/10 |
-| Host Name | Kry__} |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:50:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311060723559 |
-| Players | 1/10 |
-| Host Name | ✪Mark~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:54:13 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595311061072813 |
@@ -144,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:54:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311060723559 |
+| Players | 3/10 |
+| Host Name | ✪Mark~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 20:54:13 |
 
 
