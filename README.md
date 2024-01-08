@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310825146609 |
-| Players | 10/15 |
-| Host Name | fantasy world |
+| Lobby ID | 28595310825094594 |
+| Players | 5/10 |
+| Host Name | 76561198059431967 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:32:35 |
+| Lobby Creation Time | Monday, January 8, 2024 16:32:30 |
 
 
 |  | ot3_desert_octet |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310824997392 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | +BIG BALLS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:32:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310825094594 |
-| Players | 5/10 |
-| Host Name | 76561198059431967 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:32:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310824143592 |
-| Players | 9/10 |
-| Host Name | Orio |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:30:59 |
 
 
 |  | epic_boss_fight_hard |
@@ -72,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Guts |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:26:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310821354159 |
-| Players | 8/10 |
-| Host Name | Twice |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:26:26 |
 
 
