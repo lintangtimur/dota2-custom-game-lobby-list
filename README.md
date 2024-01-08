@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310793898529 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ×iFLYP× |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:40:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | BoSS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310793203603 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:30 |
