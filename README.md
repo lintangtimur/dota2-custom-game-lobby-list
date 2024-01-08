@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311553266297 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sad スDying as a lifestyleス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:46:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311553069511 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | селявка |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:46:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311549184082 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:39:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311553144132 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Greta Thunberg |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:46:44 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311553265231 |
-| Players | 3/8 |
-| Host Name | tired of everything |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:46:56 |
+| Lobby ID | 28595311551311010 |
+| Players | 7/8 |
+| Host Name | ☻ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:43:25 |
 
 
 |  | epic_boss_fight_nightmare |
