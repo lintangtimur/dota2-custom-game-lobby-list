@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311423947057 |
-| Players | 1/8 |
-| Host Name | Когут |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:46:35 |
+| Lobby ID | 28595311426356010 |
+| Players | 2/8 |
+| Host Name | VaLeoN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:49:10 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:45:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311422834208 |
-| Players | 22/24 |
-| Host Name | Shox |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:45:04 |
+| Lobby ID | 28595311426354869 |
+| Players | 6/8 |
+| Host Name | エンジェルダスト:雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:49:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311425430381 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | WAJU LUJAN CARRION |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:48:09 |
@@ -76,38 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311424912586 |
-| Players | 8/10 |
-| Host Name | Devilaugh |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:47:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311426214872 |
-| Players | 4/15 |
-| Host Name | Askarb1nka |
+| Lobby ID | 28595311426497116 |
+| Players | 1/10 |
+| Host Name | RHODOLITE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:49:01 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:49:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311426337333 |
-| Players | 1/10 |
-| Host Name | RHODOLITE |
+| Lobby ID | 28595311426469024 |
+| Players | 6/10 |
+| Host Name | МС по рукопашному сексу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:49:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311426338389 |
-| Players | 1/15 |
-| Host Name | I N E K |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:49:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:49:18 |
 
 
 |  | epic_boss_fight_nightmare |
