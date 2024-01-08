@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311580026766 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Atomic |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:15 |
@@ -77,26 +77,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311578700564 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | I"AM YOU |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:33:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311579279575 |
-| Players | 13/15 |
-| Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:34:48 |
+| Lobby ID | 28595311580421755 |
+| Players | 1/24 |
+| Host Name | Staz |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:37:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311580309805 |
-| Players | 4/8 |
-| Host Name | Tae |
+| Players | 2/8 |
+| Host Name | Armik1771 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:49 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311580340979 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | 🔪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:53 |
@@ -119,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311580397192 |
-| Players | 1/10 |
-| Host Name | Error 404 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:37:00 |
+| Lobby ID | 28595311580479159 |
+| Players | 5/8 |
+| Host Name | qq_dude |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:37:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311580477336 |
+| Players | 1/15 |
+| Host Name | BitcoinArtem |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:37:09 |
 
 
