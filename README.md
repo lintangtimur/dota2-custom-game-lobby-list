@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310961297495 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:25:26 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:29:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310964235485 |
-| Players | 6/8 |
-| Host Name | dolbojop spieler |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:28:17 |
+| Lobby ID | 28595310966054483 |
+| Players | 3/15 |
+| Host Name | Вася профетроль123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:02 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310965927163 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sombra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:29:55 |
@@ -137,24 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:30:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310966054483 |
-| Players | 3/15 |
-| Host Name | Вася профетроль123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:30:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310960300944 |
-| Players | 9/10 |
-| Host Name | Demolition @ Internet |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 19:24:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310965589782 |
@@ -162,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:29:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310966341101 |
+| Players | 1/5 |
+| Host Name | Mirai~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:30:19 |
 
 
