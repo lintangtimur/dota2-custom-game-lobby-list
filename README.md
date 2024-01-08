@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311025572530 |
-| Players | 8/8 |
-| Host Name | bftv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:24:05 |
+| Lobby ID | 28595311025299010 |
+| Players | 5/8 |
+| Host Name | Para kang halaman |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 20:23:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311023635873 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dazzle |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 20:22:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311016117260 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 卵虫身上的粪便 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:15:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311025827601 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 皮卡丘级别 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:24:18 |
@@ -67,56 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310932869634 |
-| Players | 9/10 |
-| Host Name | Deid |
+| Lobby ID | 28595311026882306 |
+| Players | 1/10 |
+| Host Name | Larry Capija |
 | Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311026725823 |
-| Players | 5/8 |
-| Host Name | СЫН ШИФТА |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:25:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311025505749 |
-| Players | 1/8 |
-| Host Name | маник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:24:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311025299010 |
-| Players | 5/8 |
-| Host Name | Para kang halaman |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 20:23:51 |
+| Lobby Creation Time | Monday, January 8, 2024 20:25:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311026699004 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Old Spice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311026707280 |
-| Players | 1/24 |
-| Host Name | PaRaDoKc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:25:04 |
+| Lobby ID | 28595311026847078 |
+| Players | 1/15 |
+| Host Name | Mr. Strike |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 20:25:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311026570461 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:24:57 |
