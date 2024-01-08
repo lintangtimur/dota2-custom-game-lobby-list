@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310852791390 |
-| Players | 23/24 |
-| Host Name | JHIIAAEEAK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:14:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,6 +38,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310856977529 |
+| Players | 5/10 |
+| Host Name | Пивозавр |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:21:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310857004399 |
+| Players | 1/8 |
+| Host Name | GIGA CHAD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:21:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310852776628 |
@@ -54,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 江南第一深情 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:14:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310854712575 |
-| Players | 1/5 |
-| Host Name | wot7.12.90 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:17:46 |
 
 
