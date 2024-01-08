@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311566146196 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Italiano Gangster |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:10:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311566048213 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | O.o |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:09:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311566794284 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Tae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:11:15 |
@@ -86,28 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311566529581 |
-| Players | 5/8 |
-| Host Name | sigmawater |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:10:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311566791170 |
-| Players | 1/15 |
-| Host Name | Carry-Potter |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:11:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311566853177 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | el sueños hija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:11:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311566892645 |
+| Players | 7/15 |
+| Host Name | love is a murderer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:11:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311566895115 |
+| Players | 2/8 |
+| Host Name | not human (животное) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:11:26 |
 
 
 |  | epic_boss_fight_nightmare |
