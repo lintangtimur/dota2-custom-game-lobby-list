@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310818435337 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Doyki.Xddcc.fullpohuy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:21:46 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310818419600 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Bertrand Russell |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:21:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310818831593 |
+| Players | 1/8 |
+| Host Name | ERROR SPIRIT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:22:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310818832892 |
+| Players | 2/8 |
+| Host Name | QBash |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:22:24 |
 
 
 |  | epic_boss_fight_hard |
