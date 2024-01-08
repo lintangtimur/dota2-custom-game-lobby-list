@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311367399446 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Sandra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:41:53 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311368895263 |
 | Players | 3/8 |
-| Host Name | EXP.ZARR |
+| Host Name | Вова Мирный |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:43:32 |
 
@@ -112,20 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311369167202 |
-| Players | 1/10 |
-| Host Name | ✪ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:43:50 |
+| Lobby ID | 28595311369268503 |
+| Players | 2/10 |
+| Host Name | tilt/depressed/antisocial/toxic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:43:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311369160219 |
-| Players | 5/10 |
-| Host Name | Boris |
+| Lobby ID | 28595311369300663 |
+| Players | 6/15 |
+| Host Name | Modest |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:43:50 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:43:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311368313081 |
+| Players | 6/8 |
+| Host Name | Adolf Furry |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:42:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -166,10 +175,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311369205630 |
-| Players | 1/5 |
-| Host Name | доберман |
+| Lobby ID | 28595311369376473 |
+| Players | 2/5 |
+| Host Name | blazerBOY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:43:53 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:44:04 |
 
 
