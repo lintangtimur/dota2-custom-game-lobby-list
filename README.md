@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311316170453 |
+| Players | 1/8 |
+| Host Name | tModLoader |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:03 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311315125736 |
-| Players | 5/15 |
-| Host Name | Rgaвій |
+| Lobby ID | 28595311315904745 |
+| Players | 12/15 |
+| Host Name | big mad187 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:46:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311313240178 |
-| Players | 7/10 |
-| Host Name | jugeinio |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:45:02 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311314412707 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:46:15 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311315273623 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:47:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311315007949 |
-| Players | 4/8 |
-| Host Name | Waffle |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:46:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311314997258 |
+| Lobby ID | 28595311315892965 |
 | Players | 2/24 |
-| Host Name | 公羊是屁股 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:46:51 |
+| Host Name | When eres dani |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311315907372 |
+| Players | 7/10 |
+| Host Name | too old to argue |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311312277174 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311314067449 |
-| Players | 14/15 |
-| Host Name | NiK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:45:54 |
+| Lobby ID | 28595311312300780 |
+| Players | 8/10 |
+| Host Name | Хлібинка |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:44:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,53 +103,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311312300780 |
-| Players | 9/10 |
-| Host Name | Хлібинка |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:44:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595311315358126 |
-| Players | 5/10 |
-| Host Name | leus |
+| Players | 9/10 |
+| Host Name | brxndxd |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:47:13 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311316144854 |
+| Players | 1/24 |
+| Host Name | А? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:01 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311313722450 |
-| Players | 4/10 |
-| Host Name | Извините, я спать! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:45:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311315485589 |
-| Players | 4/8 |
-| Host Name | РАДОЛЬФ ГИТЛЕР |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:21 |
+| Lobby ID | 28595311316212533 |
+| Players | 1/10 |
+| Host Name | My Tears Are Becoming A Sea |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:48:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311315140859 |
+| Lobby ID | 28595311315617840 |
 | Players | 4/10 |
-| Host Name | Sijem TOPA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:00 |
+| Host Name | sawita |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:29 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595311311706446 |
-| Players | 4/7 |
+| Players | 2/7 |
 | Host Name | Primordialb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:43:25 |
