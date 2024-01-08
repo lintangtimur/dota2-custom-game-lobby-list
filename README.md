@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310790987937 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | sigma skibidi toilet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:35:40 |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:34:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310791092910 |
-| Players | 1/24 |
-| Host Name | XsoE Noy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:35:51 |
+| Lobby ID | 28595310791126399 |
+| Players | 3/8 |
+| Host Name | эа я немножко зап |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:35:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310789946136 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310791202095 |
+| Players | 1/7 |
+| Host Name | tsukiyomi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:02 |
 
 
