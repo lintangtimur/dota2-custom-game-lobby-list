@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311175383134 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | FatherFucker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:30:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311174238193 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ДМИТРИЙ НА КИЕВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:29:24 |
@@ -95,16 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311175556702 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | Влад фёрст блад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:30:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311175813468 |
+| Players | 1/15 |
+| Host Name | Zen Master Vulkan |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 22:30:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311175861885 |
+| Players | 2/10 |
+| Host Name | NotComba |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:30:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311172846109 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | epileptick1d |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:28:12 |
