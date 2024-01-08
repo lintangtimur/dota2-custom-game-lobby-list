@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310799902878 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Veroy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:51:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310798106186 |
-| Players | 14/15 |
-| Host Name | tice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:48:09 |
+| Lobby ID | 28595310797906987 |
+| Players | 12/24 |
+| Host Name | Envy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:47:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310798267117 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:25 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310794734866 |
-| Players | 6/8 |
-| Host Name | Cucumba |
+| Lobby ID | 28595310799834363 |
+| Players | 3/8 |
+| Host Name | 愛 PaH†uOH 恨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:42:12 |
+| Lobby Creation Time | Monday, January 8, 2024 15:51:07 |
 
 
 |  | ot3_desert_octet |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ꧁☬༺S₱₳Ɽ₮₳༻☬ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310799834363 |
-| Players | 3/8 |
-| Host Name | 愛 PaH†uOH 恨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:51:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310797906987 |
-| Players | 10/24 |
-| Host Name | Envy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:47:49 |
 
 
 |  | epic_boss_fight_nightmare |
