@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310857440291 |
-| Players | 2/24 |
-| Host Name | Jesus Christ |
+| Players | 1/24 |
+| Host Name | Maldini |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:21:43 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310859346096 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | pushin P |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:24:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310859118626 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Jack The Ripper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:24:10 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310859573570 |
+| Lobby ID | 28595310859707010 |
 | Players | 1/15 |
-| Host Name | Aɾȥıɱαɳ™ |
+| Host Name | miraculous |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:24:50 |
+| Lobby Creation Time | Monday, January 8, 2024 17:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deadlyiel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:24:09 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595310859586964 |
-| Players | 2/7 |
-| Host Name | w1nd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:24:51 |
 
 
