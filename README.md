@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310907987548 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Dassama |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:28:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310907622089 |
-| Players | 11/15 |
-| Host Name | 𐂃𐂃 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:27:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310903966241 |
-| Players | 19/24 |
-| Host Name | Triki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:23:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:24:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310907036181 |
-| Players | 6/8 |
-| Host Name | бомбардирОчка |
+| Lobby ID | 28595310903966241 |
+| Players | 20/24 |
+| Host Name | Triki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:23:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310908793192 |
+| Players | 4/15 |
+| Host Name | GooDman |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:27:01 |
+| Lobby Creation Time | Monday, January 8, 2024 18:29:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mr.guid2517 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:23:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310903099290 |
-| Players | 9/10 |
-| Host Name | 654 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:22:22 |
 
 
