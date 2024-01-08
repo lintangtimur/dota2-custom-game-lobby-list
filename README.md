@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311112733890 |
-| Players | 5/8 |
-| Host Name | nemec1306 |
+| Lobby ID | 28595311113943147 |
+| Players | 4/15 |
+| Host Name | Ёмайха Ёмасо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:38:05 |
+| Lobby Creation Time | Monday, January 8, 2024 21:39:07 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311111297933 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:36:50 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:38:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311111531648 |
-| Players | 2/10 |
-| Host Name | 初音ミク |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:37:02 |
+| Lobby ID | 28595311114148910 |
+| Players | 3/15 |
+| Host Name | Kratos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:39:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311111002887 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:36:35 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311113126802 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kusanagi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:38:25 |
@@ -121,46 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311113833565 |
-| Players | 5/8 |
-| Host Name | 21 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:39:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311113943147 |
-| Players | 1/15 |
-| Host Name | Ёмайха Ёмасо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:39:07 |
+| Lobby ID | 28595311111875839 |
+| Players | 6/8 |
+| Host Name | Awe$ome.N0Tail |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 21:37:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311111308662 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ivsc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:36:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311113166124 |
-| Players | 3/5 |
-| Host Name | ❤Xarezo❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:38:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311113361873 |
-| Players | 9/10 |
-| Host Name | nine |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:38:37 |
 
 
