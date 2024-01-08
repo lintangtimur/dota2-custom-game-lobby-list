@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:50:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311197292561 |
-| Players | 1/10 |
-| Host Name | katana |
+| Lobby ID | 28595311197701062 |
+| Players | 1/8 |
+| Host Name | CoraLeaFriedrichPlankton |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:50:39 |
+| Lobby Creation Time | Monday, January 8, 2024 22:51:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311194975332 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | The Golden Boy |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:48:26 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:50:49 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311197594118 |
+| Players | 7/15 |
+| Host Name | Delsik |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:50:56 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311196554100 |
-| Players | 7/8 |
-| Host Name | Бабушка Стрея |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 22:49:57 |
+| Lobby ID | 28595311197629320 |
+| Players | 4/8 |
+| Host Name | Adeshi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:50:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311193403586 |
+| Players | 23/24 |
+| Host Name | Wheel.Reinventer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:46:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JIMMY |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:46:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311197775070 |
+| Players | 1/5 |
+| Host Name | Keimakura |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:51:06 |
 
 
