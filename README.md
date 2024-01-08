@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311435095177 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | xzc |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311449491682 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | WeedFather |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:17:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311451262696 |
-| Players | 14/15 |
-| Host Name | c.354.1_OOKA_EREF |
+| Lobby ID | 28595311451941708 |
+| Players | 3/8 |
+| Host Name | only mid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:19:11 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:20:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311451366822 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Conq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:19:19 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:38:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311451532703 |
-| Players | 5/8 |
-| Host Name | V |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:19:32 |
+| Lobby ID | 28595311450323982 |
+| Players | 6/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:18:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311444512887 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:10:48 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:16:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311448833066 |
-| Players | 9/10 |
-| Host Name | dal zazu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:16:12 |
+| Lobby ID | 28595311445273531 |
+| Players | 6/8 |
+| Host Name | MoonDream |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:11:44 |
 
 
 |  | ot3_gardens_duo |
@@ -112,65 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311451468204 |
-| Players | 1/8 |
-| Host Name | Блинк в пиварню |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:19:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311450323982 |
-| Players | 5/10 |
-| Host Name | big boss |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:18:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311445273531 |
-| Players | 6/8 |
-| Host Name | MoonDream |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28595311451373969 |
 | Players | 2/8 |
 | Host Name | мама звонит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:19:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311451941708 |
-| Players | 3/8 |
-| Host Name | only mid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:20:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311451978700 |
-| Players | 1/15 |
-| Host Name | 卍Zangetsu卍 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:20:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311452007678 |
-| Players | 1/8 |
-| Host Name | movistar siempre contigo |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:20:07 |
 
 
 |  | epic_boss_fight_nightmare |
