@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310892288810 |
-| Players | 2/8 |
-| Host Name | деловая колбаска |
+| Players | 3/8 |
+| Host Name | midas enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:09:06 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310892056409 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DoomDED |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:48 |
@@ -76,29 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310879367861 |
-| Players | 14/15 |
-| Host Name | ancienthelheima |
+| Lobby ID | 28595310892720654 |
+| Players | 6/15 |
+| Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:52:06 |
+| Lobby Creation Time | Monday, January 8, 2024 18:09:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310892558981 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | gde tut okno?? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:09:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310892657187 |
-| Players | 1/8 |
-| Host Name | suseł |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:09:34 |
 
 
 |  | epic_boss_fight_nightmare |
