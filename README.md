@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311581952091 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311581446169 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:39:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311582218842 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | coneja tu kchera |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311582261578 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | грызу ногти |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:43 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tomfoolery |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:39:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311582415858 |
+| Players | 2/5 |
+| Host Name | Sloop |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:41:02 |
 
 
