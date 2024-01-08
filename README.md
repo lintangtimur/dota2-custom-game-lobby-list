@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311517354278 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:48:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311516319994 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | My Tears Are Becoming A Sea |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:47:16 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | penguini |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:48:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311518217848 |
+| Players | 1/10 |
+| Host Name | you can not fix that |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:50:06 |
 
 
