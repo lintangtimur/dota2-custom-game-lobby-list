@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310878677255 |
-| Players | 6/10 |
-| Host Name | Alpha.PvP |
+| Lobby ID | 28595310879367861 |
+| Players | 1/15 |
+| Host Name | ancienthelheima |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:51:11 |
+| Lobby Creation Time | Monday, January 8, 2024 17:52:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310876794236 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | 359 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:48:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310878585902 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Ben Simmons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 17:51:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310878892671 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:51:28 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310879263299 |
-| Players | 4/8 |
-| Host Name | MrKazakhPvP_PRO |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:51:58 |
+| Lobby ID | 28595310879419439 |
+| Players | 1/8 |
+| Host Name | Бабушка Стрея |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:52:10 |
 
 
 |  | epic_boss_fight_nightmare |
