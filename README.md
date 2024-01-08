@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311504389788 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | ファッカー・ティシキ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:29:38 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311504124009 |
-| Players | 7/8 |
-| Host Name | Miking |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:29:15 |
+| Lobby ID | 28595311504756093 |
+| Players | 1/8 |
+| Host Name | Mojo DOYO CASA Hause |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:30:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:29:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311501119320 |
-| Players | 14/15 |
-| Host Name | el niño polla@↓∟ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:25:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311504676424 |
-| Players | 3/8 |
-| Host Name | Memento_mori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:30:03 |
+| Lobby ID | 28595311504733188 |
+| Players | 4/8 |
+| Host Name | FANTAzeR |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:30:07 |
 
 
 |  | epic_boss_fight_nightmare |
