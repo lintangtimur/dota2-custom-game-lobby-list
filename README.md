@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311536992814 |
-| Players | 12/15 |
-| Host Name | 999999999 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:19:31 |
+| Lobby ID | 28595311537172650 |
+| Players | 2/8 |
+| Host Name | cored1nation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:19:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311536254977 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:20 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:16:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311535399732 |
-| Players | 21/24 |
-| Host Name | Illusionist- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:16:54 |
+| Lobby ID | 28595311536603285 |
+| Players | 2/8 |
+| Host Name | Eidolonic_Umbra |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:18:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311535738334 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Masaru Aoki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:28 |
@@ -119,39 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311536603285 |
-| Players | 4/8 |
-| Host Name | Eidolonic_Umbra |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:18:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311537172650 |
-| Players | 2/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:19:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311537304819 |
-| Players | 1/8 |
-| Host Name | Cules1899 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:20:02 |
+| Lobby ID | 28595311536039000 |
+| Players | 8/10 |
+| Host Name | ihhh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:17:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311536039000 |
-| Players | 7/10 |
-| Host Name | ihhh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:17:58 |
+| Lobby ID | 28595311537395278 |
+| Players | 3/10 |
+| Host Name | Pemicaso |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:20:11 |
 
 
