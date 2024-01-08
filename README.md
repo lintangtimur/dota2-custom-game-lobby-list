@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:07:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310812834246 |
-| Players | 6/8 |
-| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:12:46 |
+| Lobby ID | 28595310813731551 |
+| Players | 2/10 |
+| Host Name | CrabStick |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:14:13 |
 
 
 |  | ot3_gardens_duo |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:11:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310813370022 |
-| Players | 11/15 |
-| Host Name | 𝕮𝖚𝖗𝖘𝖊𝖉⸸ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:13:37 |
 
 
 |  | epic_boss_fight_nightmare |
