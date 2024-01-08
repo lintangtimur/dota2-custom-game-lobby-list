@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311401693115 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:20:24 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311401515469 |
-| Players | 7/8 |
-| Host Name | Josh Giddey Sexual Mentality |
+| Lobby ID | 28595311401888202 |
+| Players | 1/8 |
+| Host Name | nba |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:20:11 |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,43 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311401392368 |
-| Players | 3/8 |
-| Host Name | Chippin’ In |
+| Players | 2/8 |
+| Host Name | tiny |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:20:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311401444735 |
-| Players | 11/15 |
-| Host Name | Krokaska |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:20:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311401747563 |
-| Players | 1/24 |
-| Host Name | Kalasin Man vs T-Rex |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:20:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311401755204 |
-| Players | 1/15 |
-| Host Name | GodjaBoys! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:20:28 |
+| Lobby ID | 28595311401850549 |
+| Players | 1/10 |
+| Host Name | D0bPbIй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311401761326 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | семга (сигма) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:20:28 |
@@ -180,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hiasfabio |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:18:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311401850859 |
+| Players | 1/10 |
+| Host Name | VOID |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:20:34 |
 
 
