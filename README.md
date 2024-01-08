@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311204172291 |
-| Players | 13/15 |
-| Host Name | PINGAMAN |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 22:57:13 |
+| Lobby ID | 28595311207329390 |
+| Players | 3/15 |
+| Host Name | Kneel. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311205916225 |
-| Players | 12/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:58:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311207093071 |
-| Players | 3/8 |
-| Host Name | chiste algoritmos |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 23:00:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311207416614 |
-| Players | 1/10 |
-| Host Name | Ya feel me? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:00:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311207301361 |
@@ -110,28 +83,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:00:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311207329390 |
-| Players | 2/15 |
-| Host Name | Kneel. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:00:15 |
+| Lobby ID | 28595311207093071 |
+| Players | 1/8 |
+| Host Name | chiste algoritmos |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311207416614 |
+| Players | 6/10 |
+| Host Name | Ya feel me? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311207475673 |
-| Players | 2/8 |
-| Host Name | BTW psychopath❄ |
+| Lobby ID | 28595311207532739 |
+| Players | 1/8 |
+| Host Name | nnegrov346 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311207586237 |
+| Players | 1/24 |
+| Host Name | Who TAO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311207640461 |
+| Players | 1/24 |
+| Host Name | <chel>you</chel> |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:00:24 |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311206957879 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | karmageddon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:59:54 |
@@ -146,19 +146,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:57:51 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311206494223 |
-| Players | 3/5 |
-| Host Name | Pos1tivchik) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:59:27 |
+| Lobby ID | 28595311207393047 |
+| Players | 1/10 |
+| Host Name | 理塘丁真:我测你犸 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 23:00:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311202309776 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | ORSHABAAL |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:55:26 |
@@ -180,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | StIngeR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:58:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311207393047 |
-| Players | 1/10 |
-| Host Name | 理塘丁真:我测你犸 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 23:00:19 |
 
 
