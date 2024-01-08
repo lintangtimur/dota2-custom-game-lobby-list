@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310805123842 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ASTE1K |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:00:10 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310805341060 |
-| Players | 4/10 |
-| Host Name | Крутой рэп салют |
+| Lobby ID | 28595310805594317 |
+| Players | 3/8 |
+| Host Name | пранк карсар |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:00:33 |
+| Lobby Creation Time | Monday, January 8, 2024 16:00:59 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:00:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310805498125 |
-| Players | 1/15 |
+| Lobby ID | 28595310805589699 |
+| Players | 1/24 |
 | Host Name | Lê Duẩn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:00:48 |
+| Lobby Creation Time | Monday, January 8, 2024 16:00:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310805635217 |
+| Players | 2/8 |
+| Host Name | QBash |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:01:03 |
 
 
 |  | epic_boss_fight_nightmare |
