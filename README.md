@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311561023114 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311564127785 |
-| Players | 10/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:06:24 |
+| Lobby ID | 28595311563449596 |
+| Players | 5/15 |
+| Host Name | Σ오로러시ψ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:10 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311564010544 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | J.A |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:06:11 |
@@ -67,35 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311563040349 |
-| Players | 4/8 |
-| Host Name | LearDH |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:04:26 |
+| Lobby ID | 28595311564343158 |
+| Players | 1/8 |
+| Host Name | All Time Joe |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:06:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311563449596 |
-| Players | 4/15 |
-| Host Name | Σ오로러시ψ |
+| Lobby ID | 28595311564352465 |
+| Players | 1/10 |
+| Host Name | eliomania |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:05:10 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:06:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311564234398 |
-| Players | 1/15 |
-| Host Name | V_V_V |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:06:35 |
+| Lobby ID | 28595311564346482 |
+| Players | 3/15 |
+| Host Name | Without negative |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:06:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311560513631 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:59:55 |
