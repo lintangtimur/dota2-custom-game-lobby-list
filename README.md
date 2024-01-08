@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310969341171 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Людмил Огурченко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310854955684 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | AURELIO CASILLAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:29:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310969775358 |
-| Players | 11/15 |
-| Host Name | печальный жнец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310970388336 |
-| Players | 3/8 |
-| Host Name | bftv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:34:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310970418541 |
@@ -128,21 +110,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:34:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310970388336 |
+| Players | 6/8 |
+| Host Name | bftv |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:34:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310970717552 |
+| Players | 2/15 |
+| Host Name | Яблочко |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:34:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310970670379 |
+| Players | 1/8 |
+| Host Name | Лютый личинус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:34:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310970710983 |
+| Players | 1/15 |
+| Host Name | h1rokkkky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:34:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310969463313 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310969121211 |
-| Players | 1/10 |
+| Lobby ID | 28595310970723138 |
+| Players | 1/5 |
 | Host Name | Urek Mazino |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:00 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:34:31 |
 
 
