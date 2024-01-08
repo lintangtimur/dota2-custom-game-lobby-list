@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311183648207 |
-| Players | 13/15 |
-| Host Name | Kimimaro |
+| Lobby ID | 28595311183807749 |
+| Players | 4/8 |
+| Host Name | .no lose |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:37:48 |
+| Lobby Creation Time | Monday, January 8, 2024 22:37:57 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -83,13 +83,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:37:31 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311183962657 |
+| Players | 1/24 |
+| Host Name | hehe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:38:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311184039228 |
+| Players | 3/15 |
+| Host Name | ZEYTON |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 22:38:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311177780816 |
+| Players | 21/24 |
+| Host Name | ☁ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:32:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311183807749 |
-| Players | 2/8 |
-| Host Name | .no lose |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:37:57 |
+| Lobby ID | 28595311184076022 |
+| Players | 1/8 |
+| Host Name | 午夜屠夫 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:38:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311184076900 |
+| Players | 3/15 |
+| Host Name | SeR@FiM |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 22:38:12 |
 
 
 |  | epic_boss_fight_nightmare |
