@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311532443007 |
-| Players | 22/24 |
-| Host Name | MONO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:11:58 |
+| Lobby ID | 28595311534441644 |
+| Players | 14/15 |
+| Host Name | IfukeNYPD |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:15:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311533954271 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311534067454 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:39 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311534392190 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Rippero |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:15:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311534441644 |
-| Players | 7/15 |
-| Host Name | IfukeNYPD |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:15:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311534514174 |
-| Players | 8/10 |
-| Host Name | Ali 13 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:15:24 |
 
 
 |  | epic_boss_fight_nightmare |
