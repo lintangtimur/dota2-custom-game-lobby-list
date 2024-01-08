@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311569149781 |
-| Players | 8/10 |
-| Host Name | SirCafiche |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:15:40 |
+| Lobby ID | 28595311572578686 |
+| Players | 1/10 |
+| Host Name | Joe Biden |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:22:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311571846688 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | f1fty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:20:39 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595311572096732 |
 | Players | 3/24 |
-| Host Name | peprike |
+| Host Name | UncertainHour |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:21:07 |
 
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311572431974 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:21:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311572594979 |
+| Players | 1/10 |
+| Host Name | weg64 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:22:03 |
 
 
