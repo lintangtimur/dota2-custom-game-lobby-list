@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310861077781 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Ben Simmons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 17:27:00 |
@@ -65,37 +65,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:22:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310860909007 |
-| Players | 9/10 |
-| Host Name | lobanov prime |
+| Lobby ID | 28595310861419928 |
+| Players | 1/8 |
+| Host Name | АААААА ЖЕНЩИНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:26:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310860934467 |
-| Players | 14/15 |
-| Host Name | tired again . . . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:26:47 |
+| Lobby Creation Time | Monday, January 8, 2024 17:27:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310860958966 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | дядя попа |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:26:49 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310861462290 |
+| Players | 1/8 |
+| Host Name | el todo poderoso |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 17:27:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310861478334 |
+| Players | 3/8 |
+| Host Name | ДЖЕК СКОТОЛОЖЕЦ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:27:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310857390064 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | невермор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:21:39 |
