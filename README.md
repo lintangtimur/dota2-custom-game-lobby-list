@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311264361497 |
-| Players | 9/10 |
-| Host Name | ESPORT |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 23:55:37 |
+| Lobby ID | 28595311263212061 |
+| Players | 7/10 |
+| Host Name | Лора Пьяна |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 23:54:29 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311263923980 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | sHiZoPhOeNiX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311262697008 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | [ N O V A ] |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:53:58 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:53:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311264565445 |
-| Players | 7/15 |
-| Host Name | Пынявик |
+| Lobby ID | 28595311264640505 |
+| Players | 7/10 |
+| Host Name | солевой хобатун |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:55:49 |
+| Lobby Creation Time | Monday, January 8, 2024 23:55:54 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311261324360 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Gorlock the Destroyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:52:35 |
@@ -137,28 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:55:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311264640505 |
-| Players | 4/10 |
-| Host Name | солевой хобатун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:55:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311263212061 |
-| Players | 7/10 |
-| Host Name | Лора Пьяна |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 23:54:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311263801842 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ARYx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:04 |
@@ -167,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311257209060 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | TE FIDEO LA LIF |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 23:48:29 |
@@ -194,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311258778286 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:03 |
@@ -212,18 +194,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311264638378 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:55:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311264763859 |
-| Players | 1/5 |
-| Host Name | Bibirooooo |
+| Lobby ID | 28595311264849905 |
+| Players | 2/10 |
+| Host Name | ไม่เมี้ยว |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 23:56:01 |
+| Lobby Creation Time | Monday, January 8, 2024 23:56:06 |
 
 
