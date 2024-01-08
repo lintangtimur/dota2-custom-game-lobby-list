@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311064745823 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Kenjisakura |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:57:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311064404653 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | AQWARELLL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:57:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311064359856 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | amor fati |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:57:21 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311063171126 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | |a.p.y| |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:56:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311064907566 |
+| Players | 1/8 |
+| Host Name | friendly |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:57:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311065058311 |
+| Players | 4/8 |
+| Host Name | defo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:57:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ya Me Te |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:56:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311064926325 |
+| Players | 1/5 |
+| Host Name | смешно,правда? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 20:57:49 |
 
 
