@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311197070972 |
-| Players | 5/8 |
-| Host Name | W.W- WLADIMIR WLAVIMIROVICH |
+| Lobby ID | 28595311198036026 |
+| Players | 1/8 |
+| Host Name | ... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:50:26 |
+| Lobby Creation Time | Monday, January 8, 2024 22:51:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:50:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311197701062 |
-| Players | 7/8 |
-| Host Name | CoraLeaFriedrichPlankton |
+| Lobby ID | 28595311197995788 |
+| Players | 2/10 |
+| Host Name | Krico |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:51:02 |
+| Lobby Creation Time | Monday, January 8, 2024 22:51:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:50:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311197931416 |
-| Players | 7/15 |
-| Host Name | Muejejejeje |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:51:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311197629320 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Adeshi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:50:58 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311192588855 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JIMMY |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:46:12 |
