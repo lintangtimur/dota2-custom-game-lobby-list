@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310854955684 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Deid |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 17:18:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | CHUPAPI |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310937536843 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:01:33 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310940579694 |
-| Players | 3/10 |
-| Host Name | psychodelic- |
+| Players | 1/10 |
+| Host Name | 香精煎鱼食不食？ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:04:41 |
 
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:03:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310940562205 |
-| Players | 14/15 |
-| Host Name | Jod-of-jokers |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:04:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310940742990 |
-| Players | 1/15 |
-| Host Name | 不会辅助 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 19:04:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310940593260 |
@@ -128,10 +110,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:04:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310941192285 |
+| Players | 5/15 |
+| Host Name | Basado Hyperclap |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310941167821 |
+| Players | 7/8 |
+| Host Name | Kalk |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310941229252 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310941264994 |
+| Players | 5/8 |
+| Host Name | проказница артем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310941310304 |
+| Players | 1/15 |
+| Host Name | 不会辅助 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310941315574 |
+| Players | 3/8 |
+| Host Name | anxiety disorders |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310938028193 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Helb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:02:04 |
@@ -140,18 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310939900102 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:04:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310940049001 |
-| Players | 1/10 |
-| Host Name | Demolition @ Internet |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 19:04:09 |
+| Lobby ID | 28595310941192354 |
+| Players | 1/5 |
+| Host Name | Im 4pos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:05:18 |
 
 
