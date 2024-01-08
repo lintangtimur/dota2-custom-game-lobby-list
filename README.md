@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311315125736 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Rgaвій |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:46:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311313240178 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | jugeinio |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:45:02 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311315233286 |
-| Players | 5/8 |
-| Host Name | Magi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:05 |
+| Lobby ID | 28595311315273623 |
+| Players | 1/24 |
+| Host Name | Vez Larkinson.. |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311315053152 |
-| Players | 7/8 |
-| Host Name | Maks eblan ⛟ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:46:54 |
+| Lobby ID | 28595311315007949 |
+| Players | 4/8 |
+| Host Name | Waffle |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:46:51 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311312277174 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311315065324 |
-| Players | 5/10 |
-| Host Name | Mort-i |
+| Lobby ID | 28595311314067449 |
+| Players | 14/15 |
+| Host Name | NiK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:46:55 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:45:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,37 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311312300780 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Хлібинка |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311315358126 |
+| Players | 5/10 |
+| Host Name | leus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311313722450 |
+| Players | 4/10 |
+| Host Name | Извините, я спать! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:45:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311315007949 |
-| Players | 1/8 |
-| Host Name | Waffle |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:46:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311315273623 |
-| Players | 1/24 |
-| Host Name | Vez Larkinson.. |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:08 |
+| Lobby ID | 28595311315485589 |
+| Players | 4/8 |
+| Host Name | РАДОЛЬФ ГИТЛЕР |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311313680876 |
-| Players | 9/10 |
-| Host Name | iam  blue |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:45:29 |
+| Lobby ID | 28595311315140859 |
+| Players | 4/10 |
+| Host Name | Sijem TOPA |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:47:00 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Primordialb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:43:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311315140859 |
-| Players | 3/10 |
-| Host Name | Sijem TOPA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:47:00 |
 
 
