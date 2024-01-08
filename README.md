@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311546114963 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Radiance |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:34:35 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311548205135 |
-| Players | 1/8 |
-| Host Name | Error |
+| Lobby ID | 28595311548225430 |
+| Players | 2/15 |
+| Host Name | OLTUGA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:38:05 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:38:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | All Time Joe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:38:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311548323428 |
+| Players | 1/8 |
+| Host Name | Error |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:38:17 |
 
 
 |  | epic_boss_fight_normal |
