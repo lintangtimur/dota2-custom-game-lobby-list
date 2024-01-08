@@ -47,22 +47,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310913302953 |
-| Players | 21/24 |
-| Host Name | 'le Yan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310913288844 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Pipok |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310913838990 |
+| Players | 2/8 |
+| Host Name | midas enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310913911085 |
+| Players | 4/8 |
+| Host Name | писька джан ♿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310913916174 |
+| Players | 1/8 |
+| Host Name | победилдо |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310913945702 |
+| Players | 2/24 |
+| Host Name | RUFSON |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310913570955 |
-| Players | 1/10 |
-| Host Name | -Bijan- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:43 |
 
 
