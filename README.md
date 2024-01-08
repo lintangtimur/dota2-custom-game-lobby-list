@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311219653258 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | rafiki |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:12:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311221486215 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Чилийскийперчик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:13:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311221806856 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Red pandas so cute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:14:05 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311221778511 |
+| Lobby ID | 28595311221890471 |
+| Players | 2/8 |
+| Host Name | Бабушка Стрея |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311221955443 |
 | Players | 1/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
-| Region | CHILE |
-| Lobby Creation Time | Monday, January 8, 2024 23:14:04 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311221819265 |
-| Players | 1/24 |
-| Host Name | Gồng Gánh Cả Team |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 23:14:06 |
+| Lobby ID | 28595311221982831 |
+| Players | 4/8 |
+| Host Name | Na 4iLe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 23:14:16 |
 
 
 |  | epic_boss_fight_nightmare |
