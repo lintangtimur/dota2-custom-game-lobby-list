@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310884651471 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | wvnna die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:59:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310884168778 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310884749731 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Арсеникум |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:59:15 |
