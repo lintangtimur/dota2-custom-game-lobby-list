@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:32:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310865630755 |
-| Players | 1/24 |
-| Host Name | BUTUH DANA CEPAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:33:22 |
+| Lobby ID | 28595310865709776 |
+| Players | 3/8 |
+| Host Name | ВИТЯ БИЗНЕС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:33:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,20 +74,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:33:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310865709776 |
-| Players | 1/8 |
-| Host Name | ВИТЯ БИЗНЕС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:33:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310865693402 |
-| Players | 1/10 |
-| Host Name | ★з♥а♦я♣ц★™ |
+| Players | 2/10 |
+| Host Name | Fowo..x' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:33:27 |
 
