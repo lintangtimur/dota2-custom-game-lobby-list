@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311084394641 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Борис Нюхач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:14:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311081489482 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:11:41 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311084856069 |
-| Players | 1/15 |
-| Host Name | Leeroy |
+| Lobby ID | 28595311084974980 |
+| Players | 12/15 |
+| Host Name | чезахуйняхочувзятьврукиоружие |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:14:32 |
+| Lobby Creation Time | Monday, January 8, 2024 21:14:38 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тварь-мразь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:14:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311084974980 |
-| Players | 4/15 |
-| Host Name | чезахуйняхочувзятьврукиоружие |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:14:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311082804454 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Born on a Monday |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:12:48 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595311084696756 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | курвасаки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:14:24 |
