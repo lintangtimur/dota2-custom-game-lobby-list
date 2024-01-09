@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087759076006 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087757004829 |
-| Players | 19/24 |
+| Players | 16/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:28:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087758729698 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087757942156 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:30:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087759428392 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | гоблин фрезировщ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087759437263 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Цирроз печени |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087759461658 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ezzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:42 |
