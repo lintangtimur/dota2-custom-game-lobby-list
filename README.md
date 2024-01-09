@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087765131820 |
-| Players | 5/8 |
-| Host Name | El pitudo 2 , |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:46:33 |
+| Lobby ID | 28601087766933279 |
+| Players | 1/8 |
+| Host Name | ахир заман |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:50:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087762448648 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | magnus did nothing wrong |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:40:21 |
@@ -85,17 +85,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28601087764379495 |
-| Players | 8/10 |
-| Host Name | Hakan_0 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:44:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28601087765341964 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:01 |
