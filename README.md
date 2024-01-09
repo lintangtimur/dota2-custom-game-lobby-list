@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087778869423 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:50 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087780055629 |
-| Players | 6/8 |
-| Host Name | Casio |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:16:21 |
+| Lobby ID | 28601087781481776 |
+| Players | 3/8 |
+| Host Name | reality distortion (kfan) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:19:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087779537416 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | как же я вас люблю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:15:15 |
