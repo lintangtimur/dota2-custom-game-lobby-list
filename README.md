@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725521128 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087725502406 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Kuzonoha |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087725580620 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:18 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087726188632 |
-| Players | 1/8 |
-| Host Name | PENE  NEGRO |
+| Players | 2/8 |
+| Host Name | Chris Luck,, Turry Mbappe- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:21:34 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725917032 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | ?????? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:58 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | J_my_Dizzle |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:21:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28601087719701136 |
-| Players | 9/10 |
-| Host Name | o_O |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:07:48 |
 
 
