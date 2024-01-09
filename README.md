@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087778869423 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087779102186 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | -Saitama |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087779216409 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | CGNES DE NMRD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087779184771 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Boris Britva (Unofficial) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:31 |
