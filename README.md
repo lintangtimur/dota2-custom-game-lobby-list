@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087753763033 |
-| Players | 14/15 |
-| Host Name | Leo bot_2 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:21:04 |
+| Lobby ID | 28601087754618249 |
+| Players | 4/8 |
+| Host Name | Kikilini! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:22:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087754533900 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | В доме 8/16 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:22:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087754308016 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:22:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087754129293 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Artanis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:21:53 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:22:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087754697214 |
+| Players | 1/15 |
+| Host Name | Yamiツ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:23:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087753527928 |
+| Players | 14/15 |
+| Host Name | Maunula |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:20:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087754618249 |
-| Players | 4/8 |
-| Host Name | Kikilini! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:22:56 |
+| Lobby ID | 28601087754764828 |
+| Players | 1/8 |
+| Host Name | Настоящее имя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:23:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:15:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087753365332 |
-| Players | 1/5 |
-| Host Name | KalashmatiK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:20:12 |
 
 
