@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087745544444 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ezzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:03:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087746555266 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MaSter |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:05:22 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087745435362 |
-| Players | 12/15 |
-| Host Name | KEVIN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:02:57 |
+| Lobby ID | 28601087746704397 |
+| Players | 1/15 |
+| Host Name | Polyhedron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:05:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087746014567 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | aburre el dota |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:04:13 |
@@ -104,19 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087746025039 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ŧɇNf๘łĐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:04:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087746709534 |
+| Players | 1/8 |
+| Host Name | MODO SEPSO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:05:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087746520971 |
-| Players | 13/15 |
-| Host Name | dal zazu |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:05:17 |
+| Lobby ID | 28601087746680741 |
+| Players | 6/15 |
+| Host Name | Munch |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:05:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087746752102 |
+| Players | 4/15 |
+| Host Name | ебать i'm blind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:05:47 |
 
 
 |  | epic_boss_fight_nightmare |
