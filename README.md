@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087778321012 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087779216409 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | CGNES DE NMRD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087779184771 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Boris Britva (Unofficial) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:31 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087773499511 |
-| Players | 8/8 |
+| Players | 7/8 |
 | Host Name | Gnoren |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:03:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087779263012 |
+| Players | 1/8 |
+| Host Name | Casio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:14:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087775787363 |
+| Players | 8/8 |
+| Host Name | Jotun- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:07:32 |
 
 
 |  | epic_boss_fight_nightmare |
