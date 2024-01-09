@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087789033311 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Ilay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:42 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087789092455 |
-| Players | 1/8 |
-| Host Name | MOMO |
+| Lobby ID | 28601087789121126 |
+| Players | 4/24 |
+| Host Name | ELTERRORDELTHC |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:34:49 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:34:52 |
 
 
 |  | epic_boss_fight_nightmare |
