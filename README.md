@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087747700944 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | $$-_-$$ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:07:49 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:05:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087747251669 |
-| Players | 9/10 |
-| Host Name | Pippey- |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:06:52 |
+| Lobby ID | 28601087748072374 |
+| Players | 5/15 |
+| Host Name | 9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:08:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087747130890 |
-| Players | 9/15 |
-| Host Name | 13 trilhoes a velocidade da luz |
+| Lobby ID | 28601087748205545 |
+| Players | 1/15 |
+| Host Name | Zephyr |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:06:36 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:08:55 |
 
 
 |  | ot3_desert_octet |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087747676163 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:07:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087748100807 |
+| Players | 3/8 |
+| Host Name | Frontier |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:08:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087748117631 |
+| Players | 2/10 |
+| Host Name | I.G.Y |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:08:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087748223675 |
+| Players | 2/15 |
+| Host Name | Hugh Jann Ouncement |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:08:57 |
 
 
 |  | epic_boss_fight_nightmare |
