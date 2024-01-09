@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087735949026 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | DaktAri |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:42:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087734680225 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:39:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087734656324 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:39:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087735468629 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:41:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087735342772 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:41:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087736031746 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Swanky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:42:35 |
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | O.P |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:43:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087736266056 |
-| Players | 1/15 |
-| Host Name | LaGallinaTuruleca |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:43:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087736279207 |
-| Players | 1/10 |
-| Host Name | Haisse |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:43:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28601087733735419 |
-| Players | 9/10 |
-| Host Name | A- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:37:39 |
 
 
 |  | epic_boss_fight_nightmare |
