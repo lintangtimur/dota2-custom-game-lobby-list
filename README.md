@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087754533900 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | В доме 8/16 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:22:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087754925870 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:23:36 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:24:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087755270492 |
+| Players | 3/8 |
+| Host Name | ORiGiNAL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:24:23 |
 
 
 |  | epic_boss_fight_nightmare |
