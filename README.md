@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087717840087 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:55 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Бухая фея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:09:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087721953028 |
+| Players | 1/15 |
+| Host Name | Polyhedron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:12:34 |
 
 
 |  | epic_boss_fight_nightmare |
