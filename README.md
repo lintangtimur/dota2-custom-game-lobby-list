@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087772011129 |
-| Players | 14/15 |
-| Host Name | j |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:00:06 |
+| Lobby ID | 28601087773603181 |
+| Players | 4/8 |
+| Host Name | yuca |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:03:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087769613867 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:03:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087773603181 |
-| Players | 3/8 |
-| Host Name | yuca |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:03:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087773704057 |
-| Players | 1/8 |
-| Host Name | Itachi |
+| Lobby ID | 28601087773951869 |
+| Players | 2/15 |
+| Host Name | depressed Vkid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:03:24 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:03:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087773971048 |
+| Players | 1/5 |
+| Host Name | _ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:03:55 |
 
 
