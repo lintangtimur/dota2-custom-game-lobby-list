@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087785008279 |
+| Players | 4/8 |
+| Host Name | Stingray |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:26:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087785069449 |
+| Players | 2/8 |
+| Host Name | Jesús de Nazaret |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:26:39 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087783404427 |
-| Players | 7/10 |
-| Host Name | @prolux20 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:23:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087782708372 |
-| Players | 11/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311486201365 |
-| Players | 23/24 |
-| Host Name | iDiOTA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
+| Lobby ID | 28601087784517867 |
+| Players | 1/10 |
+| Host Name | Travis |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:25:31 |
 
 
 |  | ot3_desert_octet |
@@ -49,62 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087782261086 |
-| Players | 9/15 |
-| Host Name | JrY |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:20:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087782534933 |
-| Players | 19/24 |
-| Host Name | ...zZ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28601087784652389 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:25:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087784621157 |
-| Players | 1/8 |
-| Host Name | Jesús de Nazaret |
+| Lobby ID | 28601087782534933 |
+| Players | 20/24 |
+| Host Name | ...zZ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:25:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087784517867 |
-| Players | 1/10 |
-| Host Name | Travis |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:25:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087784911352 |
-| Players | 4/10 |
-| Host Name | SLEEP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:26:20 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087784248550 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | living scares me more than death |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:24:57 |
