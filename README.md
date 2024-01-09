@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087759132650 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | << Pechi>> |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087759076006 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087759428392 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | гоблин фрезировщ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:38 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087759461658 |
-| Players | 7/8 |
-| Host Name | ezzzzzzz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:33:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28601087759538293 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Magaly TB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087759749761 |
+| Players | 1/15 |
+| Host Name | 🐖 JHON PORK 🐖 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:34:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087758943348 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087759499020 |
-| Players | 1/5 |
-| Host Name | clglOgck |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:33:47 |
 
 
