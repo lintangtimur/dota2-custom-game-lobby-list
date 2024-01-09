@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087721640342 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:11:54 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311578217012 |
-| Players | 1/24 |
-| Host Name | QuakerOath |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:32:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087720659490 |
-| Players | 4/8 |
-| Host Name | Бухая фея |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:09:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087720950088 |
-| Players | 4/8 |
-| Host Name | Salio Mal Pero Estamos Bien |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:10:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087717419426 |
@@ -83,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087721243703 |
-| Players | 13/15 |
-| Host Name | cummy bottom boy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:11:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087721304384 |
-| Players | 8/10 |
-| Host Name | FSDC | Kapsy |
+| Lobby ID | 28601087720659490 |
+| Players | 4/8 |
+| Host Name | Бухая фея |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:11:12 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:09:50 |
 
 
 |  | epic_boss_fight_nightmare |
