@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087786921659 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Master Oogway |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:30:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087787734873 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:32:03 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:31:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087788275433 |
-| Players | 1/5 |
-| Host Name | CreatiVe |
+| Lobby ID | 28601087786198680 |
+| Players | 14/15 |
+| Host Name | Sammythical |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:33:10 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:56 |
 
 
