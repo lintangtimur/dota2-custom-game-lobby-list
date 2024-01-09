@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746069518 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Kangaroo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:04:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087747130890 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | 13 trilhoes a velocidade da luz |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087746704397 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Polyhedron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:05:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087745754518 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Revelkzzz0n |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:03:39 |
