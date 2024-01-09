@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087716930171 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Ho Ho Ho manito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087716798240 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:01:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087717912981 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | コンセラス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087718039927 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Estúpido Perro!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087718396528 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Swanky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:03 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087718592219 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | мой пердак готов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:27 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087718663092 |
-| Players | 5/8 |
-| Host Name | big sorosh |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:05:36 |
+| Lobby ID | 28601087718697150 |
+| Players | 1/8 |
+| Host Name | Saes rage version |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:05:40 |
 
 
 |  | epic_boss_fight_nightmare |
