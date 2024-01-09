@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087747700944 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | $$-_-$$ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:07:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087746709534 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | MODO SEPSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:05:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087748072374 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:08:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087747676163 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:07:46 |
@@ -130,11 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087748631438 |
-| Players | 1/8 |
-| Host Name | 33 3 33 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:09:50 |
+| Lobby ID | 28601087748683160 |
+| Players | 2/8 |
+| Host Name | Tavo Tu Terror |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:09:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087748709218 |
+| Players | 5/15 |
+| Host Name | SoulKZS |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:10:00 |
 
 
 |  | epic_boss_fight_nightmare |
