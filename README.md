@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087715771475 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 10% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:59:38 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311580393229 |
-| Players | 21/24 |
-| Host Name | RiftBreaker |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:36:59 |
+| Lobby ID | 28601087715526941 |
+| Players | 8/24 |
+| Host Name | Chisato |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:59:06 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087716081911 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 平 -  E=MC2 - 平 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:00:15 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | big sorosh |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:59:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087715526941 |
-| Players | 7/24 |
-| Host Name | Chisato |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:59:06 |
 
 
 |  | epic_boss_fight_nightmare |
