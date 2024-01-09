@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087739775596 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Федор Дезолятор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:41 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087739463039 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | El inge pepe |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087738037832 |
-| Players | 9/10 |
-| Host Name | Jet |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:47:00 |
+| Lobby ID | 28601087740697614 |
+| Players | 4/8 |
+| Host Name | S_M_P |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:52:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:53:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087740697614 |
-| Players | 4/8 |
-| Host Name | S_M_P |
+| Lobby ID | 28601087741248911 |
+| Players | 1/24 |
+| Host Name | TTravisScoTT |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:52:39 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:53:50 |
 
 
