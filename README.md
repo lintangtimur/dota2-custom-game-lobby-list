@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087722704843 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Denji like boobs |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:14:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087721640342 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:11:54 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ............. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:14:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087722823045 |
+| Players | 2/15 |
+| Host Name | KaRAtel BOtov |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087722833194 |
+| Players | 1/15 |
+| Host Name | Es un Elissir xD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28601087722775365 |
-| Players | 2/5 |
-| Host Name | Dying1 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:14:20 |
+| Lobby ID | 28601087722831806 |
+| Players | 3/5 |
+| Host Name | Doc.Kartozz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:27 |
 
 
