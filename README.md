@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087772011129 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | j |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:00:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087773013331 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | gttek- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:02:03 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gnoren |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:03:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087773603181 |
+| Players | 1/8 |
+| Host Name | yuca |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:03:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087773612560 |
+| Players | 1/8 |
+| Host Name | Itachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:03:13 |
 
 
