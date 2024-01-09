@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087788880878 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Максим Анатольевич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087788395120 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Grey |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:33:24 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087787254970 |
-| Players | 14/15 |
-| Host Name | Ghetto |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:31:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 기joe을이damn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:33:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087788977236 |
+| Players | 1/5 |
+| Host Name | pos_69_or_gayfurryhelicopter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:34:35 |
 
 
