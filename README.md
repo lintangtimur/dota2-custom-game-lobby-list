@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087769613867 |
-| Players | 20/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Lobby ID | 28601087778105858 |
+| Players | 4/8 |
+| Host Name | El MALDITO CREEP |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:12:16 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777866612 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777875373 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | eL OE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:47 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheNurba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087778105858 |
-| Players | 4/8 |
-| Host Name | El MALDITO CREEP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:12:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28601087778473291 |
-| Players | 1/10 |
-| Host Name | Chlowie<3 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:13:02 |
 
 
