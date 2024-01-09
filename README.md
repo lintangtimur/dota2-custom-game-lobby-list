@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087743180059 |
-| Players | 6/8 |
-| Host Name | ٩(◣_◢)۶ |
+| Lobby ID | 28601087743633857 |
+| Players | 3/8 |
+| Host Name | qqqqqqq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:58:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:58:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087743110922 |
-| Players | 14/15 |
-| Host Name | BitcoinArtem |
+| Lobby ID | 28601087743055331 |
+| Players | 4/10 |
+| Host Name | kan4ew1ch |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:57:51 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:57:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087743245153 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Joshe Mr A.Z. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:58:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087743055331 |
-| Players | 4/10 |
-| Host Name | kan4ew1ch |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:57:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087743589898 |
-| Players | 1/15 |
-| Host Name | Higadosor is back!!!! :3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:58:53 |
 
 
 |  | epic_boss_fight_nightmare |
