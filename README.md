@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087728797070 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SnuSnu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:27:09 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087728392464 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ебать i'm blind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:26:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087727142100 |
-| Players | 22/24 |
-| Host Name | NapoleonTD |
+| Lobby ID | 28601087729188082 |
+| Players | 1/8 |
+| Host Name | pos 1 pma i try my best |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:23:37 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:27:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087727331276 |
+| Players | 8/15 |
+| Host Name | dibujitopiolin |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:24:01 |
 
 
 |  | epic_boss_fight_nightmare |
