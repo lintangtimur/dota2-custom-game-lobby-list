@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087790232464 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | el lame chuchas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:37:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087790360433 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Larvatronic! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:37:17 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | во все тяжечки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:37:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087790699612 |
+| Players | 1/8 |
+| Host Name | Casio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:37:57 |
 
 
 |  | epic_boss_fight_nightmare |
