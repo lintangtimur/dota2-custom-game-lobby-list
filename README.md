@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087743494008 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:58:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087744634016 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | ♪KEMPER♪ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087744972454 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | crow |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:56 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KEVIN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087745074430 |
+| Players | 2/10 |
+| Host Name | chifoncito de charito rico |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:02:09 |
 
 
 |  | epic_boss_fight_nightmare |
