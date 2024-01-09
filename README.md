@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087795051011 |
-| Players | 11/15 |
-| Host Name | Lenny tavarez |
+| Lobby ID | 28601087793271076 |
+| Players | 5/8 |
+| Host Name | Boss_w21 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:47:25 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:43:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087794555935 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Kent |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087789045364 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087794212389 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | CombatWorthyWombat |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:45:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087795168826 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | mike. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087795190129 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Twitch.tv/loki_smelc |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:43 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:55 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087795629386 |
+| Players | 1/24 |
+| Host Name | Mike Oxlong |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:48:40 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087793271076 |
-| Players | 8/8 |
-| Host Name | Boss_w21 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:43:22 |
+| Lobby ID | 28601087795660746 |
+| Players | 2/8 |
+| Host Name | тильт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087795395781 |
-| Players | 4/10 |
-| Host Name | dl-double0Gy |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:48:10 |
+| Lobby ID | 28601087795662147 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
 
 
 |  | epic_boss_fight_nightmare |
