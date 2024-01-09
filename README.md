@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087798662293 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Vaxsal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:55:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087799117569 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Curze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:56:15 |
@@ -58,38 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087798816160 |
-| Players | 11/15 |
-| Host Name | Zero Two |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:55:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087799158072 |
-| Players | 3/8 |
-| Host Name | pirulo estelar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:56:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28601087799305449 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Langlyaaa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:56:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087799509467 |
-| Players | 1/10 |
-| Host Name | :)) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:57:03 |
+| Lobby ID | 28601087799158072 |
+| Players | 5/8 |
+| Host Name | pirulo estelar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:56:20 |
 
 
 |  | epic_boss_fight_nightmare |
