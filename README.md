@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087803003407 |
-| Players | 13/15 |
-| Host Name | P A z |
+| Lobby ID | 28601087802943036 |
+| Players | 7/8 |
+| Host Name | ¿? |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 10:04:30 |
+| Lobby Creation Time | Tuesday, January 9, 2024 10:04:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087803197914 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Captain Geech |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:04:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087797833935 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Zolotoira |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:53:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087802953961 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | SCUERO EL TERROR DE ILABAYA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:04:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087801723779 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Dccc` |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:01:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087802477117 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Captain Bungholio |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:03:21 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087802966787 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:04:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087802943036 |
-| Players | 7/8 |
-| Host Name | ¿? |
+| Lobby ID | 28601087801543624 |
+| Players | 12/15 |
+| Host Name | Xiao BB |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 10:04:22 |
+| Lobby Creation Time | Tuesday, January 9, 2024 10:01:21 |
 
 
 |  | epic_boss_fight_nightmare |
