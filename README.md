@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087789045364 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087791730289 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | HEARTBROKEN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087791752815 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | peeppeep |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087792053019 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Suicune > Vaporeon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:44 |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087791431949 |
-| Players | 1/10 |
-| Host Name | |OG|YAKUZA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:39:26 |
+| Lobby ID | 28601087792077336 |
+| Players | 1/24 |
+| Host Name | Snow |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:40:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087792109570 |
+| Players | 2/5 |
+| Host Name | KalashmatiK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:40:51 |
 
 
