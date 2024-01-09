@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087751526220 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087752730527 |
-| Players | 10/15 |
-| Host Name | LeandroB |
+| Lobby ID | 28601087752980290 |
+| Players | 1/24 |
+| Host Name | goeya |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:18:51 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:19:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Цирроз печени |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087752966466 |
-| Players | 5/8 |
-| Host Name | ayer era gozuu :b |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:19:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087752885425 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | KalashmatiK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:11 |
