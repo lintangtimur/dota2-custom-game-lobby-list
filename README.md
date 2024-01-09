@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:17:35 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087781019418 |
+| Players | 2/15 |
+| Host Name | Rameezy_ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:18:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087778698646 |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дьошик |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28601087780972993 |
-| Players | 1/10 |
-| Host Name | Knowledge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:18:11 |
 
 
