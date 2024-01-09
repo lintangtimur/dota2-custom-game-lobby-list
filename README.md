@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:56:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087715324880 |
-| Players | 9/10 |
-| Host Name | Deiidream |
+| Lobby ID | 28601087716285574 |
+| Players | 6/15 |
+| Host Name | blasphemy |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:58:40 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:00:39 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087715526941 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Chisato |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:59:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087716081911 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 平 -  E=MC2 - 平 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:00:15 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | big sorosh |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:59:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087716374722 |
+| Players | 1/10 |
+| Host Name | *-*Relajo*-* |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:00:51 |
 
 
 |  | epic_boss_fight_nightmare |
