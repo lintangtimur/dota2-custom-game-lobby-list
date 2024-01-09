@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087716930171 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Ho Ho Ho manito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:02 |
@@ -119,22 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087715545157 |
-| Players | 9/10 |
-| Host Name | Haron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:59:09 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28601087717965745 |
-| Players | 2/7 |
-| Host Name | ХАНТЕР696 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:04:10 |
+| Lobby ID | 28601087719029075 |
+| Players | 1/15 |
+| Host Name | mochilx.exe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:06:22 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BABAYAGA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:00 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28601087717965745 |
+| Players | 2/7 |
+| Host Name | ХАНТЕР696 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:04:10 |
 
 
