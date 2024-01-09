@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087750319195 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Frs4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:29 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087748270860 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | There is no silver |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087749059698 |
-| Players | 23/24 |
-| Host Name | deathphanton_lost |
+| Lobby ID | 28601087751796614 |
+| Players | 1/8 |
+| Host Name | Xu Solar |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:10:45 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:16:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087751526220 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087751551023 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Никита Вежливый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087751610906 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087751576993 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Mr. Pickles |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:18 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Negev |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087751796614 |
-| Players | 1/8 |
-| Host Name | Xu Solar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:16:46 |
 
 
 |  | epic_boss_fight_nightmare |
