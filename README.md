@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087798312375 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Yoluis |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:54:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087796585876 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Deepcutsx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:50:44 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Formidable |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:51:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087797500175 |
-| Players | 22/24 |
-| Host Name | GHOSTFACE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:52:45 |
 
 
 |  | ot3_gardens_duo |
