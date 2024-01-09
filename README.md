@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087720741874 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Yamiツ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:10:01 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:10:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087717419426 |
+| Players | 8/10 |
+| Host Name | @prolux20 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:03:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087721243171 |
+| Players | 6/8 |
+| Host Name | Downs Total Fee |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:11:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087720881914 |
-| Players | 12/15 |
-| Host Name | SailerSilence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:10:18 |
+| Lobby ID | 28601087721243703 |
+| Players | 1/15 |
+| Host Name | cummy bottom boy |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:11:04 |
 
 
 |  | epic_boss_fight_nightmare |
