@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087785540653 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | LYKAN DARK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:36 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087786092514 |
+| Players | 1/8 |
+| Host Name | antes era weno lo juro |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:43 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087784248550 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | living scares me more than death |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:24:57 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Genesis-Exodus |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087786048083 |
+| Players | 1/10 |
+| Host Name | pepega |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:38 |
 
 
