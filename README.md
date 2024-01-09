@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087716930171 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Ho Ho Ho manito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087717912981 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | コンセラス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:04 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087718020199 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | wie |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087717242388 |
+| Players | 15/15 |
+| Host Name | El gatito erotico |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:02:41 |
 
 
 |  | epic_boss_fight_nightmare |
