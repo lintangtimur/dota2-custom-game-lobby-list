@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087759076006 |
-| Players | 14/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:32:51 |
+| Lobby ID | 28601087759775589 |
+| Players | 2/10 |
+| Host Name | gttek- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:34:24 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087757004829 |
-| Players | 22/24 |
-| Host Name | Marlito |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:28:16 |
+| Lobby ID | 28601087759437263 |
+| Players | 1/8 |
+| Host Name | iProbie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:33:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087758729698 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:05 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087757942156 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:30:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087759775589 |
-| Players | 2/10 |
-| Host Name | gttek- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:34:24 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087759437263 |
+| Lobby ID | 28601087760069908 |
 | Players | 1/8 |
-| Host Name | iProbie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:33:39 |
+| Host Name | Tu Tío |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:35:03 |
 
 
 |  | epic_boss_fight_nightmare |
