@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087739338164 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:49:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087739534626 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | NIDOKING :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:11 |
@@ -95,9 +95,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087739534329 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Troublesome |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087739700993 |
+| Players | 2/15 |
+| Host Name | SnuSnu |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087738209742 |
+| Players | 9/10 |
+| Host Name | sigmawater |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:47:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087739775596 |
+| Players | 2/8 |
+| Host Name | штора |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087739781261 |
+| Players | 3/8 |
+| Host Name | shadowterror |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087738438209 |
+| Players | 13/15 |
+| Host Name | Mr. Morale & The Big Steppers |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:47:52 |
 
 
