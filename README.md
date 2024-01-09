@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087780038169 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | When eres dani |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:16:19 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yatoro菜 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:17:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087780573409 |
+| Players | 1/15 |
+| Host Name | Rameezy_ |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:17:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087780602052 |
+| Players | 2/10 |
+| Host Name | SeDzo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:17:26 |
 
 
 |  | epic_boss_fight_nightmare |
