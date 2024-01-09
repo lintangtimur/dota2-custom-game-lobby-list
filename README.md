@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738650024 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | ебать i'm blind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:48:20 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738438209 |
-| Players | 2/15 |
-| Host Name | Checker98 |
+| Players | 1/15 |
+| Host Name | Mr. Morale & The Big Steppers |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:52 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738439851 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Rizzrack J'Kzð |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:53 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sigmawater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087738729758 |
-| Players | 2/8 |
-| Host Name | puffy-nib9 :> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:48:30 |
 
 
 |  | epic_boss_fight_normal |
