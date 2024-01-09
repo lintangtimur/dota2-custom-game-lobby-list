@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:17:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087723632771 |
-| Players | 23/24 |
-| Host Name | ZZZZZZZZ |
+| Lobby ID | 28601087724216189 |
+| Players | 3/15 |
+| Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:16:12 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:17:26 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087723763787 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SICARIO DE DIOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:16:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087723764573 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:16:29 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.FANIxx |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:17:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087724216189 |
-| Players | 3/15 |
-| Host Name | Mr. WILLIAM M. LAMETRASEROS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:17:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087724422552 |
-| Players | 1/15 |
-| Host Name | WANRLTW |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:17:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ХАНТЕР696 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087724562036 |
+| Players | 1/5 |
+| Host Name | /watch?v=OLpeX4RRo28 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:18:11 |
 
 
