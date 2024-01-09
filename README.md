@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087741517144 |
-| Players | 9/10 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:54:25 |
+| Lobby ID | 28601087742404297 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:56:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087741699138 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | NieVes |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:48 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087742144806 |
-| Players | 6/10 |
-| Host Name | obezyana |
+| Lobby ID | 28601087742499229 |
+| Players | 1/24 |
+| Host Name | ZzzRiicE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:55:46 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:56:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087742181257 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:55:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087742265977 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Dionys- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:56:01 |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:56:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087742404297 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:56:19 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28601087740297275 |
+| Lobby ID | 28601087742189751 |
 | Players | 1/5 |
-| Host Name | L i o |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:51:48 |
+| Host Name | Nightmare |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:55:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hakan_0 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087742189751 |
-| Players | 1/5 |
-| Host Name | Nightmare |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:55:52 |
 
 
