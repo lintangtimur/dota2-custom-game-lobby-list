@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087717840087 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:55 |
@@ -56,22 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:14:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087720659490 |
-| Players | 4/8 |
-| Host Name | Re:Member |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:09:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087720741874 |
-| Players | 14/15 |
-| Host Name | Yamiツ |
+| Lobby ID | 28601087722704843 |
+| Players | 2/15 |
+| Host Name | Denji like boobs |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:10:01 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087721640342 |
+| Players | 6/8 |
+| Host Name | CHILINGUS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:11:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087722769008 |
+| Players | 2/8 |
+| Host Name | ............. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ХАНТЕР696 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087722775365 |
+| Players | 2/5 |
+| Host Name | Dying1 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:20 |
 
 
