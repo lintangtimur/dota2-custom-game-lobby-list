@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087757004829 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 506 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:28:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087755447418 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Muerto en Vida |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:24:46 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087756758635 |
-| Players | 14/15 |
-| Host Name | Vize |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:27:43 |
+| Lobby ID | 28601087757024655 |
+| Players | 1/15 |
+| Host Name | ✪ EL NEGRO BALTAZAR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:28:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087755684907 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | во все тяжечки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:25:18 |
@@ -103,28 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087757024655 |
+| Lobby ID | 28601087757199546 |
 | Players | 1/15 |
-| Host Name | ✪ EL NEGRO BALTAZAR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:28:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087757040498 |
-| Players | 1/24 |
-| Host Name | PATITO NICHAN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:28:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087757105352 |
-| Players | 1/8 |
-| Host Name | ANITA MAX WYNN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:28:29 |
+| Host Name | flipper |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:28:41 |
 
 
