@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:36:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087761807036 |
-| Players | 7/15 |
-| Host Name | t.tv/xuxuzaaoo |
+| Lobby ID | 28601087761464722 |
+| Players | 15/24 |
+| Host Name | Dohman32 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:38:56 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:38:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:39:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087761464722 |
-| Players | 14/24 |
-| Host Name | Dohman32 |
+| Lobby ID | 28601087761090625 |
+| Players | 9/10 |
+| Host Name | SauteedNuts |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:38:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:37:19 |
 
 
 |  | epic_boss_fight_nightmare |
