@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087773603181 |
-| Players | 7/8 |
-| Host Name | yuca |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:03:12 |
+| Lobby ID | 28601087774132778 |
+| Players | 4/8 |
+| Host Name | ParovozikL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:04:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087774136212 |
-| Players | 1/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:04:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087774132778 |
-| Players | 4/8 |
-| Host Name | ParovozikL |
+| Lobby ID | 28601087774551285 |
+| Players | 2/10 |
+| Host Name | sorryihave99percentbraindamage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:04:14 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:05:04 |
 
 
 |  | epic_boss_fight_normal |
