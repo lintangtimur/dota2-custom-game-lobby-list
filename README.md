@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087727083838 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | *-*Relajo*-* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:23:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087727331276 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:24:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087727142100 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | NapoleonTD |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:23:37 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087727291781 |
-| Players | 1/8 |
-| Host Name | ||| Devil ||| |
+| Players | 3/8 |
+| Host Name | TvoiTamada |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:23:56 |
 
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:23:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087727535581 |
-| Players | 1/8 |
-| Host Name | SAM |
+| Lobby ID | 28601087727546279 |
+| Players | 3/15 |
+| Host Name | Anita Max Wynn |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:24:27 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:24:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087727533186 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 321543 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:24:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087727546279 |
-| Players | 2/15 |
-| Host Name | Anita Max Wynn |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:24:29 |
 
 
 |  | epic_boss_fight_nightmare |
