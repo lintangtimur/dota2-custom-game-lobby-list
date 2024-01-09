@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087789045364 |
-| Players | 23/24 |
-| Host Name | MADARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
+| Lobby ID | 28601087795662147 |
+| Players | 3/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087794534834 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:16 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087796585876 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | donnY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:50:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087795662147 |
-| Players | 3/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
 
 
 |  | epic_boss_fight_normal |
