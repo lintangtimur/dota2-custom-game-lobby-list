@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087741699138 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | NieVes |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087742144806 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | obezyana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:55:46 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087742181257 |
-| Players | 3/24 |
-| Host Name | Barco Basurero |
+| Players | 1/24 |
+| Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:55:50 |
 
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087742375573 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:56:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087742404297 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:56:19 |
 
 
 |  | epic_boss_fight_normal |
