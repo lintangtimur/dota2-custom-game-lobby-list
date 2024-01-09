@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087758227179 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:30:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087757890590 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | emotional damage |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:30:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087757024655 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ✪ EL NEGRO BALTAZAR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:28:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087757539525 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | MONO |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:29:27 |
