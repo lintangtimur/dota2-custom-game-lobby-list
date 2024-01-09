@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087783404427 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | @prolux20 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:23:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782708372 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782261086 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:20:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087782534933 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:23:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087784140977 |
-| Players | 6/8 |
-| Host Name | ezzzzzzz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:24:44 |
+| Lobby ID | 28601087784517867 |
+| Players | 1/10 |
+| Host Name | Travis |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:25:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:25:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087784517867 |
-| Players | 1/10 |
-| Host Name | Travis |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:25:31 |
+| Lobby ID | 28601087784621157 |
+| Players | 5/8 |
+| Host Name | Jesús de Nazaret |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:25:44 |
 
 
 |  | epic_boss_fight_normal |
