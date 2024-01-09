@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087781556040 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:19:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087782534933 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087781985527 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Ahminyoface |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:20:15 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087778759958 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | hyko |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087781760873 |
-| Players | 11/15 |
-| Host Name | Rameezy_ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:19:47 |
+| Lobby ID | 28601087782740224 |
+| Players | 5/10 |
+| Host Name | avix |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:21:47 |
 
 
 |  | ot3_gardens_duo |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782553110 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jaylaps Brozingis |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087782708372 |
+| Players | 2/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
 
 
 |  | epic_boss_fight_nightmare |
