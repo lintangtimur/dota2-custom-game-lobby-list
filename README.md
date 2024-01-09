@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087743494008 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:58:41 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087745151572 |
-| Players | 8/10 |
-| Host Name | Псих |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:02:19 |
+| Lobby ID | 28601087745875817 |
+| Players | 5/10 |
+| Host Name | Angel |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:03:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087745435362 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | NoViCius |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:02:57 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087745810879 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:03:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087745875817 |
-| Players | 3/10 |
-| Host Name | Angel |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:03:55 |
 
 
 |  | epic_boss_fight_nightmare |
