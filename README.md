@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087783011000 |
-| Players | 2/10 |
-| Host Name | justin weaver |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:22:21 |
+| Lobby ID | 28601087783249214 |
+| Players | 1/8 |
+| Host Name | Chronic Liar |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:22:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087781556040 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:19:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087782534933 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782951880 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Lego944 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:22:13 |
@@ -122,16 +122,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087781760873 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Rameezy_ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:19:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087783222495 |
+| Players | 2/8 |
+| Host Name | NIDOKING :3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:22:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087778698646 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Дьошик |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:30 |
