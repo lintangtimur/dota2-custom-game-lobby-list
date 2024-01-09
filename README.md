@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087762515859 |
-| Players | 1/10 |
-| Host Name | WoodyPlant |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:40:29 |
+| Lobby ID | 28601087762861849 |
+| Players | 1/15 |
+| Host Name | Agua Marina |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:41:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087762378627 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:40:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087762878213 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | SanTy--To..!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:41:18 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087762251788 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Саранча666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:39:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087762861849 |
-| Players | 1/15 |
-| Host Name | Agua Marina |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:41:16 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087761009161 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:37:08 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28601087758734374 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | Beautyyy |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:05 |
