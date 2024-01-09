@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087739338164 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:49:47 |
@@ -72,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mordecai |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:49:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087739556319 |
+| Players | 3/8 |
+| Host Name | chiste algoritmos |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087739534626 |
+| Players | 2/8 |
+| Host Name | NIDOKING :3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087739534329 |
+| Players | 2/15 |
+| Host Name | Troublesome |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:11 |
 
 
