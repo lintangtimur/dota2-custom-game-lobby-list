@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28601087750319195 |
 | Players | 5/10 |
-| Host Name | miu miu |
+| Host Name | RTX КЕПЧУК ti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:29 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087750036041 |
-| Players | 8/10 |
-| Host Name | tocosh |
+| Lobby ID | 28601087749893283 |
+| Players | 1/8 |
+| Host Name | Casio |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:12:51 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:12:32 |
 
 
 |  | ot3_desert_octet |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 悟へClaude |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087749893283 |
-| Players | 1/8 |
-| Host Name | Casio |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:12:32 |
 
 
