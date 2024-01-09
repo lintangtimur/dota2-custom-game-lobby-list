@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087774772931 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:05:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087774101361 |
-| Players | 8/10 |
-| Host Name | Saigo |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:04:10 |
+| Lobby ID | 28601087775356300 |
+| Players | 2/24 |
+| Host Name | Dohman32 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:06:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087774721763 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | CONGRESISTA HONESTO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:05:24 |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:06:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087769613867 |
-| Players | 23/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087775356300 |
-| Players | 1/24 |
-| Host Name | Dohman32 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:06:40 |
 
 
 |  | epic_boss_fight_normal |
