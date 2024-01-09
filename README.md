@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087725746295 |
-| Players | 7/8 |
-| Host Name | ржавый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:20:37 |
+| Lobby ID | 28601087725963516 |
+| Players | 1/10 |
+| Host Name | N.XHostk |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:21:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725521128 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087725502406 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Kuzonoha |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087725725232 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | SoulKZS |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725917032 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ?????? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:58 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shishoolya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:59 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28601087717965745 |
-| Players | 2/7 |
-| Host Name | ХАНТЕР696 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:04:10 |
 
 
