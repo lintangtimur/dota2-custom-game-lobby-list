@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087778869423 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087780038169 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | When eres dani |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:16:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087780602052 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SeDzo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:17:26 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087780676005 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ח |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:17:35 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rameezy_ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:18:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087781167831 |
+| Players | 4/10 |
+| Host Name | J h a n |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:18:35 |
 
 
 |  | epic_boss_fight_nightmare |
