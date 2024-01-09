@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087749059698 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | EL PATRON DEL CLORO\ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:10:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087750152376 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:07 |
@@ -130,19 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087750231450 |
-| Players | 2/10 |
-| Host Name | Slavek Cuckold |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:13:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087750265919 |
-| Players | 4/8 |
-| Host Name | MarcoSL |115 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:13:22 |
+| Lobby ID | 28601087750319195 |
+| Players | 4/10 |
+| Host Name | miu miu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:13:29 |
 
 
