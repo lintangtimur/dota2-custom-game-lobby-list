@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087780038169 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | When eres dani |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:16:19 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:16:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087780411037 |
-| Players | 1/15 |
+| Lobby ID | 28601087780488936 |
+| Players | 1/8 |
 | Host Name | Yatoro菜 |
 | Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:17:04 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:17:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дьошик |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:30 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28601087780421056 |
-| Players | 1/7 |
-| Host Name | BloodyMix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:17:05 |
 
 
