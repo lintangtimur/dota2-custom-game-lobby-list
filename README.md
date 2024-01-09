@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -77,43 +77,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087780165977 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | EMISARIO NORN |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:16:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087780488936 |
-| Players | 1/8 |
-| Host Name | Yatoro菜 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:17:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087780573409 |
-| Players | 1/15 |
-| Host Name | Rameezy_ |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:17:23 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087780602052 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SeDzo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:17:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087780653827 |
+| Players | 1/15 |
+| Host Name | Yatoro菜 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:17:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087780676005 |
+| Players | 1/10 |
+| Host Name | La DiAbLiTa, Tu TeRrOr :P |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:17:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087778698646 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Дьошик |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:30 |
