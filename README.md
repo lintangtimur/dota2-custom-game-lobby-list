@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087767374377 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:51:28 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087767991578 |
-| Players | 14/15 |
-| Host Name | dakik #free.palestine |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:52:50 |
+| Lobby ID | 28601087769809334 |
+| Players | 1/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:56:06 |
 
 
 |  | ot3_desert_octet |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087769809334 |
-| Players | 1/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:56:06 |
+| Lobby ID | 28601087769972480 |
+| Players | 1/8 |
+| Host Name | Gnoren |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:56:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087769878043 |
+| Lobby ID | 28601087769991322 |
 | Players | 1/10 |
 | Host Name | LIT |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:56:13 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:56:25 |
 
 
 |  | epic_boss_fight_nightmare |
