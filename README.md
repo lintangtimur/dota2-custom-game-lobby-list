@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087785546729 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | kekegozu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087785540653 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | LYKAN DARK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:36 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:43 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087786126666 |
+| Players | 1/24 |
+| Host Name | Dohman32 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:47 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087784248550 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087786048083 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:38 |
