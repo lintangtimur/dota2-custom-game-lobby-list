@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087735949026 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | DaktAri |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:42:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087733689973 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Broodfather |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:37:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087734975995 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | I.G.Y |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:40:20 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087734656324 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:39:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087735484552 |
-| Players | 9/10 |
-| Host Name | Buxbaum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:41:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087735342772 |
-| Players | 13/24 |
-| Host Name | †Uchiha Obito† |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:41:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087735163659 |
-| Players | 7/10 |
-| Host Name | TU DIOS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:40:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,19 +83,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:41:22 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087735342772 |
+| Players | 16/24 |
+| Host Name | †Uchiha Obito† |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:41:06 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087736031746 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Swanky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:42:35 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087736258826 |
+| Players | 2/10 |
+| Host Name | O.P |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:43:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087736266056 |
+| Players | 1/15 |
+| Host Name | LaGallinaTuruleca |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:43:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087736279207 |
+| Players | 1/10 |
+| Host Name | Haisse |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:43:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087733735419 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | A- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:37:39 |
