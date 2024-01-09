@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087724216189 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:17:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087723763787 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | SICARIO DE DIOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:16:29 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:17:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087724565388 |
+| Players | 1/8 |
+| Host Name | ABIII TZEBLUHH |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:18:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087719701136 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ХАНТЕР696 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:04:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087724562036 |
-| Players | 1/5 |
-| Host Name | /watch?v=OLpeX4RRo28 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:18:11 |
 
 
