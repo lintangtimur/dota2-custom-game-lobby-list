@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087749059698 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | EL PATRON DEL CLORO\ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:10:45 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087746709534 |
-| Players | 1/8 |
-| Host Name | MODO SEPSO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:05:42 |
+| Lobby ID | 28601087749265972 |
+| Players | 2/8 |
+| Host Name | puffy-nib9 :> |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:11:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087748390283 |
-| Players | 12/15 |
-| Host Name | BAN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:09:19 |
+| Lobby ID | 28601087749547073 |
+| Players | 3/10 |
+| Host Name | Mainfromcursed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:11:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087748858988 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:10:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087748459676 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Morphinator$ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:28 |
@@ -94,29 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087748117631 |
-| Players | 8/10 |
-| Host Name | I.G.Y |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:08:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28601087748270860 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | There is no silver |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087749265972 |
-| Players | 2/8 |
-| Host Name | puffy-nib9 :> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:11:12 |
+| Lobby ID | 28601087748709218 |
+| Players | 14/15 |
+| Host Name | SoulKZS |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:10:00 |
 
 
 |  | epic_boss_fight_nightmare |
