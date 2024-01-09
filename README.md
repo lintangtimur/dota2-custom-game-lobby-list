@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087732937263 |
-| Players | 1/8 |
-| Host Name | Ferrari 430 (The Pianist) |
+| Lobby ID | 28601087733023022 |
+| Players | 6/15 |
+| Host Name | PiewPiew |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:35:58 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:36:09 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087732433627 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Gaborit |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:34:54 |
@@ -77,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087732936441 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | GDK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:35:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087733023022 |
-| Players | 4/15 |
-| Host Name | PiewPiew |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:36:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087729492117 |
-| Players | 7/8 |
-| Host Name | Тихон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:28:39 |
+| Lobby ID | 28601087733212773 |
+| Players | 1/24 |
+| Host Name | Agua |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:36:33 |
 
 
