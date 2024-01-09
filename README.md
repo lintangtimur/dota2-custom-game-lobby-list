@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087767597772 |
-| Players | 6/8 |
-| Host Name | Каля Варнавал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:51:57 |
+| Lobby ID | 28601087768000676 |
+| Players | 1/24 |
+| Host Name | Iroh |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:52:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087767374377 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:51:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087768317490 |
-| Players | 4/8 |
-| Host Name | ANITA MAX WYNN |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:53:21 |
+| Lobby ID | 28601087768052407 |
+| Players | 4/15 |
+| Host Name | ..c.I.e.. |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:52:58 |
 
 
 |  | ot3_gardens_duo |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087767991578 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | dakik #free.palestine |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:52:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087768052407 |
-| Players | 2/15 |
-| Host Name | ..c.I.e.. |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:52:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087768000676 |
-| Players | 1/24 |
-| Host Name | Iroh |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:52:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087768341978 |
-| Players | 3/8 |
-| Host Name | гоша рубчинский |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:53:23 |
 
 
 |  | epic_boss_fight_nightmare |
