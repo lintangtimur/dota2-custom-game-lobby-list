@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087750319195 |
-| Players | 5/10 |
-| Host Name | RTX КЕПЧУК ti |
+| Players | 2/10 |
+| Host Name | Frs4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:29 |
 
@@ -41,46 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087749817450 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:12:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087750152376 |
-| Players | 5/8 |
-| Host Name | 123 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:13:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087750146301 |
-| Players | 1/24 |
-| Host Name | 悟へClaude |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:13:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087746978276 |
-| Players | 2/24 |
-| Host Name | зима в сердце |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087748683160 |
-| Players | 2/8 |
-| Host Name | Tavo Tu Terror |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:09:57 |
 
 
 |  | ot3_gardens_duo |
@@ -95,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087749751507 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | PAPARRONNI.TL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:12:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087749737764 |
-| Players | 8/15 |
-| Host Name | пердимоноколь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:12:12 |
+| Lobby ID | 28601087746978276 |
+| Players | 1/24 |
+| Host Name | зима в сердце |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
