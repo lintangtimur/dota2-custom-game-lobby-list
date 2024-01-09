@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087725963516 |
-| Players | 7/10 |
-| Host Name | N.XHostk |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:21:04 |
+| Lobby ID | 28601087726644693 |
+| Players | 5/8 |
+| Host Name | my ego on the fire |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:22:33 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725917032 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ?????? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:58 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kuzonoha |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087726644693 |
-| Players | 4/8 |
-| Host Name | my ego on the fire |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:22:33 |
 
 
 |  | epic_boss_fight_nightmare |
