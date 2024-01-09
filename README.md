@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782708372 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782261086 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:20:48 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087782534933 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087781985527 |
-| Players | 1/24 |
-| Host Name | Corbun |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:20:15 |
+| Lobby ID | 28601087784652389 |
+| Players | 3/15 |
+| Host Name | twitch.tv/lvsques 🏳️‍🌈 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:25:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,17 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087784491060 |
-| Players | 4/8 |
-| Host Name | казбек вонючка |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:25:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28601087784621157 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Jesús de Nazaret |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:25:44 |
