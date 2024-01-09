@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087759132650 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | << Pechi>> |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087759076006 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087757004829 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:28:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087758729698 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087759428392 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | гоблин фрезировщ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:38 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087759538293 |
-| Players | 3/8 |
-| Host Name | Magaly TB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:33:52 |
+| Lobby ID | 28601087759775589 |
+| Players | 2/10 |
+| Host Name | gttek- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:34:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087759749761 |
-| Players | 1/15 |
-| Host Name | 🐖 JHON PORK 🐖 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:34:20 |
+| Lobby ID | 28601087757539525 |
+| Players | 9/10 |
+| Host Name | MONO |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:29:27 |
 
 
 |  | epic_boss_fight_nightmare |
