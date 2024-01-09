@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087774664238 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:05:18 |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087774735315 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | PAPI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:05:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087775721185 |
-| Players | 1/10 |
-| Host Name | Pablo de los BackYordiganz 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:07:24 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087775845936 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 63 y.o. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:07:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087776071072 |
+| Players | 1/10 |
+| Host Name | Pablo de los BackYordiganz 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:08:06 |
 
 
 |  | epic_boss_fight_normal |
