@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087791578340 |
-| Players | 2/10 |
-| Host Name | Phoenix |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:39:44 |
+| Lobby ID | 28601087791827851 |
+| Players | 4/10 |
+| Host Name | ТАЁТА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:40:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087790992754 |
-| Players | 22/24 |
-| Host Name | El Rompe Discotekas-影 |
+| Lobby ID | 28601087791459778 |
+| Players | 3/10 |
+| Host Name | Lower |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:38:32 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:39:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087791459778 |
-| Players | 1/10 |
-| Host Name | Lower |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:39:29 |
+| Lobby ID | 28601087792053019 |
+| Players | 1/8 |
+| Host Name | Suicune > Vaporeon |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:40:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087791827851 |
+| Lobby ID | 28601087792059766 |
 | Players | 2/10 |
-| Host Name | ТАЁТА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:40:16 |
+| Host Name | Phoenix |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:40:45 |
 
 
 |  | epic_boss_fight_nightmare |
