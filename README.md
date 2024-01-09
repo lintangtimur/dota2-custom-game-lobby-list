@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087785546729 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | kekegozu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:37 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:26:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087784517867 |
-| Players | 1/10 |
-| Host Name | Travis |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:25:31 |
+| Lobby ID | 28601087785250545 |
+| Players | 1/15 |
+| Host Name | @Fano Freeman |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:27:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087785540653 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:36 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087785250545 |
-| Players | 1/15 |
-| Host Name | @Fano Freeman |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:27:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087785728258 |
-| Players | 6/15 |
-| Host Name | noConfiesEnMiBaiteo |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:27:59 |
+| Lobby ID | 28601087785818421 |
+| Players | 2/10 |
+| Host Name | savosya mod |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:10 |
 
 
 |  | epic_boss_fight_normal |
