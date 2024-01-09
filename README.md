@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087752805433 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Rizer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:01 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087751796614 |
-| Players | 4/8 |
-| Host Name | Xu Solar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:16:46 |
+| Lobby ID | 28601087752936794 |
+| Players | 2/8 |
+| Host Name | Цирроз печени |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:19:18 |
 
 
 |  | ot3_gardens_duo |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087752936794 |
-| Players | 2/8 |
-| Host Name | Цирроз печени |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:19:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087751232738 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:15:31 |
