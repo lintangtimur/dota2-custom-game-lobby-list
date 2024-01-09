@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087769613867 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087772515686 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BISMARCKϟϟ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:01:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087772377102 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:00:48 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087773612560 |
+| Lobby ID | 28601087773704057 |
 | Players | 1/8 |
 | Host Name | Itachi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:03:13 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:03:24 |
 
 
