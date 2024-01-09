@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087748709218 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | SoulKZS |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:10:00 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087748072374 |
-| Players | 13/15 |
-| Host Name | 9 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:08:37 |
+| Lobby ID | 28601087748390283 |
+| Players | 7/15 |
+| Host Name | BAN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:09:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087748459676 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Morphinator$ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:28 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087748270860 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | LINKKKKKKKKKKKKKKKKKKKKKKKKKKKKK |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087748390283 |
-| Players | 6/15 |
-| Host Name | BAN |
+| Lobby ID | 28601087749059698 |
+| Players | 1/24 |
+| Host Name | EL PATRON DEL CLORO\ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:09:19 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:10:45 |
 
 
 |  | epic_boss_fight_nightmare |
