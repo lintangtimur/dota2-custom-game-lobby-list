@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087769613867 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087778321012 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087778277407 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | мужик? мут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777866612 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087778386913 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | TheNurba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:51 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:16 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28601087778449205 |
-| Players | 1/5 |
+| Lobby ID | 28601087778473291 |
+| Players | 1/10 |
 | Host Name | Chlowie<3 |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:12:59 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:13:02 |
 
 
