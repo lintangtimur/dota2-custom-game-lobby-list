@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087750319195 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Frs4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:13:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087751049576 |
-| Players | 18/24 |
-| Host Name | 사랑해 나연 |
+| Lobby ID | 28601087749059698 |
+| Players | 23/24 |
+| Host Name | deathphanton_lost |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:15:06 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:10:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087751526220 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087751551023 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Никита Вежливый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087751610906 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:22 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087751759956 |
+| Lobby ID | 28601087751796614 |
 | Players | 1/8 |
-| Host Name | LEO Is Back |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:16:41 |
+| Host Name | Xu Solar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:16:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087751232738 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:15:31 |
