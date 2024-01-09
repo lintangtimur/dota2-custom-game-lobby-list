@@ -40,35 +40,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087793172829 |
-| Players | 2/8 |
-| Host Name | TOXIC + CRITIC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:43:09 |
+| Lobby ID | 28601087792992925 |
+| Players | 6/8 |
+| Host Name | googoli bloogoli in the flesh |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:42:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087792077336 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Snow |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087792854532 |
-| Players | 14/15 |
-| Host Name | Shim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:42:27 |
+| Lobby ID | 28601087793213934 |
+| Players | 1/8 |
+| Host Name | амням |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:43:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087792861362 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Riggins |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:42:28 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087792952186 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:42:39 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087793271739 |
+| Players | 6/10 |
+| Host Name | EL BENDITO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:43:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087792992925 |
-| Players | 6/8 |
-| Host Name | googoli bloogoli in the flesh |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:42:45 |
+| Lobby ID | 28601087793271076 |
+| Players | 1/8 |
+| Host Name | Boss_w21 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:43:22 |
 
 
 |  | epic_boss_fight_normal |
