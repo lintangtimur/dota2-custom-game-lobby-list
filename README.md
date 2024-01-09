@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087785069449 |
-| Players | 6/8 |
-| Host Name | Jesús de Nazaret |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:26:39 |
+| Lobby ID | 28601087785899620 |
+| Players | 1/10 |
+| Host Name | PSIQUIATRARAIZ |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087785250545 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | @Fano Freeman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:01 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087785540653 |
-| Players | 3/24 |
-| Host Name | . |
+| Players | 2/24 |
+| Host Name | LYKAN DARK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:36 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087785818421 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | savosya mod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:10 |
