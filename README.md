@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087737785254 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | KAOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:46:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738392423 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Red Hot Chiken Penis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087737497963 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | ulthuz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:45:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087738394415 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:47 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738438209 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Checker98 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087738552173 |
+| Players | 1/8 |
+| Host Name | alexanderps2208 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:48:07 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087737882671 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Nightmare |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:46:41 |
