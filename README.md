@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087727083838 |
-| Players | 8/10 |
-| Host Name | *-*Relajo*-* |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:23:30 |
+| Lobby ID | 28601087727729854 |
+| Players | 2/15 |
+| Host Name | SnuSnu |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:24:52 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087725920049 |
-| Players | 9/10 |
-| Host Name | Shishoolya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:20:59 |
+| Lobby ID | 28601087727711987 |
+| Players | 2/10 |
+| Host Name | Zahir |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:24:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087727331276 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:24:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087727546279 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Anita Max Wynn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:24:29 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 321543 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:24:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087727711987 |
-| Players | 2/10 |
-| Host Name | Zahir |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:24:50 |
 
 
 |  | epic_boss_fight_nightmare |
