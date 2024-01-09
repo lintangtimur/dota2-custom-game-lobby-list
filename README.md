@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087783404427 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | @prolux20 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:23:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782708372 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087784652389 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:25:48 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087783668926 |
-| Players | 7/8 |
-| Host Name | isn't like holding to the center |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:23:44 |
+| Lobby ID | 28601087784621157 |
+| Players | 1/8 |
+| Host Name | Jesús de Nazaret |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:25:44 |
 
 
 |  | ot3_gardens_duo |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Travis |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:25:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087784621157 |
-| Players | 3/8 |
-| Host Name | Jesús de Nazaret |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:25:44 |
 
 
 |  | epic_boss_fight_normal |
