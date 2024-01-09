@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087756228221 |
-| Players | 8/10 |
-| Host Name | Bungus |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:26:31 |
+| Lobby ID | 28601087757004829 |
+| Players | 3/24 |
+| Host Name | 506 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:28:16 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087755447418 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Muerto en Vida |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:24:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087756758635 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Vize |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:27:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087755979003 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:25:58 |
@@ -101,12 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:26:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087757024655 |
+| Players | 1/15 |
+| Host Name | ✪ EL NEGRO BALTAZAR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:28:18 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087756953549 |
+| Lobby ID | 28601087757040498 |
 | Players | 1/24 |
-| Host Name | MauxD |
+| Host Name | PATITO NICHAN |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:28:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:28:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087756992629 |
+| Players | 1/5 |
+| Host Name | BroBoss |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:28:14 |
 
 
