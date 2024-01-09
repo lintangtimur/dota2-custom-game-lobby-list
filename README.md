@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087723154509 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | во все тяжечки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:15:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087717840087 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087722902044 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 刀丫亼米 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:14:37 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087722704843 |
-| Players | 13/15 |
-| Host Name | Denji like boobs |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:14:10 |
+| Lobby ID | 28601087723212803 |
+| Players | 10/15 |
+| Host Name | t.tv/xuxuzaaoo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:15:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087722769008 |
-| Players | 2/8 |
-| Host Name | ............. |
+| Players | 1/8 |
+| Host Name | Jack Forest |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:14:19 |
 
