@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746069518 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kangaroo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:04:20 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087746050460 |
-| Players | 3/8 |
-| Host Name | TanGo |
+| Players | 1/8 |
+| Host Name | shahmen |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:04:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087745875817 |
-| Players | 9/10 |
-| Host Name | Angel |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:03:55 |
+| Lobby ID | 28601087746555266 |
+| Players | 5/8 |
+| Host Name | MaSter |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:05:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087746520971 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | dal zazu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:05:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087746555266 |
-| Players | 1/8 |
-| Host Name | MaSter |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:05:22 |
 
 
 |  | epic_boss_fight_nightmare |
