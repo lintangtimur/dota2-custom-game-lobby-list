@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087734975995 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | I.G.Y |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:40:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087735163659 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | TU DIOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:40:44 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:41:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087735484552 |
+| Players | 4/10 |
+| Host Name | Buxbaum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:41:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087735552632 |
+| Players | 5/8 |
+| Host Name | TU DUO FAVORITO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:41:33 |
 
 
 |  | epic_boss_fight_nightmare |
