@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087778105858 |
-| Players | 4/8 |
-| Host Name | El MALDITO CREEP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:12:16 |
+| Lobby ID | 28601087778869423 |
+| Players | 1/24 |
+| Host Name | Disastrous Luck |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:13:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087778321012 |
-| Players | 3/24 |
+| Players | 12/24 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -59,27 +59,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777866612 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087777875373 |
-| Players | 10/15 |
-| Host Name | eL OE |
+| Lobby ID | 28601087778759958 |
+| Players | 3/10 |
+| Host Name | hyko |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:11:47 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:13:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087778386913 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | TheNurba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:12:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087778918238 |
+| Players | 1/8 |
+| Host Name | LIT |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:13:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087778629573 |
+| Players | 3/10 |
+| Host Name | Chlowie<3 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:13:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087778698646 |
+| Players | 1/10 |
+| Host Name | Дьошик |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:13:30 |
 
 
