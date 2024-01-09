@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087733461566 |
-| Players | 1/24 |
-| Host Name | Agua |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:37:05 |
+| Lobby ID | 28601087733454158 |
+| Players | 3/8 |
+| Host Name | Jack Forest |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:37:03 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087732433627 |
-| Players | 20/24 |
+| Players | 24/24 |
 | Host Name | Gaborit |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:34:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087733091971 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ichkeria_Okami |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087732936441 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | GDK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:35:58 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:37:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087733493935 |
+| Players | 2/10 |
+| Host Name | Nova |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:37:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087733437426 |
+| Lobby ID | 28601087733519450 |
 | Players | 1/15 |
 | Host Name | VampirFeeD |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:37:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087733454158 |
-| Players | 1/8 |
-| Host Name | Jack Forest |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:37:03 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:37:12 |
 
 
