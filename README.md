@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087760537517 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | pato6661 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:36:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087759775589 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | gttek- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:34:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087759437263 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | iProbie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:39 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087760398283 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | terry |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:35:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087760254062 |
-| Players | 12/15 |
-| Host Name | Unstoppable |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:35:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087760430471 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tu Tío |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:35:51 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Beautyyy |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087760887254 |
+| Players | 1/10 |
+| Host Name | Heart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:36:52 |
 
 
