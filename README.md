@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087730860147 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ME LEDER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:31:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087730989635 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | AizeN |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:31:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087731426166 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | PiewPiew |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:32:47 |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:32:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087731714003 |
+| Players | 1/15 |
+| Host Name | TheKillers |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:33:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087731727013 |
+| Players | 2/8 |
+| Host Name | Мегагандон |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:33:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087730493712 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Regalando puntos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:30:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087726406279 |
+| Players | 9/10 |
+| Host Name | SuperBoneHack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:22:02 |
 
 
