@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087786731235 |
-| Players | 1/15 |
-| Host Name | .... |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:30:00 |
+| Lobby ID | 28601087786185673 |
+| Players | 6/10 |
+| Host Name | Sander |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087786614819 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Drauxi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:29:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087785540653 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | LYKAN DARK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087786185673 |
-| Players | 5/10 |
-| Host Name | Sander |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:28:54 |
+| Lobby ID | 28601087786770113 |
+| Players | 1/8 |
+| Host Name | Master Oogway |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:30:05 |
 
 
 |  | epic_boss_fight_nightmare |
