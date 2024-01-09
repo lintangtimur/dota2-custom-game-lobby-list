@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087760089035 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | LeandroB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:35:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:33:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087758729698 |
-| Players | 19/24 |
-| Host Name | Era Leyenda |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:32:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087757942156 |
-| Players | 22/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:30:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087760069908 |
@@ -83,22 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:35:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087760161862 |
-| Players | 3/8 |
-| Host Name | tiburoncin |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:35:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087760165566 |
-| Players | 1/24 |
-| Host Name | Barco Basurero |
+| Lobby ID | 28601087757942156 |
+| Players | 23/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:30:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087759839852 |
+| Players | 4/8 |
+| Host Name | SLEEP |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:35:16 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:34:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087760254062 |
+| Players | 2/15 |
+| Host Name | Unstoppable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:35:28 |
 
 
 |  | epic_boss_fight_nightmare |
