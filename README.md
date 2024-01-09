@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087767991578 |
-| Players | 8/15 |
-| Host Name | 23 CM |
+| Players | 7/15 |
+| Host Name | 4/5 pos няша |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:52:50 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087768052407 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Swampy PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:52:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087770812930 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | el lame chuchas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:57:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087769809334 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:56:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087769613867 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087770334263 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:57:00 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087770668746 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | с пизды капает |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:57:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087771221889 |
+| Players | 1/10 |
+| Host Name | Frieren |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:58:34 |
 
 
