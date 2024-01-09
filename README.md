@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087744634016 |
-| Players | 21/24 |
+| Players | 24/24 |
 | Host Name | ♪KEMPER♪ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087743970031 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | black mamba |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:59:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087745151572 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Псих |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:02:19 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087745074430 |
-| Players | 2/10 |
-| Host Name | chifoncito de charito rico |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:02:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087745304928 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Smuk Frok |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:02:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087745381954 |
+| Players | 2/10 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:02:50 |
 
 
 |  | epic_boss_fight_nightmare |
