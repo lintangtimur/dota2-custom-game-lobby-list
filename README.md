@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782708372 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087782261086 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:20:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087782534933 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ezzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:24:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087784248550 |
+| Players | 2/5 |
+| Host Name | living scares me more than death |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:24:57 |
 
 
