@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087725963516 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | N.XHostk |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:21:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087724110361 |
-| Players | 10/10 |
+| Players | 9/10 |
 | Host Name | Mr.FANIxx |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:17:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725917032 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ?????? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087726400115 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Это я не буду |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:22:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087725502406 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Kuzonoha |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:08 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087726644693 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | my ego on the fire |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:22:33 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:22:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087726668948 |
-| Players | 1/5 |
-| Host Name | ЭльЧуПАнеБрэЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:22:36 |
 
 
