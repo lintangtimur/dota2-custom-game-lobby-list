@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087734680225 |
-| Players | 23/24 |
-| Host Name | Staz |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:39:42 |
+| Lobby ID | 28601087737785254 |
+| Players | 4/10 |
+| Host Name | KAOS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:46:28 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087737497963 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ulthuz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:45:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087737376121 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SeDzo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:45:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087736889059 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:44:28 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087737110981 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | .DoMeASolid |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:44:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087737785254 |
-| Players | 2/10 |
-| Host Name | KAOS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:46:28 |
+| Lobby ID | 28601087737804582 |
+| Players | 1/15 |
+| Host Name | LaGallinaTuruleca |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:46:31 |
 
 
