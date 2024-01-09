@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087783404427 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | @prolux20 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:23:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087783098026 |
-| Players | 5/10 |
-| Host Name | donnY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:22:32 |
+| Lobby ID | 28601087782708372 |
+| Players | 3/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087782534933 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | ...zZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:21 |
@@ -77,63 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087783668926 |
-| Players | 3/8 |
-| Host Name | лёха херобрин 2008 |
+| Players | 7/8 |
+| Host Name | isn't like holding to the center |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:23:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087783909421 |
-| Players | 4/10 |
-| Host Name | dl-double0Gy |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:24:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087782708372 |
-| Players | 2/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:21:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087783810687 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:24:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087778698646 |
-| Players | 9/10 |
-| Host Name | Дьошик |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:13:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087783892013 |
-| Players | 1/5 |
-| Host Name | KalashmatiK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:24:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28601087783936031 |
-| Players | 1/10 |
-| Host Name | Cat Rangoons |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:24:18 |
+| Lobby ID | 28601087784140977 |
+| Players | 1/8 |
+| Host Name | ezzzzzzz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:24:44 |
 
 
