@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087743741516 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Тихон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:59:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087741679759 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | josexz |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087743245153 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | .I. (°-°) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:58:09 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087743708206 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Kusidjur |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:59:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087743822967 |
+| Players | 1/15 |
+| Host Name | Ссучий котёнок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:59:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087743834378 |
+| Players | 1/8 |
+| Host Name | black mamba |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:59:26 |
 
 
 |  | epic_boss_fight_nightmare |
