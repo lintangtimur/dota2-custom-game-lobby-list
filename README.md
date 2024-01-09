@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738392423 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Red Hot Chiken Penis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087737497963 |
-| Players | 20/24 |
-| Host Name | ulthuz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:45:50 |
+| Lobby ID | 28601087738552173 |
+| Players | 1/8 |
+| Host Name | alexanderps2208 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:48:07 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087738209742 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | sigmawater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:23 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087738394415 |
-| Players | 3/8 |
-| Host Name | Frontier |
+| Players | 2/8 |
+| Host Name | Erika |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:47 |
 
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738438209 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Checker98 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087738552173 |
-| Players | 1/8 |
-| Host Name | alexanderps2208 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:48:07 |
 
 
 |  | epic_boss_fight_normal |
