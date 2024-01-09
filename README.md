@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087779102186 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | -Saitama |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087779216409 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | CGNES DE NMRD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:35 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087773499511 |
+| Lobby ID | 28601087775787363 |
 | Players | 7/8 |
-| Host Name | Gnoren |
+| Host Name | Jotun- |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:03:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:07:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:14:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087775787363 |
-| Players | 8/8 |
-| Host Name | Jotun- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:07:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087778629573 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Chlowie<3 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:13:22 |
