@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087730148735 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Saes rage version |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:30:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087725521128 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:20:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087729830467 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | One Love - One Piece |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:29:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087730328396 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:30:26 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RaiNight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:30:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087730564718 |
-| Players | 3/24 |
-| Host Name | ERES BAJITO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
