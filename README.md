@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087777462852 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Eros |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:10:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087777087071 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:10:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087777484392 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Mr. Rose |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:10:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777866612 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:46 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777875373 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | eL OE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087778022223 |
+| Players | 1/10 |
+| Host Name | reverse requiem |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:12:05 |
 
 
 |  | epic_boss_fight_normal |
