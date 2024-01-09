@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087718697150 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Saes rage version |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087719094068 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Pelo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087719040435 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Call me Picasso |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087719237893 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Patricia |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087717242388 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:41 |
@@ -92,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087718750625 |
-| Players | 6/10 |
-| Host Name | lopata |
+| Lobby ID | 28601087717912981 |
+| Players | 7/8 |
+| Host Name | コンセラス |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:05:47 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:04:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087719281503 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | MODO SEPSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087716930171 |
+| Players | 23/24 |
+| Host Name | Ho Ho Ho manito |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:02:02 |
 
 
 |  | epic_boss_fight_hard |
