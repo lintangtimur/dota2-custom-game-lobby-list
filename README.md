@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087802966787 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:04:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087803798939 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | eLeVeN |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:06:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087803949505 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Boss_w21 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:06:37 |
@@ -85,24 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087804181973 |
-| Players | 5/8 |
-| Host Name | Jairex |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 10:07:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087804216091 |
-| Players | 3/8 |
-| Host Name | CM PUNK |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 10:07:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28601087802943036 |
 | Players | 7/8 |
 | Host Name | ¿? |
@@ -113,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087803207748 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | пуп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 10:04:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087804243719 |
+| Players | 1/10 |
+| Host Name | || Puppet™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 10:07:16 |
 
 
