@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087789045364 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087791459778 |
-| Players | 9/10 |
-| Host Name | Lower |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:39:29 |
+| Lobby ID | 28601087793172829 |
+| Players | 2/8 |
+| Host Name | TOXIC + CRITIC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:43:09 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087792854532 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Shim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:42:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087792861362 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Riggins |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:42:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087792952186 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:42:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087792992925 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | googoli bloogoli in the flesh |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:42:45 |
