@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087760537517 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 【≽ܫ≼】༺𒋲ˡᵉᵍᵉ |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:36:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087761464722 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:38:09 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087758943348 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:32:33 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087760887254 |
-| Players | 2/10 |
-| Host Name | Heart |
+| Players | 1/10 |
+| Host Name | M.G. Whiskers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:36:52 |
 
