@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087794555935 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Kent |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087789045364 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087796544842 |
-| Players | 7/8 |
-| Host Name | Miau :3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:50:39 |
+| Lobby ID | 28601087797021319 |
+| Players | 1/15 |
+| Host Name | Ντίνος |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:51:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087794534834 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:16 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087796638992 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alessia Cara |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:50:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087796939267 |
-| Players | 1/5 |
-| Host Name | kurosu |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:51:30 |
 
 
