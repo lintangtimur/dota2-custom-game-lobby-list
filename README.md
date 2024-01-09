@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087749817450 |
-| Players | 13/15 |
-| Host Name | QUE RICO APRIETAS |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:12:22 |
+| Lobby ID | 28601087746978276 |
+| Players | 1/24 |
+| Host Name | зима в сердце |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
 |  | ot3_gardens_duo |
@@ -54,23 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | There is no silver |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087749751507 |
-| Players | 13/15 |
-| Host Name | PAPARRONNI.TL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:12:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087746978276 |
-| Players | 1/24 |
-| Host Name | зима в сердце |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
