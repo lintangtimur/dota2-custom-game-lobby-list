@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087716930171 |
-| Players | 23/24 |
-| Host Name | Ho Ho Ho manito |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:02:02 |
+| Lobby ID | 28601087719094068 |
+| Players | 1/15 |
+| Host Name | Pelo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:06:30 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087719040435 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Call me Picasso |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:24 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087717912981 |
-| Players | 7/8 |
-| Host Name | コンセラス |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:04:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087718039927 |
-| Players | 11/15 |
-| Host Name | Estúpido Perro!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:04:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087718750625 |
-| Players | 5/10 |
-| Host Name | lopata |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:05:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087717242388 |
@@ -110,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087719094068 |
-| Players | 1/15 |
-| Host Name | Pelo |
+| Lobby ID | 28601087719177614 |
+| Players | 1/10 |
+| Host Name | ZOLDYCK |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:06:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087718750625 |
+| Players | 6/10 |
+| Host Name | lopata |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:06:30 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:05:47 |
 
 
 |  | epic_boss_fight_hard |
