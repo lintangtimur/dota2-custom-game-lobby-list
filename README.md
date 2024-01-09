@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:37:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087734975995 |
-| Players | 7/8 |
-| Host Name | I.G.Y |
+| Lobby ID | 28601087736258826 |
+| Players | 5/10 |
+| Host Name | O.P |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:40:20 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:43:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087734680225 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:39:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087734656324 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:39:39 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087735342772 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:41:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087736258826 |
-| Players | 4/10 |
-| Host Name | O.P |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:43:05 |
 
 
