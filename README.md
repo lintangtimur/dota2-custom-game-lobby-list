@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087742576228 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | rohan ko condo ma |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:56:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087741699138 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | NieVes |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087741679759 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | josexz |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:46 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087741684432 |
-| Players | 14/15 |
-| Host Name | **!!! EL MiChiLalA : |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:54:46 |
+| Lobby ID | 28601087742750903 |
+| Players | 2/15 |
+| Host Name | qq |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:57:04 |
 
 
 |  | epic_boss_fight_normal |
