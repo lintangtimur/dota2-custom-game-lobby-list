@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087782826265 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | avix |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:21:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087781556040 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:19:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087780165977 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Nimetal |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:16:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087778759958 |
-| Players | 8/10 |
-| Host Name | hyko |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:13:36 |
+| Lobby ID | 28601087782553110 |
+| Players | 5/15 |
+| Host Name | Jaylaps Brozingis |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:21:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087781925548 |
-| Players | 8/10 |
-| Host Name | unbalanced |
+| Lobby ID | 28601087782953018 |
+| Players | 1/10 |
+| Host Name | Arabas |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:20:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087782553110 |
-| Players | 5/15 |
-| Host Name | Jaylaps Brozingis |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:21:24 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:22:13 |
 
 
 |  | epic_boss_fight_nightmare |
