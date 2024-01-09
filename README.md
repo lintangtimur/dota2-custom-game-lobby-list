@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087720741874 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Yamiツ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:10:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087720659490 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Бухая фея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:09:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087717419426 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | @prolux20 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:03:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087721243703 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | cummy bottom boy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:11:04 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087721304384 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | FSDC | Kapsy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:11:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087721311733 |
-| Players | 2/10 |
-| Host Name | CHILINGUS |
+| Lobby ID | 28601087721410215 |
+| Players | 5/8 |
+| Host Name | Alize |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:11:13 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:11:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087719928379 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:08:17 |
