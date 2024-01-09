@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087773499511 |
+| Lobby ID | 28601087775787363 |
 | Players | 7/8 |
-| Host Name | Gnoren |
+| Host Name | Jotun- |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:03:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:07:32 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087777484392 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Mr. Rose |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:10:59 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:05:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087775787363 |
-| Players | 7/8 |
-| Host Name | Jotun- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:07:32 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087773971048 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | _ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:03:55 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087776427772 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 珊儿 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:08:49 |
