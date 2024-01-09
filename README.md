@@ -38,60 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087717840087 |
-| Players | 21/24 |
-| Host Name | 黙れ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:03:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087722902044 |
-| Players | 7/10 |
-| Host Name | 刀丫亼米 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:14:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087723212803 |
-| Players | 12/15 |
-| Host Name | t.tv/xuxuzaaoo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:15:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087722833194 |
-| Players | 2/15 |
-| Host Name | Es un Elissir xD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:14:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087722769008 |
-| Players | 1/8 |
-| Host Name | Jack Forest |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:14:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087723098509 |
-| Players | 1/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:15:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087723319721 |
@@ -103,20 +49,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087723389976 |
-| Players | 3/10 |
-| Host Name | 萧瑟Reverend導演 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:15:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087723384351 |
-| Players | 3/8 |
-| Host Name | お尻でファック |
+| Lobby ID | 28601087722902044 |
+| Players | 8/10 |
+| Host Name | 刀丫亼米 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:15:40 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087723455491 |
+| Players | 1/24 |
+| Host Name | VeniVidiVici |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:15:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087722833194 |
+| Players | 4/15 |
+| Host Name | Es un Elissir xD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:14:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087723483603 |
+| Players | 1/15 |
+| Host Name | click |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:15:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087723098509 |
+| Players | 1/10 |
+| Host Name | SUN ♥ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:15:03 |
 
 
 |  | epic_boss_fight_nightmare |
