@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087737785254 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KAOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:46:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087737497963 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ulthuz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:45:50 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087736870706 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | из-за тебя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:44:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087738037832 |
+| Players | 1/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:47:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087738044297 |
+| Players | 1/15 |
+| Host Name | LaGallinaTuruleca |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:47:01 |
 
 
 |  | epic_boss_fight_normal |
