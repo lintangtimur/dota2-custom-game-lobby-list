@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087718697150 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Saes rage version |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087719094068 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Pelo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:30 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:06:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087717419426 |
-| Players | 7/10 |
-| Host Name | @prolux20 |
+| Lobby ID | 28601087719237893 |
+| Players | 3/24 |
+| Host Name | Patricia |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:03:03 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:06:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087717242388 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:41 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lopata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:05:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087719258992 |
-| Players | 5/8 |
-| Host Name | RaiNight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:06:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087719237893 |
-| Players | 1/24 |
-| Host Name | Patricia |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:06:49 |
 
 
 |  | ot3_necropolis_ffa |
