@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087769613867 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:55:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087767374377 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:51:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087772515686 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | BISMARCKϟϟ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:01:04 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087768052407 |
-| Players | 14/15 |
-| Host Name | Swampy PMA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:52:58 |
+| Lobby ID | 28601087772596941 |
+| Players | 1/15 |
+| Host Name | Migs |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:01:14 |
 
 
 |  | epic_boss_fight_nightmare |
