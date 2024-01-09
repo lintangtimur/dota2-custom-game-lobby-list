@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087785250545 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | @Fano Freeman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:47 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087784248550 |
-| Players | 4/5 |
-| Host Name | living scares me more than death |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:24:57 |
+| Lobby ID | 28601087786185673 |
+| Players | 2/10 |
+| Host Name | Sander |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087786198680 |
+| Players | 1/15 |
+| Host Name | Sammythical |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28601087786048083 |
+| Players | 3/10 |
+| Host Name | pepega |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:28:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Genesis-Exodus |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:27:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28601087786048083 |
-| Players | 2/10 |
-| Host Name | pepega |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:28:38 |
 
 
