@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087766314937 |
-| Players | 1/10 |
-| Host Name | айгуль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:49:11 |
+| Lobby ID | 28601087767227025 |
+| Players | 3/10 |
+| Host Name | tocosh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:51:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087766688967 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Wawita Sagaz y perspicaz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:49:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087767056073 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | shinra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:50:46 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087766652717 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:49:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087767227025 |
-| Players | 2/10 |
-| Host Name | tocosh |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:51:08 |
+| Lobby ID | 28601087767335125 |
+| Players | 1/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:51:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087767310735 |
+| Players | 1/5 |
+| Host Name | SEINARU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:51:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087767334702 |
+| Players | 1/5 |
+| Host Name | Nicc o Tynne |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:51:23 |
 
 
