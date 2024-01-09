@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087790699612 |
-| Players | 6/8 |
-| Host Name | Casio |
+| Lobby ID | 28601087790992754 |
+| Players | 2/24 |
+| Host Name | El Rompe Discotekas-影 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:37:57 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:38:32 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 7l,.pu;ykmo65tg34qftadehw2rty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:37:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087790992754 |
-| Players | 2/24 |
-| Host Name | El Rompe Discotekas-影 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:38:32 |
 
 
 |  | epic_boss_fight_nightmare |
