@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087765616347 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Gnoren |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087765600923 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | TOORNADO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:36 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087765819676 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Shim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:48:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087765562280 |
-| Players | 14/15 |
-| Host Name | Big McLargeHuge |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:47:31 |
+| Lobby ID | 28601087765029065 |
+| Players | 7/8 |
+| Host Name | IISIMI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:46:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087764379495 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hakan_0 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:44:48 |
