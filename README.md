@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087739987927 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | darkness空虚 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:51:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087739463039 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | El inge pepe |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087739700993 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | SnuSnu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:32 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:52:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087740297275 |
-| Players | 4/5 |
-| Host Name | Hakan_0 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:51:48 |
+| Lobby ID | 28601087741075709 |
+| Players | 2/10 |
+| Host Name | trahachyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:53:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087741075823 |
+| Players | 2/10 |
+| Host Name | FSDC | Kapsy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:53:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087741093518 |
+| Players | 2/15 |
+| Host Name | Anita Max Wynn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:53:30 |
 
 
