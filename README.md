@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087792059766 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Phoenix |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:40:45 |
@@ -40,20 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087792992925 |
-| Players | 6/8 |
-| Host Name | googoli bloogoli in the flesh |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:42:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28601087793271076 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Boss_w21 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:43:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087793708408 |
+| Players | 1/15 |
+| Host Name | Yume |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:44:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087793734933 |
+| Players | 2/15 |
+| Host Name | Jaylaps Brozingis |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:44:26 |
 
 
 |  | epic_boss_fight_normal |
