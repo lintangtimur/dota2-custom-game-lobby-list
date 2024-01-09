@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087747251669 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Pippey- |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087746704397 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Polyhedron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:05:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087747501809 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | tears of dragon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:07:24 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087744739037 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:25 |
