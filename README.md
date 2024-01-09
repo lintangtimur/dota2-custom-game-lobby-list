@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087765131820 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El pitudo 2 , |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:46:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087762448648 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | magnus did nothing wrong |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:40:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087765869902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El vago de la Sunat |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:48:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087765819676 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Shim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:48:05 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087766285789 |
-| Players | 1/15 |
-| Host Name | ale |
+| Lobby ID | 28601087766355476 |
+| Players | 2/15 |
+| Host Name | Mentok |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:49:07 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:49:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087766314937 |
+| Players | 1/10 |
+| Host Name | Keksik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:49:11 |
 
 
 |  | epic_boss_fight_nightmare |
