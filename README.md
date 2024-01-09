@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738439851 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Rizzrack J'Kzð |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:53 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087739338164 |
-| Players | 9/10 |
-| Host Name | Stiller |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:49:47 |
+| Lobby ID | 28601087739775596 |
+| Players | 4/8 |
+| Host Name | штора |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:50:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087739463039 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | El inge pepe |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087739290690 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Mordecai |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:49:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087739534329 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Troublesome |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:50:11 |
@@ -113,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087738438209 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Mr. Morale & The Big Steppers |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:47:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28601087739775596 |
-| Players | 3/8 |
-| Host Name | штора |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:50:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087739860912 |
-| Players | 1/5 |
-| Host Name | Cевочка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:50:52 |
 
 
