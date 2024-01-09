@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087755915958 |
-| Players | 2/10 |
-| Host Name | ABOBA BOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:25:50 |
+| Lobby ID | 28601087755447418 |
+| Players | 1/8 |
+| Host Name | Muerto en Vida |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:24:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087755176518 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | BlitzO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:24:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087754640312 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | infinity |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:22:58 |
@@ -101,19 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:25:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087755447418 |
-| Players | 4/8 |
-| Host Name | Muerto en Vida |
+| Lobby ID | 28601087755949747 |
+| Players | 1/15 |
+| Host Name | tmr |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:24:46 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:25:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087755979003 |
+| Players | 2/10 |
+| Host Name | ABOBA BOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:25:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087755820920 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:25:37 |
