@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087800261618 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 愛 PaH†uOH 恨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:58:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087800741870 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | ™۞M£lØÐ¥۞ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:59:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087800529321 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 682 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:59:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087800244875 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Black Lagoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:58:33 |
@@ -68,10 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087800519450 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:59:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087800844595 |
+| Players | 1/24 |
+| Host Name | alexhide |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:59:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087800888288 |
+| Players | 1/8 |
+| Host Name | :)) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:59:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087800916933 |
+| Players | 5/8 |
+| Host Name | Vannnnn |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:59:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087800927437 |
+| Players | 3/8 |
+| Host Name | uktatam |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 10:00:01 |
 
 
 |  | epic_boss_fight_nightmare |
