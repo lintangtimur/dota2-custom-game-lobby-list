@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087749059698 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | EL PATRON DEL CLORO\ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:10:45 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087749265972 |
-| Players | 2/8 |
-| Host Name | puffy-nib9 :> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:11:12 |
+| Lobby ID | 28601087745754518 |
+| Players | 8/8 |
+| Host Name | Revelkzzz0n |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:03:39 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087748858988 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:10:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087748459676 |
-| Players | 13/15 |
-| Host Name | Morphinator$ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:09:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087748270860 |
@@ -101,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28601087748709218 |
-| Players | 14/15 |
-| Host Name | SoulKZS |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:10:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087744739037 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:25 |
