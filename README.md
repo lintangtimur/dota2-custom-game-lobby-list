@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087795660746 |
-| Players | 2/8 |
-| Host Name | Jackawaka |
+| Lobby ID | 28601087796143392 |
+| Players | 2/10 |
+| Host Name | 『　　』 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:49:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087794555935 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Kent |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:19 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087794212389 |
-| Players | 14/15 |
-| Host Name | CombatWorthyWombat |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:45:32 |
+| Lobby ID | 28601087795629386 |
+| Players | 5/24 |
+| Host Name | Mike Oxlong |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:48:40 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087795168826 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | mike. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087795662147 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087795283271 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Scrub, career felon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28601087795629386 |
-| Players | 5/24 |
-| Host Name | Mike Oxlong |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:48:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087796062062 |
-| Players | 2/10 |
-| Host Name | 『　　』 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:49:37 |
 
 
 |  | epic_boss_fight_normal |
