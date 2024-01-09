@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087741820928 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | XD |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:55:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087742144806 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | obezyana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:55:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087743110922 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | BitcoinArtem |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:57:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087742181257 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | XinQuy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:55:50 |
@@ -101,6 +101,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 07:57:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087743180059 |
+| Players | 3/8 |
+| Host Name | ٩(◣_◢)۶ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:58:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087743245153 |
+| Players | 1/10 |
+| Host Name | Joshe Mr A.Z. |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:58:09 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28601087742189751 |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087741350979 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Hakan_0 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:54:04 |
