@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087768052407 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:52:58 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087765616347 |
-| Players | 5/8 |
-| Host Name | EDW_XS |
+| Players | 1/8 |
+| Host Name | pato6661 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:38 |
 
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:52:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087769243825 |
+| Players | 1/10 |
+| Host Name | Pingu Asado |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:55:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087769322088 |
+| Players | 1/24 |
+| Host Name | 水蓮 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:55:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087765341964 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:01 |
