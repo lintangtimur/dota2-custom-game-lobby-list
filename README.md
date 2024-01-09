@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087793775113 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:44:32 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087793271076 |
-| Players | 4/8 |
-| Host Name | Boss_w21 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:43:22 |
+| Lobby ID | 28601087793734933 |
+| Players | 4/15 |
+| Host Name | Jaylaps Brozingis |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:44:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:44:22 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087793974666 |
+| Players | 3/10 |
+| Host Name | Boris Britva (Unofficial) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:44:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087793734933 |
-| Players | 4/15 |
-| Host Name | Jaylaps Brozingis |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:44:26 |
+| Lobby ID | 28601087793989420 |
+| Players | 1/15 |
+| Host Name | Kent |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:45:02 |
 
 
 |  | epic_boss_fight_normal |
