@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087764701392 |
-| Players | 22/24 |
-| Host Name | PMA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:45:34 |
+| Lobby ID | 28601087765603681 |
+| Players | 6/8 |
+| Host Name | Curze |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:47:36 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087765562280 |
-| Players | 10/15 |
-| Host Name | Big McLargeHuge |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:47:31 |
+| Lobby ID | 28601087765616347 |
+| Players | 2/8 |
+| Host Name | Gnoren |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:47:38 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087765603681 |
-| Players | 6/8 |
-| Host Name | Curze |
+| Lobby ID | 28601087765819676 |
+| Players | 1/15 |
+| Host Name | Shim |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:47:36 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:48:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087765616347 |
-| Players | 2/8 |
-| Host Name | Gnoren |
+| Lobby ID | 28601087765878918 |
+| Players | 3/8 |
+| Host Name | ORiGiNAL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:48:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28601087765869902 |
+| Players | 1/8 |
+| Host Name | El vago de la Sunat |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:47:38 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:48:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087765872217 |
+| Players | 1/15 |
+| Host Name | ACEREJEAHA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:48:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:47:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087765844612 |
+| Players | 1/5 |
+| Host Name | KalashmatiK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:48:08 |
 
 
