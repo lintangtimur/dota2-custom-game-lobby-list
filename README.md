@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087789045364 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:34:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087796544842 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Miau :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:50:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087794534834 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:46:16 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087796428301 |
-| Players | 8/10 |
-| Host Name | Alberik |
+| Lobby ID | 28601087796860145 |
+| Players | 1/10 |
+| Host Name | Dango Deviluke |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:50:23 |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:51:20 |
 
 
 |  | epic_boss_fight_normal |
