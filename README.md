@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087752805433 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Rizer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Johnny Sins |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28601087752936794 |
 | Players | 2/8 |
-| Host Name | Цирроз печени |
+| Host Name | Negev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:18 |
 
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087752980290 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | goeya |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:19:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087753343536 |
+| Players | 4/10 |
+| Host Name | Kibosh |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:20:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:15:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087753365332 |
+| Players | 1/5 |
+| Host Name | KalashmatiK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:20:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28601087753406652 |
+| Players | 1/5 |
+| Host Name | Abolieer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:20:17 |
 
 
