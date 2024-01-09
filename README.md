@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Kobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087747700944 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | $$-_-$$ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:07:49 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:19 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087748459676 |
+| Players | 2/15 |
+| Host Name | Morphinator$ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:09:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087744739037 |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:01:25 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28601087748488038 |
+| Players | 1/7 |
+| Host Name | BloodyMix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:09:31 |
 
 
