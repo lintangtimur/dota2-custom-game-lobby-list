@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28601087795660746 |
 | Players | 2/8 |
-| Host Name | тильт |
+| Host Name | Jackawaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:48:44 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087795168826 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | mike. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087795283271 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Scrub, career felon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:47:55 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:48:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087793056366 |
-| Players | 9/10 |
-| Host Name | 喜欢短发的女生 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:42:53 |
+| Lobby ID | 28601087796062062 |
+| Players | 2/10 |
+| Host Name | 『　　』 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:49:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 猛龙不过江 |
 | Region | PWUNICOM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:49:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28601087796000808 |
-| Players | 1/5 |
-| Host Name | deadpandA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:49:29 |
 
 
