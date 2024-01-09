@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087746978276 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:06:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087748270860 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | There is no silver |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:09:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087751049576 |
-| Players | 9/24 |
+| Players | 18/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:15:06 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28601087749547073 |
-| Players | 10/10 |
-| Host Name | Mainfromcursed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:11:48 |
+| Lobby ID | 28601087751610906 |
+| Players | 8/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:16:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087751576993 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mr. Pickles |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:16:18 |
@@ -103,26 +103,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087751522348 |
-| Players | 4/8 |
-| Host Name | Borealis |
+| Lobby ID | 28601087751742439 |
+| Players | 1/8 |
+| Host Name | Negev |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:16:10 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:16:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087751610906 |
-| Players | 7/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:16:22 |
+| Lobby ID | 28601087751759956 |
+| Players | 1/8 |
+| Host Name | LEO Is Back |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:16:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28601087751232738 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OBONGA JR. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:15:31 |
