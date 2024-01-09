@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087786198680 |
-| Players | 14/15 |
-| Host Name | Sammythical |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:28:56 |
+| Lobby ID | 28601087785540653 |
+| Players | 21/24 |
+| Host Name | LYKAN DARK |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:27:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087787052089 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Настоящее имя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:30:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087787254970 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Ghetto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:31:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087786126666 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | зима в сердце |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:28:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087787154052 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | dasha |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:30:52 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dяєαмснαsєяs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:31:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28601087787625119 |
+| Players | 1/24 |
+| Host Name | AQUINO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:31:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087787639788 |
+| Players | 3/15 |
+| Host Name | Вайбик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:31:51 |
 
 
 |  | epic_boss_fight_nightmare |
