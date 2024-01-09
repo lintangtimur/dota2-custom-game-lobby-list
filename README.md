@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087752104128 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 08:17:28 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28601087752624750 |
+| Lobby ID | 28601087752655850 |
 | Players | 1/5 |
 | Host Name | KalashmatiK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 08:18:37 |
+| Lobby Creation Time | Tuesday, January 9, 2024 08:18:41 |
 
 
