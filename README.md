@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087733075520 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:36:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087735949026 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DaktAri |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:42:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087734680225 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:39:42 |
@@ -67,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28601087734656324 |
-| Players | 7/8 |
-| Host Name | xdxdxd |
+| Lobby ID | 28601087736718956 |
+| Players | 1/8 |
+| Host Name | Chris Luck,, Turry Mbappe- |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:39:39 |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:44:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087735468629 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:41:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087734975995 |
-| Players | 7/8 |
-| Host Name | I.G.Y |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 07:40:20 |
+| Lobby ID | 28601087736778323 |
+| Players | 1/10 |
+| Host Name | Jelezka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:44:14 |
 
 
