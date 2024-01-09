@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087716661419 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:01:28 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087717203918 |
-| Players | 4/10 |
-| Host Name | AD.Romaka1 |
+| Players | 3/10 |
+| Host Name | molchun |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:36 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087716798240 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:01:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087716930171 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ho Ho Ho manito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087716981794 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:09 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087716981531 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | S_M_P |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:02:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087717406854 |
+| Players | 2/15 |
+| Host Name | andre.dz |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:03:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28601087717419426 |
+| Players | 1/10 |
+| Host Name | @prolux20 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:03:03 |
 
 
 |  | epic_boss_fight_nightmare |
