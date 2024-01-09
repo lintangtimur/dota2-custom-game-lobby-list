@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28601087727291781 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TvoiTamada |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:23:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087727546279 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Anita Max Wynn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:24:29 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28601087728146877 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | blonndin4ik |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 07:25:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28601087728392464 |
+| Players | 3/15 |
+| Host Name | ебать i'm blind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 07:26:18 |
 
 
 |  | epic_boss_fight_nightmare |
