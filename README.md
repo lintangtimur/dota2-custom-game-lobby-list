@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 09:10:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28601087774823280 |
-| Players | 1/24 |
-| Host Name | bobaboo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:05:37 |
+| Lobby ID | 28601087777087071 |
+| Players | 8/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 09:10:11 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087777484392 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Mr. Rose |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:10:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087777866612 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:46 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eL OE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 09:11:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28601087777087071 |
-| Players | 9/10 |
-| Host Name | big boss |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 09:10:11 |
 
 
 |  | epic_boss_fight_normal |
