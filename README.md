@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28603893208444703 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Yamiツ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 06:40:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28603893209490890 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | JHOANO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 06:42:23 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 06:42:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603893206533941 |
-| Players | 12/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, January 11, 2024 06:36:15 |
+| Lobby ID | 28603893209658179 |
+| Players | 7/8 |
+| Host Name | ILLINOIZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 06:42:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,49 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 06:38:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603893208811038 |
-| Players | 8/10 |
-| Host Name | uuuu |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 06:40:58 |
+| Lobby ID | 28603893210063980 |
+| Players | 4/15 |
+| Host Name | Polyhedron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 06:43:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28603893207897353 |
-| Players | 2/10 |
-| Host Name | Aeasor |
+| Players | 1/10 |
+| Host Name | NoOne2303 إرهابي انتح |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 06:39:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28603893209482452 |
-| Players | 2/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 06:42:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28603893209287160 |
-| Players | 2/15 |
-| Host Name | maku |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 06:41:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28603893209658179 |
-| Players | 1/8 |
-| Host Name | ILLINOIZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 06:42:44 |
 
 
 |  | epic_boss_fight_normal |
