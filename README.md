@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28603893185787549 |
-| Players | 18/24 |
-| Host Name | eeveelinh |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 05:56:00 |
+| Lobby ID | 28603893189537722 |
+| Players | 4/24 |
+| Host Name | RiftBreaker |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 06:03:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603893187923530 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | PotatingPotater |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 06:00:05 |
@@ -29,55 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 03:25:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603893187889616 |
-| Players | 5/10 |
-| Host Name | merenge |
+| Lobby ID | 28603893189781055 |
+| Players | 4/15 |
+| Host Name | Nesay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 06:03:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28603893189721936 |
+| Players | 2/8 |
+| Host Name | Frontier |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 06:00:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28603893189244803 |
-| Players | 1/24 |
-| Host Name | TroubleMaker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 11, 2024 06:02:35 |
+| Lobby Creation Time | Thursday, January 11, 2024 06:03:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28603893189126763 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 06:02:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28603893189146121 |
-| Players | 3/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 06:02:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28603893189405648 |
-| Players | 3/10 |
-| Host Name | Ssser |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 06:02:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28603893189416519 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Dr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 11, 2024 06:02:55 |
