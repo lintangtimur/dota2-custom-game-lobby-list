@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215532293334 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Corn With a Kei |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 12:15:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215530506832 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 11, 2024 12:11:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215529703104 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | BabyRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 12:09:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28604215532058220 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 12:14:39 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215532663546 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | KoreanG |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 12:16:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28604215532899768 |
+| Players | 5/24 |
+| Host Name | Pkoas- |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 12:16:31 |
 
 
 |  | epic_boss_fight_nightmare |
