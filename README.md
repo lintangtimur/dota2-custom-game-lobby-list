@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215501617023 |
-| Players | 5/10 |
+| Players | 1/10 |
 | Host Name | Johnny Sins |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 11:08:31 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215501500970 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | TTravisScoTT |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 11:08:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215500033651 |
-| Players | 14/15 |
-| Host Name | Wdoo |
+| Lobby ID | 28604215502154181 |
+| Players | 1/8 |
+| Host Name | котикскс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 11:05:14 |
+| Lobby Creation Time | Thursday, January 11, 2024 11:09:38 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28604215501583239 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Boss_w21 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 11:08:27 |
@@ -50,45 +50,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215501581074 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | only webeo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 11:08:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28604215501414366 |
-| Players | 8/10 |
-| Host Name | ME MATAS YOU MOM RAMBO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:08:06 |
+| Lobby ID | 28604215502255896 |
+| Players | 1/24 |
+| Host Name | Ah Zai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 11:09:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215501412485 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | æ Haku æ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 11:08:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215501755971 |
-| Players | 1/8 |
-| Host Name | in my asia era |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:08:48 |
+| Lobby ID | 28604215502228703 |
+| Players | 1/15 |
+| Host Name | Satsuki. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 11:09:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28604215502338591 |
+| Players | 1/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 11:10:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28604215501394685 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | katharsis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 11, 2024 11:08:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28604215502110277 |
+| Players | 5/10 |
+| Host Name | halal player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 11:09:32 |
 
 
