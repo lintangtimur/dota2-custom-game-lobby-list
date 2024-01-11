@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991240185821 |
-| Players | 1/24 |
-| Host Name | super598 |
+| Players | 2/24 |
+| Host Name | reaper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 09:46:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991239903487 |
-| Players | 7/8 |
-| Host Name | Chimbombin 2.0 |
+| Lobby ID | 28603991240725019 |
+| Players | 1/8 |
+| Host Name | Cristianonelmessi |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 09:45:30 |
+| Lobby Creation Time | Thursday, January 11, 2024 09:47:18 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 07:54:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991240101436 |
-| Players | 15/24 |
-| Host Name | CHICO FITNESS 69 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 09:45:56 |
+| Lobby ID | 28603991240894667 |
+| Players | 2/8 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, January 11, 2024 09:47:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 09:45:29 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28603991239893854 |
-| Players | 7/8 |
-| Host Name | Настоящее имя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 09:45:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28603991240241412 |
-| Players | 2/10 |
-| Host Name | 健一白浜 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 09:46:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28603991240283996 |
-| Players | 2/10 |
-| Host Name | ятоксик+критик |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 09:46:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28603991240361156 |
-| Players | 3/15 |
-| Host Name | ЩЕЛЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 09:46:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28603991240469996 |
@@ -92,10 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 09:46:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28603991240241412 |
+| Players | 8/10 |
+| Host Name | 健一白浜 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 09:46:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28603991240283996 |
+| Players | 3/10 |
+| Host Name | ятоксик+критик |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 09:46:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28603991240361156 |
+| Players | 7/15 |
+| Host Name | ЩЕЛЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 09:46:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28603991239551165 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | luv5ammy |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, January 11, 2024 09:44:45 |
@@ -103,19 +94,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28603991235191208 |
-| Players | 9/10 |
-| Host Name | Szostak |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 09:35:26 |
+| Lobby ID | 28603991236504088 |
+| Players | 5/10 |
+| Host Name | Oooppss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 09:38:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28603991236504088 |
-| Players | 8/10 |
-| Host Name | mybiiru |
+| Lobby ID | 28603991240753502 |
+| Players | 1/10 |
+| Host Name | ElChacha |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 09:47:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28603991240732119 |
+| Players | 5/10 |
+| Host Name | CLSMCSMII |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 11, 2024 09:38:15 |
+| Lobby Creation Time | Thursday, January 11, 2024 09:47:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28603991240888321 |
+| Players | 1/10 |
+| Host Name | Hakuna My Tatas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 09:47:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28603991235191208 |
+| Players | 7/10 |
+| Host Name | Szostak |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 09:35:26 |
 
 
