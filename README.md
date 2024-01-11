@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28604215498937234 |
-| Players | 5/24 |
-| Host Name | The Weeknd |
+| Lobby ID | 28604215499592768 |
+| Players | 2/10 |
+| Host Name | Bad Boy |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:02:51 |
+| Lobby Creation Time | Thursday, January 11, 2024 11:04:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215498924679 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | kkiko |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 11:02:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28604215498938525 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 巴基曼巴 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:02:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215491683728 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 10:46:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215498293158 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | autism |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 11, 2024 11:01:28 |
@@ -50,52 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215497769254 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | M4ik3ru ☠ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:00:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28604215499016845 |
-| Players | 5/8 |
-| Host Name | CHIMPANDOLFO |
+| Lobby ID | 28604215499805522 |
+| Players | 6/24 |
+| Host Name | El Peluca |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:03:01 |
+| Lobby Creation Time | Thursday, January 11, 2024 11:04:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28604215498752668 |
-| Players | 1/8 |
-| Host Name | Sueltame o te destripo/ デ ︻ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:02:28 |
+| Lobby ID | 28604215499517424 |
+| Players | 2/10 |
+| Host Name | Ulqiorra |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 11:04:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215497998959 |
-| Players | 14/15 |
-| Host Name | cling to my arm |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 11:00:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28604215499431670 |
-| Players | 1/8 |
-| Host Name | 少女的克星少妇的福音 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, January 11, 2024 11:03:55 |
+| Lobby ID | 28604215499864406 |
+| Players | 6/15 |
+| Host Name | Same $hit different Day Let Her |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 11:04:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28604215495462559 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MR.Crow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 10:55:23 |
