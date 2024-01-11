@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215510877522 |
-| Players | 11/24 |
+| Players | 22/24 |
 | Host Name | Pkoas- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 11:28:53 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215510484386 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 🍌 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:27:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215510855037 |
-| Players | 10/15 |
-| Host Name | ᴵᵏᵃʳᶦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 11:28:50 |
+| Lobby ID | 28604215512614036 |
+| Players | 4/8 |
+| Host Name | kkiko |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 11:32:46 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215510334580 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:27:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215511748826 |
-| Players | 7/15 |
-| Host Name | ASYCEM |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 11:30:50 |
+| Lobby ID | 28604215512348131 |
+| Players | 7/8 |
+| Host Name | chancheinsenberg is back |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 11:32:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215511921875 |
-| Players | 2/10 |
-| Host Name | Amsterdam |
+| Players | 3/10 |
+| Host Name | Papituuu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 11:31:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215512178631 |
-| Players | 3/8 |
-| Host Name | chancheinsenberg is back |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:31:48 |
+| Lobby ID | 28604215512663597 |
+| Players | 1/15 |
+| Host Name | 西凉河的葛三叔 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 11:32:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28604215511956070 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MR.Crow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:31:17 |
