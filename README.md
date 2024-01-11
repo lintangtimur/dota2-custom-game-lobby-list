@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991187108780 |
-| Players | 8/24 |
+| Players | 17/24 |
 | Host Name | Luqueen |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 07:50:39 |
@@ -22,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603991186574579 |
-| Players | 8/15 |
-| Host Name | Блядей корежит |
+| Lobby ID | 28603991188098791 |
+| Players | 5/15 |
+| Host Name | nomad |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 07:49:24 |
+| Lobby Creation Time | Thursday, January 11, 2024 07:52:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603991187368933 |
-| Players | 6/8 |
-| Host Name | IA |
+| Lobby ID | 28603991188153379 |
+| Players | 1/15 |
+| Host Name | Davikucho |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 07:51:18 |
+| Lobby Creation Time | Thursday, January 11, 2024 07:52:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28603991187349344 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | exile |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 11, 2024 07:51:14 |
@@ -50,16 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28603991187289748 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name |  |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 11, 2024 07:51:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28603991187796019 |
+| Players | 1/24 |
+| Host Name | _-UlizZezZ-_ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 07:52:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28603991186289288 |
+| Players | 22/24 |
+| Host Name | //MX` |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 07:48:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28603991186610814 |
+| Players | 12/15 |
+| Host Name | Tada-Banri |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 07:49:29 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28603991186669521 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | fl0xiess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 07:49:37 |
