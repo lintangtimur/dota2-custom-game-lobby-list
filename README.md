@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28603991225259741 |
-| Players | 22/24 |
-| Host Name | CHOSO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 09:13:06 |
+| Lobby ID | 28603991221732540 |
+| Players | 20/24 |
+| Host Name | WSWSWSWSWSWSWS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 09:04:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28603991226032868 |
-| Players | 1/8 |
-| Host Name | baji |
+| Lobby ID | 28603991224878048 |
+| Players | 6/10 |
+| Host Name | _SHADOW_ |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 09:14:50 |
+| Lobby Creation Time | Thursday, January 11, 2024 09:12:14 |
 
 
 |  | ot3_desert_octet |
@@ -31,56 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603991223788377 |
-| Players | 11/15 |
-| Host Name | Alkael |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 09:09:42 |
+| Lobby ID | 28603991226252489 |
+| Players | 6/15 |
+| Host Name | vb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 09:15:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28603991224841646 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | GDK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 09:12:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28603991224878048 |
-| Players | 4/10 |
-| Host Name | Zugzwang |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 09:12:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28603991221732540 |
-| Players | 16/24 |
-| Host Name | WSWSWSWSWSWSWS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 11, 2024 09:04:58 |
+| Lobby ID | 28603991226415247 |
+| Players | 4/24 |
+| Host Name | MILLONARIO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 09:15:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991225418312 |
-| Players | 7/8 |
-| Host Name | Геометрический решатель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 09:13:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28603991223899674 |
-| Players | 7/10 |
-| Host Name | 失敗者 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 09:09:58 |
+| Lobby ID | 28603991226544289 |
+| Players | 1/8 |
+| Host Name | Steve Master |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 09:15:59 |
 
 
 |  | epic_boss_fight_normal |
