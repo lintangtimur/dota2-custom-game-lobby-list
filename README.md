@@ -2,46 +2,46 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28604215521676150 |
-| Players | 7/8 |
-| Host Name | in my asia era |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:52:08 |
+| Lobby ID | 28604215522058997 |
+| Players | 6/10 |
+| Host Name | Mozo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 11:52:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215517151656 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | vannc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:42:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215520273626 |
-| Players | 21/24 |
-| Host Name | TTravisScoTT |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:49:00 |
+| Lobby ID | 28604215522455222 |
+| Players | 4/15 |
+| Host Name | krЭmovaya Чayka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 11:53:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215521513843 |
-| Players | 10/15 |
-| Host Name | Passius Play |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 11, 2024 11:51:46 |
+| Lobby ID | 28604215522198133 |
+| Players | 11/15 |
+| Host Name | Famous Seamus |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 11:53:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28604215517608238 |
-| Players | 7/8 |
+| Players | 1/8 |
 | Host Name | Peace_and_Love |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 11:43:15 |
@@ -50,43 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215521950064 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 11:52:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28604215521985008 |
-| Players | 7/8 |
-| Host Name | KoreanG |
+| Lobby ID | 28604215522393827 |
+| Players | 2/24 |
+| Host Name | Sid, el indomable :v |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:52:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28604215522058997 |
-| Players | 1/10 |
-| Host Name | Mozo |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 11:52:59 |
+| Lobby Creation Time | Thursday, January 11, 2024 11:53:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215522060506 |
-| Players | 4/8 |
-| Host Name | Tavo Tu Terror |
+| Lobby ID | 28604215522555771 |
+| Players | 1/8 |
+| Host Name | ♂ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:52:59 |
+| Lobby Creation Time | Thursday, January 11, 2024 11:54:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28604215520285888 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | QWASZX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:49:01 |
