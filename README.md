@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28603991250689888 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | kötsibëu |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 10:09:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991249974969 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 10:07:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991247760252 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | NonoBoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 10:02:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28603991250176112 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 10:08:18 |
@@ -59,63 +59,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991250748603 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Economista.DRUGGED |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 10:09:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28603991250964398 |
+| Players | 3/15 |
+| Host Name | ♫ MClovink ♫ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 10:10:03 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28603991249520901 |
-| Players | 9/10 |
-| Host Name | 1𝟡S҉ ℤ06 |
+| Lobby ID | 28603991251333869 |
+| Players | 1/10 |
+| Host Name | AR/Sol0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 10:06:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28603991250368476 |
-| Players | 1/24 |
-| Host Name | CHOSO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 10:08:43 |
+| Lobby Creation Time | Thursday, January 11, 2024 10:10:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991250931920 |
-| Players | 3/8 |
-| Host Name | GhosTNeal |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 10:09:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28603991248598090 |
-| Players | 14/15 |
-| Host Name | 0_0 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 10:04:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28603991250751147 |
-| Players | 1/5 |
-| Host Name | CAGO |
+| Lobby ID | 28603991251070917 |
+| Players | 4/8 |
+| Host Name | nowhale |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 10:09:33 |
+| Lobby Creation Time | Thursday, January 11, 2024 10:10:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28603991249644756 |
+| Players | 19/24 |
+| Host Name | Mr.MillF |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 10:07:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28603991251435383 |
+| Players | 1/8 |
+| Host Name | COCO BASILE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 10:11:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28603991250763501 |
+| Lobby ID | 28603991251189772 |
 | Players | 2/10 |
-| Host Name | Toji Fushiguro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 11, 2024 10:09:35 |
+| Host Name | kanito |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 10:10:33 |
 
 
