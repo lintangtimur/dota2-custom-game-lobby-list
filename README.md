@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28603991191767364 |
-| Players | 18/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 07:59:35 |
+| Lobby ID | 28603991193710175 |
+| Players | 5/10 |
+| Host Name | RUSSIAN RECONQUISTA |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 08:03:34 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 03:25:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603991189443503 |
-| Players | 6/8 |
-| Host Name | burunduk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 07:55:05 |
+| Lobby ID | 28603991193571585 |
+| Players | 3/15 |
+| Host Name | NoVa/NeNet< |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 08:03:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28603991190798446 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | esharwv |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 07:58:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 07:54:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28603991192111152 |
-| Players | 8/10 |
-| Host Name | Oops |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 08:00:13 |
+| Lobby ID | 28603991193398300 |
+| Players | 11/24 |
+| Host Name | Kratos |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 08:02:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 08:02:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991193370594 |
-| Players | 2/10 |
-| Host Name | BrosterI Parte pecho |
+| Lobby ID | 28603991193584582 |
+| Players | 2/8 |
+| Host Name | VISHTACK BORN |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 08:02:49 |
+| Lobby Creation Time | Thursday, January 11, 2024 08:03:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991193398300 |
-| Players | 2/24 |
-| Host Name | CT.SócratesNatalino, O Paulo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 08:02:53 |
+| Lobby ID | 28603991193780181 |
+| Players | 4/8 |
+| Host Name | ☬灯kill me灯forever alone灯 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 08:03:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28603991193869524 |
+| Players | 1/15 |
+| Host Name | Clixco |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 08:04:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28603991193503863 |
+| Players | 1/10 |
+| Host Name | Christmas Present |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 08:03:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28603991193713412 |
+| Players | 4/10 |
+| Host Name | Tilted AF |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 08:03:34 |
 
 
