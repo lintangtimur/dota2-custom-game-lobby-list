@@ -2,64 +2,55 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215532899768 |
-| Players | 16/24 |
-| Host Name | Pkoas- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 12:16:31 |
+| Lobby ID | 28604215534481820 |
+| Players | 5/8 |
+| Host Name | 卵虫身上的粪便 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 12:19:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215531484665 |
-| Players | 10/15 |
-| Host Name | Rip van Winkle |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 12:13:23 |
+| Lobby ID | 28604215534104219 |
+| Players | 1/8 |
+| Host Name | Legendary Raccoon |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 12:19:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215533403503 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | MARCO AURELIO DENEGRO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 12:17:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28604215532377145 |
-| Players | 8/10 |
-| Host Name | Shearinex |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 12:15:22 |
+| Lobby ID | 28604215534371916 |
+| Players | 1/24 |
+| Host Name | @_@ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 12:19:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215533741692 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Moraca |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 12:18:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28604215532105883 |
-| Players | 7/10 |
-| Host Name | greiden133 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 12:14:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28604215530817802 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Tequilla |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 12:11:54 |
