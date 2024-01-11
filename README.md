@@ -11,66 +11,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 11:52:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215527465332 |
-| Players | 8/10 |
-| Host Name | Kapirasho giordota.com |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 12:04:38 |
+| Lobby ID | 28604215527891012 |
+| Players | 5/15 |
+| Host Name | Промосковська шл |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 12:05:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28604215527368401 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | DPGaming |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 11, 2024 12:04:26 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28604215524676879 |
-| Players | 23/24 |
-| Host Name | 黙れ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 11:58:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28604215526434144 |
-| Players | 8/15 |
-| Host Name | AngeL- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 12:02:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28604215524789952 |
-| Players | 22/24 |
-| Host Name | Kardel Dalisay |
+| Lobby ID | 28604215527717578 |
+| Players | 2/10 |
+| Host Name | MR.Crow |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:58:55 |
+| Lobby Creation Time | Thursday, January 11, 2024 12:05:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28604215525170416 |
-| Players | 4/8 |
-| Host Name | А |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:59:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28604215526222561 |
-| Players | 13/15 |
-| Host Name | Summertime Sadness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 12:01:59 |
+| Lobby ID | 28604215525151824 |
+| Players | 9/10 |
+| Host Name | Plaridel |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, January 11, 2024 11:59:41 |
 
 
