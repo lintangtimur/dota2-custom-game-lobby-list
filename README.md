@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215499592768 |
-| Players | 2/10 |
-| Host Name | Bad Boy |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:04:16 |
+| Lobby ID | 28604215500031730 |
+| Players | 4/15 |
+| Host Name | Riggins |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 11:05:14 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 11:02:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215498938525 |
-| Players | 7/8 |
-| Host Name | 巴基曼巴 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:02:51 |
+| Lobby ID | 28604215500033651 |
+| Players | 5/15 |
+| Host Name | Путин наше всё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 11:05:14 |
 
 
 |  | ot3_desert_octet |
@@ -38,49 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 10:46:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28604215498293158 |
-| Players | 11/15 |
-| Host Name | autism |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 11:01:28 |
+| Lobby ID | 28604215499950164 |
+| Players | 6/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 11:05:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215497769254 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | M4ik3ru ☠ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:00:19 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28604215499805522 |
-| Players | 6/24 |
-| Host Name | El Peluca |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:04:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28604215499517424 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Ulqiorra |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:04:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28604215499864406 |
-| Players | 6/15 |
-| Host Name | Same $hit different Day Let Her |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:04:52 |
 
 
 |  | epic_boss_fight_nightmare |
