@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991216016966 |
-| Players | 8/15 |
-| Host Name | El destrozaCaderas |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 08:51:41 |
+| Lobby ID | 28603991217283191 |
+| Players | 4/8 |
+| Host Name | 3.14P3tka |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 08:54:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991215300774 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 08:49:56 |
@@ -23,90 +23,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28603991189101299 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 07:54:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603991216733571 |
-| Players | 9/10 |
-| Host Name | sean serios |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 08:53:24 |
+| Lobby ID | 28603991216961609 |
+| Players | 5/15 |
+| Host Name | дал зазу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 11, 2024 08:53:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28603991216645038 |
-| Players | 5/10 |
-| Host Name | Lvivske Rizdvyane |
+| Players | 1/10 |
+| Host Name | Where |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 11, 2024 08:53:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28603991215589619 |
-| Players | 7/8 |
-| Host Name | hola tonotos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 08:50:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28603991216005618 |
-| Players | 19/24 |
-| Host Name | Soda popinski |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 11, 2024 08:51:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28603991216159724 |
-| Players | 12/24 |
-| Host Name | CHOSO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 08:52:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28603991216169944 |
-| Players | 7/8 |
-| Host Name | SET.CSR |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 08:52:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28603991216329412 |
+| Lobby ID | 28603991217353056 |
 | Players | 4/8 |
-| Host Name | Wicked)Sick) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 08:52:26 |
+| Host Name | kunigami |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 08:54:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28603991216961609 |
-| Players | 4/15 |
-| Host Name | :"}@#@!$%T%$#^*&^& |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 08:53:57 |
+| Lobby ID | 28603991217420000 |
+| Players | 1/15 |
+| Host Name | WaLarSh |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 08:55:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28603991217408381 |
+| Players | 6/8 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 11, 2024 08:55:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28603991217418358 |
+| Players | 1/10 |
+| Host Name | BOT Guerrilla |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 11, 2024 08:55:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28603991216962386 |
-| Players | 3/10 |
-| Host Name | Womer |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, January 11, 2024 08:53:57 |
+| Lobby ID | 28603991217240772 |
+| Players | 1/10 |
+| Host Name | CLSMCSMII |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 11, 2024 08:54:36 |
 
 
