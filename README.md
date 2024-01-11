@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 11:19:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28604215508427494 |
-| Players | 5/15 |
-| Host Name | Ɗᴏ   σʀ    Ɗɪᴇㅤ⓿❸ |
+| Lobby ID | 28604215509497645 |
+| Players | 2/10 |
+| Host Name | AUTOPOIETICA |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:23:26 |
+| Lobby Creation Time | Thursday, January 11, 2024 11:25:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28604215505721034 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 11, 2024 11:17:22 |
@@ -38,55 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 10:46:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28604215507271153 |
-| Players | 7/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:20:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28604215507904278 |
-| Players | 5/8 |
-| Host Name | t.tv/resrayner |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:22:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28604215507660186 |
-| Players | 13/24 |
-| Host Name | Hiteek |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 11, 2024 11:21:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28604215508576559 |
-| Players | 10/15 |
-| Host Name | HEROTOM45 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:23:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28604215507452183 |
-| Players | 8/10 |
-| Host Name | Where |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 11, 2024 11:21:14 |
+| Lobby ID | 28604215509428169 |
+| Players | 3/24 |
+| Host Name | MacGum |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, January 11, 2024 11:25:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28604215508778264 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | cling to my arm |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 11, 2024 11:24:12 |
@@ -101,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 11, 2024 11:24:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28604215507026525 |
-| Players | 8/10 |
-| Host Name | 愛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 11, 2024 11:20:15 |
+| Lobby ID | 28604215508576559 |
+| Players | 9/15 |
+| Host Name | HEROTOM45 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 11, 2024 11:23:45 |
 
 
