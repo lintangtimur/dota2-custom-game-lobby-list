@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654464041165 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:45:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654462319207 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:32 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:49:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654465810251 |
-| Players | 9/10 |
-| Host Name | MeDuMiZ |
+| Lobby ID | 28612654467130359 |
+| Players | 2/24 |
+| Host Name | ЯНА МЕФЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:48:38 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:51:16 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654466064730 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | ThE.BoSs.OnE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:49:09 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654464962819 |
-| Players | 6/8 |
-| Host Name | . |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:46:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654466810870 |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654467130359 |
-| Players | 2/24 |
-| Host Name | ЯНА МЕФЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:51:16 |
+| Lobby ID | 28612654467335623 |
+| Players | 4/10 |
+| Host Name | D@nt3XT |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:51:41 |
 
 
 |  | epic_boss_fight_nightmare |
