@@ -20,49 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654557916889 |
-| Players | 1/15 |
-| Host Name | hated |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:38:14 |
+| Lobby ID | 28612654558735821 |
+| Players | 1/8 |
+| Host Name | WoodyPlant |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:39:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654558569498 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654558578635 |
-| Players | 1/15 |
-| Host Name | Боба |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654558564650 |
-| Players | 1/10 |
-| Host Name | Sanyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654558722006 |
-| Players | 1/8 |
-| Host Name | Uncle Joseph |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654558735821 |
-| Players | 1/8 |
-| Host Name | WoodyPlant |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:35 |
+| Lobby ID | 28612654558564650 |
+| Players | 1/10 |
+| Host Name | Sanyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:39:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654555447633 |
+| Players | 23/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:34:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | водитель по губам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654558721279 |
-| Players | 2/5 |
-| Host Name | NarberalG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:33 |
 
 
