@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654460869943 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Emsiller |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:38:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654462386947 |
-| Players | 1/24 |
-| Host Name | La12Rlxツ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:41:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654462269036 |
-| Players | 3/10 |
-| Host Name | Visage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:41:26 |
 
 
 |  | ot3_gardens_duo |
@@ -45,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654462269036 |
+| Players | 3/10 |
+| Host Name | Visage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:41:26 |
 
 
 |  | epic_boss_fight_nightmare |
