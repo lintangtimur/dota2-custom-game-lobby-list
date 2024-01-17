@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654463740654 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | РАДИО МАСТЕР |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:44:25 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654464535165 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Tango |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:46:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654464962819 |
+| Players | 2/8 |
+| Host Name | . |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:46:54 |
 
 
 |  | epic_boss_fight_nightmare |
