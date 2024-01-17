@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654537462559 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Bruizah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:04:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654536587210 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Mruno Bars |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:02:36 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:03:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654537711081 |
-| Players | 1/8 |
-| Host Name | Mellivoracapensis |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:04:33 |
 
 
 |  | epic_boss_fight_normal |
