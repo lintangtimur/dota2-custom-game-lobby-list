@@ -29,22 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:39:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654522884834 |
-| Players | 7/8 |
-| Host Name | idkeee |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:38:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654524045528 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | matinebm |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:40:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654524113008 |
+| Players | 1/8 |
+| Host Name | Meruem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:40:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654524112278 |
+| Players | 1/8 |
+| Host Name | shadow fiend romantik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:40:36 |
 
 
 |  | epic_boss_fight_nightmare |
