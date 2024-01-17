@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654513674218 |
-| Players | 7/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Lobby ID | 28612654514187710 |
+| Players | 1/8 |
+| Host Name | heartache |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:21:31 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:22:26 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654513891687 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | mc mc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:21:54 |
