@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654570075182 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | The mental stone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:57:27 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:58:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654570201006 |
-| Players | 7/8 |
-| Host Name | Andreypupok777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:57:39 |
+| Lobby ID | 28612654568817735 |
+| Players | 5/10 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:55:32 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654570102015 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | мистер скрип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:57:30 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654570092802 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:57:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654568817735 |
-| Players | 6/10 |
-| Host Name | Leonidas |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:55:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Apm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:56:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654570700796 |
-| Players | 1/5 |
-| Host Name | проводной канал |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:58:24 |
 
 
