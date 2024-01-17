@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654552638506 |
-| Players | 14/15 |
-| Host Name | нассал в раковину |
+| Lobby ID | 28612654553233304 |
+| Players | 1/15 |
+| Host Name | venomus_44 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:29:41 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:30:39 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654552776713 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:29:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654541804926 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ~МℛSinisteℛ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654540521588 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654553175980 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | 633 offlane prime |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:30:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654553290904 |
+| Players | 1/24 |
+| Host Name | Yolo.AF™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:30:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654551486462 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | call me autisticttipon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:27:49 |
