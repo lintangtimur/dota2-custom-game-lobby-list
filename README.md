@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539058704 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Tahko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654538825897 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | we know they know we know |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654538987804 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | EdgeRunner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:45 |
