@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654464246362 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | MeDuMiZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:45:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654463581293 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:44:05 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:45:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654464535165 |
+| Players | 1/15 |
+| Host Name | Tango |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:46:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654464549450 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:46:04 |
 
 
 |  | epic_boss_fight_nightmare |
