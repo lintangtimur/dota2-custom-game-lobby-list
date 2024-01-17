@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654563799301 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Mute All Chat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:47:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654563867506 |
-| Players | 1/15 |
-| Host Name | social decay. |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:47:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654563903832 |
-| Players | 1/15 |
-| Host Name | 1ava |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:47:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654562006700 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Stars |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
