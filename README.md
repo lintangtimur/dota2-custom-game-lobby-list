@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654526620194 |
-| Players | 23/24 |
-| Host Name | meateatergirl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:45:06 |
+| Lobby ID | 28612654528894560 |
+| Players | 1/8 |
+| Host Name | Ты Нарекай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:49:08 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654528761420 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Vers@ce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:48:54 |
@@ -42,18 +42,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28612654528888703 |
 | Players | 1/8 |
-| Host Name | ДЕСАКСИ |
+| Host Name | Стик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:49:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654528894560 |
-| Players | 1/8 |
-| Host Name | Ты Нарекай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:49:08 |
 
 
 |  | epic_boss_fight_nightmare |
