@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654527885360 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | no depression |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:47:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654527920236 |
-| Players | 1/8 |
-| Host Name | WoodyPlant |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:47:24 |
 
 
 |  | epic_boss_fight_nightmare |
