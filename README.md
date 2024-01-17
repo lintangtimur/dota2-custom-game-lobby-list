@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654565684340 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | kuromueina~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:50:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654566239569 |
-| Players | 14/15 |
-| Host Name | Задоджил завод |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654566038897 |
-| Players | 5/8 |
-| Host Name | шпигуняка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:16 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +40,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654566706120 |
-| Players | 3/8 |
-| Host Name | 901 |
+| Lobby ID | 28612654566038897 |
+| Players | 6/8 |
+| Host Name | шпигуняка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:52:18 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:51:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654566811504 |
+| Players | 2/15 |
+| Host Name | Dzudzuradzudzay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:52:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654566818334 |
+| Players | 1/15 |
+| Host Name | zugzwang |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:52:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654566820507 |
+| Players | 4/8 |
+| Host Name | FuckSnigers |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:52:28 |
 
 
 |  | epic_boss_fight_nightmare |
