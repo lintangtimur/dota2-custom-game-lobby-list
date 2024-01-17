@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654562287036 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:45:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654562373243 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Sidewinder |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:45:28 |
@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654562519528 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Tai Lung |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:45:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654562980099 |
+| Players | 2/8 |
+| Host Name | Точно ждал меня??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:46:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654563021670 |
+| Players | 6/10 |
+| Host Name | shichibukai |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:46:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654563078030 |
+| Players | 1/8 |
+| Host Name | Jami |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:46:34 |
 
 
 |  | epic_boss_fight_normal |
