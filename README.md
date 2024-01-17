@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654488782554 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Patan Mocoso |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:34:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654489178893 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Artag |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:35:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654489315206 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ОБИДНО ДА? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:35:17 |
