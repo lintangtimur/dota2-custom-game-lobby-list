@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654476745418 |
-| Players | 14/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:10:33 |
+| Lobby ID | 28612654475706553 |
+| Players | 22/24 |
+| Host Name | Mruno Bars |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:08:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:07:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654475706553 |
-| Players | 20/24 |
-| Host Name | Mruno Bars |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:08:27 |
+| Lobby ID | 28612654477455383 |
+| Players | 3/8 |
+| Host Name | southandsunny. |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:11:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654477515848 |
+| Players | 1/15 |
+| Host Name | ING. THE REAL SLIM SHADY |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:12:04 |
 
 
 |  | epic_boss_fight_nightmare |
