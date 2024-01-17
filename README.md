@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654451982775 |
-| Players | 23/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:19:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654452832721 |
-| Players | 6/8 |
-| Host Name | ThE.BoSs.OnE |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:21:47 |
+| Lobby ID | 28612654453581785 |
+| Players | 1/15 |
+| Host Name | I Hate U :) |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:23:22 |
 
 
 |  | epic_boss_fight_nightmare |
