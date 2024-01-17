@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654483503513 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Red-owl™ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:23:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654484811255 |
-| Players | 9/10 |
-| Host Name | Man |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:26:28 |
+| Lobby ID | 28612654486179440 |
+| Players | 1/15 |
+| Host Name | U见孙悟空 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:29:12 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Leha Lining |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:29:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654486179440 |
-| Players | 1/15 |
-| Host Name | U见孙悟空 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:29:12 |
 
 
 |  | epic_boss_fight_nightmare |
