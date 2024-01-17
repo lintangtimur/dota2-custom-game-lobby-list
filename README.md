@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654516480473 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | CRIMSON™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:26:41 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654516479298 |
-| Players | 12/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:26:40 |
+| Lobby ID | 28612654516769394 |
+| Players | 1/10 |
+| Host Name | gusyara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:27:13 |
 
 
 |  | ot3_gardens_duo |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654516762814 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:27:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654516769394 |
-| Players | 1/10 |
-| Host Name | gusyara |
+| Lobby ID | 28612654517003126 |
+| Players | 1/15 |
+| Host Name | Solohard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:27:13 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:27:39 |
 
 
 |  | epic_boss_fight_nightmare |
