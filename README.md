@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654540454316 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 就这er ??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654544068734 |
-| Players | 13/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:15:34 |
+| Lobby ID | 28612654545012475 |
+| Players | 3/10 |
+| Host Name | Dracul |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:17:09 |
 
 
 |  | ot3_jungle_quintet |
