@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654449558761 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | F0xmen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:14:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654449646890 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:14:54 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:15:35 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654450165564 |
+| Players | 1/24 |
+| Host Name | nieves |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:16:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654449156636 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | MR.Crow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:13:51 |
