@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654475946160 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Leer es para idiotas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654476987922 |
-| Players | 2/8 |
-| Host Name | roN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:11:02 |
+| Lobby ID | 28612654476745418 |
+| Players | 11/15 |
+| Host Name | Игорь Потов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:10:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mruno Bars |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654476745418 |
-| Players | 10/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:10:33 |
 
 
 |  | epic_boss_fight_nightmare |
