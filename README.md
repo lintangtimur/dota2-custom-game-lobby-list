@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654539058704 |
-| Players | 11/15 |
-| Host Name | Tahko |
+| Lobby ID | 28612654538987804 |
+| Players | 9/10 |
+| Host Name | EdgeRunner |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:53 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:06:45 |
 
 
 |  | ot3_desert_octet |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:19 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654538825897 |
-| Players | 1/10 |
-| Host Name | Sasai-kudasai |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654538987804 |
-| Players | 8/10 |
-| Host Name | EdgeRunner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654539357245 |
@@ -65,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:07:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654539569668 |
-| Players | 1/24 |
-| Host Name | SNEkaef |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:07:49 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654529940703 |
-| Players | 4/5 |
-| Host Name | nighty america |
+| Lobby ID | 28612654539253521 |
+| Players | 3/5 |
+| Host Name | DDR3 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:50:58 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:07:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654539253521 |
-| Players | 3/5 |
-| Host Name | DDR3 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:07:14 |
 
 
