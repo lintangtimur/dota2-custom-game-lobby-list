@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654511453088 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Pizzabuddet.dk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:17:23 |
@@ -23,18 +23,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654510315625 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654505996559 |
-| Players | 4/5 |
-| Host Name | 马穆特*拉哈尔 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:07:17 |
+| Lobby ID | 28612654511697453 |
+| Players | 1/24 |
+| Host Name | Sometimes Serious Phantom |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:17:51 |
 
 
