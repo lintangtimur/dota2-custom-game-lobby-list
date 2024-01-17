@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654491319462 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:39:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654492896297 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | monke vibin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:42:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654493056760 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | YEEZER |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:42:50 |
@@ -47,40 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:42:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654493208390 |
-| Players | 1/15 |
-| Host Name | DiedWithBomb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:43:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654493209221 |
-| Players | 4/8 |
-| Host Name | Fav |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:43:08 |
+| Lobby ID | 28612654493228759 |
+| Players | 1/8 |
+| Host Name | (M-M) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:43:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654485802345 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654491748818 |
-| Players | 9/10 |
-| Host Name | Mистер Роябот Абд |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:40:14 |
+| Lobby ID | 28612654493223904 |
+| Players | 1/5 |
+| Host Name | Сабинин папа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:43:10 |
 
 
 |  | epic_boss_fight_normal |
