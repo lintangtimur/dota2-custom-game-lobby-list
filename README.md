@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654457531070 |
-| Players | 6/8 |
-| Host Name | Out of matrix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:31:33 |
+| Lobby ID | 28612654458628387 |
+| Players | 2/24 |
+| Host Name | Peroro |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:33:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Explorer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654458664823 |
+| Players | 1/8 |
+| Host Name | Yatoro雨 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:33:53 |
 
 
 |  | epic_boss_fight_normal |
