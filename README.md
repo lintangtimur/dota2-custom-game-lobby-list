@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654517417367 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Swimmerfrog |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:28:25 |
@@ -41,16 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654517710502 |
-| Players | 1/8 |
-| Host Name | @***Ykrop***@ |
+| Players | 3/8 |
+| Host Name | BOBO JESUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:28:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654517786195 |
+| Players | 1/10 |
+| Host Name | gusyara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:29:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654517789642 |
+| Players | 1/10 |
+| Host Name | Токсичный ворон |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:29:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654516660462 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:27:01 |
