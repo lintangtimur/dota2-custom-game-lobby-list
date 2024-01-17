@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654452641983 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | diego |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:21:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654451903873 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ЯНА МЕФЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:19:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654452193959 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654452265876 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | quintanaluisarmando1 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:34 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654452697367 |
-| Players | 2/8 |
-| Host Name | trb. |
+| Players | 1/8 |
+| Host Name | Атакуээшн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:21:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654452796847 |
+| Players | 1/8 |
+| Host Name | Yo Imperius, Chetumare |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:21:43 |
 
 
 |  | epic_boss_fight_nightmare |
