@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539907419 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Umber |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654540521588 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654541589630 |
-| Players | 9/15 |
-| Host Name | Lama |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:11:24 |
+| Lobby ID | 28612654541876752 |
+| Players | 2/10 |
+| Host Name | МУРАД ЛЕГЕНДА |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:11:53 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654541767907 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ультрапотный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:42 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654541876752 |
-| Players | 2/10 |
-| Host Name | МУРАД ЛЕГЕНДА |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:11:53 |
 
 
 |  | epic_boss_fight_challenger |
