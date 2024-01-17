@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654562373243 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Sidewinder |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:45:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654562519528 |
-| Players | 12/15 |
-| Host Name | Tai Lung |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654562980099 |
-| Players | 2/8 |
-| Host Name | Точно ждал меня??? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:46:25 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654563078030 |
-| Players | 1/8 |
-| Host Name | Jami |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:46:34 |
+| Lobby ID | 28612654562980099 |
+| Players | 2/8 |
+| Host Name | Точно ждал меня??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:46:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654563191505 |
+| Players | 1/15 |
+| Host Name | chipichipi/chapachapa |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:46:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stars |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654563150084 |
+| Players | 1/10 |
+| Host Name | ♫...Cheese |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:46:41 |
 
 
