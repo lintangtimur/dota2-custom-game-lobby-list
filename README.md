@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654475706553 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Mruno Bars |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:27 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654476139402 |
+| Lobby ID | 28612654474984395 |
 | Players | 14/15 |
-| Host Name | Wheatley |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:09:20 |
+| Host Name | (ง'̀-'́)ง   o-('́-'́d) |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:06:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Игорь Потов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:10:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654475880694 |
+| Players | 7/8 |
+| Host Name | Uncle Joseph |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:08:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654476825436 |
+| Players | 1/15 |
+| Host Name | SL77P |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:10:43 |
 
 
 |  | epic_boss_fight_nightmare |
