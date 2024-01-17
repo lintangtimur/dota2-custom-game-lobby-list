@@ -47,40 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:42:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654493228759 |
-| Players | 1/8 |
-| Host Name | (M-M) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:43:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654485802345 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654493223904 |
-| Players | 1/5 |
-| Host Name | Сабинин папа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:43:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654492712874 |
-| Players | 1/5 |
-| Host Name | Kawasaki |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:42:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | อย่ายั่ว |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:43:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654492712874 |
+| Players | 1/5 |
+| Host Name | Kawasaki |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:42:10 |
 
 
