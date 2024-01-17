@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654561613003 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Prays-dead inside |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:15 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654561177769 |
-| Players | 8/8 |
-| Host Name | ніріальній псіх |
+| Players | 4/8 |
+| Host Name | mode: 2022 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:43:34 |
 
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654562015009 |
+| Players | 1/15 |
+| Host Name | 印平行充哨兵捡暴走偷G7满配R301 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:54 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654561677446 |
-| Players | 1/5 |
-| Host Name | sacrifice just 4 u |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:44:21 |
+| Lobby ID | 28612654561925469 |
+| Players | 2/5 |
+| Host Name | КОРШУНИДЗЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654562006700 |
+| Players | 1/10 |
+| Host Name | Stars |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
 
 
