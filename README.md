@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654473100802 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Strelitzia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:03:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654469693508 |
-| Players | 23/24 |
-| Host Name | locotto |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:56:25 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | salstic |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:04:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654474146636 |
-| Players | 2/8 |
-| Host Name | kokojambo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:05:16 |
 
 
 |  | epic_boss_fight_nightmare |
