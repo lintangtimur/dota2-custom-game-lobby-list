@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654495146653 |
-| Players | 6/8 |
-| Host Name | obldo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:46:55 |
+| Lobby ID | 28612654494128439 |
+| Players | 13/15 |
+| Host Name | Yatollapse |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654493676941 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654495938664 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Meatball |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:48:25 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654496386972 |
+| Lobby ID | 28612654496651747 |
 | Players | 3/8 |
-| Host Name | BBB |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:49:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654494128439 |
-| Players | 13/15 |
-| Host Name | Yatollapse |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
+| Host Name | arap |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:49:45 |
 
 
 |  | epic_boss_fight_nightmare |
