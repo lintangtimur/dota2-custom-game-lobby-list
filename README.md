@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654522173157 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | VEG4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:37:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654522617173 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | 足够的 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:37:51 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654522669643 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Maganahi |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:37:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654520775087 |
-| Players | 7/10 |
-| Host Name | Spons | <3 only 1 pos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:34:29 |
+| Lobby ID | 28612654522884834 |
+| Players | 1/8 |
+| Host Name | idkeee |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:38:21 |
 
 
 |  | epic_boss_fight_nightmare |
