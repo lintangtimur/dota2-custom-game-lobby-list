@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654482269898 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654526115069 |
-| Players | 12/15 |
-| Host Name | I used to Chill |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:44:12 |
+| Lobby ID | 28612654526364341 |
+| Players | 1/8 |
+| Host Name | OrlyOMG |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:44:39 |
 
 
 |  | ot3_desert_octet |
@@ -40,10 +40,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654526255602 |
+| Lobby ID | 28612654526394692 |
 | Players | 1/10 |
 | Host Name | )) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:44:27 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:44:42 |
 
 
