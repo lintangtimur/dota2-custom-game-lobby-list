@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654540521588 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654554930282 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Revoker |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:33:22 |
@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654554595107 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | птс шлюха на мест |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:32:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654541804926 |
-| Players | 22/24 |
-| Host Name | ~МℛSinisteℛ~ |
+| Lobby ID | 28612654555162501 |
+| Players | 3/15 |
+| Host Name | Last days in dOta |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:11:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654555105331 |
-| Players | 3/8 |
-| Host Name | Ваня банбентон |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:33:39 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:33:45 |
 
 
 |  | epic_boss_fight_nightmare |
