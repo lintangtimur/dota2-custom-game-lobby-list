@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654518108600 |
-| Players | 9/10 |
-| Host Name | Leonidas |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:29:40 |
+| Lobby ID | 28612654520836663 |
+| Players | 3/10 |
+| Host Name | Br0ker |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:34:36 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654520284124 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | sympathy |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:33:36 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:34:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654520612818 |
-| Players | 2/8 |
-| Host Name | бассейн с детьми |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:34:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654520836663 |
-| Players | 2/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:34:36 |
+| Lobby ID | 28612654521017771 |
+| Players | 4/10 |
+| Host Name | MeDuMiZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:34:55 |
 
 
 |  | epic_boss_fight_nightmare |
