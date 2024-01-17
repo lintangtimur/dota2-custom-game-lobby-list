@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654457531070 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Out of matrix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:31:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654457800253 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Explorer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:06 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654457961623 |
+| Players | 1/15 |
+| Host Name | эщкере |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:32:26 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654456066144 |
@@ -67,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654456159712 |
-| Players | 9/10 |
-| Host Name | Harakiri Squad |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:28:44 |
+| Lobby ID | 28612654457329513 |
+| Players | 2/10 |
+| Host Name | Balalaika |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:31:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | в ресурсе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654457329513 |
-| Players | 2/10 |
-| Host Name | Balalaika |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:31:09 |
 
 
