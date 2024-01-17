@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654457825116 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Метаморфоза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654456430299 |
-| Players | 20/24 |
-| Host Name | Kieran |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:29:18 |
+| Lobby ID | 28612654458898503 |
+| Players | 1/8 |
+| Host Name | lose then? lose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:34:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654458747106 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | User |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:34:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654458898503 |
-| Players | 1/8 |
-| Host Name | lose then? lose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:34:21 |
+| Lobby ID | 28612654459300232 |
+| Players | 3/24 |
+| Host Name | Somin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:35:11 |
 
 
 |  | epic_boss_fight_nightmare |
