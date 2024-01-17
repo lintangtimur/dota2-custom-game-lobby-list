@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654517927481 |
-| Players | 14/15 |
-| Host Name | ayawaska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:29:21 |
+| Lobby ID | 28612654518108600 |
+| Players | 7/10 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:29:40 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654518108600 |
-| Players | 5/10 |
-| Host Name | Leonidas |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:29:40 |
+| Lobby ID | 28612654519476497 |
+| Players | 3/15 |
+| Host Name | mnz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:32:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654519502238 |
+| Players | 4/8 |
+| Host Name | я в деле |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:32:12 |
 
 
 |  | epic_boss_fight_nightmare |
