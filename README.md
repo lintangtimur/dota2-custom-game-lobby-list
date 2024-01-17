@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539907419 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Umber |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654543681903 |
-| Players | 2/15 |
-| Host Name | жирный уёбок |
+| Players | 4/15 |
+| Host Name | Cypher |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:14:55 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654543644279 |
-| Players | 7/8 |
-| Host Name | сургутский демон |
+| Lobby ID | 28612654543898972 |
+| Players | 2/10 |
+| Host Name | CMEKAЛИCTЫЙ HAE6 MAKAKИ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:14:51 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:15:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654543875407 |
+| Lobby ID | 28612654543974620 |
 | Players | 1/8 |
-| Host Name | Сухарик |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:15:14 |
+| Host Name | Разрушитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:15:24 |
 
 
 |  | epic_boss_fight_challenger |
