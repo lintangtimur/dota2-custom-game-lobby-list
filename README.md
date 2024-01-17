@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654466904145 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Chimuelo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654464041165 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:45:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654466550265 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:07 |
@@ -92,21 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:52:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654468045903 |
+| Players | 2/8 |
+| Host Name | молоток |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:53:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654468085534 |
+| Players | 1/15 |
+| Host Name | 1 dmg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:53:10 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654467977046 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 马穆特*拉哈尔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:52:57 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654467987348 |
-| Players | 1/7 |
-| Host Name | GordeyeV_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:52:58 |
+| Lobby ID | 28612654468031811 |
+| Players | 1/10 |
+| Host Name | Dndama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:53:03 |
 
 
