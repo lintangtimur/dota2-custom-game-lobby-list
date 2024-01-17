@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:23:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654454232844 |
-| Players | 14/15 |
-| Host Name | Tired |
+| Lobby ID | 28612654455103524 |
+| Players | 2/10 |
+| Host Name | 3:15 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:24:44 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:26:32 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:25:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654455103524 |
-| Players | 2/10 |
-| Host Name | 3:15 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:26:32 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654451591528 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Dome_Cheshire4Life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:19:07 |
