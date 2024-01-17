@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654561079258 |
-| Players | 22/24 |
-| Host Name | 123 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:43:24 |
+| Lobby ID | 28612654561916644 |
+| Players | 2/8 |
+| Host Name | per aspera ad astra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654561284099 |
-| Players | 14/15 |
-| Host Name | pHaraa9 |
+| Lobby ID | 28612654562127274 |
+| Players | 3/15 |
+| Host Name | Зима в сердце |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:43:44 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:45:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654561177769 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | mode: 2022 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:43:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654561916644 |
-| Players | 2/8 |
-| Host Name | per aspera ad astra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:44:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654562127274 |
-| Players | 3/15 |
-| Host Name | Зима в сердце |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:04 |
 
 
 |  | epic_boss_fight_normal |
