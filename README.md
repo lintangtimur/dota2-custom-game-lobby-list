@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654517284365 |
-| Players | 1/15 |
-| Host Name | Shano0o03 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:28:10 |
+| Lobby ID | 28612654517789642 |
+| Players | 1/10 |
+| Host Name | Токсичный ворон |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:29:06 |
 
 
 |  | ot3_gardens_duo |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654517417367 |
-| Players | 8/15 |
-| Host Name | Swimmerfrog |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:28:25 |
+| Lobby ID | 28612654517913242 |
+| Players | 1/15 |
+| Host Name | buboy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:29:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654517710502 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | BOBO JESUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:28:57 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gusyara |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654517789642 |
-| Players | 1/10 |
-| Host Name | Токсичный ворон |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:29:06 |
 
 
 |  | epic_boss_fight_nightmare |
