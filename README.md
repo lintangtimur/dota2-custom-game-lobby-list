@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654461219283 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Gonarch |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:16 |
@@ -23,26 +23,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654461457159 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | All egg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654458628387 |
-| Players | 23/24 |
-| Host Name | BlackShooter |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:33:48 |
+| Lobby ID | 28612654461609175 |
+| Players | 5/15 |
+| Host Name | sa†_Hite |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:40:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654460360122 |
-| Players | 2/8 |
-| Host Name | Prays-dead inside |
+| Players | 1/8 |
+| Host Name | an |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:37:24 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654458898503 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | lose then? lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:34:21 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | olexanderkrasiukbinance |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654461609175 |
-| Players | 2/15 |
-| Host Name | sa†_Hite |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:40:04 |
 
 
 |  | epic_boss_fight_nightmare |
