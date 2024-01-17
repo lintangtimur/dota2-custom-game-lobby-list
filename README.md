@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654549636481 |
-| Players | 5/10 |
-| Host Name | северное сияние |
+| Players | 1/10 |
+| Host Name | h8 my lif333)) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:24:48 |
 
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:25:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654550029189 |
-| Players | 6/8 |
-| Host Name | CRIMSON™ |
+| Lobby ID | 28612654550635721 |
+| Players | 5/15 |
+| Host Name | Нет, блять, Pavshiy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:25:26 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:26:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:54 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28612654550587545 |
-| Players | 2/7 |
-| Host Name | денис |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:26:21 |
 
 
