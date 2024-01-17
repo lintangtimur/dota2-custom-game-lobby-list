@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:04:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654474483290 |
-| Players | 13/15 |
-| Host Name | КЧАУ |
+| Lobby ID | 28612654474939601 |
+| Players | 2/8 |
+| Host Name | let's forget the past |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:05:56 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:06:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654474842417 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | рокаю баленсиагу2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:06:40 |
