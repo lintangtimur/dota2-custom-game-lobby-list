@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654510312605 |
-| Players | 11/15 |
-| Host Name | AnJeeekwOw~ |
+| Lobby ID | 28612654511344788 |
+| Players | 4/10 |
+| Host Name | smile |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:17:11 |
 
 
 |  | ot3_gardens_duo |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654510278815 |
-| Players | 4/8 |
-| Host Name | Виджен |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:15:13 |
+| Lobby ID | 28612654511359968 |
+| Players | 1/24 |
+| Host Name | Nino |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:17:13 |
 
 
 |  | ot3_gardens_duo |
