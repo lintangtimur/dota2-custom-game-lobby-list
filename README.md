@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654458628387 |
-| Players | 8/24 |
+| Players | 4/24 |
 | Host Name | BlackShooter |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:33:48 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28612654458664823 |
 | Players | 2/8 |
-| Host Name | Zoro |
+| Host Name | Птицы идут |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:33:53 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654458747106 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | User |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:34:03 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lose then? lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:34:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654459132195 |
+| Players | 5/15 |
+| Host Name | Elga Tito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:34:50 |
 
 
 |  | epic_boss_fight_nightmare |
