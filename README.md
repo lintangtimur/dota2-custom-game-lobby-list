@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:45:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654565513253 |
-| Players | 7/10 |
-| Host Name | xxx |
+| Lobby ID | 28612654566038897 |
+| Players | 2/8 |
+| Host Name | шпигуняка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:50:26 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:51:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654565906572 |
-| Players | 10/15 |
-| Host Name | Лучший среди худш |
+| Lobby ID | 28612654566098792 |
+| Players | 1/24 |
+| Host Name | equilibrium |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:03 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:51:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654562006700 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Stars |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
