@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654565167893 |
-| Players | 6/10 |
-| Host Name | Zod1ac_AV |
+| Lobby ID | 28612654565153357 |
+| Players | 4/8 |
+| Host Name | Маккарті |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:49:53 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:49:52 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654564468133 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Дмитрий минер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:48:46 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Evoroni |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:49:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654565153357 |
-| Players | 2/8 |
-| Host Name | Маккарті |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:49:52 |
 
 
 |  | epic_boss_fight_normal |
