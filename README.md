@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654536160025 |
-| Players | 6/8 |
-| Host Name | PUSHQ.A.Get up |
+| Lobby ID | 28612654536837655 |
+| Players | 4/15 |
+| Host Name | Kapa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:01:52 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:03:02 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654533599564 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Solyuigry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:57:23 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Skillz0r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:58:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654536236897 |
-| Players | 11/15 |
-| Host Name | Pussy Destroyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:02:00 |
 
 
 |  | ot3_desert_octet |
