@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654533599564 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Solyuigry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:57:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654537462559 |
-| Players | 14/15 |
-| Host Name | Bruizah |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:04:06 |
+| Lobby ID | 28612654538093237 |
+| Players | 5/8 |
+| Host Name | all muted |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:05:12 |
 
 
 |  | ot3_gardens_duo |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HarBonDioxide |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:02:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654537482230 |
-| Players | 1/5 |
-| Host Name | бойцовский хуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:04:09 |
 
 
