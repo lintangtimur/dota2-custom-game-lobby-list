@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654458664823 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Птицы идут |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:33:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654459643739 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | nando |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:35:53 |
