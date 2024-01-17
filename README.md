@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654548052552 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654547390604 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:21:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654549878874 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | .nl |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:25:12 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:25:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654550220424 |
-| Players | 3/15 |
-| Host Name | 1ava |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:25:45 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654547939049 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654548491545 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:54 |
