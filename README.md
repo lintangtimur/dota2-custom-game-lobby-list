@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654461434037 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654463020049 |
-| Players | 12/15 |
-| Host Name | Panteon |
+| Lobby ID | 28612654462269036 |
+| Players | 8/10 |
+| Host Name | Visage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:42:56 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:41:26 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654463581293 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:44:05 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654464041165 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:45:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654463441618 |
-| Players | 1/10 |
-| Host Name | san~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:43:48 |
 
 
