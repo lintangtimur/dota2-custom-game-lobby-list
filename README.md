@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654539027656 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | S1ko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:50 |
@@ -20,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654538987804 |
-| Players | 9/10 |
-| Host Name | EdgeRunner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654538745742 |
-| Players | 6/24 |
-| Host Name | ให้กุกลางเท่ากับวิน |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654539357245 |
@@ -47,10 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:07:25 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654538745742 |
+| Players | 5/24 |
+| Host Name | ให้กุกลางเท่ากับวิน |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:06:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654539815004 |
+| Players | 1/10 |
+| Host Name | I dn't mad |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:08:16 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654539253521 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | DDR3 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:07:14 |
