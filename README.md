@@ -47,30 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:33:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654520037773 |
-| Players | 12/15 |
-| Host Name | свиньяебаная |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:33:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654520612818 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Canvasz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:34:11 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654520663843 |
-| Players | 2/5 |
-| Host Name | cheesepomidore |
+| Lobby ID | 28612654520775087 |
+| Players | 1/10 |
+| Host Name | Spons | <3 only 1 pos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:34:17 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:34:29 |
 
 
