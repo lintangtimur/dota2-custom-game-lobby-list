@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654504829624 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | gokereezz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:07 |
@@ -40,26 +40,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654506093387 |
+| Lobby ID | 28612654506092753 |
 | Players | 1/8 |
-| Host Name | WAYNE |
-| Region | DUBAI |
+| Host Name | Fat fingers |
+| Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654504995073 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | アイシテル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:25 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654504867637 |
+| Players | 4/8 |
+| Host Name | [SOLO]  seler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:05:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654505926308 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:09 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 马穆特*拉哈尔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654506168636 |
+| Players | 1/5 |
+| Host Name | Hizashi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:07:37 |
 
 
