@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654475946160 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Leer es para idiotas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654477618884 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:12:16 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654477529982 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Агент габена |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:12:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654477985334 |
-| Players | 1/15 |
-| Host Name | ING. THE REAL SLIM SHADY |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:12:59 |
 
 
 |  | epic_boss_fight_nightmare |
