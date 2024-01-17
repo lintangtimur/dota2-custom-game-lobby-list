@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654469233812 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | OTZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:55:30 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654468085534 |
-| Players | 13/15 |
-| Host Name | 1 dmg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:53:10 |
+| Lobby ID | 28612654469542225 |
+| Players | 1/15 |
+| Host Name | Egoisto |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:56:07 |
 
 
 |  | ot3_gardens_duo |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654466283126 |
-| Players | 5/8 |
-| Host Name | Zod1ac_AV |
+| Lobby ID | 28612654469203221 |
+| Players | 3/8 |
+| Host Name | iluminat_220 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:49:35 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:55:26 |
 
 
 |  | ot3_desert_octet |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654468962879 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | 知性と偉大さ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:54:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654469203221 |
-| Players | 3/8 |
-| Host Name | iluminat_220 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:55:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654469436486 |
-| Players | 1/15 |
-| Host Name | Egoisto |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:55:54 |
 
 
 |  | epic_boss_fight_nightmare |
