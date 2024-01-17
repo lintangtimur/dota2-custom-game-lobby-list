@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654516762814 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:27:12 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Swimmerfrog |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:28:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654513963367 |
+| Players | 23/24 |
+| Host Name | T.T |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:22:02 |
 
 
 |  | epic_boss_fight_nightmare |
