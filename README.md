@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:19:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654481624244 |
-| Players | 3/8 |
-| Host Name | Fav |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:20:06 |
+| Lobby ID | 28612654481703813 |
+| Players | 1/15 |
+| Host Name | Вторым днем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:20:15 |
 
 
 |  | epic_boss_fight_nightmare |
