@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654466904145 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Chimuelo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654466550265 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654464962819 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:46:54 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Черный динозавр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654467080432 |
+| Players | 5/8 |
+| Host Name | Anakin Skywrath |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:51:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654467130359 |
+| Players | 2/24 |
+| Host Name | ЯНА МЕФЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:51:16 |
 
 
 |  | epic_boss_fight_nightmare |
