@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654461434037 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EBF MASTER - NAIX AFK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654462675338 |
+| Players | 1/5 |
+| Host Name | 2945819566 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:42:15 |
 
 
