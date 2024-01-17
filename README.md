@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654568146701 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | S A T O R U |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:54:30 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:54:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654568944803 |
-| Players | 2/8 |
-| Host Name | насвай |
+| Lobby ID | 28612654569011294 |
+| Players | 4/10 |
+| Host Name | Thawne |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:55:43 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:55:49 |
 
 
 |  | ot3_gardens_duo |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654568916820 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:55:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654569011294 |
-| Players | 2/10 |
-| Host Name | Thawne |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:55:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:52:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654568762815 |
-| Players | 1/5 |
-| Host Name | troffi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:55:26 |
 
 
