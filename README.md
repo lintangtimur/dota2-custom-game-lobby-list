@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654483286569 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | jerico sl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:23:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:31:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654488259859 |
-| Players | 1/15 |
-| Host Name | XDD |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:33:15 |
+| Lobby ID | 28612654488456790 |
+| Players | 6/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:33:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | escapist PRIME 666 雨  |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:33:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654486165476 |
+| Players | 14/15 |
+| Host Name | Leha Lining |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:29:10 |
 
 
 |  | epic_boss_fight_nightmare |
