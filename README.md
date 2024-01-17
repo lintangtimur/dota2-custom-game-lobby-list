@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654484652666 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ICNTOTFS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:26:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654486165476 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Leha Lining |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:29:10 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654485652982 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654486583658 |
+| Players | 2/8 |
+| Host Name | Nugget |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:30:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654483742860 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dndama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:24:21 |
@@ -72,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:27 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28612654486479827 |
-| Players | 2/7 |
-| Host Name | chocolat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:29:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654486497471 |
-| Players | 2/5 |
-| Host Name | стук шагов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:29:49 |
 
 
