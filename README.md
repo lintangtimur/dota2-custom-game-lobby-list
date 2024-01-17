@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654559939915 |
-| Players | 13/15 |
-| Host Name | -iV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:41:34 |
+| Lobby ID | 28612654558869316 |
+| Players | 6/24 |
+| Host Name | Jing |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654559673863 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Maratik |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:41:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654558869316 |
-| Players | 5/24 |
-| Host Name | Jing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
+| Lobby ID | 28612654560171153 |
+| Players | 3/15 |
+| Host Name | mellorn |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:41:57 |
 
 
 |  | epic_boss_fight_nightmare |
