@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654475880694 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Uncle Joseph |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654475737637 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | sinnata00 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:31 |
