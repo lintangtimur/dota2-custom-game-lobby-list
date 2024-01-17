@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654527816310 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:47:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654527690074 |
-| Players | 7/10 |
-| Host Name | Novalil Govna |
+| Lobby ID | 28612654528026243 |
+| Players | 1/8 |
+| Host Name | пивной шарик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:47:00 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:47:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654527885360 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | no depression |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:47:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654527334103 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Made in heaven |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:22 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HotsyTotsy80s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654526672105 |
+| Players | 9/10 |
+| Host Name | san~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:45:11 |
 
 
