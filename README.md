@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539907419 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Umber |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654543681903 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | жирный уёбок |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:14:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654541804926 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:46 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654543644279 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | сургутский демон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:14:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654543823736 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:15:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654543875407 |
+| Players | 1/8 |
+| Host Name | Сухарик |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:15:14 |
 
 
 |  | epic_boss_fight_challenger |
@@ -77,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654541529555 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | eat! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654542650517 |
-| Players | 1/5 |
-| Host Name | carlos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:13:13 |
 
 
 |  | epic_boss_fight_nightmare |
