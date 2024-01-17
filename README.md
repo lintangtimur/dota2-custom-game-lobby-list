@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654470810553 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | BiuBiu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:58:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654478662040 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:14:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654477618884 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:12:16 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654478331587 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | mint |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:13:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654478277197 |
-| Players | 9/10 |
-| Host Name | Bsl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:13:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654478852263 |
-| Players | 4/15 |
-| Host Name | diediedie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:14:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,5 +54,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Balls of steel (4pos) |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:14:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654478852263 |
+| Players | 5/15 |
+| Host Name | diediedie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:14:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654475946160 |
+| Players | 6/10 |
+| Host Name | Annette |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654478987843 |
+| Players | 1/15 |
+| Host Name | 1 dmg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:14:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654478985117 |
+| Players | 1/10 |
+| Host Name | Stu |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:14:54 |
 
 
