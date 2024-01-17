@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:58:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654475498185 |
-| Players | 4/8 |
-| Host Name | CrazyCherryJam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:08:00 |
+| Lobby ID | 28612654475798215 |
+| Players | 1/15 |
+| Host Name | эщкере |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:08:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654475706553 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | Mruno Bars |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:27 |
