@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654483320807 |
-| Players | 12/15 |
-| Host Name | sonic |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:23:30 |
+| Lobby ID | 28612654483503513 |
+| Players | 3/15 |
+| Host Name | Red-owl™ |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:23:52 |
 
 
 |  | ot3_gardens_duo |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654483396868 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:23:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654483503513 |
-| Players | 3/15 |
-| Host Name | Red-owl™ |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:23:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dndama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:24:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654484401217 |
+| Players | 2/5 |
+| Host Name | стук шагов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:25:39 |
 
 
