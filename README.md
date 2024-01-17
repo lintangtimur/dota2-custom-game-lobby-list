@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:21:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654548472463 |
-| Players | 7/10 |
-| Host Name | Васянович Младши |
+| Lobby ID | 28612654548811663 |
+| Players | 3/15 |
+| Host Name | гей лжец |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:22:52 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:23:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EDX |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654548811663 |
-| Players | 2/15 |
-| Host Name | гей лжец |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:23:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654548973460 |
+| Players | 1/5 |
+| Host Name | JustKillMeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:23:42 |
 
 
