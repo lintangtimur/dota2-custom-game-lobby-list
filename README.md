@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654532247308 |
-| Players | 14/15 |
-| Host Name | Жириновский.В.В |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:55:01 |
+| Lobby ID | 28612654533209809 |
+| Players | 1/15 |
+| Host Name | UnPlayEd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:56:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:56:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654533209809 |
-| Players | 1/15 |
-| Host Name | UnPlayEd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:56:42 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654529940703 |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654533240025 |
-| Players | 1/5 |
-| Host Name | KENnyJIN |
+| Lobby ID | 28612654533286566 |
+| Players | 1/10 |
+| Host Name | 咬人猫 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:56:45 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:56:50 |
 
 
