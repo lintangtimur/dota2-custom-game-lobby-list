@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654559939915 |
-| Players | 1/15 |
+| Players | 13/15 |
 | Host Name | -iV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:41:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654559673863 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Maratik |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:41:08 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | водитель по губам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654559796588 |
-| Players | 1/5 |
-| Host Name | kirhuawei2010 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:41:20 |
 
 
