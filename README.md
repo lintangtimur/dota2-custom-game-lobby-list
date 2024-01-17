@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654565684340 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | kuromueina~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:50:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654567509809 |
-| Players | 6/8 |
-| Host Name | ЕБАЛО ОФНИ,ПЕНСИЯ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:53:31 |
+| Lobby ID | 28612654567262558 |
+| Players | 7/10 |
+| Host Name | северное сияние |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:53:08 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:52:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654567146798 |
-| Players | 12/15 |
-| Host Name | Dr. Johansson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:52:58 |
+| Lobby ID | 28612654567770024 |
+| Players | 1/8 |
+| Host Name | 3Strix |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:53:55 |
 
 
 |  | ot3_desert_octet |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:53:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654567262558 |
-| Players | 7/10 |
-| Host Name | северное сияние |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:53:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654567689551 |
-| Players | 2/8 |
-| Host Name | Никита Мефедрон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:53:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654563150084 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:46:41 |
