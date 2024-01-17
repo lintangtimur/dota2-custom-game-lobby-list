@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654481228420 |
-| Players | 2/8 |
-| Host Name | Devil |
+| Lobby ID | 28612654481426200 |
+| Players | 4/10 |
+| Host Name | RealBoy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:19:19 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:19:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,11 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654481426200 |
-| Players | 1/10 |
-| Host Name | RealBoy |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:19:42 |
+| Lobby ID | 28612654481483555 |
+| Players | 4/10 |
+| Host Name | MeDuMiZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:19:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654481515407 |
+| Players | 3/8 |
+| Host Name | The foxsik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:19:53 |
 
 
 |  | epic_boss_fight_nightmare |
