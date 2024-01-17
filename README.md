@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654539907419 |
-| Players | 12/15 |
-| Host Name | Umber |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
+| Lobby ID | 28612654545012475 |
+| Players | 4/10 |
+| Host Name | Dracul |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:17:09 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654543823736 |
-| Players | 12/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
+| Lobby ID | 28612654545555634 |
+| Players | 1/8 |
+| Host Name | moon |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:15:09 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:18:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 就这er ??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654545012475 |
-| Players | 3/10 |
-| Host Name | Dracul |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:17:09 |
 
 
 |  | epic_boss_fight_nightmare |
