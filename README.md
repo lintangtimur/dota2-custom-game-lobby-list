@@ -23,19 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654513891687 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | mc mc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:21:54 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654514379020 |
+| Players | 2/10 |
+| Host Name | Big Russian Smurf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:22:47 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654514308162 |
-| Players | 1/8 |
-| Host Name | 4 |
+| Lobby ID | 28612654514361593 |
+| Players | 5/8 |
+| Host Name | PrimRose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:22:39 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:22:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654513749410 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ( °Д°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:21:39 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654513955995 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:22:01 |
