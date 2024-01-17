@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654532072197 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Flare |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:54:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654529013059 |
-| Players | 23/24 |
-| Host Name | Interesting_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:49:20 |
 
 
 |  | ot3_gardens_duo |
@@ -45,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:53:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654532188866 |
+| Players | 2/24 |
+| Host Name | xJw |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:54:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654532247308 |
+| Players | 1/15 |
+| Host Name | Жириновский.В.В |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:55:01 |
 
 
 |  | epic_boss_fight_normal |
