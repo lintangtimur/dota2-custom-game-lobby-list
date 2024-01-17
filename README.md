@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654504867637 |
-| Players | 5/8 |
-| Host Name | [SOLO]  seler |
+| Lobby ID | 28612654505246921 |
+| Players | 6/10 |
+| Host Name | maron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:05:11 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:05:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654505246921 |
-| Players | 5/10 |
-| Host Name | maron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:05:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654502637473 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Frieren <3 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:01:03 |
