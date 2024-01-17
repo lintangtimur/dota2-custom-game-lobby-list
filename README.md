@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654470438254 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | 苍蝇 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:57:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654469693508 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:56:25 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:00:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654472060423 |
-| Players | 3/15 |
-| Host Name | Philippians 4:13 |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:01:08 |
+| Lobby ID | 28612654472134819 |
+| Players | 1/8 |
+| Host Name | Seb |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:01:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HiperusX |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:59:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654472147666 |
+| Players | 1/10 |
+| Host Name | ¡¡°☛ Run If YoU CaN☚シ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:01:19 |
 
 
