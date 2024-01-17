@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654444318342 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | autism |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:03:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654441766413 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Talento Nada |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 13:57:40 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654445436828 |
+| Lobby ID | 28612654445619539 |
 | Players | 1/8 |
-| Host Name | Golden Experience FB |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:05:33 |
+| Host Name | Пивное Пузо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:05:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,30 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:05:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654445619539 |
-| Players | 1/8 |
-| Host Name | Пивное Пузо |
+| Lobby ID | 28612654445722376 |
+| Players | 1/10 |
+| Host Name | ŧɇNf๘łĐ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:05:57 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:06:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654445741399 |
+| Players | 1/15 |
+| Host Name | Ame |
+| Region | Unknown |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:06:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654444215112 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | อาโคย...แข็ง |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:02:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654445657289 |
-| Players | 1/5 |
-| Host Name | POTAtopatata |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:06:02 |
 
 
