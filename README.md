@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654535409145 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | shichibukai |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:00:34 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654536236897 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Pussy Destroyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:02:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654534907488 |
-| Players | 13/15 |
-| Host Name | estriper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:59:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654536533320 |
-| Players | 1/24 |
+| Lobby ID | 28612654536587210 |
+| Players | 2/24 |
 | Host Name | Mruno Bars |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:02:31 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:02:36 |
 
 
 |  | epic_boss_fight_normal |
