@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654535466171 |
-| Players | 12/15 |
-| Host Name | EXIT |
+| Lobby ID | 28612654535895340 |
+| Players | 8/10 |
+| Host Name | северное сияние |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:00:40 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:01:25 |
 
 
 |  | ot3_gardens_duo |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654533599564 |
-| Players | 6/10 |
-| Host Name | x |
+| Players | 3/10 |
+| Host Name | UultamatI.RP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:57:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654535895340 |
-| Players | 6/10 |
-| Host Name | северное сияние |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:01:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654536095023 |
+| Players | 1/5 |
+| Host Name | FinepooL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:01:45 |
 
 
