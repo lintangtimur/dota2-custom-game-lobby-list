@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654475946160 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Leer es para idiotas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654477618884 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:12:16 |
@@ -47,21 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:11:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654477529982 |
-| Players | 13/15 |
-| Host Name | Агент габена |
+| Lobby ID | 28612654478277197 |
+| Players | 2/10 |
+| Host Name | Bsl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:12:06 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:13:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654476491085 |
-| Players | 1/10 |
+| Lobby ID | 28612654478313343 |
+| Players | 1/5 |
 | Host Name | Nyanko |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:10:03 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:13:35 |
 
 
