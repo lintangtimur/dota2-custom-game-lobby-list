@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28612654452164792 |
 | Players | 2/8 |
-| Host Name | trb. |
+| Host Name | Атакуээшн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:21 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654452193959 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:25 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654452265876 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | quintanaluisarmando1 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654452404231 |
+| Players | 2/8 |
+| Host Name | RED MODE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:20:52 |
 
 
 |  | epic_boss_fight_nightmare |
