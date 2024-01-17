@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654527816310 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:47:13 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654527885360 |
-| Players | 4/15 |
-| Host Name | no depression |
+| Players | 9/15 |
+| Host Name | Byratino |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:47:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654528264645 |
-| Players | 1/15 |
-| Host Name | 热烈的马 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:48:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654528267908 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | We Are Electric |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:48:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654527297711 |
+| Players | 7/8 |
+| Host Name | КОММЕРС |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HotsyTotsy80s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654526672105 |
-| Players | 9/10 |
-| Host Name | san~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:45:11 |
 
 
 |  | epic_boss_fight_normal |
