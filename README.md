@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654490557704 |
-| Players | 7/8 |
-| Host Name | BBIIGG!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:37:48 |
+| Lobby ID | 28612654491319462 |
+| Players | 10/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:39:22 |
 
 
 |  | ot3_gardens_duo |
@@ -40,29 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654491280338 |
-| Players | 12/15 |
-| Host Name | Reddirec |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:39:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28612654491280328 |
 | Players | 1/15 |
 | Host Name | Reagent- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:39:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654491319462 |
-| Players | 10/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:39:22 |
 
 
 |  | epic_boss_fight_nightmare |
