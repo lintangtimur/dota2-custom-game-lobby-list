@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654509820792 |
-| Players | 7/10 |
-| Host Name | Bobo |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:14:22 |
+| Lobby ID | 28612654510312605 |
+| Players | 7/15 |
+| Host Name | AnJeeekwOw~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654510315625 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:15:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654510312605 |
-| Players | 5/15 |
-| Host Name | AnJeeekwOw~ |
+| Lobby ID | 28612654510721826 |
+| Players | 2/10 |
+| Host Name |  |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654510586279 |
-| Players | 1/24 |
-| Host Name | Vale |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:15:47 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:16:02 |
 
 
 |  | epic_boss_fight_normal |
