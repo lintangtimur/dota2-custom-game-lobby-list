@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654483503513 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Red-owl™ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:23:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654485838907 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CumHere |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654486165476 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Leha Lining |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:29:10 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654485652982 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654486583658 |
-| Players | 2/8 |
-| Host Name | Nugget |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:30:00 |
 
 
 |  | epic_boss_fight_nightmare |
