@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654508875212 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | noob 2.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:12:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654509377255 |
-| Players | 7/10 |
-| Host Name | Roka Shnel 🏴‍☠ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:13:34 |
 
 
 |  | ot3_jungle_quintet |
