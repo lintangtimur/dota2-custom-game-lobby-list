@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:50:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654562287036 |
-| Players | 23/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:19 |
+| Lobby ID | 28612654566239569 |
+| Players | 6/15 |
+| Host Name | Задоджил завод |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:51:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654566038897 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | шпигуняка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:51:16 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654566239569 |
-| Players | 2/15 |
-| Host Name | Задоджил завод |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:34 |
+| Lobby ID | 28612654566340245 |
+| Players | 1/15 |
+| Host Name | GlueEater9000 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:51:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:46:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654562006700 |
-| Players | 9/10 |
-| Host Name | Stars |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
 
 
