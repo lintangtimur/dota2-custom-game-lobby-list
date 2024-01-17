@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654555447633 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:34:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654558032635 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | SosiskaKiller228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:38:25 |
@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654557978496 |
-| Players | 9/10 |
-| Host Name | Смегмаед |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:38:20 |
+| Lobby ID | 28612654558202623 |
+| Players | 7/10 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:38:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654558169186 |
+| Lobby ID | 28612654558270287 |
 | Players | 2/8 |
-| Host Name | Idleglance |
+| Host Name | Mira ~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:38:39 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:38:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654556482443 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Godbless |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:35:51 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LakerS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:38:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654547939049 |
+| Players | 9/10 |
+| Host Name | Helb |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:22:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654558280869 |
+| Players | 1/5 |
+| Host Name | водитель по губам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:38:50 |
 
 
