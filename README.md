@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654533204473 |
-| Players | 7/8 |
-| Host Name | no reason to smile |
+| Lobby ID | 28612654533902078 |
+| Players | 2/10 |
+| Host Name | Br0ker |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:56:42 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:57:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654482269898 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654532188866 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:54:55 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:56:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654533508543 |
-| Players | 12/15 |
-| Host Name | [DD] Дet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:57:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654533902078 |
-| Players | 2/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:57:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654529013059 |
-| Players | 23/24 |
-| Host Name | Interesting_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:49:20 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654529940703 |
@@ -108,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654534108572 |
-| Players | 1/5 |
-| Host Name | kirhuawei2010 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:58:16 |
 
 
