@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654517789642 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Токсичный ворон |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654517929743 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ロームルス 666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654518029489 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654518108600 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:40 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654517710502 |
+| Players | 7/8 |
+| Host Name | BOBO JESUS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:28:57 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654518361041 |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654518418502 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Halucard |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:30:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654518511858 |
+| Players | 2/10 |
+| Host Name | HiperusX |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:30:25 |
 
 
