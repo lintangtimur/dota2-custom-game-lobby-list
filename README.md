@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654457825116 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Метаморфоза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:09 |
@@ -56,30 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:35:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654459497564 |
-| Players | 1/15 |
-| Host Name | rdn* |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:35:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654458196836 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654459481682 |
-| Players | 2/5 |
-| Host Name | Priimakk |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:35:33 |
 
 
