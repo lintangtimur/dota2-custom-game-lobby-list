@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654448452409 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Хермеус Жора |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:12:18 |
@@ -56,21 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:04:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654448613036 |
-| Players | 2/8 |
-| Host Name | Devil |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:12:40 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654448619713 |
+| Lobby ID | 28612654448647293 |
 | Players | 2/15 |
-| Host Name | Neoxa.[Constantine] |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:12:41 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:12:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654448707907 |
+| Players | 1/5 |
+| Host Name | Dome_Cheshire4Life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:12:53 |
 
 
