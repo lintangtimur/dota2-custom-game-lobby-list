@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654551313976 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | boss dave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:27:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654548052552 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654541804926 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | ~МℛSinisteℛ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:46 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654551589267 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Drakenus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:27:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654551691811 |
+| Players | 1/8 |
+| Host Name | muchacho |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:28:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spartacus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654551442387 |
-| Players | 1/5 |
-| Host Name | Noxious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:27:44 |
 
 
 |  | epic_boss_fight_nightmare |
