@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654479843097 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:16:34 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chemodan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654482159337 |
-| Players | 6/8 |
-| Host Name | Panda |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:21:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | зубодробитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:22:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654482755569 |
+| Players | 1/5 |
+| Host Name | STSDivine01 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:22:22 |
 
 
