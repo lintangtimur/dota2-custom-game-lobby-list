@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654491319462 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:39:22 |
@@ -20,40 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654494128439 |
-| Players | 14/15 |
-| Host Name | Yatollapse |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654497151098 |
-| Players | 7/10 |
-| Host Name | animal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:50:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654497204489 |
-| Players | 12/15 |
-| Host Name | свиньяебаная |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:50:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654493566200 |
-| Players | 1/15 |
-| Host Name | Sheeeeshhh! |
+| Lobby ID | 28612654493676941 |
+| Players | 23/24 |
+| Host Name | Yellow Mustard |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654497769559 |
+| Players | 4/8 |
+| Host Name | kokojambo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:51:52 |
 
 
 |  | ot3_desert_octet |
@@ -65,37 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:51:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654493676941 |
-| Players | 22/24 |
-| Host Name | Yellow Mustard |
+| Lobby ID | 28612654493566200 |
+| Players | 1/15 |
+| Host Name | Sheeeeshhh! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654497699978 |
-| Players | 2/8 |
-| Host Name | kokojambo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:51:44 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28612654497697558 |
-| Players | 3/7 |
-| Host Name | денис |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:51:44 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654495551956 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Kawasaki |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:47:41 |
@@ -103,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654497716309 |
-| Players | 1/5 |
+| Lobby ID | 28612654497785633 |
+| Players | 3/5 |
 | Host Name | ЧихуяХуёныш |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:51:46 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:51:54 |
 
 
