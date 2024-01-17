@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654517927481 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | ayawaska |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654518013027 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:30 |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654518418502 |
-| Players | 8/10 |
-| Host Name | VURP |
+| Lobby ID | 28612654519208478 |
+| Players | 1/10 |
+| Host Name | Mawen |
 | Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:30:14 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:31:41 |
 
 
