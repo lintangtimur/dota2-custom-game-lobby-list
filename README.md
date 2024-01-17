@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654549878874 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | JNarah |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:25:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654549969229 |
+| Players | 3/15 |
+| Host Name | 1ava |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:25:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654549983312 |
+| Players | 1/8 |
+| Host Name | tengxtsu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:25:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,28 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654547390118 |
-| Players | 9/10 |
-| Host Name | อย่ายั่ว |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:21:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28612654548491545 |
 | Players | 5/10 |
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654549836633 |
-| Players | 1/5 |
-| Host Name | Si-4 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:25:08 |
 
 
