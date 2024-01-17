@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654527297711 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | КОММЕРС |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:18 |
@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654527400749 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Renato Tala |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654526672105 |
-| Players | 8/10 |
-| Host Name | san~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:45:11 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28612654527231069 |
-| Players | 2/7 |
-| Host Name | HotsyTotsy80s |
+| Lobby ID | 28612654527661529 |
+| Players | 1/10 |
+| Host Name | Bsl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Made in heaven |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:22 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28612654527231069 |
+| Players | 2/7 |
+| Host Name | HotsyTotsy80s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
 
 
