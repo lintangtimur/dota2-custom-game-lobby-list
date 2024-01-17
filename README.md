@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654493676941 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654493566200 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Sheeeeshhh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654493180273 |
-| Players | 9/10 |
-| Host Name | อย่ายั่ว |
+| Lobby ID | 28612654494473068 |
+| Players | 1/10 |
+| Host Name | Sakazuki |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:43:05 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:45:37 |
 
 
