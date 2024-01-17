@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654449875797 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:15:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654449966691 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | BOJLWE6CТВО |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:15:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654450532736 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Lama |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:16:49 |
@@ -41,16 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654449646890 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:14:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654451045242 |
+| Players | 1/15 |
+| Host Name | Educated Saiyan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:17:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654450410303 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:16:33 |
