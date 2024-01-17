@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654451599631 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | girls in yellow |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:19:08 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654451596730 |
-| Players | 7/8 |
-| Host Name | 4quarantaquattro4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:19:08 |
+| Lobby ID | 28612654452033522 |
+| Players | 6/8 |
+| Host Name | Splaza |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:20:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654435602953 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | _Ferxxo_ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 13:43:50 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654451982775 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:19:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654449875797 |
-| Players | 14/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:15:23 |
+| Lobby ID | 28612654452111942 |
+| Players | 1/8 |
+| Host Name | dissonanxe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:20:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654450410303 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GreShnik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:16:33 |
