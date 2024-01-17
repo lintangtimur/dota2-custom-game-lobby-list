@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:58:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654535669828 |
-| Players | 1/24 |
-| Host Name | Mruno Bars |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:01:02 |
+| Lobby ID | 28612654536236897 |
+| Players | 5/15 |
+| Host Name | Pussy Destroyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:02:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654536236897 |
-| Players | 3/15 |
-| Host Name | Pussy Destroyer |
+| Lobby ID | 28612654534907488 |
+| Players | 13/15 |
+| Host Name | estriper |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:02:00 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:59:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654536533320 |
+| Players | 1/24 |
+| Host Name | Mruno Bars |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:02:31 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654536426919 |
-| Players | 1/5 |
-| Host Name | taymat4896584 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:02:20 |
 
 
