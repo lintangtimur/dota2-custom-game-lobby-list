@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654452033522 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Splaza |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:04 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:23:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654450410303 |
-| Players | 9/10 |
-| Host Name | GreShnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:16:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654451591528 |
-| Players | 1/5 |
-| Host Name | Dome_Cheshire4Life |
+| Lobby ID | 28612654453720078 |
+| Players | 6/24 |
+| Host Name | POM |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:19:07 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:23:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654453744616 |
+| Players | 3/8 |
+| Host Name | Sköll |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:23:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654451591528 |
+| Players | 1/5 |
+| Host Name | Dome_Cheshire4Life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:19:07 |
 
 
