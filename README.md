@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654526620194 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | meateatergirl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:45:06 |
@@ -20,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654527006278 |
-| Players | 9/15 |
-| Host Name | Fillanse |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:45:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654527267810 |
-| Players | 6/8 |
-| Host Name | Da Ve |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:46:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654527297711 |
@@ -47,19 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654527308673 |
-| Players | 4/8 |
-| Host Name | Лесной бро 1 |
+| Lobby ID | 28612654527400749 |
+| Players | 2/15 |
+| Host Name | Renato Tala |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:46:19 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654527445479 |
+| Players | 1/15 |
+| Host Name | Sōsuke Aizen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654526672105 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:45:11 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28612654527231069 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | HotsyTotsy80s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
