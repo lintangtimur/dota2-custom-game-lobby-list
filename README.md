@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654517132619 |
-| Players | 7/8 |
-| Host Name | Flare |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:27:53 |
+| Lobby ID | 28612654517284365 |
+| Players | 1/15 |
+| Host Name | Shano0o03 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:28:10 |
 
 
 |  | ot3_gardens_duo |
@@ -31,20 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654517284365 |
-| Players | 1/15 |
-| Host Name | Shano0o03 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:28:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654512256646 |
-| Players | 8/10 |
-| Host Name | Twice |
+| Lobby ID | 28612654517417367 |
+| Players | 3/15 |
+| Host Name | Swimmerfrog |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:18:54 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:28:25 |
 
 
 |  | epic_boss_fight_nightmare |
