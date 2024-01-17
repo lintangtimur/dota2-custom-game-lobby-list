@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654554547269 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Дмитрий минер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:32:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654554226993 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | We Are Electric |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:32:14 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | птс шлюха на мест |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:32:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654554752188 |
+| Players | 2/8 |
+| Host Name | let's forget the past |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:33:05 |
 
 
 |  | epic_boss_fight_nightmare |
