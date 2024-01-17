@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654456109165 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Rebellion |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:28:38 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 13:43:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654453720078 |
-| Players | 23/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:23:39 |
+| Lobby ID | 28612654455895351 |
+| Players | 7/10 |
+| Host Name | водяра 100 градусо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:28:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:28:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654455895351 |
-| Players | 7/10 |
-| Host Name | водяра 100 градусо |
+| Lobby ID | 28612654456421383 |
+| Players | 1/8 |
+| Host Name | F0xmen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:28:11 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:29:17 |
 
 
 |  | epic_boss_fight_normal |
