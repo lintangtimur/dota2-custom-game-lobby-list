@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654494128439 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Yatollapse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654493676941 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654493566200 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sheeeeshhh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654495938664 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Meatball |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:48:25 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Пивослав Мудрый гроза ящеров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:49:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654496808651 |
+| Players | 1/8 |
+| Host Name | танкист |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:50:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЧихуяХуёныш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:49:11 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28612654496826626 |
+| Players | 1/7 |
+| Host Name | EBLAN |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:50:05 |
 
 
