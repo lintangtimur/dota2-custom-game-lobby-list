@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:58:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654478440278 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
+| Lobby ID | 28612654478662040 |
+| Players | 6/24 |
+| Host Name | gfreek |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:13:50 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:14:16 |
 
 
 |  | ot3_desert_octet |
@@ -56,21 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:13:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654478369376 |
-| Players | 11/15 |
-| Host Name | Vitaminka42rus |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:13:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654478531178 |
+| Lobby ID | 28612654478712641 |
 | Players | 1/10 |
-| Host Name | PAIN AKATSUKI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:14:01 |
+| Host Name | МУРАД ЛЕГЕНДА |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:14:22 |
 
 
