@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28612654459937035 |
 | Players | 3/15 |
-| Host Name | olexanderkrasiukbinance |
+| Host Name | эщкере |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:36:31 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654458628387 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | BlackShooter |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:33:48 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Prays-dead inside |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:37:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654460399946 |
+| Players | 1/10 |
+| Host Name | 4quarantaquattro4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:37:29 |
 
 
 |  | epic_boss_fight_nightmare |
