@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654561524366 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Dr.Electro |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:44:06 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654562287036 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:45:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654562127274 |
-| Players | 3/15 |
-| Host Name | Зима в сердце |
+| Lobby ID | 28612654562373243 |
+| Players | 2/8 |
+| Host Name | Sidewinder |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:04 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:45:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:42:08 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654562300063 |
-| Players | 1/24 |
-| Host Name | 印平行充哨兵捡暴走偷G7满配R301 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654562373243 |
+| Lobby ID | 28612654562489164 |
 | Players | 1/8 |
-| Host Name | Sidewinder |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:28 |
+| Host Name | ZXCUZYA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:45:39 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654562078972 |
-| Players | 1/5 |
-| Host Name | Asteri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:00 |
+| Lobby ID | 28612654562447415 |
+| Players | 3/5 |
+| Host Name | Пенис сына |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:45:35 |
 
 
 |  | epic_boss_fight_nightmare |
