@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654506672095 |
-| Players | 23/24 |
-| Host Name | Conuter-Sitke 2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:08:35 |
+| Lobby ID | 28612654508287193 |
+| Players | 2/15 |
+| Host Name | ЧОРТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:11:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654482269898 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654508158437 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Kain |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:22 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654508287193 |
+| Lobby ID | 28612654508619876 |
 | Players | 3/15 |
-| Host Name | JR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:11:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654508535975 |
-| Players | 1/15 |
-| Host Name | dolpo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:12:04 |
+| Host Name | sympathy |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:12:13 |
 
 
 |  | epic_boss_fight_normal |
