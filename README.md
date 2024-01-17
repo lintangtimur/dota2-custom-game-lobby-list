@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:11:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654547390604 |
-| Players | 23/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:21:06 |
+| Lobby ID | 28612654549878874 |
+| Players | 13/15 |
+| Host Name | .nl |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:25:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,33 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЕБАЛО ОФНИ,ПЕНСИЯ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:24:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654550727862 |
-| Players | 6/8 |
-| Host Name | ventilyator |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:26:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654550746973 |
-| Players | 9/10 |
-| Host Name | северное сияние |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:26:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654549878874 |
-| Players | 12/15 |
-| Host Name | .nl |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:25:12 |
 
 
 |  | ot3_gardens_duo |
