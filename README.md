@@ -38,39 +38,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654462782869 |
-| Players | 14/15 |
-| Host Name | лошара133000800вольт500маликпбщх |
+| Lobby ID | 28612654463394213 |
+| Players | 3/8 |
+| Host Name | 0 Смертей |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:42:27 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:43:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654463317309 |
-| Players | 1/24 |
-| Host Name | nieves |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:43:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654462110209 |
-| Players | 9/10 |
-| Host Name | EBF MASTER - NAIX AFK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:41:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654463299219 |
-| Players | 1/5 |
-| Host Name | Gustavo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:43:30 |
+| Lobby ID | 28612654463400186 |
+| Players | 1/8 |
+| Host Name | ZXCUZYA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:43:43 |
 
 
