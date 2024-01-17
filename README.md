@@ -50,18 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654459300232 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:35:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654459497564 |
+| Players | 1/15 |
+| Host Name | rdn* |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:35:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654458196836 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:32:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654459481682 |
+| Players | 2/5 |
+| Host Name | Priimakk |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:35:33 |
 
 
