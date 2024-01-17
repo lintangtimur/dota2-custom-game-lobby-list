@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654454829904 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | $%&@dota&%"! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:25:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654456637053 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | -Все-Отец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:44 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654457333305 |
+| Lobby ID | 28612654457415946 |
 | Players | 1/10 |
-| Host Name | Pomni |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:31:09 |
+| Host Name | Ordnung |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:31:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654457428275 |
+| Players | 2/10 |
+| Host Name | PIDROгидар |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:31:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654457329513 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Balalaika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:31:09 |
