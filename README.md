@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654503012265 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Langlyaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:01:45 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654503592167 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | southandsunny. |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:02:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654504148168 |
+| Players | 2/10 |
+| Host Name | Novalil Govna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:03:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frieren <3 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:01:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654504117601 |
+| Players | 1/10 |
+| Host Name | ZaZu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:03:48 |
 
 
