@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654504829624 |
-| Players | 14/15 |
-| Host Name | gokereezz |
+| Lobby ID | 28612654504867637 |
+| Players | 4/8 |
+| Host Name | [SOLO]  seler |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:05:07 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:05:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,37 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654504995073 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | アイシテル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654504867637 |
-| Players | 4/8 |
-| Host Name | [SOLO]  seler |
+| Lobby ID | 28612654506283998 |
+| Players | 2/15 |
+| Host Name | ewq9696 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:05:11 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:07:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654505926308 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654505876391 |
-| Players | 1/10 |
-| Host Name | ZaZu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:07:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 马穆特*拉哈尔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654506168636 |
-| Players | 1/5 |
-| Host Name | Hizashi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:07:37 |
 
 
