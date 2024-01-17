@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654536837655 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Kapa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:03:02 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mruno Bars |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:02:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654536954592 |
+| Players | 2/10 |
+| Host Name | ПИЗДЕЦ Я ГИТЛЕР |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:03:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654536970873 |
+| Players | 2/10 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:03:16 |
 
 
 |  | epic_boss_fight_normal |
