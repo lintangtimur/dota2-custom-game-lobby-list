@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654460869943 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Emsiller |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:38:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654462782869 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | лошара133000800вольт500маликпбщх |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:42:27 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:42:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654463117460 |
+| Players | 1/8 |
+| Host Name | sinnata00 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:43:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654462110209 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | EBF MASTER - NAIX AFK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:07 |
