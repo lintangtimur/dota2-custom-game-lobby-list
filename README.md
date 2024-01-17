@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654520836663 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:34:36 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GostRed |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:35:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654521701638 |
+| Players | 1/15 |
+| Host Name | Human Kite |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:36:10 |
 
 
 |  | epic_boss_fight_nightmare |
