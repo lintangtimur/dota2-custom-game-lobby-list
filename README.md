@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654456430299 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Kieran |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:18 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654455808259 |
-| Players | 14/15 |
-| Host Name | _Valknut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:28:00 |
+| Lobby ID | 28612654457428275 |
+| Players | 5/10 |
+| Host Name | PIDROгидар |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:31:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Angel |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:27:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654457415946 |
-| Players | 1/10 |
-| Host Name | Ordnung |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:31:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654457428275 |
-| Players | 2/10 |
-| Host Name | PIDROгидар |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:31:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654456159712 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Harakiri Squad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:28:44 |
