@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654540145215 |
-| Players | 1/24 |
-| Host Name | GlueEater9000 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:08:52 |
+| Lobby ID | 28612654540376758 |
+| Players | 2/8 |
+| Host Name | F.H |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:09:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654540263503 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | acolyte |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:05 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539908413 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Iblis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654540423241 |
+| Players | 1/15 |
+| Host Name | Big Russian Smurf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:09:22 |
 
 
 |  | epic_boss_fight_challenger |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654534254739 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | RAY OF HOPE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:58:32 |
