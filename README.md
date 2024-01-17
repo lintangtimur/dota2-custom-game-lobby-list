@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654540521588 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654558869316 |
-| Players | 22/24 |
-| Host Name | Jing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
+| Lobby ID | 28612654560646060 |
+| Players | 1/8 |
+| Host Name | usless person |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:42:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654560591510 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | evil✔ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:42:37 |
@@ -65,39 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:42:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654560646060 |
-| Players | 1/8 |
-| Host Name | usless person |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:42:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654560853732 |
-| Players | 1/8 |
-| Host Name | pHaraa9 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:43:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654560878327 |
-| Players | 1/24 |
-| Host Name | ebuvola |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:43:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654560868284 |
+| Lobby ID | 28612654560993202 |
 | Players | 1/10 |
-| Host Name | ¡¡°☛ Run If YoU CaN☚シ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:43:04 |
+| Host Name | Stars |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:43:16 |
 
 
