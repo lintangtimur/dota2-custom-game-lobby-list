@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654538183679 |
-| Players | 1/15 |
-| Host Name | GlueEater9000 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:05:21 |
+| Lobby ID | 28612654539058704 |
+| Players | 4/15 |
+| Host Name | Tahko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:06:53 |
 
 
 |  | ot3_desert_octet |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654538878405 |
-| Players | 9/15 |
-| Host Name | autism |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654538987804 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | EdgeRunner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654539058704 |
-| Players | 1/15 |
-| Host Name | Tahko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654539253521 |
+| Players | 3/5 |
+| Host Name | DDR3 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:07:14 |
 
 
