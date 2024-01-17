@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654559325104 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ,,. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:40:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654559112639 |
-| Players | 12/15 |
-| Host Name | SISKI |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:40:12 |
+| Lobby ID | 28612654559424811 |
+| Players | 5/10 |
+| Host Name | Vide |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:40:44 |
 
 
 |  | ot3_desert_octet |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654559395693 |
-| Players | 1/10 |
-| Host Name | Mohammed bin Rashid Al Maktoum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:40:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | водитель по губам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28612654559499371 |
+| Players | 1/7 |
+| Host Name | カラミタスは私の妻で |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:40:51 |
 
 
