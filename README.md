@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654558735821 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:35 |
@@ -32,37 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654558569498 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654558734192 |
-| Players | 4/8 |
-| Host Name | Kлитoрвaн Яйцexpycт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:35 |
+| Lobby ID | 28612654558869316 |
+| Players | 1/24 |
+| Host Name | Jing |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654558564650 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sanyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:39:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654555447633 |
-| Players | 23/24 |
-| Host Name | Violet Evergarden |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:34:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654557806554 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | LakerS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:38:03 |
@@ -85,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654558589178 |
+| Lobby ID | 28612654558869221 |
 | Players | 1/5 |
 | Host Name | водитель по губам |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:39:20 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:39:48 |
 
 
