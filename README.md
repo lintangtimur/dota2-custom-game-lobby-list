@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654561177769 |
-| Players | 6/8 |
-| Host Name | ніріальній псіх |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:43:34 |
+| Lobby ID | 28612654561524366 |
+| Players | 2/10 |
+| Host Name | Dr.Electro |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654561079258 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:43:24 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 901 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:42:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654561558258 |
+| Players | 1/5 |
+| Host Name | apologiya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:10 |
 
 
