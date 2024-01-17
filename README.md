@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654568916820 |
-| Players | 13/15 |
-| Host Name | Q |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:55:41 |
+| Lobby ID | 28612654569413889 |
+| Players | 5/8 |
+| Host Name | Maratik |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:56:26 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654569011294 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Thawne |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:55:49 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654568817735 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:55:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654569413889 |
-| Players | 2/8 |
-| Host Name | Maratik |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:56:26 |
+| Lobby ID | 28612654569649075 |
+| Players | 5/15 |
+| Host Name | 76561198204787636 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:56:48 |
 
 
 |  | epic_boss_fight_nightmare |
