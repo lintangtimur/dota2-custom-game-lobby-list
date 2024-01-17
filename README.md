@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654494128439 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Yatollapse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654493966276 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | maron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:38 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654495066520 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | nah, i'd win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:46:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654495146653 |
+| Players | 2/8 |
+| Host Name | cyborg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:46:55 |
 
 
 |  | epic_boss_fight_nightmare |
