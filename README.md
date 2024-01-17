@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654498549207 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | XTG |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:53:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654498742705 |
+| Players | 2/10 |
+| Host Name | Анлаки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:53:41 |
 
 
 |  | epic_boss_fight_normal |
