@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654491931479 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | i care about mmr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:40:36 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:41:36 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654492722000 |
+| Players | 1/15 |
+| Host Name | 热血沸腾 *战肉搏 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:42:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654485802345 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:27 |
@@ -68,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654491748818 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:40:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654492712874 |
+| Players | 1/5 |
+| Host Name | Kawasaki |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:42:10 |
 
 
