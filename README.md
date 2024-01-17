@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654441766413 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Talento Nada |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 13:57:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654444096570 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:02:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654445619539 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Пивное Пузо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:05:57 |
