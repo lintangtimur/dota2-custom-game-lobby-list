@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654461434037 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654460869943 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Emsiller |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:38:30 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654462546271 |
-| Players | 1/15 |
-| Host Name | 夏天、 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:41:59 |
+| Lobby ID | 28612654462776637 |
+| Players | 1/24 |
+| Host Name | Stepdad with boundary issues |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:42:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EBF MASTER - NAIX AFK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654462675338 |
-| Players | 1/5 |
-| Host Name | 2945819566 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:42:15 |
 
 
