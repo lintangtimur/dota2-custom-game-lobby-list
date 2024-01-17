@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654518108600 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:29:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654519729498 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:32:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654520000368 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | WTF?!о_0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:33:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654520037773 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | свиньяебаная |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:33:09 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654520087008 |
-| Players | 1/15 |
-| Host Name | Xiong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:33:15 |
+| Lobby ID | 28612654520128600 |
+| Players | 3/15 |
+| Host Name | THE LONELIEST |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:33:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654519208478 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Mawen |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:31:41 |
