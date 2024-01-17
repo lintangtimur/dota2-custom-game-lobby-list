@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654517132619 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Flare |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:27:53 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654516769394 |
-| Players | 1/10 |
-| Host Name | gusyara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:27:13 |
+| Lobby ID | 28612654516762814 |
+| Players | 12/24 |
+| Host Name | Sylvanas Windrunner |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:27:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -36,24 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shano0o03 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:28:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654516762814 |
-| Players | 10/24 |
-| Host Name | Sylvanas Windrunner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:27:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654517311655 |
-| Players | 1/10 |
-| Host Name | Jmaster210 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:28:13 |
 
 
 |  | epic_boss_fight_nightmare |
