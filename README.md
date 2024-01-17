@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654494128439 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Yatollapse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654493676941 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:45:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654494418077 |
-| Players | 1/8 |
+| Lobby ID | 28612654494605005 |
+| Players | 2/15 |
 | Host Name | Nikita Zbarskiy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:45:30 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:45:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654485802345 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:28:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654494473068 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sakazuki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:45:37 |
