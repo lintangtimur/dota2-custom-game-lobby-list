@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654529013059 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Interesting_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:49:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654530599009 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | = МС ГАНДЖУБАС = |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:52:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654530661792 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | бассейн с детьми |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:52:14 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HotsyTotsy80s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654531027262 |
+| Players | 1/5 |
+| Host Name | LOVE GODOTA2.COM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:52:52 |
 
 
