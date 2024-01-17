@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654470810553 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | BiuBiu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:58:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654475946160 |
-| Players | 8/10 |
-| Host Name | Leer es para idiotas |
+| Lobby ID | 28612654478440278 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:13:50 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654478277197 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Bsl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:13:31 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654478369376 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Vitaminka42rus |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:13:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654478427249 |
-| Players | 2/5 |
-| Host Name | clvirus09 |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:13:49 |
 
 
