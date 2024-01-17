@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:06:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654441766413 |
-| Players | 23/24 |
-| Host Name | Talento Nada |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 13:57:40 |
+| Lobby ID | 28612654445722376 |
+| Players | 1/10 |
+| Host Name | ŧɇNf๘łĐ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:06:11 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654444096570 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:02:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654445619539 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пивное Пузо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:05:57 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:04:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654445598127 |
-| Players | 1/24 |
-| Host Name | Maners |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:05:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654445722376 |
-| Players | 1/10 |
-| Host Name | ŧɇNf๘łĐ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:06:11 |
 
 
 |  | epic_boss_fight_nightmare |
