@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654519729498 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:32:36 |
@@ -38,10 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:32:30 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654520000368 |
+| Players | 2/10 |
+| Host Name | WTF?!о_0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:33:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654520037773 |
+| Players | 5/15 |
+| Host Name | свиньяебаная |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:33:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654520087008 |
+| Players | 1/15 |
+| Host Name | Xiong |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:33:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654518511858 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | HiperusX |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:30:25 |
