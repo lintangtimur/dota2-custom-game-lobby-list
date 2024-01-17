@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654506283998 |
-| Players | 13/15 |
-| Host Name | ewq9696 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:07:50 |
+| Lobby ID | 28612654506672095 |
+| Players | 7/24 |
+| Host Name | Conuter-Sitke 2 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:08:35 |
 
 
 |  | ot3_gardens_duo |
@@ -31,29 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654506092753 |
-| Players | 6/8 |
-| Host Name | Fat fingers |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:07:28 |
+| Lobby ID | 28612654506936175 |
+| Players | 1/8 |
+| Host Name | Pachacutec |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:09:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654506672095 |
-| Players | 6/24 |
-| Host Name | Conuter-Sitke 2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:08:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654506855644 |
+| Lobby ID | 28612654506956394 |
 | Players | 1/24 |
-| Host Name | Red |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:08:56 |
+| Host Name | WoodyPlant |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:09:08 |
 
 
 |  | epic_boss_fight_normal |
