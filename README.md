@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654491319462 |
-| Players | 23/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:39:22 |
+| Lobby ID | 28612654500529614 |
+| Players | 7/8 |
+| Host Name | waterlaw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:57:05 |
 
 
 |  | ot3_gardens_duo |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654493566200 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sheeeeshhh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654500166166 |
-| Players | 8/10 |
-| Host Name | Man |
+| Lobby ID | 28612654501127772 |
+| Players | 1/15 |
+| Host Name | ADMIIN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:56:23 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:58:12 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654499890391 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Fap Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:55:52 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:57:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654500529614 |
-| Players | 7/8 |
-| Host Name | waterlaw |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:57:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654501127772 |
-| Players | 1/15 |
-| Host Name | 17`5 4 7r4p |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:58:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654499536305 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654500488139 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | eat! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:57:00 |
