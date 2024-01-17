@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654540521588 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
@@ -56,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:42:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654561613003 |
+| Players | 5/8 |
+| Host Name | Prays-dead inside |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:15 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28612654561624256 |
+| Players | 1/7 |
+| Host Name | sacrifice just 4 u |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:16 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28612654561558258 |
+| Lobby ID | 28612654561677446 |
 | Players | 1/5 |
-| Host Name | apologiya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:44:10 |
+| Host Name | เบียวมังกร |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:21 |
 
 
