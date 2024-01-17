@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654545817921 |
-| Players | 23/24 |
-| Host Name | whatever |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:18:29 |
+| Lobby ID | 28612654547096380 |
+| Players | 2/15 |
+| Host Name | TheSanBrant |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:20:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654482269898 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:19:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654547096380 |
-| Players | 2/15 |
-| Host Name | TheSanBrant |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:20:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654546443505 |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ~Moskvi4~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:20:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654547201383 |
-| Players | 1/5 |
-| Host Name | เบียวมังกร |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:20:47 |
 
 
