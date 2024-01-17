@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654522173157 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | VEG4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:37:02 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654524606423 |
-| Players | 1/8 |
-| Host Name | 4 |
+| Players | 3/8 |
+| Host Name | i care about mmr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:41:30 |
 
@@ -32,18 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654524384830 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | HimalayaJoe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:41:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654524959798 |
-| Players | 1/10 |
-| Host Name | ¡¡°☛ Run If YoU CaN☚シ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:42:08 |
+| Lobby ID | 28612654524989521 |
+| Players | 3/10 |
+| Host Name | RUSSIAN SAM SULEK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:42:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654525063461 |
+| Players | 1/8 |
+| Host Name | OrlyOMG |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:42:19 |
 
 
