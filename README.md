@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654532745002 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | D0bPbIй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:55:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654532188866 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | dongu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:54:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654532247308 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Жириновский.В.В |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:55:01 |
@@ -47,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:56:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654533164795 |
+| Players | 1/10 |
+| Host Name | бойцовский хуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:56:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28612654533204473 |
+| Players | 1/8 |
+| Host Name | no reason to smile |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:56:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654533104726 |
+| Lobby ID | 28612654533209809 |
 | Players | 1/15 |
 | Host Name | UnPlayEd |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:56:31 |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:56:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28612654527231069 |
-| Players | 3/7 |
-| Host Name | HotsyTotsy80s |
+| Players | 2/7 |
+| Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654533240025 |
+| Players | 1/5 |
+| Host Name | KENnyJIN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:56:45 |
 
 
