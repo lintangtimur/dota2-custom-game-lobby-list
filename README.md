@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654566239569 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Задоджил завод |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:51:34 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:51:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654566340245 |
-| Players | 1/15 |
-| Host Name | GlueEater9000 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:44 |
 
 
 |  | epic_boss_fight_nightmare |
