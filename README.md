@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654482269898 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654506936175 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:09:05 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654507998572 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | kokojambo |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654508007113 |
-| Players | 1/15 |
-| Host Name | minihamonchik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:11:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654508044262 |
-| Players | 1/8 |
-| Host Name | ночной nightmare) |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:11:10 |
 
 
 |  | epic_boss_fight_normal |
