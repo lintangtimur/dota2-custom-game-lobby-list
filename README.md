@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:08:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654477532374 |
-| Players | 4/8 |
-| Host Name | ZXCUZYA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:12:06 |
+| Lobby ID | 28612654477618884 |
+| Players | 2/24 |
+| Host Name | Ntz.Galford.24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:12:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654477529982 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Агент габена |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:12:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654477618884 |
-| Players | 2/24 |
-| Host Name | Ntz.Galford.24 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:12:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654476745418 |
-| Players | 14/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:10:33 |
 
 
 |  | epic_boss_fight_nightmare |
