@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654508158437 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Kain |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:22 |
@@ -40,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654508212962 |
-| Players | 3/8 |
-| Host Name | ночной nightmare) |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:11:28 |
+| Lobby ID | 28612654508342489 |
+| Players | 2/8 |
+| Host Name | бассейн с детьми |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:11:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654508287193 |
+| Players | 3/15 |
+| Host Name | JR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:11:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654507966449 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Apm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654508311073 |
+| Players | 1/5 |
+| Host Name | FaMily. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:11:39 |
 
 
