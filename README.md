@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654538183679 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:05:21 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shkafila/ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:58:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654536587210 |
-| Players | 22/24 |
-| Host Name | Mruno Bars |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:02:36 |
 
 
 |  | ot3_gardens_duo |
