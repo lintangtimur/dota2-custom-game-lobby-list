@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654457825116 |
-| Players | 8/10 |
-| Host Name | Метаморфоза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:32:09 |
+| Lobby ID | 28612654458664823 |
+| Players | 6/8 |
+| Host Name | Птицы идут |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:33:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:34:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654457961623 |
-| Players | 1/15 |
-| Host Name | эщкере |
+| Lobby ID | 28612654459300232 |
+| Players | 8/24 |
+| Host Name | Ohayo! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:32:26 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:35:11 |
 
 
 |  | ot3_desert_octet |
@@ -38,30 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:33:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654458664823 |
-| Players | 4/8 |
-| Host Name | Птицы идут |
+| Lobby ID | 28612654459643739 |
+| Players | 1/15 |
+| Host Name | nando |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:33:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654459300232 |
-| Players | 5/24 |
-| Host Name | Ohayo! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:35:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654458196836 |
-| Players | 9/10 |
-| Host Name | 600 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:32:55 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:35:53 |
 
 
