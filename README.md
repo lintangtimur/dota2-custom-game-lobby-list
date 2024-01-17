@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654461219283 |
-| Players | 8/10 |
-| Host Name | Gonarch |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:39:16 |
+| Lobby ID | 28612654461434037 |
+| Players | 2/15 |
+| Host Name | olexanderkrasiukbinance |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
 
 
 |  | ot3_desert_octet |
@@ -41,45 +41,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654460360122 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | an |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:37:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654458898503 |
-| Players | 7/8 |
-| Host Name | lose then? lose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:34:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654461434037 |
-| Players | 2/15 |
-| Host Name | olexanderkrasiukbinance |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654460018202 |
-| Players | 8/10 |
-| Host Name | Helpi™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:36:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654461671882 |
-| Players | 1/5 |
-| Host Name | Your best NIGHTMARE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:40:12 |
 
 
