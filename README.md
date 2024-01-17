@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654504148168 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Novalil Govna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:03:51 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | southandsunny. |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:02:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654504303538 |
+| Players | 6/15 |
+| Host Name | envia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:04:08 |
 
 
 |  | epic_boss_fight_nightmare |
