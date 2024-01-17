@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654461434037 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:44:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654463825030 |
-| Players | 7/8 |
-| Host Name | бля ща как уебет |
+| Lobby ID | 28612654464780211 |
+| Players | 3/15 |
+| Host Name | Tired |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:44:35 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:46:32 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654464535165 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Tango |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:46:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654464780211 |
-| Players | 3/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:46:32 |
 
 
 |  | epic_boss_fight_nightmare |
