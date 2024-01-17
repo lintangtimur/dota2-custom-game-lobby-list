@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654548811663 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | гей лжец |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:23:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654548160497 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Prime-Nosfer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654549009163 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | glorious purpose |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:23:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654547118545 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | ah well wcyd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:20:39 |
