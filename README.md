@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654509234691 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | test&learn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:13:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654509584411 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | неумехапелемеха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:13:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654509820792 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Bobo |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:14:22 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ReCors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654509830637 |
-| Players | 1/10 |
-| Host Name | Король_Подвала |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:14:23 |
 
 
