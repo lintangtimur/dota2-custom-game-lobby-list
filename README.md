@@ -29,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654497151098 |
-| Players | 8/10 |
-| Host Name | animal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:50:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654497445895 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | RogerQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:51:16 |
@@ -49,26 +40,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654494128439 |
-| Players | 14/15 |
-| Host Name | Yatollapse |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
+| Lobby ID | 28612654498273418 |
+| Players | 2/15 |
+| Host Name | () |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:52:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654498202881 |
+| Lobby ID | 28612654498277725 |
 | Players | 2/8 |
-| Host Name | ritsar |
+| Host Name | серёга елда |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:52:40 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:52:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654498285095 |
+| Players | 2/10 |
+| Host Name | Sasai-kudasai |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:52:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654494128439 |
+| Players | 14/15 |
+| Host Name | amoureux.amort |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654497785633 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | ЧихуяХуёныш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:51:54 |
