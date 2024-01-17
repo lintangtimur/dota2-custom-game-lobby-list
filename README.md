@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654446499768 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Peroro |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:07:57 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654447722552 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:10:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654444987191 |
-| Players | 7/8 |
-| Host Name | BABYBARA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:04:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654448647293 |
-| Players | 4/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:12:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654448783242 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:13:03 |
@@ -76,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654446407827 |
-| Players | 13/15 |
-| Host Name | Как вы заебали... |
+| Lobby ID | 28612654448647293 |
+| Players | 6/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:07:44 |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:12:44 |
 
 
