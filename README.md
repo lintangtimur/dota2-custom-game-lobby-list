@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654565513253 |
-| Players | 5/10 |
+| Players | 2/10 |
 | Host Name | xxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:50:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654562447415 |
-| Players | 3/5 |
-| Host Name | Пенис сына |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:45:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654562006700 |
-| Players | 8/10 |
-| Host Name | Stars |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
+| Lobby ID | 28612654565591237 |
+| Players | 3/15 |
+| Host Name | Fykeo |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:50:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:46:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654562006700 |
+| Players | 8/10 |
+| Host Name | Stars |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:44:53 |
 
 
