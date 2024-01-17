@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654487798285 |
-| Players | 12/15 |
-| Host Name | Detelinara{RUBIN} |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:32:22 |
+| Lobby ID | 28612654488782554 |
+| Players | 3/15 |
+| Host Name | Patan Mocoso |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:34:16 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654483286569 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | jerico sl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:23:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654488456790 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:33:38 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | escapist PRIME 666 雨  |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:34:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654488835687 |
+| Players | 1/15 |
+| Host Name | autism |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:34:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654488841084 |
+| Players | 1/15 |
+| Host Name | XDD |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:34:23 |
 
 
 |  | epic_boss_fight_nightmare |
