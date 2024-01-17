@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654506672095 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Conuter-Sitke 2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:08:35 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:36 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654508535975 |
+| Players | 1/15 |
+| Host Name | dolpo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:12:04 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28612654505996559 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Apm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:11:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654508311073 |
-| Players | 1/5 |
-| Host Name | FaMily. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:11:39 |
 
 
