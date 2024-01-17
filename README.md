@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654551382599 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Smokey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:27:39 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654550992652 |
-| Players | 5/10 |
-| Host Name | all muted |
+| Lobby ID | 28612654551589267 |
+| Players | 1/10 |
+| Host Name | Drakenus |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:27:00 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:27:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Noxious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:27:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654551486462 |
+| Players | 1/10 |
+| Host Name | call me autisticttipon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:27:49 |
 
 
