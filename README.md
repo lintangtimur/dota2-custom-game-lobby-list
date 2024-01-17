@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654435602953 |
-| Players | 1/10 |
-| Host Name | _Ferxxo_ |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 13:43:50 |
+| Lobby ID | 28612654456816919 |
+| Players | 5/10 |
+| Host Name | kto myaukaet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:30:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654455808259 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | _Valknut |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:28:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654456637053 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | -Все-Отец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:44 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654456816919 |
-| Players | 4/10 |
-| Host Name | kto myaukaet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:30:05 |
+| Lobby ID | 28612654457150757 |
+| Players | 2/10 |
+| Host Name | SPAGETT |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:30:46 |
 
 
 |  | epic_boss_fight_normal |
