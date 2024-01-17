@@ -31,27 +31,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654566098792 |
-| Players | 1/24 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:21 |
+| Lobby ID | 28612654562287036 |
+| Players | 23/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:45:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654566038897 |
-| Players | 6/8 |
-| Host Name | шпигуняка |
+| Lobby ID | 28612654566901199 |
+| Players | 2/10 |
+| Host Name | Nikushio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:51:16 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:52:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654566811504 |
-| Players | 2/15 |
-| Host Name | Dzudzuradzudzay |
+| Players | 9/15 |
+| Host Name | Diflope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:52:28 |
 
@@ -61,15 +61,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby ID | 28612654566818334 |
 | Players | 1/15 |
 | Host Name | zugzwang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:52:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654566820507 |
-| Players | 4/8 |
-| Host Name | FuckSnigers |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:52:28 |
 
