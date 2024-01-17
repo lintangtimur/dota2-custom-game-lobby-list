@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654481174856 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CRIMSON™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:19:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654479843097 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:16:34 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654481542696 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Ректальный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:19:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654481703813 |
-| Players | 1/15 |
-| Host Name | Вторым днем |
+| Lobby ID | 28612654480228891 |
+| Players | 9/10 |
+| Host Name | GhasT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:20:15 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:17:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Godbless |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:16:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654481804035 |
+| Players | 1/5 |
+| Host Name | Авантюрный |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:20:27 |
 
 
