@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654530599009 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | = МС ГАНДЖУБАС = |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:52:07 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654530661792 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | бассейн с детьми |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:52:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654527334103 |
-| Players | 9/10 |
-| Host Name | Made in heaven |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:46:22 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28612654527231069 |
-| Players | 2/7 |
-| Host Name | HotsyTotsy80s |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nighty america |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:50:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28612654527231069 |
+| Players | 2/7 |
+| Host Name | HotsyTotsy80s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
 
 
