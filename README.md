@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654466904145 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Chimuelo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654467130359 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ЯНА МЕФЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:51:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654466550265 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:07 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654461434037 |
-| Players | 13/15 |
-| Host Name | olexanderkrasiukbinance |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
+| Lobby ID | 28612654467471836 |
+| Players | 3/15 |
+| Host Name | Славянин. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:51:57 |
 
 
 |  | epic_boss_fight_hard |
