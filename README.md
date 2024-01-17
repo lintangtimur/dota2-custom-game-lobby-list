@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654539027656 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | S1ko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539058704 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Tahko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654538745742 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ให้กุกลางเท่ากับวิน |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:19 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654538825897 |
-| Players | 3/10 |
-| Host Name | we know they know we know |
+| Players | 1/10 |
+| Host Name | Sasai-kudasai |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:28 |
 
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GlueEater9000 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:07:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28612654539569668 |
+| Players | 1/24 |
+| Host Name | SNEkaef |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:07:49 |
 
 
 |  | epic_boss_fight_normal |
