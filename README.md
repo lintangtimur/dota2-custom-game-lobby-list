@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654460302107 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | NEONER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:37:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654459300232 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:35:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654460360122 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Prays-dead inside |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:37:24 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 4quarantaquattro4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:37:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654460544907 |
+| Players | 1/15 |
+| Host Name | Lloyd Frontera |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:37:48 |
 
 
 |  | epic_boss_fight_nightmare |
