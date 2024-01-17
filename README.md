@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654510315625 |
-| Players | 21/24 |
-| Host Name | S |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:15:17 |
+| Lobby ID | 28612654512897028 |
+| Players | 3/8 |
+| Host Name | roronoa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:20:05 |
 
 
 |  | ot3_gardens_duo |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:19:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654512897028 |
-| Players | 2/8 |
-| Host Name | roronoa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:20:05 |
+| Lobby ID | 28612654513066590 |
+| Players | 2/24 |
+| Host Name | M4ik3ru ☠ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:20:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654512206938 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | †Dracula† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:18:49 |
