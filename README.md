@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654493676941 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:47:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28612654496189487 |
-| Players | 1/5 |
+| Lobby ID | 28612654496349334 |
+| Players | 1/10 |
 | Host Name | ЧихуяХуёныш |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:48:53 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:49:11 |
 
 
