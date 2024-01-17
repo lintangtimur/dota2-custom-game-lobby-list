@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654499901023 |
-| Players | 14/15 |
-| Host Name | invader |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:55:53 |
+| Lobby ID | 28612654500311935 |
+| Players | 4/15 |
+| Host Name | Игорь Потов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:56:40 |
 
 
 |  | ot3_gardens_duo |
