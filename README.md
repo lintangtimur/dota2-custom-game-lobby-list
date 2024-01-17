@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654482269898 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654493566200 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sheeeeshhh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:43:50 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654499018485 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Я РУССКИЙ! ВСЕМУ М |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:54:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654499551757 |
-| Players | 3/8 |
-| Host Name | kind of death |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:55:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЧихуяХуёныш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:51:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654498984233 |
-| Players | 9/10 |
-| Host Name | mrllano |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:54:09 |
 
 
 |  | epic_boss_fight_nightmare |
