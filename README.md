@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:39:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654491931479 |
-| Players | 6/8 |
-| Host Name | i care about mmr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:40:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654492430739 |
-| Players | 6/10 |
-| Host Name | Wit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:41:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654492722000 |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 热血沸腾 *战肉搏 |
 | Region | PWUNICOM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:42:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654492430739 |
+| Players | 7/10 |
+| Host Name | Wit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:41:36 |
 
 
 |  | epic_boss_fight_nightmare |
