@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654526620194 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | meateatergirl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:45:06 |
@@ -29,21 +29,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 16:45:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28612654525920693 |
-| Players | 1/24 |
-| Host Name | iPhone ГОВНО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:43:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654526672105 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:45:11 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28612654527231069 |
+| Players | 1/7 |
+| Host Name | HotsyTotsy80s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:46:11 |
 
 
