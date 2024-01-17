@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654453720078 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:23:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654454204022 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:24:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654454334627 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ЧЕ ГЕВАРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:24:56 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dome_Cheshire4Life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:19:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654454452901 |
+| Players | 1/10 |
+| Host Name | Mистер Роябот Абд |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:25:11 |
 
 
