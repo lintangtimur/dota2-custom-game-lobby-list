@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654454829904 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | $%&@dota&%"! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:25:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654456430299 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Kieran |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654456637053 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | -Все-Отец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:29:44 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harakiri Squad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:28:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654456729286 |
+| Players | 1/5 |
+| Host Name | в ресурсе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:29:55 |
 
 
