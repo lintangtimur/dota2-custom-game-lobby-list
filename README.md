@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654513963367 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:22:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654514867110 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | sipping pee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:23:40 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654514911028 |
-| Players | 2/8 |
-| Host Name | Don't run! |
+| Players | 1/8 |
+| Host Name | NobleBrian |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:23:45 |
 
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | рот ту 4к ммр |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:24:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654515800113 |
+| Players | 2/10 |
+| Host Name | МУСОРА БЛЯДИ- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:25:24 |
 
 
 |  | epic_boss_fight_nightmare |
