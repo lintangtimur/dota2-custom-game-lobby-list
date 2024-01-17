@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654478369376 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Vitaminka42rus |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:13:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654478531178 |
+| Players | 1/10 |
+| Host Name | PAIN AKATSUKI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:14:01 |
 
 
