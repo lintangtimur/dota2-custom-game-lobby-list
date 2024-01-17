@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654451596730 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 4quarantaquattro4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:19:08 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _Ferxxo_ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 13:43:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654451903873 |
+| Players | 2/10 |
+| Host Name | ЯНА МЕФЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:19:48 |
 
 
 |  | epic_boss_fight_nightmare |
