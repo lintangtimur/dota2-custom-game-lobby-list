@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654556192651 |
-| Players | 12/15 |
-| Host Name | Cypher |
+| Lobby ID | 28612654556909015 |
+| Players | 3/10 |
+| Host Name | 30303030 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:35:23 |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:36:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654555447633 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:34:12 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DarkFell |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:35:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654556909015 |
-| Players | 3/10 |
-| Host Name | 30303030 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:36:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Halucard |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:36:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654556956917 |
-| Players | 1/5 |
-| Host Name | เบียวมังกร |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:36:38 |
 
 
