@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654461434037 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:39:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654460869943 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Emsiller |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:38:30 |
@@ -38,19 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654462776637 |
-| Players | 1/24 |
-| Host Name | Stepdad with boundary issues |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:42:26 |
+| Lobby ID | 28612654462782869 |
+| Players | 1/15 |
+| Host Name | лошара133000800вольт500маликпбщх |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:42:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654462863346 |
+| Players | 1/15 |
+| Host Name | 夏天、 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:42:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654462110209 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | EBF MASTER - NAIX AFK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:41:07 |
