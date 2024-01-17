@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654491319462 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:39:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654494128439 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Yatollapse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654493676941 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:44:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654495938664 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Meatball |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:48:25 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654496651747 |
-| Players | 3/8 |
-| Host Name | arap |
+| Lobby ID | 28612654496666908 |
+| Players | 1/8 |
+| Host Name | Пивослав Мудрый гроза ящеров |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:49:45 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:49:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654496349334 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ЧихуяХуёныш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:49:11 |
