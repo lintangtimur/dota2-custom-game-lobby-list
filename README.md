@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654452641983 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | diego |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:21:23 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654453591081 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Maners |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:23:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654453659554 |
-| Players | 1/8 |
-| Host Name | I Hate U :) |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:23:31 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 14:23:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654453744616 |
-| Players | 3/8 |
-| Host Name | Sköll |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:23:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654452194944 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:20:25 |
