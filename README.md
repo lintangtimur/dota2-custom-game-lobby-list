@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654548052552 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654540521588 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654550727862 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ventilyator |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:26:35 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654549680250 |
-| Players | 8/10 |
-| Host Name | Sanyo |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:24:52 |
+| Lobby ID | 28612654550746973 |
+| Players | 9/10 |
+| Host Name | северное сияние |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:26:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654550635721 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Нет, блять, Pavshiy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:26:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654550746973 |
-| Players | 6/10 |
-| Host Name | северное сияние |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:26:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654550790369 |
-| Players | 1/10 |
-| Host Name | kokojambo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:26:41 |
+| Lobby ID | 28612654550924540 |
+| Players | 1/8 |
+| Host Name | gypsi  king 81 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:26:54 |
 
 
 |  | epic_boss_fight_nightmare |
