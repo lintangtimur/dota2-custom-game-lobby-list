@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654467592027 |
-| Players | 7/8 |
-| Host Name | Fadmon |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:52:12 |
+| Lobby ID | 28612654468756819 |
+| Players | 1/8 |
+| Host Name | 葉王・朝倉 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:54:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654464041165 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:45:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654468085534 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 1 dmg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:53:10 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654466550265 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Yellow Mustard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:50:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654468756819 |
-| Players | 1/8 |
-| Host Name | 葉王・朝倉 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 14:54:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | casadh |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 17, 2024 14:54:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654468849213 |
+| Players | 1/10 |
+| Host Name | TheBear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 14:54:43 |
 
 
