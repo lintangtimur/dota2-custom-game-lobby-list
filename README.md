@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654506283998 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ewq9696 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654506092753 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Fat fingers |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654505926308 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:07:09 |
