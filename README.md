@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654539027656 |
-| Players | 7/8 |
-| Host Name | S1ko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:06:50 |
+| Lobby ID | 28612654539907419 |
+| Players | 1/15 |
+| Host Name | Umber |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
 
 
 |  | ot3_gardens_duo |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654539986758 |
-| Players | 6/10 |
-| Host Name | Ни шанса |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:08:35 |
+| Lobby ID | 28612654540145215 |
+| Players | 1/24 |
+| Host Name | GlueEater9000 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:08:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654538745742 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ให้กุกลางเท่ากับวิน |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:19 |
@@ -41,18 +41,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654539908413 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Iblis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654539907419 |
-| Players | 1/15 |
-| Host Name | Umber |
-| Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:08:26 |
 
 
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RAY OF HOPE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:58:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28612654540063247 |
-| Players | 1/5 |
-| Host Name | mogistar |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:08:43 |
 
 
