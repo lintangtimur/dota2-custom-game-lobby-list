@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654548052552 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:22:11 |
@@ -49,11 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654552032571 |
-| Players | 5/8 |
-| Host Name | scam cult |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:28:42 |
+| Lobby ID | 28612654552766378 |
+| Players | 2/8 |
+| Host Name | Pachacutec |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:29:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654552732052 |
+| Players | 4/10 |
+| Host Name | Черный динозавр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:29:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654552776713 |
+| Players | 2/10 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:29:54 |
 
 
 |  | epic_boss_fight_nightmare |
