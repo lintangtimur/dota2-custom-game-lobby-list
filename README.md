@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 17:52:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654567838117 |
-| Players | 10/15 |
-| Host Name | 夷陵老祖魏无羡 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:54:02 |
+| Lobby ID | 28612654568146701 |
+| Players | 5/8 |
+| Host Name | EZ,GG |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:54:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654567461288 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Revoker |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:53:27 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654567950288 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ILLINOIZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:54:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654568146701 |
-| Players | 4/8 |
-| Host Name | EZ,GG |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:54:30 |
 
 
 |  | epic_boss_fight_nightmare |
