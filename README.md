@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654482895780 |
-| Players | 6/8 |
-| Host Name | Бабушка Стрея |
+| Lobby ID | 28612654482137397 |
+| Players | 14/15 |
+| Host Name | Chemodan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:22:39 |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:21:07 |
 
 
 |  | ot3_desert_octet |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 17, 2024 15:23:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654482137397 |
-| Players | 14/15 |
-| Host Name | Chemodan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:21:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28612654479636622 |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Godbless |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 15:16:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28612654483618902 |
+| Players | 2/5 |
+| Host Name | Naga is Ovraga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 15:24:06 |
 
 
