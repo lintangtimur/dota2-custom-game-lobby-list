@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654538183679 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | GlueEater9000 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:05:21 |
@@ -36,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ให้กุกลางเท่ากับวิน |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 17:06:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28612654538825897 |
+| Players | 2/10 |
+| Host Name | we know they know we know |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:06:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28612654538878405 |
+| Players | 1/15 |
+| Host Name | autism |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 17:06:34 |
 
 
 |  | epic_boss_fight_normal |
