@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28612654505246921 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | maron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:52 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654504995073 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | アイシテル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654502637473 |
-| Players | 9/10 |
-| Host Name | Frieren <3 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:01:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28612654504848734 |
-| Players | 1/10 |
-| Host Name | ZaZu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:05:09 |
+| Lobby ID | 28612654505902798 |
+| Players | 1/8 |
+| Host Name | WAYNE |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:07:06 |
 
 
 |  | epic_boss_fight_hard |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 马穆特*拉哈尔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:05:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28612654505876391 |
+| Players | 1/10 |
+| Host Name | ZaZu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:07:03 |
 
 
