@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28612654506672095 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Conuter-Sitke 2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:08:35 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28612654506579420 |
-| Players | 9/10 |
-| Host Name | Maganahi |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:08:24 |
+| Lobby ID | 28612654507349648 |
+| Players | 4/10 |
+| Host Name | TG.SlayeR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 17, 2024 16:09:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28612654506936175 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:09:05 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28612654507128599 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | The GayLord |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 17, 2024 16:09:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654507349648 |
-| Players | 4/10 |
-| Host Name | TG.SlayeR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 16:09:53 |
 
 
 |  | epic_boss_fight_normal |
