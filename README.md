@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895309258543 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:19:35 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895309058408 |
-| Players | 4/10 |
-| Host Name | pisechnik |
+| Players | 5/10 |
+| Host Name | self-destruction mode |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:19:14 |
 
@@ -41,28 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895309057773 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ем грязь(заставили) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:19:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895308766907 |
-| Players | 6/10 |
-| Host Name | я не сдам огэ а миша на нем умре |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:18:44 |
+| Lobby ID | 28613895309550880 |
+| Players | 4/15 |
+| Host Name | .neff |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:20:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895309433783 |
+| Lobby ID | 28613895309538635 |
 | Players | 1/8 |
-| Host Name | thank god |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:19:53 |
+| Host Name | Я люблю Bankaigg妖怪 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:20:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895309659410 |
+| Players | 1/8 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:20:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -83,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:19:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895303037868 |
-| Players | 9/10 |
-| Host Name | SlowNope |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:08:58 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28613895309308290 |
-| Players | 3/7 |
-| Host Name | Teava |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:19:40 |
+| Lobby ID | 28613895309583075 |
+| Players | 1/5 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:20:08 |
 
 
