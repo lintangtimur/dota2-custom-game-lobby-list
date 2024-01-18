@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895972731148 |
-| Players | 12/15 |
-| Host Name | Rocco - Davaide and conquer |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 06:25:26 |
+| Lobby ID | 28613895973499611 |
+| Players | 1/8 |
+| Host Name | 病気ragiff ` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 06:27:03 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895972419921 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Walter-sama |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:24:46 |
@@ -68,37 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895970413895 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | The Golden Boy |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:20:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895973093114 |
-| Players | 13/15 |
-| Host Name | KRiS |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:26:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895973269947 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | аппарат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:26:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895973428268 |
-| Players | 5/8 |
-| Host Name | жена на аве (куколка) |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:26:54 |
 
 
 |  | epic_boss_fight_nightmare |
