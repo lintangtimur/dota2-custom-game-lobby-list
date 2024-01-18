@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895353312041 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | zxc_f雨 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:25:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895353882078 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Mugen-sei |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:25:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895348270479 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | зачем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:18:23 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613895354089869 |
 | Players | 3/8 |
-| Host Name | reverse requiem |
+| Host Name | дядя попа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:26:16 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895354087734 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ^.^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:26:16 |
@@ -68,16 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895353091930 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Kukoldsexperience |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:24:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895354268609 |
+| Players | 2/24 |
+| Host Name | trey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:26:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895354290609 |
+| Players | 2/10 |
+| Host Name | reverse requiem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:26:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895353213352 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:25:06 |
