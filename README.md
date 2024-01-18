@@ -2,37 +2,37 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895161830116 |
+| Players | 8/10 |
+| Host Name | Вишневый Ликер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 12:28:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895162444696 |
+| Players | 3/10 |
+| Host Name | JerryLee |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 12:29:35 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895160125753 |
-| Players | 18/24 |
-| Host Name | Garplaf |
+| Lobby ID | 28613895162351375 |
+| Players | 6/24 |
+| Host Name | 사랑해요 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:24:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895160744279 |
-| Players | 6/8 |
-| Host Name | L.Sys~! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 12:25:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895161400891 |
-| Players | 13/15 |
-| Host Name | 001 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 12:27:13 |
+| Lobby Creation Time | Thursday, January 18, 2024 12:29:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895158609555 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, January 18, 2024 12:20:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895162079193 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 12:28:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895159834799 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | devi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:23:43 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895161488527 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | Stepdad with boundary issues |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:27:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895160359994 |
-| Players | 7/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 12:24:52 |
+| Lobby ID | 28613895161736249 |
+| Players | 2/8 |
+| Host Name | s1mple |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 12:27:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,30 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 12:27:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895161830116 |
-| Players | 2/10 |
-| Host Name | Вишневый Ликер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 12:28:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895161736249 |
-| Players | 1/8 |
-| Host Name | s1mple |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:27:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895160626503 |
-| Players | 8/10 |
-| Host Name | -500 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:25:27 |
+| Lobby ID | 28613895162336712 |
+| Players | 4/10 |
+| Host Name | san~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 12:29:20 |
 
 
