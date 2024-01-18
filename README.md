@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:36:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895873824385 |
-| Players | 14/15 |
-| Host Name | 9970- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:38:29 |
+| Lobby ID | 28613895874140705 |
+| Players | 1/8 |
+| Host Name | crmsn turtsakuri^raiikho^kortana |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:38:54 |
 
 
 |  | ot3_gardens_duo |
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:38:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895873818133 |
-| Players | 9/10 |
-| Host Name | qlueqvua |
+| Lobby ID | 28613895873824385 |
+| Players | 14/15 |
+| Host Name | 9970- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:38:28 |
+| Lobby Creation Time | Friday, January 19, 2024 03:38:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895873868269 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Rip van Winkle |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 03:38:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895874140705 |
-| Players | 1/8 |
-| Host Name | crmsn turtsakuri^raiikho^kortana |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:38:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895874162747 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | JOJO- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 03:38:56 |
