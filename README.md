@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895243870600 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:22:00 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:21:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895241925468 |
-| Players | 22/24 |
-| Host Name | squirrel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:18:14 |
+| Lobby ID | 28613895244126311 |
+| Players | 3/10 |
+| Host Name | S1ko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:22:30 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895243574412 |
-| Players | 10/15 |
-| Host Name | МастерКуниБудтоДжубиДжуби |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:21:25 |
+| Lobby ID | 28613895244095717 |
+| Players | 1/24 |
+| Host Name | squirrel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:22:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895243851484 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | bünyamin button |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:21:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895244241030 |
+| Players | 1/15 |
+| Host Name | Бабушкин крадун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:22:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nights |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:15:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895243963757 |
-| Players | 1/5 |
-| Host Name | Q |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:22:11 |
 
 
