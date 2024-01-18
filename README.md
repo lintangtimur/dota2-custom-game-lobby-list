@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895324793823 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | discay prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:44:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895328941921 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | сквиртонит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:50:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895329905195 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | RootinTootinPutin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:51:58 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895329172325 |
-| Players | 1/5 |
-| Host Name | No Life Loser 69 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:50:53 |
+| Lobby ID | 28613895329689393 |
+| Players | 2/5 |
+| Host Name | StIngeR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:51:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LaZaR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:48:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895329689393 |
-| Players | 2/5 |
-| Host Name | StIngeR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:51:39 |
 
 
