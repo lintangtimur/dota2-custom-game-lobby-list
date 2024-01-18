@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895917319808 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | mr.Edgar |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 04:42:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895917551224 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | EL GUANO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:42:42 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:44:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895918155026 |
-| Players | 7/8 |
-| Host Name | KcSmR |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:43:42 |
+| Lobby ID | 28613895918917132 |
+| Players | 7/10 |
+| Host Name | ауе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:44:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895917092102 |
-| Players | 21/24 |
-| Host Name | RiftBreaker |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:41:56 |
+| Lobby ID | 28613895918878894 |
+| Players | 7/15 |
+| Host Name | jopa_popa_228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:44:53 |
 
 
 |  | ot3_desert_octet |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:44:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895918878894 |
-| Players | 3/15 |
-| Host Name | jopa_popa_228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:44:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895918543769 |
-| Players | 7/10 |
-| Host Name | Devilaugh |
+| Lobby ID | 28613895919100971 |
+| Players | 2/5 |
+| Host Name | Min_Z_Draw |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:44:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895918917132 |
-| Players | 2/10 |
-| Host Name | ауе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:44:57 |
+| Lobby Creation Time | Friday, January 19, 2024 04:45:15 |
 
 
