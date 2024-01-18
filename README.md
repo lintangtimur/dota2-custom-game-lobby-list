@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895246127322 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:26:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895244095717 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:22:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
@@ -40,44 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895246195890 |
-| Players | 1/15 |
-| Host Name | Бiльна Бэльна |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:26:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895246204007 |
-| Players | 11/15 |
-| Host Name | Sm00Zie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:26:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28613895246611139 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Lodine |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:27:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895240524333 |
-| Players | 9/10 |
-| Host Name | nights |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:15:28 |
+| Lobby ID | 28613895243870600 |
+| Players | 23/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:22:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895246142738 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | koey poon mai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:26:19 |
