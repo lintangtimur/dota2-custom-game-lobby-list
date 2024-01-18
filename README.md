@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895384988928 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | discay prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:05:24 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895384869307 |
-| Players | 7/10 |
-| Host Name | THE LONELIEST |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, January 18, 2024 19:05:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895385096777 |
-| Players | 7/10 |
-| Host Name | парашют sоли |
+| Lobby ID | 28613895385683095 |
+| Players | 3/10 |
+| Host Name | I am the best way to kill myself |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:05:32 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:06:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895385145693 |
+| Players | 11/15 |
+| Host Name | koni |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:05:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895382798998 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | URektEm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:02:49 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895385026586 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | JoKoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:05:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895385145693 |
-| Players | 7/15 |
-| Host Name | koni |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:05:35 |
 
 
 |  | epic_boss_fight_nightmare |
