@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895895983062 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | zmhute |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:09:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895893903792 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | DOGGUIS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:06:39 |
@@ -85,24 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895895922134 |
-| Players | 8/10 |
-| Host Name | Umbrella |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:09:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895896092353 |
-| Players | 3/15 |
-| Host Name | TAЩEP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:09:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28613895896141415 |
 | Players | 1/10 |
 | Host Name | Manguito |
@@ -110,13 +92,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:09:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895896092353 |
+| Players | 1/15 |
+| Host Name | Candy Shop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:09:47 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895896171556 |
+| Lobby ID | 28613895896267399 |
 | Players | 5/8 |
-| Host Name | Eucliwood |
+| Host Name | ᚤᚳᛊᚷ_ᛖᚤᚹᚳᛜᚴ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 04:10:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895896271103 |
+| Players | 5/8 |
+| Host Name | InsulinEnjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:09:54 |
+| Lobby Creation Time | Friday, January 19, 2024 04:10:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895896275703 |
+| Players | 1/10 |
+| Host Name | opium gang |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:10:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895896305894 |
+| Players | 1/24 |
+| Host Name | sly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:10:06 |
 
 
 |  | epic_boss_fight_nightmare |
