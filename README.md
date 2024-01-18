@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895324582350 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | курил wilsacom |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:44:00 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:44:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895323226172 |
-| Players | 23/24 |
-| Host Name | Kang Haerin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:41:50 |
+| Lobby ID | 28613895325263241 |
+| Players | 1/15 |
+| Host Name | еБЕНЬ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:45:02 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:44:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895325263241 |
-| Players | 1/15 |
-| Host Name | еБЕНЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:45:02 |
+| Lobby ID | 28613895325330421 |
+| Players | 2/24 |
+| Host Name | Witch King of Angmar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:45:08 |
 
 
 |  | epic_boss_fight_normal |
