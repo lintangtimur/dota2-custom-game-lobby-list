@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:59:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895263814977 |
-| Players | 21/24 |
-| Host Name | ☭Fuck Bluehole Inc |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, January 18, 2024 15:59:12 |
+| Lobby ID | 28613895264477491 |
+| Players | 4/8 |
+| Host Name | ^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:00:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895264350648 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:00:11 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895263904283 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | destier |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:59:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895264177350 |
-| Players | 1/24 |
-| Host Name | chudai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:59:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895264477491 |
-| Players | 2/8 |
-| Host Name | ^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:00:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895261865423 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Миликанес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:55:34 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895262048430 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:55:56 |
