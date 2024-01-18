@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895206513457 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:06:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895203093734 |
-| Players | 12/15 |
-| Host Name | Wonk |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 18, 2024 13:59:34 |
+| Lobby ID | 28613895207723803 |
+| Players | 2/8 |
+| Host Name | Out of matrix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 14:09:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895200740734 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 13:54:28 |
@@ -49,28 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895207131379 |
-| Players | 4/10 |
-| Host Name | hehe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:07:56 |
+| Lobby ID | 28613895207867915 |
+| Players | 1/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 14:09:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895206858913 |
-| Players | 7/15 |
-| Host Name | andreyvinogradoff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:07:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895207549660 |
-| Players | 1/5 |
-| Host Name | sigma 120 fps |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:08:47 |
+| Lobby ID | 28613895207803616 |
+| Players | 2/10 |
+| Host Name | Hello |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 14:09:19 |
 
 
