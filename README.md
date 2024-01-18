@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895342550592 |
-| Players | 6/10 |
-| Host Name | bmw1l0ve |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:10:24 |
+| Lobby ID | 28613895343205260 |
+| Players | 6/24 |
+| Host Name | Diamond Fish sauce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:11:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895341673493 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | 姫森ルーナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:09:07 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895343090450 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | дота не мое |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:11:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895343205260 |
-| Players | 6/24 |
-| Host Name | Diamond Fish sauce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:11:21 |
+| Lobby ID | 28613895343536035 |
+| Players | 1/10 |
+| Host Name | Buğra |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:11:51 |
 
 
 |  | epic_boss_fight_nightmare |
