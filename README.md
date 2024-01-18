@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895861031963 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | PandaPalm |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 03:21:44 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895865213434 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Josh D' Médici |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:27:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895865983044 |
+| Players | 1/8 |
+| Host Name | EmberSoul |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895865976774 |
+| Players | 7/15 |
+| Host Name | M A C A C O |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895866033611 |
+| Players | 6/8 |
+| Host Name | Mr.JUANExx |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895863531861 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ReCors |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 03:24:56 |
