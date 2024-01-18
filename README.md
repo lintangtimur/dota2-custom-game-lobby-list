@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895189516593 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | sana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:29:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895168964671 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | |σ7σ7| Tyrael |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:44:27 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895190408496 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | еврей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 13:31:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895190861682 |
-| Players | 2/15 |
-| Host Name | 100 ОЧКОВ СКУФФЕНДОРУ!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 13:32:42 |
+| Lobby ID | 28613895190438686 |
+| Players | 2/24 |
+| Host Name | Mahoraga |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 13:31:46 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895190354512 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Lion the onLIONe |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 13:31:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895190645119 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Atlas Troll |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 13:32:13 |
@@ -76,26 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895190414614 |
-| Players | 6/10 |
-| Host Name | Dyrachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 13:31:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895190438686 |
-| Players | 3/24 |
-| Host Name | Mahoraga |
+| Lobby ID | 28613895189911823 |
+| Players | 9/10 |
+| Host Name | ld |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 13:31:46 |
+| Lobby Creation Time | Thursday, January 18, 2024 13:30:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895189526424 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | It doesn't matter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 13:29:50 |
