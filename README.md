@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895427050224 |
-| Players | 9/10 |
-| Host Name | mlq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:50:29 |
+| Lobby ID | 28613895430277973 |
+| Players | 10/15 |
+| Host Name | PT na nezhnost'♥ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:53:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895426538258 |
-| Players | 5/24 |
-| Host Name | datu_MAHABARATBU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:50:00 |
+| Lobby ID | 28613895429641139 |
+| Players | 7/8 |
+| Host Name | '🐺🐺🐺 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 19:53:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,28 +40,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895426303849 |
-| Players | 2/10 |
-| Host Name | WINDAR |
+| Lobby ID | 28613895429172035 |
+| Players | 6/10 |
+| Host Name | 谁 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, January 18, 2024 19:52:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895429055274 |
+| Players | 5/24 |
+| Host Name | Joker |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 19:49:46 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:52:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895423757996 |
-| Players | 3/10 |
-| Host Name | lE-nal wairo13 |
+| Lobby ID | 28613895431030344 |
+| Players | 4/10 |
+| Host Name | GENERAL7UP |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:54:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895430501752 |
+| Players | 1/5 |
+| Host Name | troffi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:47:31 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:53:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895425100292 |
-| Players | 2/10 |
-| Host Name | 谜兔 |
+| Lobby ID | 28613895429738474 |
+| Players | 3/10 |
+| Host Name | GAGA |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:48:41 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:53:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895429801829 |
+| Players | 1/10 |
+| Host Name | 600 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:53:12 |
 
 
