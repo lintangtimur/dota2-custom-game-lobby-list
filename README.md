@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895587563055 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Chevrolet Impala |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 22:22:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895587792604 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | afkn't |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 22:22:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895579289240 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Вечная весна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 22:13:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895582962090 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | MarcleanCxz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 22:17:31 |
@@ -49,73 +49,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895588178454 |
-| Players | 3/8 |
-| Host Name | toxic+critic |
+| Lobby ID | 28613895588862973 |
+| Players | 4/8 |
+| Host Name | CloseEyes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:22:39 |
+| Lobby Creation Time | Thursday, January 18, 2024 22:23:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895589262864 |
+| Players | 8/10 |
+| Host Name | sotadeespada |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 22:23:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895586000867 |
-| Players | 16/24 |
-| Host Name | 渦幕 |
+| Lobby ID | 28613895589487711 |
+| Players | 2/24 |
+| Host Name | IM A TREE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 22:20:30 |
+| Lobby Creation Time | Thursday, January 18, 2024 22:23:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895587969384 |
-| Players | 12/15 |
-| Host Name | Lesh4 |
+| Lobby ID | 28613895589231773 |
+| Players | 14/15 |
+| Host Name | pukish❤️kakish |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:22:27 |
+| Lobby Creation Time | Thursday, January 18, 2024 22:23:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895587124118 |
-| Players | 9/10 |
-| Host Name | Cursor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:21:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895587560397 |
-| Players | 3/8 |
-| Host Name | E1ched |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:22:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895587992692 |
-| Players | 3/10 |
-| Host Name | Pablo de los BackYordiganz 2.0 |
+| Lobby ID | 28613895589568176 |
+| Players | 1/10 |
+| Host Name | UY QUE RICOO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 22:22:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895588184861 |
-| Players | 1/8 |
-| Host Name | ähm…relatable nvm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:22:40 |
+| Lobby Creation Time | Thursday, January 18, 2024 22:24:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895584496061 |
-| Players | 5/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 22:19:01 |
+| Lobby ID | 28613895588909268 |
+| Players | 6/10 |
+| Host Name | BuduCapTere |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 22:23:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895589325197 |
+| Players | 1/5 |
+| Host Name | Sneaky sneaky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 22:23:47 |
 
 
