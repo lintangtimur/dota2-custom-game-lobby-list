@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895429055274 |
-| Players | 21/24 |
-| Host Name | Woke |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 19:52:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895453591375 |
-| Players | 4/8 |
-| Host Name | EbANыЙ XyECOC.123? |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:17:19 |
+| Lobby ID | 28613895454771221 |
+| Players | 3/8 |
+| Host Name | папа я дрочу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 20:18:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895454644864 |
+| Players | 9/10 |
+| Host Name | SMQLIKBSLQ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 20:18:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,48 +47,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 20:17:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895453206350 |
-| Players | 2/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:16:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895453997545 |
-| Players | 8/24 |
+| Players | 20/24 |
 | Host Name | Smile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:17:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895448055718 |
-| Players | 2/10 |
-| Host Name | KNИggA |
+| Lobby ID | 28613895454873900 |
+| Players | 5/8 |
+| Host Name | Жиробас-котакбас |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:11:54 |
+| Lobby Creation Time | Thursday, January 18, 2024 20:18:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895454878213 |
+| Players | 9/15 |
+| Host Name | valarmorghulis |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 20:18:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895455241381 |
+| Players | 2/10 |
+| Host Name | ariake |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 20:18:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895453796911 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WinterStephano<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:17:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895446487441 |
-| Players | 4/5 |
-| Host Name | Born on a Monday |
+| Lobby ID | 28613895454757012 |
+| Players | 3/10 |
+| Host Name | KNИggA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:10:19 |
+| Lobby Creation Time | Thursday, January 18, 2024 20:18:28 |
 
 
