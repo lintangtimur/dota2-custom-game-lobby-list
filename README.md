@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 11:08:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895142300771 |
-| Players | 1/15 |
-| Host Name | TurbA |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, January 18, 2024 11:43:59 |
+| Lobby ID | 28613895141809099 |
+| Players | 8/24 |
+| Host Name | CHUPETIN |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 11:42:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895140355370 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 11:39:33 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895138752557 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 11:36:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895141551473 |
-| Players | 7/8 |
-| Host Name | KASHA_MANNAY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 11:42:18 |
+| Lobby ID | 28613895142047073 |
+| Players | 10/15 |
+| Host Name | SpearoftheChurch |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 11:43:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 11:43:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895139760224 |
-| Players | 9/10 |
-| Host Name | El whiskas |
+| Lobby ID | 28613895142384626 |
+| Players | 3/8 |
+| Host Name | Ｓｌａｙ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 11:38:13 |
+| Lobby Creation Time | Thursday, January 18, 2024 11:44:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895141809099 |
-| Players | 2/24 |
-| Host Name | CHUPETIN |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 11:42:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895142047073 |
-| Players | 6/15 |
-| Host Name | SpearoftheChurch |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 11:43:24 |
+| Lobby ID | 28613895142575935 |
+| Players | 1/8 |
+| Host Name | _Йога_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 11:44:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895142308188 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | bH@bh13_kHuL0tzX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 11:44:00 |
