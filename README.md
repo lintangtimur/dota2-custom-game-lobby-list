@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895313535110 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 🐋Ne_Kit🐋 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:26:41 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895314382229 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:28:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895314615961 |
+| Players | 1/15 |
+| Host Name | yahweh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:28:24 |
 
 
 |  | epic_boss_fight_nightmare |
