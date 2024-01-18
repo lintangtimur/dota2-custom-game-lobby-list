@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895908774320 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 04:28:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895909444752 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | S̵̈̎͋͠arcastic autist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:29:55 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:29:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895909457179 |
-| Players | 3/15 |
-| Host Name | TAPAKAH BOBAH |
+| Lobby ID | 28613895909659196 |
+| Players | 6/10 |
+| Host Name | 21 plus |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 04:30:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895909619896 |
+| Players | 1/8 |
+| Host Name | vanyuwa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:29:56 |
+| Lobby Creation Time | Friday, January 19, 2024 04:30:11 |
 
 
 |  | epic_boss_fight_hard |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ผีหลอกวิญญาณหลอน |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 04:28:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895909022791 |
-| Players | 2/5 |
-| Host Name | Makkonnammi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:29:16 |
 
 
