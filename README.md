@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895281721311 |
-| Players | 9/10 |
-| Host Name | casadh |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, January 18, 2024 16:31:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895283532536 |
-| Players | 1/5 |
-| Host Name | ЛАВОВЫЙ ГЕРОНЧИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:34:53 |
+| Lobby ID | 28613895282781166 |
+| Players | 5/10 |
+| Host Name | Soos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:33:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:31:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895282781166 |
-| Players | 5/10 |
-| Host Name | Soos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:33:32 |
+| Lobby ID | 28613895283694402 |
+| Players | 1/5 |
+| Host Name | ЛАВОВЫЙ ГЕРОНЧИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:35:10 |
 
 
