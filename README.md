@@ -22,47 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895355755863 |
-| Players | 1/8 |
-| Host Name | Яйиченько |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:28:31 |
+| Lobby ID | 28613895386225399 |
+| Players | 3/8 |
+| Host Name | bungee |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:06:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895385683095 |
-| Players | 9/10 |
-| Host Name | I am the best way to kill myself |
+| Lobby ID | 28613895386518414 |
+| Players | 8/10 |
+| Host Name | like a G6.雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:06:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895382798998 |
-| Players | 22/24 |
-| Host Name | URektEm |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:02:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895380772144 |
-| Players | 1/15 |
-| Host Name | 宰猪超人 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:00:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895386225399 |
-| Players | 2/8 |
-| Host Name | bungee |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:06:51 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:07:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,26 +49,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895386424255 |
-| Players | 9/15 |
-| Host Name | MiC4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:07:05 |
+| Lobby ID | 28613895380772144 |
+| Players | 1/15 |
+| Host Name | 宰猪超人 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:00:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895386518414 |
-| Players | 2/10 |
-| Host Name | like a G6.雨 |
+| Lobby ID | 28613895386939277 |
+| Players | 2/15 |
+| Host Name | Mbg's out |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, January 18, 2024 19:07:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895387092212 |
+| Players | 3/15 |
+| Host Name | Clown #2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:07:12 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:07:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895384180130 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | | Friend | |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:04:27 |
