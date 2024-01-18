@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895864167134 |
-| Players | 9/15 |
-| Host Name | Лизочка |
+| Lobby ID | 28613895864418380 |
+| Players | 1/10 |
+| Host Name | На запавшем языке |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:25:45 |
+| Lobby Creation Time | Friday, January 19, 2024 03:26:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895862884716 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EMOCHU |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:24:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895864060628 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ♥Road To 7k♥→It's a dream |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 03:25:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895863094504 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:24:22 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:25:02 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895864367832 |
-| Players | 5/8 |
-| Host Name | 卡度小乖 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, January 19, 2024 03:26:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895860951549 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ChowChow |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 03:21:38 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | retro.exe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 03:25:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895864360436 |
-| Players | 2/5 |
-| Host Name | Апельс Legends |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:26:00 |
 
 
