@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895371722823 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | *[U]riEL* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:49:23 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895368218464 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:44:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895371606868 |
-| Players | 3/8 |
-| Host Name | ней бегров |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:49:14 |
+| Lobby ID | 28613895372316326 |
+| Players | 5/10 |
+| Host Name | uwauwabavo |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:50:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895369098015 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | 私は肉便器です! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:46:06 |
@@ -94,29 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895371687346 |
-| Players | 3/8 |
-| Host Name | Егор Метеор |
+| Lobby ID | 28613895372413977 |
+| Players | 1/8 |
+| Host Name | Skif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:49:20 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:50:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895371963986 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Deader |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:49:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895372197530 |
-| Players | 2/8 |
-| Host Name | Goldie DL |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:49:59 |
+| Lobby ID | 28613895372238677 |
+| Players | 2/10 |
+| Host Name | God Of Shit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:50:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Godbless |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:46:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895371429858 |
-| Players | 2/5 |
-| Host Name | бигбой 3 сотни |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:49:01 |
 
 
