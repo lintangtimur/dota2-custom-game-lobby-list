@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895415001972 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:38:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895402953610 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Sometimes Serious Phantom |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:25:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895416826136 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:40:36 |
@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 19:39:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895417245711 |
+| Players | 7/10 |
+| Host Name | маша два баша |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:41:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895416341321 |
-| Players | 7/8 |
-| Host Name | CengizHan |
+| Lobby ID | 28613895417375498 |
+| Players | 4/8 |
+| Host Name | 米克 |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:40:05 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:41:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895417423899 |
+| Players | 1/8 |
+| Host Name | МЕЙН 300ММР |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:41:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895417464804 |
+| Players | 1/10 |
+| Host Name | ymy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 19:41:18 |
 
 
 |  | epic_boss_fight_normal |
