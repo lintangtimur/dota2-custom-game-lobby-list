@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895432903633 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | ☁ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:56:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895439164330 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Pikaia, The Allfather |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:02:53 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895439444687 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Максим турель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 20:03:11 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895435014346 |
+| Players | 22/24 |
+| Host Name | Oh29 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:58:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895432919381 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 19:56:26 |
