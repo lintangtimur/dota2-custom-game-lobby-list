@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895429055274 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Woke |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 19:52:27 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895435014346 |
-| Players | 23/24 |
-| Host Name | Oh29 |
+| Lobby ID | 28613895437593056 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:58:37 |
+| Lobby Creation Time | Thursday, January 18, 2024 20:01:16 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 20:00:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895437593056 |
-| Players | 5/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:01:16 |
 
 
 |  | epic_boss_fight_nightmare |
