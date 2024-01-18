@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895303366758 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Curze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:09:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895294076180 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | discay prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:53:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895298936551 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 17:01:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895303333661 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | PAIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:09:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895303456125 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | cry.LO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:09:42 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895303562113 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Analyze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:09:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895303686107 |
+| Players | 1/15 |
+| Host Name | quintanaluisarmando1 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 17:10:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895303708857 |
+| Players | 1/15 |
+| Host Name | ля франсе? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:10:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895303763960 |
+| Players | 1/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:10:14 |
 
 
 |  | epic_boss_fight_nightmare |
