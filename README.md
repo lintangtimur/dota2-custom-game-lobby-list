@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895537335357 |
-| Players | 14/24 |
-| Host Name | ~Djeeta~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 21:34:52 |
+| Lobby ID | 28613895541754081 |
+| Players | 1/15 |
+| Host Name | sky spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 21:39:01 |
 
 
 |  | ot3_desert_octet |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895540062172 |
-| Players | 5/10 |
-| Host Name | [БЛЭТ]Shopoliope |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 21:37:26 |
+| Lobby ID | 28613895541186832 |
+| Players | 7/10 |
+| Host Name | Sim |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 21:38:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895540347823 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ArteЖ ® |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, January 18, 2024 21:37:42 |
@@ -58,35 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895540271912 |
-| Players | 5/8 |
-| Host Name | Aylardex Vlael |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 21:37:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895540350481 |
-| Players | 7/15 |
-| Host Name | не негр |
+| Lobby ID | 28613895540032421 |
+| Players | 4/8 |
+| Host Name | ベルセルク(死) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 21:37:42 |
+| Lobby Creation Time | Thursday, January 18, 2024 21:37:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895534154750 |
-| Players | 7/8 |
-| Host Name | Гриша киса |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 21:31:53 |
+| Lobby ID | 28613895540984776 |
+| Players | 5/8 |
+| Host Name | Natalann |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 21:38:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895536616712 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Vincenzo Cassano |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 21:34:12 |
