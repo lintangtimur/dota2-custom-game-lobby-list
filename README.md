@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895273625288 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Yo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Koamaru |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -47,28 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895274264958 |
-| Players | 9/10 |
-| Host Name | Ruiner{SoSka} |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:18:22 |
+| Lobby ID | 28613895276425706 |
+| Players | 1/15 |
+| Host Name | 狐狸 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, January 18, 2024 16:22:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895276253809 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | GhasT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:21:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895276511071 |
+| Players | 5/8 |
+| Host Name | DanTe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:22:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895270045020 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | bse4poli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:10:40 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895275691263 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Izumiiiiiiiiii<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:56 |
