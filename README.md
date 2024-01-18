@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895913342161 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ｌｅｍｏｎｓ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:35:58 |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895912957989 |
-| Players | 1/24 |
-| Host Name | это не моя жизнь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:35:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895912216598 |
-| Players | 18/24 |
-| Host Name | Stephano Martinez Mendoza |
+| Lobby ID | 28613895913880763 |
+| Players | 1/8 |
+| Host Name | _CANCER_ |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:34:11 |
+| Lobby Creation Time | Friday, January 19, 2024 04:36:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895913513882 |
+| Players | 2/8 |
+| Host Name | easy bot 2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:36:14 |
 
 
 |  | ot3_desert_octet |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895913064038 |
-| Players | 10/15 |
-| Host Name | Soofe |
+| Lobby ID | 28613895913586184 |
+| Players | 11/15 |
+| Host Name | lfy |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:35:31 |
+| Lobby Creation Time | Friday, January 19, 2024 04:36:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895912828685 |
-| Players | 9/15 |
-| Host Name | Pain is my fuel |
+| Lobby ID | 28613895913914594 |
+| Players | 1/10 |
+| Host Name | Device |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:35:08 |
+| Lobby Creation Time | Friday, January 19, 2024 04:36:52 |
 
 
 |  | ot3_gardens_duo |
@@ -74,37 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:35:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895913111291 |
-| Players | 2/10 |
-| Host Name | /-|-\Liquid_M1nd/-|-\ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:35:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895913433808 |
-| Players | 5/24 |
-| Host Name | Eucliwood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:36:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895910112591 |
-| Players | 7/10 |
-| Host Name | KiJo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:30:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895909959201 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 04:30:42 |
