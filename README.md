@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895957850508 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | HackFlow |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:54:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895957684495 |
-| Players | 5/8 |
-| Host Name | Чербамбемба |
+| Lobby ID | 28613895958172468 |
+| Players | 8/10 |
+| Host Name | Weak - 弱い |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 05:54:29 |
+| Lobby Creation Time | Friday, January 19, 2024 05:55:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895956085345 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 05:51:18 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895957738076 |
-| Players | 12/24 |
+| Players | 21/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:54:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895957468499 |
-| Players | 3/8 |
-| Host Name | Records |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:54:03 |
+| Lobby ID | 28613895958003226 |
+| Players | 3/24 |
+| Host Name | The Turn Tabler |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 05:55:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895957789015 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 05:54:41 |
@@ -94,37 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895957930905 |
+| Lobby ID | 28613895958425822 |
 | Players | 1/15 |
-| Host Name | Mr.Freeman |
+| Host Name | Gucci |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:54:57 |
+| Lobby Creation Time | Friday, January 19, 2024 05:55:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895957945024 |
-| Players | 7/10 |
-| Host Name | entha1py |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:54:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895958003226 |
-| Players | 1/24 |
-| Host Name | The Turn Tabler |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 05:55:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895956224913 |
-| Players | 7/10 |
-| Host Name | Kubisko |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:51:35 |
+| Lobby ID | 28613895958459443 |
+| Players | 3/8 |
+| Host Name | QWEEER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:56:00 |
 
 
