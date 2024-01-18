@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895384988928 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | discay prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:05:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895391156064 |
-| Players | 7/15 |
-| Host Name | Osirius |
+| Lobby ID | 28613895391487930 |
+| Players | 5/10 |
+| Host Name | UnclePecos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:12:35 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:12:58 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895390247956 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ГИНЕКОЛОГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:11:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895389237649 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | KENGisREAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:10:19 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 19:12:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895391487930 |
-| Players | 1/10 |
-| Host Name | UnclePecos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:12:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895389628357 |
-| Players | 9/10 |
-| Host Name | 谜兔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:10:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895390520677 |
-| Players | 1/5 |
-| Host Name | Огурчик Абдул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:11:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895391497000 |
@@ -99,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Godbless |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:12:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895390520677 |
+| Players | 2/5 |
+| Host Name | Огурчик Абдул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 19:11:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895391743748 |
+| Players | 2/10 |
+| Host Name | mrllano |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:13:16 |
 
 
