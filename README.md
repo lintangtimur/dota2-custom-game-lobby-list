@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:07:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895302457218 |
-| Players | 6/15 |
-| Host Name | неумехапелемеха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:07:59 |
+| Lobby ID | 28613895302704579 |
+| Players | 1/8 |
+| Host Name | Analyze |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:24 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895298936551 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 17:01:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895301327960 |
-| Players | 14/15 |
-| Host Name | H3lix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:06:03 |
+| Lobby ID | 28613895302682477 |
+| Players | 3/8 |
+| Host Name | Ваня банбентон |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,19 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:08:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895302094944 |
-| Players | 1/10 |
-| Host Name | Your Idol (Nya) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:07:21 |
+| Lobby ID | 28613895302667736 |
+| Players | 5/10 |
+| Host Name | BWC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895302669567 |
+| Players | 3/8 |
+| Host Name | WaylWe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895302772392 |
+| Players | 4/15 |
+| Host Name | Qx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895301205891 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PAIN AKATSUKI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:05:50 |
