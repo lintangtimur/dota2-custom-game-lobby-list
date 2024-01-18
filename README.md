@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:54:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895297452545 |
-| Players | 14/15 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 16:59:23 |
+| Lobby ID | 28613895297705342 |
+| Players | 10/24 |
+| Host Name | Yupzor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:59:49 |
 
 
 |  | ot3_desert_octet |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895295413954 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ученик таланта |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:55:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895296565827 |
-| Players | 9/10 |
-| Host Name | sander |
+| Lobby ID | 28613895297897533 |
+| Players | 3/15 |
+| Host Name | 完全 |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:57:51 |
+| Lobby Creation Time | Thursday, January 18, 2024 17:00:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895297705342 |
-| Players | 3/24 |
-| Host Name | Yupzor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:59:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895297827223 |
-| Players | 3/8 |
-| Host Name | i think i lost something |
+| Lobby ID | 28613895297898836 |
+| Players | 1/15 |
+| Host Name | GhasT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:00:02 |
+| Lobby Creation Time | Thursday, January 18, 2024 17:00:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895297085551 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Helpi™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:58:45 |
