@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895974422410 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | wasted |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:29:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895974417844 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:29:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895974757457 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ORiGiNAL |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:29:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895974316274 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | штора |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:28:47 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | White Nigga |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:22:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895974892051 |
+| Players | 3/15 |
+| Host Name | 아스켈라드 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 06:30:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895974928320 |
+| Players | 1/8 |
+| Host Name | Yosep Santillan |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:30:05 |
 
 
 |  | epic_boss_fight_nightmare |
