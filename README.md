@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:26:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895245756233 |
-| Players | 7/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:25:36 |
+| Lobby ID | 28613895246509772 |
+| Players | 2/8 |
+| Host Name | Kano |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:27:00 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895246204007 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Sm00Zie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:26:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895246509772 |
-| Players | 2/8 |
-| Host Name | Kano |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:27:00 |
+| Lobby ID | 28613895246611139 |
+| Players | 1/15 |
+| Host Name | Lodine |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:27:12 |
 
 
 |  | epic_boss_fight_nightmare |
