@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895858652910 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | wook |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 03:18:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895946385173 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Me and 23 dogs |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:32:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895946097900 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Snow |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:32:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895946439714 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Kawaii Tolkien Black Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 05:32:42 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ALİŞAN |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:33:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895947146893 |
+| Players | 7/15 |
+| Host Name | Члены? Пробовал! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 05:34:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895947177366 |
+| Players | 1/8 |
+| Host Name | Андрюша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:34:04 |
 
 
 |  | epic_boss_fight_nightmare |
