@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895327094264 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | HypnotizeX |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 17:47:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895337239603 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | поляна |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:02:47 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 18:02:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895337331360 |
-| Players | 2/10 |
-| Host Name | Трахаю |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 18:02:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895337365780 |
+| Lobby ID | 28613895337555538 |
 | Players | 1/15 |
-| Host Name | PrIkoL`nAyA_GeRLa |
+| Host Name | Roy Kent |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:02:58 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:03:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895333243123 |
-| Players | 4/5 |
-| Host Name | Born on a Monday |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:56:55 |
+| Lobby ID | 28613895337605673 |
+| Players | 1/8 |
+| Host Name | scottishfold |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:03:20 |
 
 
 |  | epic_boss_fight_nightmare |
