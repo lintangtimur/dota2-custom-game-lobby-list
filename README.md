@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895277148868 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:23:32 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895275315423 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895276570793 |
-| Players | 7/8 |
-| Host Name | ира где рапира |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:22:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Пуджино Дэ Капоне |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:23:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895277441588 |
+| Players | 1/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 16:24:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вечный Жид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:15:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895277498144 |
+| Players | 1/10 |
+| Host Name | Hermes |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:24:10 |
 
 
