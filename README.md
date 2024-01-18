@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895238528584 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:11:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895239739689 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Mech |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:13:52 |
@@ -58,35 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895239559458 |
-| Players | 3/8 |
-| Host Name | я тебе в кадык сра |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:13:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28613895239735848 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Sulla MC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:13:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895239734163 |
-| Players | 1/8 |
-| Host Name | zxcruna |
+| Lobby ID | 28613895240260162 |
+| Players | 6/10 |
+| Host Name | северное сияние |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:13:51 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:14:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895239539479 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:13:28 |
