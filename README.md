@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895879855602 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | Mortacci tua |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 03:46:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895879778412 |
-| Players | 6/10 |
-| Host Name | BBC-Special |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:46:45 |
+| Lobby ID | 28613895879857593 |
+| Players | 1/15 |
+| Host Name | Shan'do |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:46:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895877777300 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Patrick Squarepants |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 03:43:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895877447191 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | TRIKUorTRACK |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:43:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895871685509 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | pene de mono |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:35:38 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STaR SHine |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 03:44:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895879764471 |
-| Players | 5/8 |
-| Host Name | панкуха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:46:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895879857593 |
-| Players | 1/15 |
-| Host Name | Shan'do |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:46:51 |
 
 
 |  | epic_boss_fight_hard |
