@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895968200809 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Cypher |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:15:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895969611735 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Daddy Cool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:18:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895968335295 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:16:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895969226898 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Nutela |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:18:03 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895969451758 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ohayo ! |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:18:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895969680745 |
-| Players | 1/10 |
-| Host Name | ''Yahiiko'' |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 06:19:00 |
+| Lobby ID | 28613895969715411 |
+| Players | 7/15 |
+| Host Name | Mirakuru |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 06:19:04 |
 
 
 |  | epic_boss_fight_nightmare |
