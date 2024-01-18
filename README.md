@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895257929778 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:48:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895261484015 |
-| Players | 1/8 |
-| Host Name | vigitable |
+| Lobby ID | 28613895261819584 |
+| Players | 9/10 |
+| Host Name | enternal despair loser |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:54:51 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:55:29 |
 
 
 |  | ot3_gardens_duo |
@@ -32,34 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 3/24 |
-| Host Name | dNische_ |
+| Players | 2/24 |
+| Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895260862670 |
-| Players | 7/8 |
-| Host Name | acsess |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:53:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895261819584 |
-| Players | 8/10 |
-| Host Name | enternal despair loser |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:55:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895262415381 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | anime=lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:56:38 |
@@ -86,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895262048430 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:55:56 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28613895262821133 |
-| Players | 1/7 |
-| Host Name | FaMily. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:57:23 |
 
 
