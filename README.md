@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895263825734 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:59:14 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895270951759 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Еслибогсуществуе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:12:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895268816102 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:08:24 |
@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895271012633 |
-| Players | 11/24 |
+| Players | 23/24 |
 | Host Name | ライフィセット |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:12:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895272662270 |
-| Players | 5/8 |
-| Host Name | かcса#2 |
+| Lobby ID | 28613895272978406 |
+| Players | 4/10 |
+| Host Name | mq_qqqqqqqqqq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:15:29 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:16:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895272885657 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | empathy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:15:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895272890886 |
-| Players | 2/10 |
-| Host Name | Only passives on my team...? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 16:15:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895272978406 |
-| Players | 2/10 |
-| Host Name | mq_qqqqqqqqqq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:16:04 |
+| Lobby ID | 28613895273483216 |
+| Players | 2/15 |
+| Host Name | Hail Mary |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:16:58 |
 
 
 |  | epic_boss_fight_nightmare |
