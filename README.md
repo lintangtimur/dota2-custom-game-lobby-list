@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895168631308 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:43:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895167448867 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:41:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895168964671 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | stomp >> dive >> feed >> repeat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:44:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895168712502 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | ji es blya 血(daesa) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:43:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895168870701 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | AEA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:44:14 |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895168895141 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Br0ker |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:44:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895169160417 |
-| Players | 1/10 |
-| Host Name | OneDay |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 18, 2024 12:44:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895168939387 |
-| Players | 1/5 |
-| Host Name | ChildZeus |
+| Lobby ID | 28613895169203104 |
+| Players | 3/15 |
+| Host Name | PewPewWWS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 12:44:23 |
+| Lobby Creation Time | Thursday, January 18, 2024 12:44:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895169378553 |
+| Players | 1/10 |
+| Host Name | DEADPOOL |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 12:45:22 |
 
 
