@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:07:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895302704579 |
-| Players | 1/8 |
-| Host Name | Analyze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:08:24 |
+| Lobby ID | 28613895302772392 |
+| Players | 8/15 |
+| Host Name | Qx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895294076180 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | discay prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:53:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895298936551 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 17:01:57 |
@@ -77,27 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895302669567 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | WaylWe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:08:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895302772392 |
-| Players | 4/15 |
-| Host Name | Qx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:08:31 |
+| Lobby ID | 28613895303097421 |
+| Players | 1/24 |
+| Host Name | Analyze |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:09:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895301205891 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | PAIN AKATSUKI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:05:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895303037868 |
+| Players | 1/10 |
+| Host Name | SlowNope |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:08:58 |
 
 
