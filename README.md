@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895438393052 |
-| Players | 7/8 |
-| Host Name | bury your family?? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:02:06 |
+| Lobby ID | 28613895439331662 |
+| Players | 2/8 |
+| Host Name | МЕЙН 300ММР |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 20:03:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895437593056 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:01:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895432903633 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ☁ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:56:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895439164330 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Pikaia, The Allfather |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:02:53 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 20:02:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895439444687 |
+| Players | 1/8 |
+| Host Name | Максим турель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 20:03:11 |
 
 
 |  | epic_boss_fight_nightmare |
