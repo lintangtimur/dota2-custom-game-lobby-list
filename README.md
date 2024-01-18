@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895248515312 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:30:45 |
@@ -56,39 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:28:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895247122346 |
-| Players | 9/10 |
-| Host Name | AdrenalineRush |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:28:09 |
+| Lobby ID | 28613895248740572 |
+| Players | 1/15 |
+| Host Name | (ง'̀-'́)ง   o-('́-'́d) |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:31:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895248463684 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DXD |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:30:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895247679604 |
-| Players | 13/15 |
-| Host Name | CptMiddleDoor |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:29:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895246142738 |
-| Players | 9/10 |
-| Host Name | koey poon mai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:26:19 |
 
 
