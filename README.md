@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895974928320 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yosep Santillan |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:30:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895973699254 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Snoopy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:27:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895975272563 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TU VIEJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:30:50 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kangle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:30:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895975321538 |
+| Players | 1/8 |
+| Host Name | Пузиблинчик |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 06:30:57 |
 
 
