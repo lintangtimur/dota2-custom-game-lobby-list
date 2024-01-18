@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895263825734 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:59:14 |
@@ -13,26 +13,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895269246536 |
-| Players | 6/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:09:11 |
+| Lobby ID | 28613895270590008 |
+| Players | 4/10 |
+| Host Name | Sleep Talk Metropolis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:11:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895267653956 |
-| Players | 13/24 |
-| Host Name | M4ik3ru ☠ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:06:16 |
+| Lobby ID | 28613895270410632 |
+| Players | 11/15 |
+| Host Name | Боба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:11:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895270095514 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:10:46 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:08:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895270752365 |
+| Players | 1/24 |
+| Host Name | default |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:12:00 |
 
 
 |  | epic_boss_fight_nightmare |
