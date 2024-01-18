@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895942804949 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | 33 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:26:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895943859349 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | ⅅαn₲hɛℓℓ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:27:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895944294236 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Lu[n]atic |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:28:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895944292921 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | old blood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 05:28:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895941258064 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:23:14 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:27:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895943651424 |
-| Players | 14/15 |
-| Host Name | Et3rnauta |
+| Lobby ID | 28613895944529275 |
+| Players | 5/8 |
+| Host Name | Fer-Cinema |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:27:36 |
+| Lobby Creation Time | Friday, January 19, 2024 05:29:12 |
 
 
 |  | ot3_necropolis_ffa |
