@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895958990051 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | 23 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:57:02 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:55:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895958846061 |
-| Players | 10/15 |
-| Host Name | ima potato |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:56:45 |
+| Lobby ID | 28613895959984420 |
+| Players | 8/10 |
+| Host Name | пациент |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:59:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895959492932 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 05:58:02 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895959561078 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | dokkaebi |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:58:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895959916525 |
-| Players | 1/8 |
-| Host Name | Sr. Perro Negro |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:58:54 |
 
 
