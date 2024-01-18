@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895226817379 |
-| Players | 4/8 |
-| Host Name | кириллыч |
+| Lobby ID | 28613895228545328 |
+| Players | 3/8 |
+| Host Name | RedBeardedFox |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:48:25 |
+| Lobby Creation Time | Thursday, January 18, 2024 14:51:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895222985874 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | nonail |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:40:51 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895227880680 |
-| Players | 3/15 |
-| Host Name | sly |
+| Players | 4/15 |
+| Host Name | t |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:50:29 |
 
@@ -38,20 +38,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895224583576 |
-| Players | 20/24 |
-| Host Name | zelda64 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:44:05 |
+| Lobby ID | 28613895228401596 |
+| Players | 3/10 |
+| Host Name | Demidrol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 14:51:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895226394329 |
 | Players | 5/10 |
-| Host Name | JONCE JAVIER |
+| Host Name | Deadbot jc |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:47:36 |
 
