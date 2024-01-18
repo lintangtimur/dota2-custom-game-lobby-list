@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:28:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895255315290 |
-| Players | 6/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:43:31 |
+| Lobby ID | 28613895255885627 |
+| Players | 5/10 |
+| Host Name | SaNeKSNK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:44:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895254524537 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:42:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895254131453 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | L in LA xd |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:41:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895255617790 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 我干了波兰人的母亲 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:44:05 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:43:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895255885627 |
-| Players | 4/10 |
-| Host Name | SaNeKSNK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:44:35 |
 
 
 |  | epic_boss_fight_normal |
