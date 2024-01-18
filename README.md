@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895316967820 |
-| Players | 7/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 17:32:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895322598332 |
-| Players | 1/8 |
-| Host Name | toxic+critic |
+| Lobby ID | 28613895322656029 |
+| Players | 3/8 |
+| Host Name | Naz |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:40:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895322719700 |
+| Players | 6/10 |
+| Host Name | 666_GrEsHnIk_666 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:40:50 |
+| Lobby Creation Time | Thursday, January 18, 2024 17:41:02 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895322681770 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | MaRKBeaMS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:40:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895322656029 |
-| Players | 2/8 |
-| Host Name | S3xcalibur |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:40:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РАСУЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:35:05 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613895322892877 |
+| Players | 1/7 |
+| Host Name | Whiteney |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:41:19 |
 
 
