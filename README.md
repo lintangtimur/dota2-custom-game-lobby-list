@@ -5,26 +5,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895863606240 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | JeOZ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:25:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895865451406 |
-| Players | 5/10 |
-| Host Name | SnowLife |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:27:25 |
+| Lobby ID | 28613895866033611 |
+| Players | 2/8 |
+| Host Name | M A C A C O |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895864704274 |
-| Players | 6/15 |
-| Host Name | Moaning |
+| Players | 4/15 |
+| Host Name | So ez |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 03:26:27 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895858652910 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | groove crusader |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 03:18:42 |
@@ -50,61 +50,88 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895861031963 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PandaPalm |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 03:21:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895865449093 |
-| Players | 2/10 |
-| Host Name | Hisoka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:27:24 |
+| Lobby ID | 28613895866311740 |
+| Players | 13/15 |
+| Host Name | LomUs |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895865213434 |
-| Players | 4/24 |
+| Players | 16/24 |
 | Host Name | Josh D' Médici |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:27:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895866156043 |
+| Players | 6/24 |
+| Host Name | Woosens |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895865983044 |
+| Lobby ID | 28613895866365283 |
+| Players | 6/8 |
+| Host Name | Nessuno |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895866380882 |
+| Players | 1/24 |
+| Host Name | MoonOnMySide |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895866517583 |
 | Players | 1/8 |
-| Host Name | EmberSoul |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:07 |
+| Host Name | Vanshaj |
+| Region | INDIA |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895866513305 |
+| Players | 5/8 |
+| Host Name | 最后一颗子弹 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895865976774 |
-| Players | 7/15 |
-| Host Name | M A C A C O |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895866033611 |
-| Players | 6/8 |
-| Host Name | Mr.JUANExx |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:10 |
+| Lobby ID | 28613895866651854 |
+| Players | 1/15 |
+| Host Name | skvedens |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:28:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895860951549 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ChowChow |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 03:21:38 |
