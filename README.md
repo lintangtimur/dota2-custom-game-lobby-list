@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895971860437 |
-| Players | 3/15 |
-| Host Name | CaptainAsia |
+| Players | 2/15 |
+| Host Name | YOU'LL NEVER WALK ALONE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:23:35 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895971771656 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | RFS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:23:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895971873661 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 06:23:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895970901749 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Kcha niñas 3000 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:21:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895971546778 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ÆA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:22:56 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xemaich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:23:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895972113531 |
+| Players | 1/15 |
+| Host Name | CaptainAsia |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 06:24:08 |
 
 
 |  | epic_boss_fight_nightmare |
