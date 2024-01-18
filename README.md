@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895297705342 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Yupzor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:59:49 |
@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:53:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895295413954 |
-| Players | 6/8 |
-| Host Name | Ученик таланта |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:55:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895297897533 |
-| Players | 8/15 |
-| Host Name | 完全 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:00:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895297898836 |
-| Players | 1/15 |
-| Host Name | GhasT |
+| Lobby ID | 28613895298457042 |
+| Players | 6/10 |
+| Host Name | северное сияние |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:00:09 |
+| Lobby Creation Time | Thursday, January 18, 2024 17:01:08 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:00:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895297898836 |
+| Players | 6/15 |
+| Host Name | GhasT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:00:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895298079182 |
-| Players | 7/10 |
-| Host Name | V Λ C U U M |
+| Lobby ID | 28613895296565827 |
+| Players | 9/10 |
+| Host Name | sander |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:00:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895294957254 |
-| Players | 1/10 |
-| Host Name | LaZaR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:55:05 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:57:51 |
 
 
 |  | epic_boss_fight_nightmare |
