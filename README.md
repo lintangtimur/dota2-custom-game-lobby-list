@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895183906212 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | JUBEI PRIME |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 13:17:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895182538728 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Stiller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 13:14:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895183383294 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | 765611 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:16:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895183667553 |
-| Players | 11/24 |
+| Players | 21/24 |
 | Host Name | Michael Myers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:17:00 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 13:17:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895184469494 |
+| Players | 1/15 |
+| Host Name | Dei V |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 13:18:49 |
 
 
 |  | epic_boss_fight_nightmare |
