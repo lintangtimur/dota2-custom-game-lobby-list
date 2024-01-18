@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895167448867 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:41:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895169203104 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | БОРЫЧ ТАЙМ БУЛЬВА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:44:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895169985286 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Шкипер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:46:43 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895170074229 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | СОЛЕВАЯ ЛАМПОЧКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:46:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895170369216 |
+| Players | 2/10 |
+| Host Name | RMT(McMani Rockefeller) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 12:47:35 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895170080604 |
-| Players | 1/8 |
-| Host Name | 123 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:46:56 |
+| Lobby ID | 28613895168870701 |
+| Players | 7/8 |
+| Host Name | AEA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 12:44:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PAIN AKATSUKI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:46:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895170224864 |
+| Players | 1/5 |
+| Host Name | ChildZeus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 12:47:16 |
 
 
