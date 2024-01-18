@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895939547255 |
+| Players | 1/8 |
+| Host Name | maseto |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:20:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895938949033 |
-| Players | 10/15 |
-| Host Name | Cheater |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:19:06 |
+| Lobby ID | 28613895939384796 |
+| Players | 4/15 |
+| Host Name | cat |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:19:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895933342203 |
-| Players | 21/24 |
-| Host Name | ☆ VAZ ☆ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:09:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895939167377 |
-| Players | 7/10 |
-| Host Name | xxx |
+| Lobby ID | 28613895939528671 |
+| Players | 1/8 |
+| Host Name | TITAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 05:19:29 |
+| Lobby Creation Time | Friday, January 19, 2024 05:20:09 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895939338004 |
-| Players | 1/15 |
-| Host Name | Confused™ |
+| Players | 3/15 |
+| Host Name | TORNADO |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 05:19:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895939384796 |
-| Players | 1/15 |
-| Host Name | cat |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:19:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝔸𝕣𝕚𝕖𝕤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 05:17:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895939311809 |
-| Players | 1/5 |
-| Host Name | woody |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 05:19:45 |
 
 
