@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895147418186 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Червь-пидор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 11:55:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895147616172 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 11:56:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895146793934 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | blanc. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 11:54:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895148220683 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | OverFlown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 11:57:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895148019457 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | GlueEater9000 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 11:57:11 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 11:57:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895148430901 |
+| Players | 4/8 |
+| Host Name | Robert Lewangoalski |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 11:58:07 |
 
 
 |  | epic_boss_fight_nightmare |
