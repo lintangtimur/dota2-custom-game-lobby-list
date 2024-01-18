@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895881468769 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:49:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895881048938 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ACTIVO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:48:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895880257333 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Urio |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:47:25 |
@@ -77,27 +77,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895882475593 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Romashka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 03:50:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895882717740 |
-| Players | 11/15 |
-| Host Name | RTP |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:50:50 |
+| Lobby ID | 28613895882976528 |
+| Players | 2/8 |
+| Host Name | Inoculisfurorem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:51:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895882755917 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | fede888 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 03:50:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895882968538 |
+| Players | 2/8 |
+| Host Name | шкибыдыш |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 03:51:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895883026952 |
+| Players | 1/8 |
+| Host Name | EmberSoul |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 03:51:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895882926857 |
+| Players | 1/5 |
+| Host Name | nighty america |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:51:07 |
 
 
