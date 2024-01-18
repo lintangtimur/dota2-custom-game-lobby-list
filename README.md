@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895247192301 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ratthew |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:28:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895250931695 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TheGreatExodius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:35:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895250870355 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | павапепегемабоди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:35:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895251157294 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | KOKO GAMING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:35:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895251072188 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:35:32 |
@@ -77,16 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895251258421 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | かcса#2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:35:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895251310010 |
+| Players | 2/15 |
+| Host Name | Tribunal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:35:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895250118935 |
+| Players | 7/8 |
+| Host Name | mizarik |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:33:46 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895251168330 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TitaNiuM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:35:43 |
