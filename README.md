@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895953731974 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | @ndrew |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 05:46:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895951334375 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 05:41:55 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:46:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895953429662 |
-| Players | 9/10 |
-| Host Name | 霊 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:46:05 |
+| Lobby ID | 28613895954330574 |
+| Players | 7/15 |
+| Host Name | Nesay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:47:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895954096079 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | jugador profesional de overthrow |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:47:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895954330574 |
-| Players | 2/15 |
-| Host Name | Nesay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 05:47:50 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895954025097 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Дони csgorun.run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 05:47:15 |
