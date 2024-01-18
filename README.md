@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895348357933 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:18:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895351235250 |
-| Players | 7/15 |
-| Host Name | poonpooq |
+| Lobby ID | 28613895351673877 |
+| Players | 2/8 |
+| Host Name | удобный стульчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:22:26 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:23:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895348315051 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | discay prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:18:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895351087804 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Дондочакка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:22:14 |
@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 18:18:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895350244542 |
-| Players | 9/10 |
-| Host Name | lndn_drgs |
+| Lobby ID | 28613895351850257 |
+| Players | 3/15 |
+| Host Name | W9 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:21:06 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:23:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895351856130 |
+| Players | 3/24 |
+| Host Name | eva |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:23:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895351659726 |
+| Players | 1/10 |
+| Host Name | Dorian |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:23:00 |
 
 
