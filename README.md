@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:08:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895273500570 |
-| Players | 7/8 |
-| Host Name | radbix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:17:00 |
+| Lobby ID | 28613895274264958 |
+| Players | 7/10 |
+| Host Name | Nameless |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:18:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,38 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895273844035 |
-| Players | 14/15 |
-| Host Name | CHIVAVA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:17:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895274264958 |
-| Players | 6/10 |
-| Host Name | Nameless |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:18:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895274345050 |
-| Players | 8/10 |
-| Host Name | NINZ IWNL |
+| Lobby ID | 28613895274725583 |
+| Players | 1/8 |
+| Host Name | RedBeardedFox |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:18:31 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:19:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895270045020 |
-| Players | 4/10 |
-| Host Name | nights |
+| Players | 2/10 |
+| Host Name | bse4poli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:10:40 |
 
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895274022959 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | The Eminence In Shadow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:56 |
