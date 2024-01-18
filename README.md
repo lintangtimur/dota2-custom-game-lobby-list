@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895369528859 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ionex |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:46:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895369042129 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Hattori Hanzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:46:02 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895369098015 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 私は肉便器です! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:46:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895369910513 |
+| Players | 4/15 |
+| Host Name | Лейтенант Дуэйн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:47:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895369898105 |
+| Players | 1/8 |
+| Host Name | Deader |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:47:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895369987727 |
+| Players | 1/10 |
+| Host Name | Nntd <3 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:47:14 |
 
 
 |  | epic_boss_fight_nightmare |
