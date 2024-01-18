@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895958861201 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Nutela |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:56:47 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895958567031 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Chuis 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:56:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895956085345 |
-| Players | 23/24 |
-| Host Name | zx. |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 05:51:18 |
+| Lobby ID | 28613895958990051 |
+| Players | 1/15 |
+| Host Name | 23 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:57:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895957470474 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:54:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895958846061 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | INVICTUS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:56:45 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895958897572 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | aboba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 05:56:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895958977497 |
+| Players | 1/15 |
+| Host Name | Ez Wil |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 05:57:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895959076579 |
+| Players | 1/10 |
+| Host Name | :D |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
