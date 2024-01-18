@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895305219401 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:12:47 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:01:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895303562113 |
-| Players | 19/24 |
-| Host Name | Analyze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 17:09:53 |
+| Lobby ID | 28613895305548876 |
+| Players | 5/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 17:13:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Flow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:13:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895305548876 |
-| Players | 3/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 17:13:21 |
 
 
 |  | epic_boss_fight_nightmare |
