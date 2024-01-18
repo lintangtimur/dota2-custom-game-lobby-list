@@ -20,40 +20,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:47:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895334845580 |
-| Players | 8/10 |
-| Host Name | reverse requiem |
+| Lobby ID | 28613895336194478 |
+| Players | 3/8 |
+| Host Name | Ваня банбентон |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:59:17 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:01:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895334499238 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:58:46 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895336111253 |
+| Players | 5/10 |
+| Host Name | лавашик hyi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:01:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895335547204 |
-| Players | 5/8 |
-| Host Name | pisyapopakaka |
+| Lobby ID | 28613895336142820 |
+| Players | 1/8 |
+| Host Name | WaylWe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:00:18 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:01:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895335709499 |
-| Players | 9/15 |
-| Host Name | Patzy |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:00:33 |
+| Lobby ID | 28613895336160258 |
+| Players | 1/15 |
+| Host Name | God Of Shit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:01:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895336212822 |
+| Players | 1/10 |
+| Host Name | evilparrot |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 18:01:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895334023476 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:58:05 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895335414875 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | casadh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:00:07 |
