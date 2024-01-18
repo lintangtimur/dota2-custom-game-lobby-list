@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895864704274 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | So ez |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 03:26:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895858652910 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | groove crusader |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 03:18:42 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:21:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895866311740 |
-| Players | 13/15 |
-| Host Name | LomUs |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:32 |
+| Lobby ID | 28613895864597250 |
+| Players | 7/8 |
+| Host Name | BAYRAKTAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:26:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895865213434 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Josh D' Médici |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:27:06 |
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:28:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895866517583 |
-| Players | 1/8 |
-| Host Name | Vanshaj |
-| Region | INDIA |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895866513305 |
-| Players | 5/8 |
-| Host Name | 最后一颗子弹 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895866651854 |
-| Players | 1/15 |
-| Host Name | skvedens |
+| Lobby ID | 28613895866680548 |
+| Players | 3/15 |
+| Host Name | RAW KEBAB |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:29:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895866796628 |
+| Players | 2/10 |
+| Host Name | 葬儀屋 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:28:59 |
+| Lobby Creation Time | Friday, January 19, 2024 03:29:11 |
 
 
 |  | epic_boss_fight_nightmare |
