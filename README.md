@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895762845637 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 01:25:34 |
@@ -22,136 +22,118 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895754000415 |
-| Players | 5/10 |
-| Host Name | Way |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:15:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895758885905 |
-| Players | 17/24 |
-| Host Name | AsNiTe |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 01:21:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895763290432 |
-| Players | 2/15 |
-| Host Name | Confused™ |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 01:26:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895760741913 |
-| Players | 4/24 |
-| Host Name | //MX` |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 01:23:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895765163002 |
-| Players | 3/8 |
-| Host Name | Lera |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:28:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895763639576 |
-| Players | 6/15 |
-| Host Name | 4s3s1n0xd |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 01:26:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895765551662 |
-| Players | 10/15 |
-| Host Name | The Pupa |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 01:28:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895765599587 |
-| Players | 6/8 |
-| Host Name | ZHMIL-17 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:28:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895764175628 |
-| Players | 7/8 |
-| Host Name | ТАЙОТА ПАНАМЕРА |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 01:27:04 |
+| Lobby ID | 28613895766734661 |
+| Players | 7/10 |
+| Host Name | СРАЛИ МИЛАНО |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895763026746 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PSL |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 01:25:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895765832597 |
-| Players | 4/10 |
-| Host Name | 🍌 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 01:28:54 |
+| Lobby ID | 28613895760307674 |
+| Players | 23/24 |
+| Host Name | Svpoff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 01:22:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895760741913 |
+| Players | 10/24 |
+| Host Name | //MX` |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 01:23:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895766309373 |
+| Players | 9/15 |
+| Host Name | Юра Куни |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895763639576 |
+| Players | 8/15 |
+| Host Name | 4s3s1n0xd |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 01:26:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895765860314 |
-| Players | 7/8 |
-| Host Name | Джексон Шторм |
+| Lobby ID | 28613895766151575 |
+| Players | 3/8 |
+| Host Name | dead man walking |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:28:56 |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895766143805 |
+| Players | 1/8 |
+| Host Name | RedBeardedFox |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895766330143 |
+| Players | 2/24 |
+| Host Name | Jogol |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895766789050 |
+| Players | 2/15 |
+| Host Name | übermensch |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895764692439 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 01:27:38 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895764555237 |
-| Players | 2/7 |
-| Host Name | den4ik |
+| Lobby ID | 28613895766477558 |
+| Players | 2/5 |
+| Host Name | [RYODAN] |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 01:27:29 |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:37 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895765617165 |
-| Players | 2/5 |
-| Host Name | [RYODAN] |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 01:28:40 |
+| Lobby ID | 28613895766711675 |
+| Players | 1/5 |
+| Host Name | TIIMOXD |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 01:29:53 |
 
 
