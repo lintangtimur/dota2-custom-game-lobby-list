@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895904900648 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | smdc |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:22:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895904801335 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Apoc |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:22:46 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:18:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895902462652 |
-| Players | 8/10 |
-| Host Name | hola SOY TU TIO |
+| Lobby ID | 28613895900894459 |
+| Players | 6/24 |
+| Host Name | Jasmine |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:19:15 |
+| Lobby Creation Time | Friday, January 19, 2024 04:16:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895904911417 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 04:22:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895900894459 |
-| Players | 5/24 |
-| Host Name | Jasmine |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:16:54 |
 
 
 |  | epic_boss_fight_normal |
