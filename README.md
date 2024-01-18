@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895923681936 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 04:52:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895923497988 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:52:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:53:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895924659329 |
-| Players | 14/15 |
-| Host Name | LimabeanLarry |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 04:54:20 |
+| Lobby ID | 28613895925672248 |
+| Players | 2/10 |
+| Host Name | эсэмес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:56:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895925429279 |
-| Players | 15/15 |
-| Host Name | jqj |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:55:37 |
+| Lobby ID | 28613895925465471 |
+| Players | 3/15 |
+| Host Name | HUNT3R |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 04:55:40 |
 
 
 |  | ot3_gardens_duo |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895925465471 |
-| Players | 3/15 |
-| Host Name | HUNT3R |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 04:55:40 |
+| Lobby ID | 28613895925652037 |
+| Players | 2/15 |
+| Host Name | Bobby Big Dog Malone |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 04:55:59 |
 
 
 |  | epic_boss_fight_nightmare |
