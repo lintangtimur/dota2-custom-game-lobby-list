@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895457428770 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | standin. M4K3 1T R34L |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 20:21:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895457227518 |
-| Players | 2/24 |
-| Host Name | Godman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:20:50 |
+| Lobby ID | 28613895458080177 |
+| Players | 3/10 |
+| Host Name | ? |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, January 18, 2024 20:21:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,81 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895453990868 |
-| Players | 2/24 |
+| Players | 10/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:17:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895457354396 |
-| Players | 4/10 |
-| Host Name | Fondue |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:20:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895457116742 |
-| Players | 2/10 |
-| Host Name | Гриша Гангстер |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:20:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895457209863 |
-| Players | 3/8 |
-| Host Name | Crybaby |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:20:49 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895449724499 |
-| Players | 24/24 |
-| Host Name | Mun |
+| Lobby ID | 28613895457799296 |
+| Players | 5/24 |
+| Host Name | Justin Bieber I love you |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:13:33 |
+| Lobby Creation Time | Thursday, January 18, 2024 20:21:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895457410349 |
-| Players | 1/15 |
-| Host Name | sleepy space cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 20:21:00 |
+| Lobby ID | 28613895458301691 |
+| Players | 2/15 |
+| Host Name | Comix |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 20:21:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895457447253 |
-| Players | 1/15 |
-| Host Name | He'er |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 20:21:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895453796911 |
-| Players | 9/10 |
-| Host Name | WinterStephano<3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:17:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895454757012 |
-| Players | 8/10 |
-| Host Name | KNИggA |
+| Lobby ID | 28613895458359512 |
+| Players | 2/10 |
+| Host Name | ПОЧУУУВСТВУУУЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:18:28 |
+| Lobby Creation Time | Thursday, January 18, 2024 20:21:54 |
 
 
