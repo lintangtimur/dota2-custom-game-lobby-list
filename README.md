@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895303876124 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Диарея яичек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:10:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895303763960 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:10:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895303562113 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Analyze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:09:53 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895304274967 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | per aspera ad astra |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:11:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895304883882 |
+| Players | 1/8 |
+| Host Name | A |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:12:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895304976903 |
+| Players | 1/8 |
+| Host Name | В.В.ДЭЙС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:12:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895303037868 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SlowNope |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:08:58 |
@@ -108,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪ Mario 93 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 17:11:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895304527294 |
-| Players | 1/5 |
-| Host Name | Буйный_Джорджо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:11:35 |
 
 
