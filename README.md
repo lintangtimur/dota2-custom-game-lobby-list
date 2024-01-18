@@ -2,93 +2,93 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654540521588 |
-| Players | 2/8 |
-| Host Name | Hi |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:09:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654482269898 |
-| Players | 2/10 |
-| Host Name | El Inka de Huaycan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 17, 2024 15:21:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654570075182 |
-| Players | 1/15 |
-| Host Name | The mental stone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:57:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28612654570666914 |
-| Players | 1/8 |
-| Host Name | L |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:58:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654568817735 |
-| Players | 5/10 |
-| Host Name | Leonidas |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:55:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28612654570114027 |
-| Players | 5/10 |
-| Host Name | Yaoshi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:57:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28612654570102015 |
-| Players | 12/15 |
-| Host Name | мистер скрип |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:57:30 |
+| Lobby ID | 28613895126510751 |
+| Players | 3/24 |
+| Host Name | magucciy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:08:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28612654570092802 |
-| Players | 8/24 |
-| Host Name | BROOKLYN T GUY |
+| Lobby ID | 28613895136704582 |
+| Players | 17/24 |
+| Host Name | Garplaf |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:57:29 |
+| Lobby Creation Time | Thursday, January 18, 2024 11:31:26 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28612654566671542 |
-| Players | 8/10 |
-| Host Name | 谜兔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:52:15 |
+| Lobby ID | 28613895138052721 |
+| Players | 6/15 |
+| Host Name | Jisoo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 11:34:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28612654569183181 |
+| Lobby ID | 28613895136716729 |
+| Players | 4/8 |
+| Host Name | Legendary Raccoon |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:31:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895138149281 |
+| Players | 1/15 |
+| Host Name | Potmarrow |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 11:34:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895138148538 |
+| Players | 2/15 |
+| Host Name | Генерал ЕБЛЯ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:34:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895138245520 |
 | Players | 1/10 |
-| Host Name | Apm |
+| Host Name | ...................... |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 11:34:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895134162166 |
+| Players | 1/10 |
+| Host Name | OBONGA JR. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 17, 2024 17:56:05 |
+| Lobby Creation Time | Thursday, January 18, 2024 11:25:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895134661713 |
+| Players | 2/10 |
+| Host Name | 喜欢短发的女生 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:26:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895136690790 |
+| Players | 1/10 |
+| Host Name | GAGA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:31:25 |
 
 
