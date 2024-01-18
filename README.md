@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -47,51 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 06:43:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895981785313 |
-| Players | 3/15 |
-| Host Name | KRiS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 06:45:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895981791785 |
-| Players | 1/24 |
-| Host Name | TitinN |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 06:45:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895981327425 |
-| Players | 5/8 |
-| Host Name | Ahoura Mazda |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:44:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895981637779 |
-| Players | 5/10 |
-| Host Name | Daльше бога нет |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:44:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895981524823 |
-| Players | 1/8 |
-| Host Name | Elysium |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 06:44:30 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895981838165 |
@@ -101,12 +56,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 06:45:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895981182571 |
-| Players | 9/10 |
-| Host Name | d1 |
+| Lobby ID | 28613895981791785 |
+| Players | 11/24 |
+| Host Name | TitinN |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:45:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895981913037 |
+| Players | 1/8 |
+| Host Name | The Golden Boy |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:45:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895981637779 |
+| Players | 7/10 |
+| Host Name | Daльше бога нет |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:43:43 |
+| Lobby Creation Time | Friday, January 19, 2024 06:44:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895981524823 |
+| Players | 7/8 |
+| Host Name | Elysium |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:44:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895982192776 |
+| Players | 1/15 |
+| Host Name | ЭЭ ты насвай не трогай ээ^^ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 06:46:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895982192867 |
+| Players | 1/10 |
+| Host Name | §Ø£Ø-k!€RØ-$€X0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:46:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895982202142 |
+| Players | 1/15 |
+| Host Name | 4 burros y yo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:46:02 |
 
 
