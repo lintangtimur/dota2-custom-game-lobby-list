@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895899293436 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Tiny cruise |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:14:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895898731683 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:13:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895899137597 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Ｌｅｍｏｎｓ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:14:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895900195418 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Юмиляк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:15:52 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895898709608 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | dc bout loses) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:13:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895900400139 |
+| Players | 2/10 |
+| Host Name | Eduardo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 04:16:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895900420959 |
+| Players | 1/15 |
+| Host Name | JeOZ |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 04:16:12 |
 
 
 |  | epic_boss_fight_nightmare |
