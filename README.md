@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895247192301 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Ratthew |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:28:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895254977879 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | sdfh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:42:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895254524537 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:42:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895254685092 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | thorf!nn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:42:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895254740720 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Кибер Валет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:42:26 |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895253747308 |
-| Players | 9/10 |
-| Host Name | Tess Tickles |
+| Lobby ID | 28613895255132563 |
+| Players | 1/10 |
+| Host Name | qiellaeveily |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:40:31 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:43:11 |
 
 
