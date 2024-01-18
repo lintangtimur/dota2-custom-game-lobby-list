@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895978686484 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:38:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895982349116 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | GuITaR |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:46:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895981913037 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | The Golden Boy |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:45:23 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895982232043 |
-| Players | 14/15 |
-| Host Name | ЭЭ ты насвай не трогай ээ^^ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:46:06 |
+| Lobby ID | 28613895983146236 |
+| Players | 2/15 |
+| Host Name | BELUGA |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 06:48:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALATROLA giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:47:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895983196999 |
+| Players | 4/10 |
+| Host Name | Nest |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 06:48:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895983199567 |
+| Players | 1/15 |
+| Host Name | RoyaL |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 06:48:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895983201590 |
+| Players | 4/10 |
+| Host Name | -ex1st |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 06:48:15 |
 
 
 |  | epic_boss_fight_nightmare |
