@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895968200809 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Cypher |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:15:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 06:16:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895966748533 |
-| Players | 12/15 |
-| Host Name | проглотить пенис |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 06:12:57 |
+| Lobby ID | 28613895969012473 |
+| Players | 1/10 |
+| Host Name | Shao velho bêbado |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:17:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 06:16:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895968084931 |
-| Players | 6/8 |
-| Host Name | Theoriginalhitsinthetime |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:15:42 |
+| Lobby ID | 28613895968335295 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 06:16:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895968284089 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:16:07 |
@@ -85,38 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895968231972 |
-| Players | 14/15 |
-| Host Name | silver_wolf |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:16:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895968280660 |
-| Players | 4/8 |
-| Host Name | I ne waxa |
+| Lobby ID | 28613895968971005 |
+| Players | 10/15 |
+| Host Name | Emperor's Luck |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 06:16:06 |
+| Lobby Creation Time | Friday, January 19, 2024 06:17:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895968335295 |
-| Players | 1/15 |
-| Host Name | Harry Styles |
+| Lobby ID | 28613895968946909 |
+| Players | 11/15 |
+| Host Name | TMMR |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 06:16:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895968746171 |
-| Players | 1/10 |
-| Host Name | を求めて ♡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 06:17:04 |
+| Lobby Creation Time | Friday, January 19, 2024 06:17:29 |
 
 
 |  | epic_boss_fight_nightmare |
