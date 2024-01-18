@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895231699022 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Мишаня мидовой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:58:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895232865393 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | D`Khanata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:00:25 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895232915899 |
-| Players | 6/8 |
-| Host Name | AlittleDeath |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 15:00:31 |
+| Lobby ID | 28613895233511836 |
+| Players | 1/24 |
+| Host Name | squirrel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:01:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895232609852 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Extra Chromosome Haver |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:59:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895232834499 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:00:21 |
@@ -92,30 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:00:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895232119482 |
-| Players | 14/15 |
-| Host Name | bydlo zhaba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:58:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895232736576 |
-| Players | 1/5 |
-| Host Name | CHESEE BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:00:10 |
+| Lobby ID | 28613895232567329 |
+| Players | 3/10 |
+| Host Name | Heen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 14:59:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895232567329 |
+| Lobby ID | 28613895233557776 |
+| Players | 6/10 |
+| Host Name | 马穆特*拉哈尔 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:01:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895233561580 |
 | Players | 1/10 |
-| Host Name | Heen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:59:49 |
+| Host Name | LaZaR |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:01:49 |
 
 
