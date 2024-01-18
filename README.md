@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895923737862 |
-| Players | 4/10 |
-| Host Name | Failure Itself |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:52:50 |
+| Lobby ID | 28613895924690096 |
+| Players | 6/10 |
+| Host Name | STaR SHine |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 04:54:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895923681936 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 04:52:44 |
@@ -41,73 +41,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895923497988 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Kori❄♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:52:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895924414254 |
-| Players | 2/15 |
-| Host Name | 武者 |
+| Lobby ID | 28613895925044865 |
+| Players | 6/10 |
+| Host Name | 21 plus |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:53:56 |
+| Lobby Creation Time | Friday, January 19, 2024 04:54:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895924266096 |
-| Players | 11/15 |
-| Host Name | Cheater |
+| Lobby ID | 28613895924960589 |
+| Players | 4/8 |
+| Host Name | ILLINOIZ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:53:41 |
+| Lobby Creation Time | Friday, January 19, 2024 04:54:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895924364427 |
-| Players | 11/15 |
-| Host Name | Atts♥ |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:53:51 |
+| Lobby ID | 28613895924659329 |
+| Players | 4/15 |
+| Host Name | LimabeanLarry |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 04:54:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895924407609 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | tu vieja 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:53:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895924517644 |
-| Players | 1/8 |
-| Host Name | vanyuwa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:54:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895924526061 |
-| Players | 3/10 |
-| Host Name | Missing you happiness |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 04:54:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895924584919 |
-| Players | 1/10 |
+| Lobby ID | 28613895924668143 |
+| Players | 11/15 |
 | Host Name | tenshō |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:54:12 |
+| Lobby Creation Time | Friday, January 19, 2024 04:54:21 |
 
 
 |  | epic_boss_fight_nightmare |
