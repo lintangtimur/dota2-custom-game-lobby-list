@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 14/24 |
+| Players | 11/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895290017935 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | sturdy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:46:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895292222955 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ПАРИКНАХЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:50:26 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Разрыхлитель Ана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:41:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895292541426 |
+| Players | 1/8 |
+| Host Name | gazdratjopi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:50:59 |
 
 
 |  | epic_boss_fight_nightmare |
