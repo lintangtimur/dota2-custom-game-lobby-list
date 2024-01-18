@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 11:36:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895138383234 |
-| Players | 20/24 |
-| Host Name | POPEYE BOLIVIANO |
+| Lobby ID | 28613895139840566 |
+| Players | 5/8 |
+| Host Name | Kimera |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 11:35:11 |
+| Lobby Creation Time | Thursday, January 18, 2024 11:38:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895139451259 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | OverFlown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 11:37:33 |
@@ -50,28 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895139151386 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 11:36:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895139652977 |
-| Players | 3/8 |
-| Host Name | Arkaria |
+| Lobby ID | 28613895140070194 |
+| Players | 2/24 |
+| Host Name | Elon Tusk |
 | Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 11:37:59 |
+| Lobby Creation Time | Thursday, January 18, 2024 11:38:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895139760224 |
+| Players | 5/10 |
+| Host Name | El whiskas |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 11:38:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895139701772 |
+| Lobby ID | 28613895140052995 |
+| Players | 1/8 |
+| Host Name | perfect |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 11:38:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895140117572 |
 | Players | 5/8 |
-| Host Name | EL SIMBOLO DE LA PAZ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 11:38:05 |
+| Host Name | ティムール |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:39:01 |
 
 
 |  | epic_boss_fight_nightmare |
