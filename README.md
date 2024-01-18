@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 13:44:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895197268425 |
-| Players | 10/15 |
-| Host Name | Neoxa[DMG]//3L_M4LTR4 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 13:46:48 |
+| Lobby ID | 28613895198164997 |
+| Players | 5/8 |
+| Host Name | Швееееееепс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 13:48:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895168964671 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | |σ7σ7| Tyrael |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:44:27 |
@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 13:45:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895197766727 |
-| Players | 3/10 |
-| Host Name | Wiz |
+| Lobby ID | 28613895198470140 |
+| Players | 1/15 |
+| Host Name | Разрушитель |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 13:47:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895197792550 |
-| Players | 7/8 |
-| Host Name | UwU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 13:47:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895197966879 |
-| Players | 1/8 |
-| Host Name | BigBillzGetPaid |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 13:48:20 |
+| Lobby Creation Time | Thursday, January 18, 2024 13:49:27 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 13:48:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895198164997 |
-| Players | 1/8 |
-| Host Name | Швееееееепс |
+| Lobby ID | 28613895198394670 |
+| Players | 6/15 |
+| Host Name | Дядя Богдан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 13:48:47 |
+| Lobby Creation Time | Thursday, January 18, 2024 13:49:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895198668129 |
+| Players | 1/10 |
+| Host Name | Wiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 13:49:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895197870759 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Integration By Parts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:48:08 |
@@ -104,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895198051122 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dubstep |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:48:32 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613895198693487 |
+| Players | 1/7 |
+| Host Name | Tyler Or Trick |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 13:49:56 |
 
 
