@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895340680099 |
-| Players | 6/10 |
-| Host Name | Morax |
+| Lobby ID | 28613895341379030 |
+| Players | 7/8 |
+| Host Name | THC Spirit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:07:43 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:08:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895336160258 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | God Of Shit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:01:13 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895339676915 |
-| Players | 1/10 |
-| Host Name | Lonely Nomad |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:06:18 |
+| Lobby ID | 28613895341250279 |
+| Players | 9/10 |
+| Host Name | Ïβάℌ4ïĶ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:08:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,63 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895339762871 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | noob 2.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:06:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895341040742 |
-| Players | 4/10 |
-| Host Name | katsuiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:08:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895340713534 |
-| Players | 1/15 |
-| Host Name | feel |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:07:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895341010970 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | 口內射精 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:08:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895341512416 |
+| Players | 3/10 |
+| Host Name | vodushara |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:08:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895334023476 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:58:05 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895341291884 |
+| Players | 1/5 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:08:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895340868792 |
+| Lobby ID | 28613895341600282 |
 | Players | 1/10 |
 | Host Name | woof woof |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:07:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895341058601 |
-| Players | 1/5 |
-| Host Name | Анчоус фараонови |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:08:15 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:09:01 |
 
 
