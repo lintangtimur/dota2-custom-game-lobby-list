@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613895287892007 |
 | Players | 1/8 |
-| Host Name | Kartafan |
+| Host Name | Rykoblyd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:42:45 |
 
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895281879392 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 16:31:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895287229137 |
-| Players | 22/24 |
-| Host Name | ライフィセット |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:41:34 |
+| Lobby ID | 28613895288037475 |
+| Players | 1/10 |
+| Host Name | Debuster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:43:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895287907319 |
+| Lobby ID | 28613895288087113 |
 | Players | 1/8 |
-| Host Name | Rykoblyd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:42:46 |
+| Host Name | try |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:43:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895287909800 |
-| Players | 6/15 |
-| Host Name | Mel |
+| Lobby ID | 28613895288108973 |
+| Players | 2/15 |
+| Host Name | ばかplayer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:42:47 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:43:08 |
 
 
 |  | epic_boss_fight_nightmare |
