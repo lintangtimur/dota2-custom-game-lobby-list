@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895429055274 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Woke |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 19:52:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895433816119 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | EdwardBil(Чи?^ДА ?() |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:57:22 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895432736914 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | He'er |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 19:56:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895432314676 |
-| Players | 12/15 |
-| Host Name | Пушка |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:55:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895432903633 |
-| Players | 1/24 |
-| Host Name | ☁ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:56:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895432843728 |
-| Players | 20/24 |
-| Host Name | BROOKLYN T GUY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:56:21 |
 
 
 |  | ot3_desert_octet |
@@ -110,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 19:57:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895433763649 |
-| Players | 1/8 |
-| Host Name | ДОБРО |
+| Lobby ID | 28613895432903633 |
+| Players | 2/24 |
+| Host Name | ☁ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 19:56:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895432843728 |
+| Players | 23/24 |
+| Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:57:19 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:56:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ORSHABAAL |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 19:56:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895429738474 |
-| Players | 9/10 |
-| Host Name | GAGA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:53:09 |
 
 
 |  | epic_boss_fight_normal |
