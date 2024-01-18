@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -29,73 +29,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:29:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895953621441 |
-| Players | 5/8 |
-| Host Name | egoisto |
+| Lobby ID | 28613895954745341 |
+| Players | 2/15 |
+| Host Name | [S]kyFly |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:46:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895953731974 |
-| Players | 12/15 |
-| Host Name | @ndrew |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 05:46:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895951334375 |
-| Players | 7/24 |
-| Host Name | //MX` |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 05:41:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895953415114 |
-| Players | 11/15 |
-| Host Name | ToKiO |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:46:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895954330574 |
-| Players | 7/15 |
-| Host Name | Nesay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 05:47:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895953437020 |
-| Players | 4/8 |
-| Host Name | Luciana <3 :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 05:46:06 |
+| Lobby Creation Time | Friday, January 19, 2024 05:48:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895954096079 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | jugador profesional de overthrow |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:47:23 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895951334375 |
+| Players | 8/24 |
+| Host Name | //MX` |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 05:41:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895954584624 |
+| Players | 2/10 |
+| Host Name | bacardi |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:48:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895952673434 |
+| Players | 7/10 |
+| Host Name | пациент |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:44:36 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895954025097 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Дони csgorun.run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 05:47:15 |
