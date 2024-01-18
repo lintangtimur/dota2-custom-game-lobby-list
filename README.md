@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895410441879 |
-| Players | 2/15 |
-| Host Name | smol_man |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:33:54 |
+| Lobby ID | 28613895411197527 |
+| Players | 11/15 |
+| Host Name | КАРОЛЬ ДАЛБАЁБОВ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 19:34:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895410712180 |
-| Players | 5/10 |
-| Host Name | аааа блять помогите |
+| Players | 6/10 |
+| Host Name | Lollipopa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:34:12 |
 
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Madvetu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:33:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895410537018 |
-| Players | 3/8 |
-| Host Name | джон бэнтон |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:34:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895410924977 |
-| Players | 7/8 |
-| Host Name | invincible |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:34:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895411197527 |
-| Players | 5/15 |
-| Host Name | КАРОЛЬ ДАЛБАЁБОВ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:34:42 |
 
 
 |  | ot3_necropolis_ffa |
