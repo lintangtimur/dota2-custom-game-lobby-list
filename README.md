@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895932976826 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Никита Кондраков |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:08:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895931545803 |
-| Players | 19/24 |
+| Players | 16/24 |
 | Host Name | Taktloss |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 05:05:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895932708553 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Old Dirty |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:07:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895932999272 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:08:26 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895933347528 |
-| Players | 2/15 |
-| Host Name | HaceqanLee |
+| Lobby ID | 28613895932724531 |
+| Players | 14/15 |
+| Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:09:03 |
+| Lobby Creation Time | Friday, January 19, 2024 05:07:57 |
 
 
 |  | epic_boss_fight_nightmare |
