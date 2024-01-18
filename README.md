@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895293322045 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Zacama! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:52:19 |
@@ -38,40 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:53:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895295073415 |
-| Players | 2/8 |
-| Host Name | - |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:55:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895292904686 |
-| Players | 8/10 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:51:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895294840593 |
-| Players | 7/15 |
-| Host Name | КАЛ КАЛЫЧ |
+| Players | 8/15 |
+| Host Name | Bitcoin |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:54:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895294853436 |
-| Players | 1/10 |
-| Host Name | Еслибогсуществуе |
+| Lobby ID | 28613895295392975 |
+| Players | 2/10 |
+| Host Name | popkov |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:54:55 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:55:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895295419280 |
+| Players | 1/8 |
+| Host Name | Wheredoyouwantme |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:55:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895295413954 |
+| Players | 1/8 |
+| Host Name | Ученик таланта |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:55:53 |
 
 
 |  | epic_boss_fight_nightmare |
