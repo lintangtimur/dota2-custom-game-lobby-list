@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895161736249 |
-| Players | 7/8 |
-| Host Name | s1mple |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:27:59 |
+| Lobby ID | 28613895163867624 |
+| Players | 2/10 |
+| Host Name | Soulwarrior |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 12:32:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895163444021 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ꪶꪮꪖᦔ꠸ꪀᧁ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:31:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895162351375 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | HeDes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:29:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895158609555 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, January 18, 2024 12:20:59 |
@@ -47,21 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 12:31:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895163627748 |
+| Players | 2/8 |
+| Host Name | nesh |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 12:32:14 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895159834799 |
+| Lobby ID | 28613895163675496 |
 | Players | 2/15 |
-| Host Name | devi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:23:43 |
+| Host Name | UnderПиво |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 12:32:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895162336712 |
-| Players | 7/10 |
-| Host Name | san~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:29:20 |
+| Lobby ID | 28613895163841141 |
+| Players | 2/15 |
+| Host Name | In L♥ve With a Fat Pikachu =3 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 12:32:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895163838811 |
+| Players | 2/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 12:32:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895163933509 |
+| Players | 1/24 |
+| Host Name | don't-do-drugs |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, January 18, 2024 12:32:56 |
 
 
