@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895273625288 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Yo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895275310349 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | senkach |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895274264958 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ruiner{SoSka} |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:18:22 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895275672445 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | 23$ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895268816102 |
+| Players | 7/8 |
+| Host Name | Q |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 16:08:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895275546333 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:40 |
@@ -114,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613895275691263 |
 | Players | 1/10 |
-| Host Name |  |
+| Host Name | Izumiiiiiiiiii<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:56 |
 
