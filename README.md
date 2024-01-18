@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895365448860 |
-| Players | 5/8 |
-| Host Name | Anoun |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:41:18 |
+| Lobby ID | 28613895366455171 |
+| Players | 2/15 |
+| Host Name | quepaso |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:42:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 18:18:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895362185316 |
-| Players | 21/24 |
-| Host Name | Gaterade |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:37:01 |
+| Lobby ID | 28613895366557951 |
+| Players | 1/15 |
+| Host Name | Sudoku |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:42:47 |
 
 
 |  | ot3_desert_octet |
@@ -56,39 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 18:40:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895365912936 |
-| Players | 3/10 |
-| Host Name | box cutter |
+| Lobby ID | 28613895366678189 |
+| Players | 1/8 |
+| Host Name | Уфимкий Pizdoliz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:41:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895366015139 |
-| Players | 8/15 |
-| Host Name | Edelweise |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:42:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895360593422 |
-| Players | 9/10 |
-| Host Name | LEE kwang SOO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:34:57 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:42:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895365621529 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:41:31 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613895366703290 |
+| Players | 4/7 |
+| Host Name | ✪Still Life?✪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:42:58 |
 
 
