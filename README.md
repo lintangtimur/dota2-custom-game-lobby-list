@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895908170465 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | STaR SHine |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 04:27:56 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895909742653 |
-| Players | 14/24 |
-| Host Name | DrEaMmyZ.LovE |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:30:22 |
+| Lobby ID | 28613895910955264 |
+| Players | 5/15 |
+| Host Name | Åshbringer |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 04:32:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895910586791 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | mi Lidel |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:31:39 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:18:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895910654761 |
-| Players | 6/15 |
-| Host Name | KOLD✵ |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 04:31:46 |
+| Lobby ID | 28613895911272619 |
+| Players | 5/10 |
+| Host Name | МахOn4ik |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 04:32:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895910592799 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Чивапчичи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:31:40 |
@@ -68,55 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895909731226 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | Mathiasla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:30:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895910240774 |
-| Players | 7/10 |
-| Host Name | Тот самый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:31:08 |
+| Lobby ID | 28613895911035238 |
+| Players | 9/15 |
+| Host Name | charming |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 04:32:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895910758712 |
-| Players | 2/8 |
-| Host Name | 11111111111111111111111111111111 |
+| Lobby ID | 28613895911346268 |
+| Players | 1/8 |
+| Host Name | maseto |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 04:32:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895911474118 |
+| Players | 1/8 |
+| Host Name | Baha |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:31:55 |
+| Lobby Creation Time | Friday, January 19, 2024 04:33:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895910955264 |
+| Lobby ID | 28613895911479809 |
 | Players | 1/15 |
-| Host Name | Åshbringer |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 04:32:14 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28613895908727638 |
-| Players | 1/7 |
-| Host Name | ผีหลอกวิญญาณหลอน |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 04:28:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895909959201 |
-| Players | 1/10 |
-| Host Name | 喜欢短发的女生 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 04:30:42 |
+| Host Name | 痛みを感じる |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 04:33:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:30:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895909959201 |
+| Players | 2/10 |
+| Host Name | 喜欢短发的女生 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 04:30:42 |
 
 
