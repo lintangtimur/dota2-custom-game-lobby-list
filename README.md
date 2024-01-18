@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:02:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895929832182 |
-| Players | 14/15 |
-| Host Name | MX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 05:03:01 |
+| Lobby ID | 28613895930473712 |
+| Players | 4/8 |
+| Host Name | 【TS】 ˢᵖᶦᶜᵃ Akame |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:04:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895929951114 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | OFICIAL BARBRADY |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 05:03:13 |
@@ -90,6 +90,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | An Opportunity |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:03:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895930396752 |
+| Players | 1/10 |
+| Host Name | SACSA |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:03:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895930422881 |
+| Players | 5/10 |
+| Host Name | Bandage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:04:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895930427232 |
+| Players | 5/8 |
+| Host Name | PandaPalm |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 05:04:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895930462459 |
+| Players | 3/10 |
+| Host Name | Silent |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 05:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
