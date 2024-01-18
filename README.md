@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895204486988 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | CRVLXRD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:02:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895201388264 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Hero |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:55:52 |
@@ -41,10 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895200740734 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 13:54:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895205272049 |
+| Players | 6/10 |
+| Host Name | Stiller |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 14:04:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895205678736 |
+| Players | 1/24 |
+| Host Name | ШАЙЛУШАЙ feed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895205683265 |
+| Players | 1/15 |
+| Host Name | Mode: Egoist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
 
 
 |  | epic_boss_fight_nightmare |
