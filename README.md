@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895167362528 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | Leche de Lagarto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:40:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895167448867 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:41:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895167252521 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Rakafina♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:40:34 |
@@ -32,45 +32,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895167023751 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | TEPUNTEO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:40:01 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895167622957 |
-| Players | 1/24 |
-| Host Name | levi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 12:41:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895166574609 |
-| Players | 13/15 |
-| Host Name | Zen Master Vulkan |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 18, 2024 12:38:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895167403045 |
-| Players | 4/15 |
-| Host Name | Шансоньетка |
+| Players | 12/15 |
+| Host Name | TECHIES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:40:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895168078746 |
+| Players | 3/10 |
+| Host Name | YUUTA |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 12:42:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895168203148 |
+| Players | 1/8 |
+| Host Name | Grit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 12:42:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895165331045 |
+| Players | 6/8 |
+| Host Name | Waldorf |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 12:36:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895166711838 |
-| Players | 8/10 |
-| Host Name | Streak Slayer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:39:18 |
+| Lobby ID | 28613895168029270 |
+| Players | 1/10 |
+| Host Name | DEADPOOL |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 12:42:22 |
 
 
