@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895429055274 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Woke |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 19:52:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895439444687 |
-| Players | 7/8 |
-| Host Name | Максим турель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:03:11 |
+| Lobby ID | 28613895440934281 |
+| Players | 5/15 |
+| Host Name | Blob- |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 20:04:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895437593056 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:01:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895432903633 |
-| Players | 21/24 |
-| Host Name | ☁ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:56:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895439928364 |
-| Players | 4/8 |
-| Host Name | Can hear the silence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:03:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895440714128 |
-| Players | 1/10 |
-| Host Name | UwU |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 20:04:28 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 20:02:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895440934281 |
-| Players | 5/15 |
-| Host Name | Blob- |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 20:04:41 |
+| Lobby ID | 28613895441162720 |
+| Players | 2/10 |
+| Host Name | Shailer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 20:04:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895440714128 |
+| Players | 1/10 |
+| Host Name | UwU |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 20:04:28 |
 
 
 |  | epic_boss_fight_nightmare |
