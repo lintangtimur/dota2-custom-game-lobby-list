@@ -4,35 +4,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895277093183 |
-| Players | 2/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, January 18, 2024 16:23:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895279752242 |
-| Players | 3/8 |
-| Host Name | Skevich |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:28:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895275948110 |
-| Players | 3/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:21:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -40,28 +13,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895279698486 |
-| Players | 6/15 |
-| Host Name | гикаю, мажет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:28:05 |
+| Lobby ID | 28613895279858965 |
+| Players | 2/15 |
+| Host Name | 雨"Miracle"雨 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 16:28:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895275948110 |
+| Players | 4/8 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:21:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895280199145 |
+| Players | 1/24 |
+| Host Name | Shadowblade Riki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:28:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895279808534 |
-| Players | 5/10 |
-| Host Name | < blank > |
+| Lobby ID | 28613895280211180 |
+| Players | 1/10 |
+| Host Name | Константин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:28:17 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:28:59 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895277985257 |
+| Lobby ID | 28613895279983054 |
 | Players | 2/5 |
 | Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:25:02 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:28:35 |
 
 
