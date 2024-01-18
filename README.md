@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895264477491 |
-| Players | 4/8 |
-| Host Name | ^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:00:25 |
+| Lobby ID | 28613895265101150 |
+| Players | 3/8 |
+| Host Name | AJINOMEN PICANTEgiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895264350648 |
-| Players | 14/15 |
-| Host Name | Khorinmaru ❤ |
+| Lobby ID | 28613895264999369 |
+| Players | 4/15 |
+| Host Name | LoveLera |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:00:11 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:23 |
 
 
 |  | ot3_desert_octet |
@@ -40,35 +40,62 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895263904283 |
-| Players | 5/10 |
-| Host Name | destier |
+| Lobby ID | 28613895265097229 |
+| Players | 9/10 |
+| Host Name | пошли нахуй |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:59:22 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895265201626 |
+| Players | 2/8 |
+| Host Name | Ja Sher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895265292856 |
+| Players | 1/24 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895265294964 |
+| Players | 4/8 |
+| Host Name | JAMALI |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895258259818 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ✪ Mario 93 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:48:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28613895261865423 |
-| Players | 2/5 |
-| Host Name | Миликанес |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:55:34 |
+| Lobby ID | 28613895265040243 |
+| Players | 1/7 |
+| Host Name | mystical0905 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:01:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895262048430 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:55:56 |
