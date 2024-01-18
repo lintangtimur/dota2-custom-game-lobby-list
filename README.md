@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613895273625288 |
 | Players | 4/24 |
-| Host Name | Lindvia| ZaiSe |
+| Host Name | Yo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:13 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895268816102 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:08:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895273500570 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | radbix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:00 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CHIVAVA |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:17:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895271012633 |
-| Players | 23/24 |
-| Host Name | ライフィセット |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:12:29 |
 
 
 |  | epic_boss_fight_nightmare |
