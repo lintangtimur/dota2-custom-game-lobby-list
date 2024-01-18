@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895978195712 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ogre magi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:37:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895977477064 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ☜BODIES◑BODIES☞ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:35:34 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895977800357 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | terry |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:36:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895978249014 |
-| Players | 7/8 |
-| Host Name | kn9z |
+| Lobby ID | 28613895978571566 |
+| Players | 2/10 |
+| Host Name | дарю цветы друзья |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 06:37:13 |
+| Lobby Creation Time | Friday, January 19, 2024 06:37:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895978212984 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Silvio Dante |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:37:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895978300964 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Luciana <3 :3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:37:19 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dяєαмснαsєяs |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:36:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895978571566 |
-| Players | 2/10 |
-| Host Name | дарю цветы друзья |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 06:37:54 |
 
 
 |  | epic_boss_fight_nightmare |
