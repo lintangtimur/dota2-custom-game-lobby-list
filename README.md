@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895983985309 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Волк С Луз-Стрик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:49:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895984143046 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | SOLIVAN |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:50:20 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pony |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:51:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895984515102 |
+| Players | 1/24 |
+| Host Name | habitas |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:51:09 |
 
 
 |  | epic_boss_fight_nightmare |
