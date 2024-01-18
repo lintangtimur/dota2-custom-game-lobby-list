@@ -38,40 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:28:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895282753556 |
-| Players | 9/15 |
-| Host Name | Hari Seldon |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:33:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895283049132 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | no comment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:34:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895283481532 |
+| Players | 4/15 |
+| Host Name | Vitaminka42rus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:34:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895281721311 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | casadh |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 16:31:40 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895281635549 |
-| Players | 1/7 |
-| Host Name | GriBoeD_NT |
+| Lobby ID | 28613895283532536 |
+| Players | 1/5 |
+| Host Name | ЛАВОВЫЙ ГЕРОНЧИК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:31:31 |
+| Lobby Creation Time | Thursday, January 18, 2024 16:34:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895282781166 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Soos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:33:32 |
