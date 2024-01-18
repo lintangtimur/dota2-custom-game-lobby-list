@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895289837614 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:46:15 |
@@ -38,28 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:48:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895291615977 |
-| Players | 5/10 |
-| Host Name | kon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 16:49:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895291189057 |
-| Players | 14/15 |
-| Host Name | Molodoy |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 16:48:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895291430041 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 撒尿和他媽的 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:49:04 |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895291037836 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | KV |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 16:48:23 |
@@ -77,9 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895291804557 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | TheBear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:49:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895292100244 |
+| Players | 2/5 |
+| Host Name | Count Fapula |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:50:13 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613895292156882 |
+| Players | 1/7 |
+| Host Name | GriBoeD_NT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 16:50:19 |
 
 
