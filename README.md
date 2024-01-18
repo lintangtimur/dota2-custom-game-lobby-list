@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895360721115 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Maxim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:35:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895359441229 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:33:28 |
@@ -41,72 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895355755863 |
-| Players | 3/8 |
-| Host Name | vovanbebra |
+| Players | 2/8 |
+| Host Name | Яйиченько |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:28:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895359961872 |
-| Players | 9/15 |
-| Host Name | KDA does not define me |
+| Lobby ID | 28613895361231531 |
+| Players | 7/15 |
+| Host Name | 0_0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:34:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895358622709 |
-| Players | 7/10 |
-| Host Name | Медиум Олег Шепс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:32:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895359979959 |
-| Players | 1/5 |
-| Host Name | Буйный_Джорджо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:34:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895358208602 |
-| Players | 2/10 |
-| Host Name | NoMoreTears |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:31:49 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28613895360705661 |
-| Players | 1/7 |
-| Host Name | mayn |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:35:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895358188152 |
-| Players | 4/5 |
-| Host Name | Znirfets |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:31:48 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:35:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895360593422 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | LEE kwang SOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:34:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895358208602 |
+| Players | 1/10 |
+| Host Name | END |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:31:49 |
 
 
