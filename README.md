@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895298936551 |
-| Players | 11/24 |
+| Players | 21/24 |
 | Host Name | HypnotizeX |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 17:01:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895311806592 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | bmw1l0ve |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:23:49 |
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 17:20:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895311603387 |
-| Players | 1/15 |
-| Host Name | UNИAMED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:23:29 |
+| Lobby ID | 28613895311992600 |
+| Players | 1/8 |
+| Host Name | Victory |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:24:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895311604044 |
-| Players | 13/15 |
-| Host Name | KinGモリア? |
+| Lobby ID | 28613895312036135 |
+| Players | 2/15 |
+| Host Name | Elladar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:23:29 |
+| Lobby Creation Time | Thursday, January 18, 2024 17:24:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895310052660 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:20:55 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saneiko_PvL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:23:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895312103623 |
+| Players | 1/5 |
+| Host Name | -zxc- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 17:24:18 |
 
 
