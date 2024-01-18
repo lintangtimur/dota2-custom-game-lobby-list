@@ -11,66 +11,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895342386643 |
-| Players | 3/15 |
-| Host Name | i'm low tab |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:10:10 |
+| Lobby ID | 28613895342918934 |
+| Players | 1/24 |
+| Host Name | Подошва777 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:10:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895342312941 |
-| Players | 8/10 |
-| Host Name | vodushara |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 18:10:03 |
+| Lobby ID | 28613895342570507 |
+| Players | 1/8 |
+| Host Name | балбес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 18:10:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895341673493 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 姫森ルーナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:09:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895342281312 |
-| Players | 3/8 |
-| Host Name | THE LONELIEST |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, January 18, 2024 18:10:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895342045938 |
-| Players | 6/8 |
-| Host Name | повелитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:09:39 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895341250279 |
-| Players | 9/10 |
-| Host Name | Ïβάℌ4ïĶ |
+| Lobby ID | 28613895342550592 |
+| Players | 5/10 |
+| Host Name | bmw1l0ve |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:08:32 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:10:24 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895341291884 |
-| Players | 3/5 |
-| Host Name | ? |
+| Lobby ID | 28613895342957715 |
+| Players | 1/15 |
+| Host Name | `trahmeister |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:08:35 |
+| Lobby Creation Time | Thursday, January 18, 2024 18:11:00 |
 
 
