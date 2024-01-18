@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895186924853 |
-| Players | 6/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 13:24:11 |
+| Lobby ID | 28613895188269142 |
+| Players | 2/15 |
+| Host Name | roswel |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 13:27:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895187990766 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 13:26:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895184823151 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | _Ferxxo_ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 13:19:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895186745554 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | VanAugurr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:23:48 |
@@ -50,36 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895187944185 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Alien |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 13:26:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895187939444 |
-| Players | 1/8 |
-| Host Name | бля ща как уебет |
+| Lobby ID | 28613895188224168 |
+| Players | 7/15 |
+| Host Name | Молодой Мошенник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 13:26:23 |
+| Lobby Creation Time | Thursday, January 18, 2024 13:27:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895187963305 |
-| Players | 1/8 |
-| Host Name | Шо там ? |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 18, 2024 13:26:27 |
+| Lobby ID | 28613895188243152 |
+| Players | 3/24 |
+| Host Name | Fightinside 4-5 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 13:27:03 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613895188129178 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Огурчик Абдул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 13:26:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895188266000 |
+| Players | 4/10 |
+| Host Name | halal player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 13:27:06 |
 
 
