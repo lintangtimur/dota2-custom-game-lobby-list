@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895437626873 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | yagodachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 20:01:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895437593056 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:01:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895437013369 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 20:00:40 |
@@ -67,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895438140144 |
+| Lobby ID | 28613895438446356 |
+| Players | 1/8 |
+| Host Name | баран |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 20:02:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895438503432 |
 | Players | 1/8 |
 | Host Name | 116 IQ player |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 20:01:50 |
+| Lobby Creation Time | Thursday, January 18, 2024 20:02:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895438393052 |
+| Players | 2/8 |
+| Host Name | bury your family?? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 20:02:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AkdVq |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 20:01:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895438562003 |
+| Players | 2/5 |
+| Host Name | NeverWannaBeAwake |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 20:02:17 |
 
 
