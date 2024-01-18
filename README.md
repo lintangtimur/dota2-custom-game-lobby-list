@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613895377999777 |
 | Players | 3/8 |
-| Host Name | 122333 |
+| Host Name | TK|Perfectly |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:57:05 |
 
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 18:28:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895381018000 |
-| Players | 6/10 |
-| Host Name | Денчик Габапентоc |
+| Lobby ID | 28613895381267967 |
+| Players | 5/8 |
+| Host Name | cry 4 me |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:00:43 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:01:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895381191528 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ziden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:00:56 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895381267967 |
-| Players | 2/8 |
-| Host Name | cry 4 me |
+| Lobby ID | 28613895381384287 |
+| Players | 1/8 |
+| Host Name | ♡♡♡ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:01:01 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:01:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cryte |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 19:00:34 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613895381437186 |
+| Players | 1/7 |
+| Host Name | baltoratora |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:01:13 |
 
 
