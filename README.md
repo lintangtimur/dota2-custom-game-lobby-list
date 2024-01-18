@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895398384561 |
-| Players | 4/24 |
+| Players | 13/24 |
 | Host Name | Lozaiah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:20:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895393159128 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Art |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:14:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 19:09:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895396936019 |
-| Players | 7/8 |
-| Host Name | sizam2013 |
+| Lobby ID | 28613895398766835 |
+| Players | 3/15 |
+| Host Name | Juli |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:19:06 |
+| Lobby Creation Time | Thursday, January 18, 2024 19:21:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895397255048 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | everythingIsGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 19:19:28 |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 19:17:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895398264804 |
-| Players | 8/15 |
-| Host Name | Draks |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:20:35 |
+| Lobby ID | 28613895398582473 |
+| Players | 8/10 |
+| Host Name | ymy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 19:20:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895398574038 |
-| Players | 3/8 |
-| Host Name | жарь как шеснарь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 19:20:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895396028006 |
-| Players | 9/10 |
-| Host Name | Schadenfreude |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 19:18:06 |
+| Lobby ID | 28613895398781927 |
+| Players | 1/8 |
+| Host Name | scam cult |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 19:21:09 |
 
 
 |  | epic_boss_fight_normal |
