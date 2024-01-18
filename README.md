@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895231699022 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Мишаня мидовой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:58:04 |
@@ -22,35 +22,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895232119482 |
-| Players | 12/15 |
-| Host Name | bydlo zhaba |
+| Lobby ID | 28613895232865393 |
+| Players | 6/15 |
+| Host Name | D`Khanata |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:58:54 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:00:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895230406806 |
-| Players | 5/10 |
-| Host Name | owLumi |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:55:30 |
+| Lobby ID | 28613895232915899 |
+| Players | 6/8 |
+| Host Name | AlittleDeath |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 15:00:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895232609852 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Extra Chromosome Haver |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:59:54 |
@@ -67,38 +67,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895232586470 |
-| Players | 8/10 |
-| Host Name | Amidamaru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:59:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28613895232625146 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 14:59:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895226394329 |
-| Players | 8/10 |
-| Host Name | Fox-Sol |
+| Lobby ID | 28613895232834499 |
+| Players | 6/10 |
+| Host Name | Stiller |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:47:36 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:00:21 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895231143000 |
-| Players | 1/7 |
+| Lobby ID | 28613895232946999 |
+| Players | 3/8 |
+| Host Name | Nugget |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:00:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895232119482 |
+| Players | 14/15 |
+| Host Name | bydlo zhaba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 14:58:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895232736576 |
+| Players | 1/5 |
 | Host Name | CHESEE BALLS |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:56:58 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:00:10 |
 
 
 |  | epic_boss_fight_nightmare |
