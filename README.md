@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895971226090 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ♡ peredaimnevodichky ♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:22:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895970550879 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Bulborb |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 06:20:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895970867107 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Я ненавижу лево |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:21:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895969440823 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:18:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895971126399 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | HGTS |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 06:22:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895970146370 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | A4 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:19:58 |
@@ -104,19 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895971546778 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ÆA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:22:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895971616717 |
+| Players | 1/24 |
+| Host Name | MODO ELDEN LORD |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:23:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895971566299 |
-| Players | 1/15 |
-| Host Name | hi trash |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 06:22:58 |
+| Lobby ID | 28613895971653377 |
+| Players | 2/15 |
+| Host Name | LiMe |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 06:23:09 |
 
 
 |  | epic_boss_fight_nightmare |
