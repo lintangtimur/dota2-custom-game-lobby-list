@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895219118039 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ASURA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 14:32:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895220010734 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | БОЮСЬ ЖЕНЩИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:34:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895218899068 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 14:32:23 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895218135080 |
-| Players | 3/10 |
-| Host Name | POPSON(Podpivasgaming) |
+| Players | 2/10 |
+| Host Name | Biborten! |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:30:47 |
 
@@ -77,34 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895218517945 |
-| Players | 3/24 |
-| Host Name | æa |
+| Players | 2/24 |
+| Host Name | El pollo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 14:31:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895220589317 |
-| Players | 2/24 |
-| Host Name | swagswagswag |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:35:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895219710194 |
-| Players | 7/8 |
-| Host Name | Miraneuh |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:34:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895220370743 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Junji |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:35:26 |
