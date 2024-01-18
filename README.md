@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895985923040 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TexasJuli |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 06:54:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:29:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895985419410 |
-| Players | 7/8 |
-| Host Name | CengizHan |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:53:09 |
+| Lobby ID | 28613895985240528 |
+| Players | 9/10 |
+| Host Name | @prolux20 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:52:46 |
 
 
 |  | ot3_gardens_duo |
@@ -65,19 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 06:53:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895985240528 |
-| Players | 8/10 |
-| Host Name | @prolux20 |
+| Lobby ID | 28613895986234806 |
+| Players | 2/8 |
+| Host Name | Skarp |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 06:52:46 |
+| Lobby Creation Time | Friday, January 19, 2024 06:54:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895986309392 |
+| Players | 6/8 |
+| Host Name | А какая начинка? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 06:55:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895985437013 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TAPIJARO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:53:12 |
