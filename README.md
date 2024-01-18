@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895248037991 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Ohayo! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 15:29:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895248515312 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:30:45 |
@@ -65,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:31:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895248463684 |
-| Players | 5/8 |
-| Host Name | DXD |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:30:40 |
+| Lobby ID | 28613895249029390 |
+| Players | 2/10 |
+| Host Name | Ruiner{SoSka} |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:31:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895249069629 |
+| Players | 1/10 |
+| Host Name | OhmyJenny |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 15:31:48 |
 
 
