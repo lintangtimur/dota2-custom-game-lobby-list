@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895955473428 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | джеф убица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 05:50:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895955119019 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Me van a matar causa PIPIPI |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 05:49:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895951334375 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 05:41:55 |
@@ -85,19 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895955936441 |
-| Players | 4/10 |
-| Host Name | карамельный сёва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 05:51:00 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28613895955941299 |
-| Players | 1/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 05:51:00 |
+| Lobby ID | 28613895956033714 |
+| Players | 6/10 |
+| Host Name | JUKAL |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:51:12 |
 
 
