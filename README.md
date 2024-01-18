@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895247192301 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ratthew |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:28:17 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895255885627 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | SaNeKSNK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:44:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895254524537 |
-| Players | 21/24 |
-| Host Name | Kaleen bhaiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 15:42:01 |
+| Lobby ID | 28613895256383078 |
+| Players | 3/8 |
+| Host Name | Yatollapse |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 15:45:30 |
 
 
 |  | ot3_desert_octet |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895254131453 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | L in LA xd |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:41:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895255617790 |
-| Players | 10/15 |
-| Host Name | 我干了波兰人的母亲 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:44:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895255799462 |
+| Lobby ID | 28613895256557404 |
 | Players | 1/8 |
-| Host Name | ђâPῥұ |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 18, 2024 15:44:25 |
+| Host Name | alone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:45:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895254740720 |
+| Players | 13/15 |
+| Host Name | Кибер Валет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:42:26 |
 
 
 |  | ot3_desert_octet |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613895255508360 |
 | Players | 2/10 |
-| Host Name | qiellaeveily |
+| Host Name | 瓦达西瓦教父dei死 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:43:53 |
 
