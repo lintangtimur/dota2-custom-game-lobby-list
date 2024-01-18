@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895303876124 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Диарея яичек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:10:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895298936551 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, January 18, 2024 17:01:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895303763960 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:10:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895303562113 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Analyze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:09:53 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SlowNope |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:08:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895304370046 |
+| Players | 1/10 |
+| Host Name | ✪ Mario 93 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 17:11:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895304527294 |
+| Players | 1/5 |
+| Host Name | Буйный_Джорджо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 17:11:35 |
 
 
