@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895275196885 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 16:20:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895360721115 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Maxim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 18:35:07 |
@@ -47,19 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 18:28:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895361403434 |
+| Players | 1/10 |
+| Host Name | Ghost Grave |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:36:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895361231531 |
-| Players | 7/15 |
-| Host Name | 0_0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:35:47 |
+| Lobby ID | 28613895361635639 |
+| Players | 3/15 |
+| Host Name | Нос Волан-Де-Морт |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:36:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895360593422 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | LEE kwang SOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 18:34:57 |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895358208602 |
-| Players | 1/10 |
-| Host Name | END |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 18:31:49 |
+| Lobby ID | 28613895357644603 |
+| Players | 8/10 |
+| Host Name | MillionsFishSecondForce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 18:31:05 |
 
 
