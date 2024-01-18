@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895313143821 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Nocturne |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 17:26:02 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895313545327 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | HaShhhira |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 17:26:42 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895311416450 |
-| Players | 1/5 |
-| Host Name | Saneiko_PvL |
+| Lobby ID | 28613895313817448 |
+| Players | 5/15 |
+| Host Name | Bonsai |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 17:23:11 |
+| Lobby Creation Time | Thursday, January 18, 2024 17:27:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895312816008 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BugSplat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 17:25:29 |
