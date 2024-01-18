@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895212463163 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 14:18:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895214230854 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | sana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:22:38 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895215012208 |
-| Players | 2/10 |
-| Host Name | hikikomori kai |
+| Lobby ID | 28613895215795674 |
+| Players | 4/15 |
+| Host Name | Разрушитель |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:24:16 |
+| Lobby Creation Time | Thursday, January 18, 2024 14:25:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895213619421 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | flow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:21:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895215231051 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:24:44 |
@@ -76,37 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895215305997 |
+| Lobby ID | 28613895215502192 |
 | Players | 1/8 |
-| Host Name | nightwalk1e |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:24:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613895214955474 |
-| Players | 4/5 |
-| Host Name | Учитель труда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:24:09 |
+| Host Name | bünyamin button |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 14:25:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895214926946 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Gustavo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:24:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895212292168 |
-| Players | 8/10 |
-| Host Name | 𝔸𝕣𝕚𝕖𝕤 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:18:36 |
 
 
