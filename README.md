@@ -23,43 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895146740042 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Mr.October º Möll  :) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 11:54:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895147487703 |
-| Players | 1/15 |
-| Host Name | kate |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 11:55:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895144107399 |
-| Players | 9/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 11:48:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895146793934 |
-| Players | 10/24 |
-| Host Name | blanc. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 11:54:23 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895147351821 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 11:55:40 |
@@ -67,28 +40,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895144146547 |
-| Players | 23/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 11:48:19 |
+| Lobby ID | 28613895147616172 |
+| Players | 2/24 |
+| Host Name | PRISIONERO LINDO LINDO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 11:56:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895146787698 |
-| Players | 8/10 |
-| Host Name | AthenA |
+| Lobby ID | 28613895146793934 |
+| Players | 11/24 |
+| Host Name | blanc. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 11:54:23 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895147500560 |
-| Players | 1/5 |
-| Host Name | Rimuru Tempest |
+| Lobby ID | 28613895147570975 |
+| Players | 7/15 |
+| Host Name | Shade1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 11:56:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895147694299 |
+| Players | 2/24 |
+| Host Name | CHERK |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 11:56:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613895147875002 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 11:56:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895147816728 |
+| Players | 3/10 |
+| Host Name | Click[&]Search |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 11:56:00 |
+| Lobby Creation Time | Thursday, January 18, 2024 11:56:43 |
 
 
