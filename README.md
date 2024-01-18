@@ -59,17 +59,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895238752618 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | MamaStiflera |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 15:11:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895239072455 |
+| Players | 7/8 |
+| Host Name | mozzy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 15:12:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895236896212 |
-| Players | 9/10 |
-| Host Name | san~ |
+| Players | 8/10 |
+| Host Name | everyday is good day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:08:12 |
 
