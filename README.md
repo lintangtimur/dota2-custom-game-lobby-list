@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895980150410 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | °L-oVe.exe'-Deaidso-true° |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:41:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895979902596 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | PolarBearSaysGr |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:40:44 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895980429016 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RUSSIAN SAM SULEK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:41:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895980516252 |
+| Players | 1/10 |
+| Host Name | Shel-B |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:42:10 |
 
 
 |  | epic_boss_fight_normal |
