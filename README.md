@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895734592783 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 00:54:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895769785780 |
-| Players | 1/8 |
-| Host Name | Rainbow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:17 |
+| Lobby ID | 28613895770651975 |
+| Players | 5/24 |
+| Host Name | fish |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 01:34:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895767651807 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | M@rvericj |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 01:30:55 |
@@ -32,99 +32,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895768860274 |
-| Players | 13/24 |
+| Players | 7/24 |
 | Host Name | Goose |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 01:32:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895769932281 |
-| Players | 4/10 |
-| Host Name | MeFe |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895770238463 |
-| Players | 6/15 |
-| Host Name | Absolute D. Zerø النار و |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895766309373 |
-| Players | 12/15 |
-| Host Name | Юра Куни |
+| Lobby ID | 28613895770673150 |
+| Players | 7/15 |
+| Host Name | JONY |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 01:29:26 |
+| Lobby Creation Time | Friday, January 19, 2024 01:34:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895771275521 |
+| Players | 2/8 |
+| Host Name | Zelenskiy Official |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 01:34:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895771115873 |
+| Players | 6/8 |
+| Host Name | Dead Walking |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 01:34:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895769490774 |
 | Players | 1/8 |
-| Host Name | Dispersion |
+| Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 01:32:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895769721569 |
-| Players | 2/15 |
-| Host Name | Aquabry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895769905534 |
-| Players | 4/8 |
-| Host Name | we81e412awhzsqjsidq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613895766330143 |
-| Players | 23/24 |
-| Host Name | Jogol |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 01:29:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613895769810274 |
-| Players | 5/10 |
-| Host Name | Holy_Dad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895767996995 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | MonKඞStrඞts |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 01:31:19 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613895770079597 |
-| Players | 1/5 |
-| Host Name | ilove |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 01:33:37 |
+| Lobby ID | 28613895771367592 |
+| Players | 1/10 |
+| Host Name | ФИТЬФИТЬ? АААА |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 01:35:03 |
 
 
