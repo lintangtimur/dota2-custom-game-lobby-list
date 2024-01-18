@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895897552018 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:11:56 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:08:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895895441429 |
-| Players | 4/8 |
-| Host Name | :_:_:_:_:_: |
+| Lobby ID | 28613895897692959 |
+| Players | 1/10 |
+| Host Name | ∟O◄§∟ ô |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 04:08:51 |
+| Lobby Creation Time | Friday, January 19, 2024 04:12:08 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895896611826 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | поешь говна даун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:10:32 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 04:11:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895897418433 |
-| Players | 9/15 |
-| Host Name | минус жёпа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 04:11:44 |
+| Lobby ID | 28613895897693690 |
+| Players | 3/8 |
+| Host Name | ЧВК ЯЙЦА |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 04:12:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895897560128 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | мафака |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:11:56 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895894712878 |
+| Lobby ID | 28613895895862092 |
 | Players | 14/15 |
-| Host Name | DonFlag |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 04:07:49 |
+| Host Name | Mirage Tank |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 04:09:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alex_sas |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:11:27 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613895897699877 |
+| Players | 1/7 |
+| Host Name | walk away |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 04:12:09 |
 
 
