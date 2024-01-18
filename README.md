@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895255315290 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 15:43:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895205678736 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 14:04:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895254131453 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | L in LA xd |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, January 18, 2024 15:41:16 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:43:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895254740720 |
-| Players | 14/15 |
-| Host Name | Кибер Валет |
+| Lobby ID | 28613895255522045 |
+| Players | 4/10 |
+| Host Name | lil window |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:42:26 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:43:54 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 15:43:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895255389001 |
-| Players | 1/8 |
-| Host Name | ђâPῥұ |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, January 18, 2024 15:43:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895255522045 |
-| Players | 2/10 |
-| Host Name | lil window |
+| Lobby ID | 28613895255617790 |
+| Players | 4/15 |
+| Host Name | 我干了波兰人的母亲 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 15:43:54 |
+| Lobby Creation Time | Thursday, January 18, 2024 15:44:05 |
 
 
 |  | epic_boss_fight_normal |
