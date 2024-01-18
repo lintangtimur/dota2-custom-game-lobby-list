@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895975272563 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | TU VIEJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 06:30:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895974290878 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | xXcheroniemoXx |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:28:44 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895975106128 |
-| Players | 12/15 |
-| Host Name | BigTimeTimmyJim |
+| Lobby ID | 28613895976076830 |
+| Players | 6/15 |
+| Host Name | CR |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 06:30:28 |
+| Lobby Creation Time | Friday, January 19, 2024 06:32:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895975313160 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | kangle |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:30:55 |
@@ -59,37 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895975861693 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ДОЛБЛЮ МЕТАДОН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 06:32:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895975979001 |
-| Players | 5/8 |
-| Host Name | 🥚Little Egg :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 06:32:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895976076830 |
-| Players | 1/15 |
-| Host Name | CR |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 06:32:37 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895976334928 |
-| Players | 2/10 |
-| Host Name | NeverGS |
+| Lobby ID | 28613895976597663 |
+| Players | 4/10 |
+| Host Name | JUNGKOOK(elkchasimios ) |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 06:33:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895976668359 |
+| Players | 6/8 |
+| Host Name | 毒液先生 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 06:33:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895976697176 |
+| Players | 4/8 |
+| Host Name | cico nenormalen |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 06:33:09 |
+| Lobby Creation Time | Friday, January 19, 2024 06:33:56 |
 
 
 |  | epic_boss_fight_nightmare |
