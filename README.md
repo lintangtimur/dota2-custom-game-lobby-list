@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887056064 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | zadornov2010 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 03:56:57 |
@@ -56,40 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:48:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895886878786 |
-| Players | 7/8 |
-| Host Name | piensa pe chato |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 03:56:41 |
+| Lobby ID | 28613895888940715 |
+| Players | 8/15 |
+| Host Name | Позорный цирк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895887617772 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Háchécíthó |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895888207435 |
-| Players | 1/15 |
-| Host Name | valarmorghulis |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 03:58:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895888268024 |
-| Players | 6/8 |
-| Host Name | бандеромобіль |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 03:58:40 |
+| Lobby ID | 28613895889017097 |
+| Players | 1/8 |
+| Host Name | {CGC }NEW META |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895888684796 |
+| Players | 1/15 |
+| Host Name | GTR^-^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:16 |
 
 
 |  | ot3_gardens_duo |
@@ -101,37 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:58:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895888434831 |
-| Players | 9/15 |
-| Host Name | mori |
+| Lobby ID | 28613895888650391 |
+| Players | 4/8 |
+| Host Name | Чивапчичи |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:58:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895888538920 |
-| Players | 1/10 |
-| Host Name | hrostmy |
-| Region | INDIA |
-| Lobby Creation Time | Friday, January 19, 2024 03:59:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895888044714 |
-| Players | 9/10 |
-| Host Name | mitsubishi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:58:21 |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895888498204 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 03:59:00 |
@@ -139,28 +121,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895888511091 |
-| Players | 8/10 |
-| Host Name | Эталон добиваний |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:59:01 |
+| Lobby ID | 28613895888750167 |
+| Players | 1/10 |
+| Host Name | hrostmy |
+| Region | INDIA |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895888545823 |
-| Players | 2/8 |
-| Host Name | Тот самый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 03:59:04 |
+| Lobby ID | 28613895889004416 |
+| Players | 4/8 |
+| Host Name | 3249088214-0324 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895885756108 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | reavean005 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 03:55:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895888663211 |
+| Players | 1/5 |
+| Host Name | retro.exe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 03:59:14 |
 
 
