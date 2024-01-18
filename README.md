@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895161830116 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Вишневый Ликер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 12:28:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895162444696 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:29:35 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895162351375 |
-| Players | 6/24 |
-| Host Name | 사랑해요 |
+| Players | 8/24 |
+| Host Name | HeDes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:29:22 |
 
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 12:20:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895162079193 |
-| Players | 5/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 12:28:46 |
+| Lobby ID | 28613895161365347 |
+| Players | 4/8 |
+| Host Name | .tv/Ascendancydota Muted |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 12:27:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895161488527 |
-| Players | 10/24 |
+| Players | 19/24 |
 | Host Name | Stepdad with boundary issues |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 12:27:25 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895161736249 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | s1mple |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:27:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895161365347 |
-| Players | 4/8 |
-| Host Name | .tv/Ascendancydota Muted |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 12:27:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895162336712 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 12:29:20 |
