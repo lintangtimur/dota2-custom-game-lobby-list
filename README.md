@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895196094719 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ✪ Alejandro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:44:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895196820676 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | UnderПиво |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, January 18, 2024 13:45:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895196560433 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 13:45:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895196638500 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MODE: YATORONTOTOKITOKAYA |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, January 18, 2024 13:45:24 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895196927202 |
-| Players | 4/8 |
-| Host Name | Отдамся Соне |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 13:46:03 |
+| Lobby ID | 28613895197167256 |
+| Players | 1/8 |
+| Host Name | Швееееееепс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 13:46:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895197268425 |
+| Players | 1/15 |
+| Host Name | Neoxa[DMG]//3L_M4LTR4 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, January 18, 2024 13:46:48 |
 
 
 |  | epic_boss_fight_normal |
