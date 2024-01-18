@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895923681936 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 04:52:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895925652037 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Bobby Big Dog Malone |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 04:55:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895927820868 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Indabattle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 04:59:38 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895927501849 |
-| Players | 5/8 |
-| Host Name | aproxx |
+| Players | 6/8 |
+| Host Name | _CANCER_ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:59:05 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895927267856 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | TELLA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 04:58:42 |
@@ -119,12 +119,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 05:00:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895928080187 |
+| Players | 1/8 |
+| Host Name | С_ПЛАНОМ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 05:00:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895928115520 |
+| Players | 1/15 |
+| Host Name | Qwerty |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 05:00:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895924024722 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 04:53:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895928153013 |
+| Players | 2/5 |
+| Host Name | AlexeyNZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 05:00:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895928176441 |
+| Players | 1/5 |
+| Host Name | Джон Вік |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 05:00:14 |
 
 
