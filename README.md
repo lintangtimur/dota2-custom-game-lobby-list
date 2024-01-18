@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895275948110 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 16:21:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895280211180 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Константин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:28:59 |
@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895280390532 |
-| Players | 1/15 |
-| Host Name | Sug-madic |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, January 18, 2024 16:29:18 |
+| Lobby ID | 28613895280824025 |
+| Players | 4/15 |
+| Host Name | daertc. |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 16:30:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895280396012 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | kykykov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, January 18, 2024 16:29:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895280770610 |
-| Players | 1/8 |
-| Host Name | BoOM! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, January 18, 2024 16:29:59 |
 
 
 |  | epic_boss_fight_normal |
