@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895212463163 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 14:18:57 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895213074496 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | kielbasa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, January 18, 2024 14:20:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895213145743 |
-| Players | 4/8 |
-| Host Name | ム Temple <3 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:20:23 |
+| Lobby ID | 28613895214230854 |
+| Players | 2/24 |
+| Host Name | sana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, January 18, 2024 14:22:38 |
 
 
 |  | ot3_desert_octet |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895212925632 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 14:19:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895213067867 |
-| Players | 10/15 |
-| Host Name | Youbi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:20:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895213078700 |
-| Players | 4/8 |
-| Host Name | ............. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:20:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 14:21:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895212292168 |
-| Players | 7/10 |
-| Host Name | 𝔸𝕣𝕚𝕖𝕤 |
+| Lobby ID | 28613895213078700 |
+| Players | 5/8 |
+| Host Name | ............. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 14:18:36 |
+| Lobby Creation Time | Thursday, January 18, 2024 14:20:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613895213033529 |
-| Players | 8/10 |
-| Host Name | VURP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, January 18, 2024 14:20:09 |
+| Lobby ID | 28613895213873953 |
+| Players | 3/5 |
+| Host Name | Hani |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, January 18, 2024 14:21:54 |
 
 
