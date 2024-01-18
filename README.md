@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895582340774 |
-| Players | 2/15 |
-| Host Name | Gagarin |
+| Lobby ID | 28613895583062393 |
+| Players | 5/10 |
+| Host Name | al1te |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:16:55 |
+| Lobby Creation Time | Thursday, January 18, 2024 22:17:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895580515402 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, January 18, 2024 22:15:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895574668157 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Miracle- |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, January 18, 2024 22:09:23 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895581688527 |
-| Players | 5/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:16:17 |
+| Lobby ID | 28613895582962090 |
+| Players | 1/8 |
+| Host Name | MarcleanCxz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, January 18, 2024 22:17:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895574539172 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Anne |
 | Region | PERU |
 | Lobby Creation Time | Thursday, January 18, 2024 22:09:15 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, January 18, 2024 22:15:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895581545280 |
-| Players | 7/10 |
-| Host Name | Руслан |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, January 18, 2024 22:16:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613895582387350 |
-| Players | 4/10 |
-| Host Name | bellatrix lestrange |
+| Lobby ID | 28613895582080984 |
+| Players | 2/8 |
+| Host Name | authentic world |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, January 18, 2024 22:16:58 |
+| Lobby Creation Time | Thursday, January 18, 2024 22:16:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895583168360 |
+| Players | 12/15 |
+| Host Name | Аяхо Чуванал |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, January 18, 2024 22:17:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613895582745584 |
+| Players | 2/5 |
+| Host Name | Pivko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, January 18, 2024 22:17:19 |
 
 
