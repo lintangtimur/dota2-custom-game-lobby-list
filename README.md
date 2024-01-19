@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896285872407 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | эщкере888 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:21:34 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896285969839 |
-| Players | 6/10 |
-| Host Name | Над пивом |
+| Players | 5/10 |
+| Host Name | Tima |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:21:43 |
 
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Peachy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:21:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896286122296 |
-| Players | 1/5 |
-| Host Name | О |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:21:58 |
 
 
