@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896072702321 |
-| Players | 1/8 |
-| Host Name | CUMnelom |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:14:07 |
+| Lobby ID | 28613896073406653 |
+| Players | 4/15 |
+| Host Name | EL TETIS |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:15:43 |
 
 
 |  | ot3_desert_octet |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896073050229 |
-| Players | 2/10 |
-| Host Name | La Vaqueee muuuuu |
+| Players | 8/10 |
+| Host Name | ga |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:55 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896072807783 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Eric V |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896072366873 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896072867815 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Chigiri Nagi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:29 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896072737119 |
-| Players | 7/8 |
-| Host Name | Rem is life<3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:14:11 |
 
 
