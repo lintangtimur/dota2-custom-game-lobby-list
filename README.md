@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896154150840 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:13:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896152768465 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | NeverGS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 13:10:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896154515473 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:14:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896154479307 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Priimakk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:14:42 |
