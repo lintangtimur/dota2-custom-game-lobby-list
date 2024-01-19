@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896127715879 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I'm TheChosenOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:16:18 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896128012304 |
-| Players | 6/8 |
-| Host Name | bex |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 12:16:58 |
+| Lobby ID | 28613896128173553 |
+| Players | 2/8 |
+| Host Name | ¿MÁS TRABAJO? |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:17:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896128245230 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | EMOKITO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:17:29 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896128364105 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:17:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896128468005 |
-| Players | 2/10 |
-| Host Name | rain falls on my cut hands |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:17:59 |
 
 
