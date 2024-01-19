@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896090908392 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kevlex |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:55:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896090007034 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:53:07 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 10:55:35 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896091332905 |
+| Players | 1/15 |
+| Host Name | fucks kids in sea of thieves |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 10:56:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896091361027 |
+| Players | 1/15 |
+| Host Name | Same $hit different Day Let Her |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:56:08 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28613896090443805 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Maxandr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:54:06 |
