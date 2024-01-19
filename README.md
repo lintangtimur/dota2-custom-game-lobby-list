@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896084445305 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | noaim |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 10:40:20 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896085680232 |
+| Players | 1/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896085117309 |
-| Players | 7/8 |
-| Host Name | zxc max |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 10:41:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896084983579 |
-| Players | 10/15 |
-| Host Name | Me and 23 dogs |
+| Lobby ID | 28613896085781605 |
+| Players | 4/8 |
+| Host Name | el cacha viejas de 20 años |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:41:32 |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896084855568 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Ejboss (the real one) |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:41:15 |
@@ -59,25 +59,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896085495917 |
-| Players | 7/15 |
-| Host Name | S.A |
+| Players | 8/15 |
+| Host Name | Boris |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:42:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896085680232 |
-| Players | 1/24 |
-| Host Name | <Cyborgix> |
+| Lobby ID | 28613896085738835 |
+| Players | 8/24 |
+| Host Name | CHICO FITNESS 69 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896085749551 |
+| Players | 11/15 |
+| Host Name | maku reactor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896085796077 |
+| Players | 2/10 |
+| Host Name | Keeper |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:43:13 |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896085976998 |
+| Players | 1/8 |
+| Host Name | Wisper |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896083865639 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | OBONGA JR. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:39:02 |
