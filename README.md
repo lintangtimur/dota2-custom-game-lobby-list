@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896091609560 |
-| Players | 1/10 |
-| Host Name | Good |
+| Lobby ID | 28613896092666224 |
+| Players | 4/8 |
+| Host Name | Kimera |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:56:41 |
+| Lobby Creation Time | Friday, January 19, 2024 10:59:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896092391459 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Montaña |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:58:26 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896092574831 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ЖиЖик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:58:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896092666224 |
-| Players | 1/8 |
-| Host Name | Kimera |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:59:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896090832932 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:54:58 |
