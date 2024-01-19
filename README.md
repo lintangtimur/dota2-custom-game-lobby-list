@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896061186235 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | BgodFan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:48:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896060782636 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ivadangio |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:47:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896061895098 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:50:01 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | пуп |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:38:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896062229302 |
-| Players | 1/5 |
-| Host Name | good=boni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 09:50:46 |
 
 
