@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896324603279 |
 | Players | 8/24 |
-| Host Name | 100 Percent Maximum No Chill |
+| Host Name | ☯︎KURAMA☯ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:18:34 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896325597346 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:19:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896321107037 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Dang |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:13:50 |
