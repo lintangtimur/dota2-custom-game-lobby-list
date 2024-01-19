@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896252445952 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Based Cringe |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:24:58 |
@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896252841858 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | 76561198204787636 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:25:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896253116909 |
-| Players | 1/15 |
-| Host Name | javaer_f_lores |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 16:26:08 |
 
 
 |  | ot3_gardens_duo |
@@ -54,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mrllano |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:25:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896253200927 |
+| Players | 1/5 |
+| Host Name | swif❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:26:17 |
 
 
