@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014894574 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | lusketa |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:01:10 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896014965019 |
-| Players | 2/15 |
-| Host Name | EL_DELICIOSO |
+| Players | 10/15 |
+| Host Name | Pisco-Sour <3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:01:20 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896005747241 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | LunchBox |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:39:33 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:44:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896014750214 |
-| Players | 12/15 |
-| Host Name | Е100 |
+| Lobby ID | 28613896015231582 |
+| Players | 2/10 |
+| Host Name | Quai |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:00:50 |
+| Lobby Creation Time | Friday, January 19, 2024 08:01:58 |
 
 
 |  | ot3_desert_octet |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:51:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896015300659 |
+| Players | 2/15 |
+| Host Name | Axdeny |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:02:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896012239043 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | <3 Родип Роге |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:54:51 |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:56:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896015228888 |
-| Players | 1/5 |
-| Host Name | влад ферстблад |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:01:57 |
 
 
