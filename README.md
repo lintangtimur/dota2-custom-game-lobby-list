@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:49:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896167269361 |
-| Players | 21/24 |
-| Host Name | Incradiator |
+| Lobby ID | 28613896172204409 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 13:41:45 |
+| Lobby Creation Time | Friday, January 19, 2024 13:52:03 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896169014334 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | IdARzikƑTh |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:45:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896171927878 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sukuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:51:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896171437486 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Zokov |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:50:29 |
