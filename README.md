@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896145091791 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Bryan |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:54:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896144330246 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Chico Percebe |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:52:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896146134037 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Игорь Потов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:56:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896144338647 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:52:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896145678921 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Kenshin Himura |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:55:49 |
@@ -83,30 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:56:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896146578229 |
+| Players | 6/8 |
+| Host Name | AmiR |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 12:57:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896146671523 |
+| Players | 1/24 |
+| Host Name | hayo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 12:58:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896144748411 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | koey poon mai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:53:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896141025210 |
-| Players | 9/10 |
-| Host Name | 7-Ghost |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:45:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896146262808 |
-| Players | 1/10 |
-| Host Name | DABS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:57:06 |
 
 
