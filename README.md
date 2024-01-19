@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896160691501 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | AEA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:27:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896164513913 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | IDFK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:35:54 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896164834871 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ¡¡°☛ Run If YoU CaN☚シ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:36:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896165099262 |
+| Players | 1/10 |
+| Host Name | ESQUIZOFRENICO_69 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:37:09 |
 
 
