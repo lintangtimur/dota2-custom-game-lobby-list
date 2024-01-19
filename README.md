@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896139857648 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | My Name is JEFF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:42:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896140335277 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | PRIME TIME |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:43:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896139676278 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Homicídio |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:42:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896139729194 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Fckend |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:42:26 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:42:41 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896137045648 |
-| Players | 23/24 |
-| Host Name | Aniki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:36:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896140367271 |
@@ -83,21 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:43:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896140653782 |
+| Players | 8/15 |
+| Host Name | ВЕЛИКИЙ ГРЕШНИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:44:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896140619183 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 12:44:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896140793760 |
+| Players | 1/15 |
+| Host Name | < |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 12:44:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896136608237 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:35:38 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28613896140492100 |
-| Players | 1/7 |
-| Host Name | King Crimson |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, January 19, 2024 12:44:12 |
 
 
