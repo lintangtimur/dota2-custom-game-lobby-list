@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896332541281 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | LV.1 Crook |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:28:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896330441803 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:26:06 |
@@ -56,37 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:28:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896332547677 |
-| Players | 14/15 |
-| Host Name | pornuha- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:28:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896332311676 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Kid diddler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:28:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896332929260 |
-| Players | 6/8 |
-| Host Name | Свинка Пепа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:29:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896324766681 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:18:47 |
