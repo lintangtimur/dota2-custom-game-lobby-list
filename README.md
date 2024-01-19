@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896050523083 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Lupi ix Daxao |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 09:24:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896054057056 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | PMA MODE |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:32:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896054179454 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Spinozo free download no virus |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 09:32:44 |
