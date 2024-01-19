@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896280357257 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Фукака |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:12:41 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896287431972 |
-| Players | 4/8 |
-| Host Name | PUCKet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:24:03 |
+| Lobby ID | 28613896288101017 |
+| Players | 3/8 |
+| Host Name | El dedo perdido de lalatroni |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 17:25:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896287605062 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Кружик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:24:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896287713799 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Взаимные лайки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:24:30 |
@@ -59,46 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896287370244 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Rob Lobb |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:23:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896287368072 |
-| Players | 2/15 |
-| Host Name | Dendi |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:23:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896287920722 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | lovewei042 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:24:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896287903146 |
-| Players | 1/24 |
-| Host Name | JuePaolo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:24:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896286944374 |
-| Players | 8/10 |
-| Host Name | Hope |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:23:17 |
 
 
 |  | epic_boss_fight_nightmare |
