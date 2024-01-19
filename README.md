@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896184911375 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | Kinau |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:18:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896195043473 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Toto Wolff |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:38:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896195005584 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Angel Dust |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:38:16 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:40:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896195301808 |
-| Players | 23/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:38:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896196543040 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | TI Hype |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:41:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896194244720 |
-| Players | 9/10 |
-| Host Name | Kawasaki |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 14:36:49 |
+| Lobby ID | 28613896196662978 |
+| Players | 2/5 |
+| Host Name | n0vember |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:41:27 |
 
 
 |  | epic_boss_fight_normal |
