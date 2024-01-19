@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895995180839 |
-| Players | 1/24 |
-| Host Name | 卡拉咪 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, January 19, 2024 07:15:10 |
+| Lobby ID | 28613895995139224 |
+| Players | 5/15 |
+| Host Name | WN | nivek_2350 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:15:04 |
 
 
 |  | ot3_desert_octet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:14:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895994886355 |
-| Players | 1/15 |
-| Host Name | kangle |
+| Lobby ID | 28613895995188306 |
+| Players | 9/10 |
+| Host Name | МОШОНОЧНЫЙ ОЧКОДРОМ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 07:14:28 |
+| Lobby Creation Time | Friday, January 19, 2024 07:15:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895994126003 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | DIMAXI |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:12:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895993384475 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | MaRiNhA dO BrAsIL |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 07:10:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895995147463 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | The Golden Boy |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:15:05 |
@@ -76,11 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895995139224 |
-| Players | 3/15 |
-| Host Name | WN | nivek_2350 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:15:04 |
+| Lobby ID | 28613895995345207 |
+| Players | 10/15 |
+| Host Name | Дюша Метёлкин[USB] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:15:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895995401988 |
+| Players | 2/8 |
+| Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 07:15:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895995430740 |
+| Players | 2/10 |
+| Host Name | DanZe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:15:45 |
 
 
 |  | epic_boss_fight_nightmare |
