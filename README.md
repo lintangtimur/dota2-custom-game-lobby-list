@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896177401975 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:05:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896178380873 |
-| Players | 22/24 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:04:54 |
+| Lobby ID | 28613896179760574 |
+| Players | 4/10 |
+| Host Name | cho |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:07:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896179500818 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ЧУРКИ ПИДАРАСЫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:07:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896179760574 |
-| Players | 2/10 |
-| Host Name | cho |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:07:45 |
 
 
 |  | epic_boss_fight_nightmare |
