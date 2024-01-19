@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896066949165 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | The Chigüi |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:01:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896067519082 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:02:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896066724112 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Twitch.tv/ElGuapo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:00:41 |
