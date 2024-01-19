@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896037603703 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SOY EL MEJOR ENTIENDE |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:54:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896036825891 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | kagura bachi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:52:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896037241792 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:53:49 |
@@ -101,6 +101,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:54:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896037772801 |
+| Players | 4/15 |
+| Host Name | Я ненавижу лево |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:55:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896037788401 |
+| Players | 2/10 |
+| Host Name | Darkbear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:55:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896037828339 |
+| Players | 1/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:55:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896037072349 |
@@ -108,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 08:53:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896037834058 |
+| Players | 1/5 |
+| Host Name | beetlejuice |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:55:12 |
 
 
