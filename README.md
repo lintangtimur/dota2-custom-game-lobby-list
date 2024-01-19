@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896043046245 |
-| Players | 1/15 |
-| Host Name | WuJi |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 09:06:55 |
+| Lobby ID | 28613896043070141 |
+| Players | 1/8 |
+| Host Name | Mango |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:06:59 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896038468188 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 08:56:39 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896041572978 |
+| Lobby ID | 28613896043114831 |
 | Players | 1/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 09:03:37 |
+| Lobby Creation Time | Friday, January 19, 2024 09:07:05 |
 
 
 |  | epic_boss_fight_nightmare |
