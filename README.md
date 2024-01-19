@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896116210068 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | El Tio Custom |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:50:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896113979888 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:46:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896116053851 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 3 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:50:38 |
