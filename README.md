@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896150719185 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Reality Escaper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:06:40 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896150830355 |
-| Players | 1/24 |
-| Host Name | MAGA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:06:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896148130820 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Zephyr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:08 |
