@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014894574 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ROB.VAN.DAM |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:01:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896005747241 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | LunchBox |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:39:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896015300659 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Axdeny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:02:07 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896015706969 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Mk-Jh |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:03:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896014965019 |
-| Players | 14/15 |
-| Host Name | Pisco-Sour <3 |
+| Lobby ID | 28613896015786548 |
+| Players | 4/8 |
+| Host Name | Meeeel |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:01:20 |
+| Lobby Creation Time | Friday, January 19, 2024 08:03:15 |
 
 
 |  | epic_boss_fight_nightmare |
