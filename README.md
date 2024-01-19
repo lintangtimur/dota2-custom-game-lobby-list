@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896418672455 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Noone |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:06:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896419388339 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | CalculuS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:07:16 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896419823160 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | 12345667890 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:07:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896419238234 |
-| Players | 14/15 |
-| Host Name | Главный в дурке |
+| Lobby ID | 28613896420141216 |
+| Players | 1/8 |
+| Host Name | TK.Dev |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:07:07 |
+| Lobby Creation Time | Friday, January 19, 2024 20:08:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896420250117 |
+| Players | 2/8 |
+| Host Name | а) |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:08:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896413166000 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | _flamingo_ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:01:06 |
