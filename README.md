@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896115475746 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Montaña |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:49:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896115630684 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Frozen |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:49:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896115809169 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 𓊈iTiᴍCaᴍ𝓹y𓊉 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:50:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896116457637 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Chisato |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:51:30 |
