@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:52:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896116457637 |
-| Players | 16/24 |
-| Host Name | Chisato |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:51:30 |
+| Lobby ID | 28613896116592917 |
+| Players | 4/15 |
+| Host Name | I'm TheChosenOne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:51:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896116053851 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 3 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:50:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896116489211 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:51:34 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frozen |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:49:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896116592917 |
-| Players | 4/15 |
-| Host Name | I'm TheChosenOne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:51:47 |
 
 
 |  | epic_boss_fight_nightmare |
