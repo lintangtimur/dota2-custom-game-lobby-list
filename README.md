@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896266436576 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:49:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896266575795 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Grim sleeper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:49:30 |
