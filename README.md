@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896334572801 |
-| Players | 8/10 |
-| Host Name | QK-M○nstR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:31:12 |
+| Lobby ID | 28613896335291426 |
+| Players | 2/8 |
+| Host Name | Jim |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:32:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896333290067 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:29:37 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896335066052 |
-| Players | 4/15 |
-| Host Name | Arthas |
+| Players | 1/15 |
+| Host Name | Grain |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 18:31:49 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896335129552 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | 󠁳⁧⁧ ファックファッ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:31:54 |
