@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896432767675 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EROS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:20:09 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:17:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896433023878 |
-| Players | 13/15 |
-| Host Name | Sautekh |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:20:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896433090841 |
-| Players | 1/15 |
-| Host Name | Magic.Ya |
+| Lobby ID | 28613896432388927 |
+| Players | 9/24 |
+| Host Name | noob 2.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:20:27 |
+| Lobby Creation Time | Friday, January 19, 2024 20:19:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896433646220 |
+| Players | 1/10 |
+| Host Name | ZLblE_Черепаха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:20:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:17:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896431368352 |
-| Players | 2/8 |
-| Host Name | жертва дцп |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:18:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896432388927 |
-| Players | 7/24 |
-| Host Name | noob 2.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:19:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896433523897 |
-| Players | 1/15 |
-| Host Name | *** |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:20:52 |
+| Lobby ID | 28613896433568861 |
+| Players | 4/15 |
+| Host Name | SosiskaKiller228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:20:54 |
 
 
 |  | epic_boss_fight_nightmare |
