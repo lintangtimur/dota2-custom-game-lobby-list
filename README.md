@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:35:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896391454795 |
-| Players | 8/10 |
-| Host Name | F02552DF355000001818 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:38:21 |
+| Lobby ID | 28613896392096573 |
+| Players | 1/8 |
+| Host Name | Know your place, fool |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:39:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896374530976 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:19:48 |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:39:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896391071753 |
-| Players | 8/10 |
-| Host Name | Poseidon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 19:37:56 |
+| Lobby ID | 28613896392403628 |
+| Players | 1/8 |
+| Host Name | elvergalarga |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 19:39:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896391299726 |
+| Lobby ID | 28613896392404786 |
+| Players | 1/8 |
+| Host Name | bacnlka |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:39:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896392405517 |
 | Players | 1/10 |
-| Host Name | Заводчанин |
+| Host Name | megaIIIeckiytip |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:38:11 |
+| Lobby Creation Time | Friday, January 19, 2024 19:39:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Friday, January 19, 2024 19:38:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896391299726 |
+| Players | 1/10 |
+| Host Name | Заводчанин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:38:11 |
 
 
