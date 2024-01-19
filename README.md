@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896123650813 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | lusketa |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:07:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896125165304 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | CHIPI CHIPI CHAPA CHAPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:32 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896125384122 |
-| Players | 5/8 |
-| Host Name | Moore |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:11:01 |
 
 
 |  | epic_boss_fight_nightmare |
