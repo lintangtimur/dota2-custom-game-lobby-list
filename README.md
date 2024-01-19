@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242066175 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:12 |
@@ -31,20 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896242178103 |
+| Lobby ID | 28613896244829434 |
 | Players | 1/15 |
-| Host Name | PINAKA BIHAYASA SA PAGDODOTES WO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:06:24 |
+| Host Name | Ювелир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:11:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896244748006 |
-| Players | 2/15 |
-| Host Name | ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ |
+| Lobby ID | 28613896244828380 |
+| Players | 1/15 |
+| Host Name | max |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:11:01 |
+| Lobby Creation Time | Friday, January 19, 2024 16:11:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896244832438 |
+| Players | 2/10 |
+| Host Name | Machine being |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:11:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896244848501 |
+| Players | 1/8 |
+| Host Name | iron liver |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 16:11:12 |
 
 
 |  | epic_boss_fight_nightmare |
