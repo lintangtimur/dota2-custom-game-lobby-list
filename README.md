@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896316837248 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 18:07:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896319450239 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | KinT.Anduin |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:11:34 |
