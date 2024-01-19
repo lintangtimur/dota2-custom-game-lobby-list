@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896005995930 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ''Yahiiko'' |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:40:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896005779800 |
-| Players | 12/15 |
-| Host Name | Leyo |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:39:37 |
+| Lobby ID | 28613896005900825 |
+| Players | 8/10 |
+| Host Name | Zaxofant |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:39:54 |
 
 
 |  | ot3_gardens_duo |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:38:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896005900825 |
-| Players | 5/10 |
-| Host Name | Zaxofant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:39:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896005915966 |
-| Players | 4/8 |
-| Host Name | De la Cruzito |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:39:57 |
 
 
 |  | epic_boss_fight_nightmare |
