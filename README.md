@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896339082688 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | NAISLYMON666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:36:49 |
@@ -49,15 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896339028862 |
-| Players | 9/10 |
-| Host Name | Mid? Destroyed |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:36:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28613896338861737 |
 | Players | 2/10 |
 | Host Name | крокодильчик |
@@ -65,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:36:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896339261424 |
-| Players | 3/8 |
-| Host Name | Eucliwood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:37:03 |
+| Lobby ID | 28613896339364188 |
+| Players | 1/15 |
+| Host Name | Zaddler |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:37:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896339418443 |
+| Players | 3/10 |
+| Host Name | chipi chipi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:37:14 |
 
 
 |  | epic_boss_fight_nightmare |
