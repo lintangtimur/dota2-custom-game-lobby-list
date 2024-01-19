@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896294912475 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Astral Ado E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:35:42 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896295007047 |
-| Players | 7/8 |
-| Host Name | КАЛДУН (дую кал) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:35:50 |
+| Lobby ID | 28613896295794547 |
+| Players | 2/8 |
+| Host Name | per aspera ad astra |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:37:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896295341395 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | turs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:36:21 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896295649543 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 33 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:36:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896292270032 |
-| Players | 9/10 |
-| Host Name | karmageddon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:31:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i can't sleep without winning |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:36:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896295729734 |
-| Players | 1/10 |
-| Host Name | Little Sailor |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, January 19, 2024 17:36:56 |
 
 
