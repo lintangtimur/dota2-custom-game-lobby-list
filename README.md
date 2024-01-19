@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896046177404 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | arkadd herald gaming |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:14:09 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896044527912 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:10:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896047329970 |
-| Players | 1/8 |
-| Host Name | que abuso on |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:16:53 |
+| Lobby ID | 28613896047245621 |
+| Players | 6/15 |
+| Host Name | no le hables a mi coach ctmre |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 09:16:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896046940897 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:15:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896046915937 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Sweet...Sadistic |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:15:54 |
@@ -77,34 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896046926844 |
-| Players | 3/10 |
-| Host Name | Gral. Hugo Banzer |
+| Players | 2/10 |
+| Host Name | Dazaroth |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:15:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896047245621 |
-| Players | 4/15 |
-| Host Name | no le hables a mi coach ctmre |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 09:16:41 |
+| Lobby ID | 28613896047374776 |
+| Players | 2/8 |
+| Host Name | que abuso on |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:16:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896045846339 |
-| Players | 9/10 |
-| Host Name | mybiiru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 09:13:23 |
+| Lobby ID | 28613896045086668 |
+| Players | 24/24 |
+| Host Name | 사랑해 나연 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:11:32 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896047357684 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | [Leb] Peterpan |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:16:57 |
