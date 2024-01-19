@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896301071153 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:45:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896300897151 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ☠۩ПсИх۩☠ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:44:49 |
@@ -47,48 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:44:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896299438384 |
-| Players | 23/24 |
-| Host Name | experiment |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:42:35 |
+| Lobby ID | 28613896301321772 |
+| Players | 6/10 |
+| Host Name | кинь в меня игнайт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:45:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896301176414 |
-| Players | 4/15 |
-| Host Name | Nazuno |
+| Lobby ID | 28613896301458371 |
+| Players | 9/15 |
+| Host Name | Pan!ca |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:45:15 |
+| Lobby Creation Time | Friday, January 19, 2024 17:45:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896298884141 |
-| Players | 5/10 |
-| Host Name | Moon Knight |
+| Players | 3/10 |
+| Host Name | Vanesse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:41:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896299212167 |
-| Players | 9/10 |
-| Host Name | Проктолог Олег |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:42:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896301097288 |
-| Players | 1/5 |
-| Host Name | #SEMPAI#16 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:45:08 |
 
 
