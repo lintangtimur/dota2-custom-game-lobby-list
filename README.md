@@ -14,63 +14,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896306301817 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:52:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896308206960 |
-| Players | 4/8 |
-| Host Name | y0ngG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:55:43 |
+| Lobby ID | 28613896308850038 |
+| Players | 7/15 |
+| Host Name | Logen |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:56:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896307928673 |
-| Players | 21/24 |
-| Host Name | UNTIL I FOUND YOU |
+| Lobby ID | 28613896308770867 |
+| Players | 1/24 |
+| Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:55:19 |
+| Lobby Creation Time | Friday, January 19, 2024 17:56:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896308394850 |
-| Players | 2/15 |
-| Host Name | Starinniy Tushkan |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:56:00 |
+| Lobby ID | 28613896309049714 |
+| Players | 5/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:56:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896308398836 |
-| Players | 13/15 |
-| Host Name | Punisher |
+| Lobby ID | 28613896309053436 |
+| Players | 1/10 |
+| Host Name | depression & obsession |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:56:00 |
+| Lobby Creation Time | Friday, January 19, 2024 17:56:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896309048108 |
+| Players | 2/8 |
+| Host Name | Ya4ruc1CrY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:56:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896309121360 |
+| Players | 3/8 |
+| Host Name | O KURWA RAKETA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896305902870 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Fey |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:52:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896308599752 |
-| Players | 1/5 |
-| Host Name | Markyjay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:56:18 |
 
 
