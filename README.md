@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895989542691 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | jEREMY |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:02:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895988832732 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Юнец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:00:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895987061633 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:56:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895989206805 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ☁︎DinKie Dow⌁ 尔云♡ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:01:36 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895989251596 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Hi! amiguitos XD |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:01:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895989847283 |
+| Players | 1/8 |
+| Host Name | Omega |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:03:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895989882320 |
+| Players | 1/15 |
+| Host Name | Миша можно было л |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 07:03:06 |
 
 
