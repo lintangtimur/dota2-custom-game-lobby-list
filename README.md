@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896250261609 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:21:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896251207178 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Be_Nice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:22:46 |
@@ -47,19 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:22:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896251493084 |
+| Players | 1/15 |
+| Host Name | 改良する |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 16:23:17 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896250760672 |
+| Lobby ID | 28613896251546214 |
 | Players | 1/5 |
 | Host Name | ProRock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:21:59 |
+| Lobby Creation Time | Friday, January 19, 2024 16:23:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896247895595 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Fey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:16:50 |
