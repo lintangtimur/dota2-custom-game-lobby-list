@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | VEGANO CASUAL |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896421831616 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Ronald |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:09:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896422975621 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Райан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:10:47 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896423012551 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 임찌 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:10:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896423061390 |
-| Players | 2/8 |
-| Host Name | Мои руки тянутся к твоему члену |
+| Lobby ID | 28613896423172437 |
+| Players | 1/10 |
+| Host Name | я танцую на костях |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:10:52 |
+| Lobby Creation Time | Friday, January 19, 2024 20:10:58 |
 
 
 |  | epic_boss_fight_normal |
