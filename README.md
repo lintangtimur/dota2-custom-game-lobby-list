@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896177151529 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | 1000-7 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:02:23 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:03:45 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896177832569 |
-| Players | 1/5 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:03:47 |
+| Lobby ID | 28613896178013330 |
+| Players | 1/8 |
+| Host Name | Enki |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 14:04:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896178021129 |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 14:04:11 |
 
 
