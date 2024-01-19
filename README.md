@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896258211255 |
-| Players | 9/10 |
-| Host Name | Dance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:34:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896258677035 |
-| Players | 8/15 |
-| Host Name | Tired |
+| Lobby ID | 28613896259225211 |
+| Players | 10/15 |
+| Host Name | Langlyaaa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:35:39 |
+| Lobby Creation Time | Friday, January 19, 2024 16:36:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896258973645 |
+| Players | 2/8 |
+| Host Name | vladkyd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:36:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896258897515 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Astral Ado E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:36:02 |
@@ -31,35 +31,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896257683950 |
-| Players | 7/8 |
-| Host Name | ||| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:33:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896258973645 |
+| Lobby ID | 28613896259361534 |
 | Players | 1/8 |
-| Host Name | vladkyd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:36:09 |
+| Host Name | Zaddler |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:36:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896259085305 |
-| Players | 1/15 |
-| Host Name | kriko |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 16:36:21 |
+| Lobby ID | 28613896259410563 |
+| Players | 1/10 |
+| Host Name | Sisya |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:36:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896258346544 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Notime |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:35:05 |
