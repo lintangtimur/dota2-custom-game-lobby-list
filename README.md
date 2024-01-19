@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 13/24 |
+| Players | 11/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896024898879 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:24:57 |
@@ -68,26 +68,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896024677463 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Midnight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:24:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896024701568 |
-| Players | 9/15 |
-| Host Name | 1thekey |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:24:29 |
+| Lobby ID | 28613896025183732 |
+| Players | 4/10 |
+| Host Name | Lorduka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:25:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896024742356 |
-| Players | 7/8 |
-| Host Name | Дейнеріс |
+| Players | 6/8 |
+| Host Name | ♠2drugs drugs drugs |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:24:35 |
 
@@ -95,16 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896024990901 |
-| Players | 5/24 |
+| Players | 12/24 |
 | Host Name | PedroPicaMierda |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:25:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896025141037 |
+| Players | 4/8 |
+| Host Name | Noob Slayer |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:25:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896025170303 |
+| Players | 2/10 |
+| Host Name | Naranja |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:25:35 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28613896024428227 |
-| Players | 2/7 |
+| Players | 5/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:23:52 |
