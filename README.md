@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896021967123 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:39:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896032331242 |
-| Players | 9/10 |
-| Host Name | jeral |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:42:12 |
+| Lobby ID | 28613896032974339 |
+| Players | 2/8 |
+| Host Name | BgodFan |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:43:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896032425876 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | JUN |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:42:25 |
@@ -104,37 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896032569553 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Leave My Soul Alone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:42:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896032644292 |
-| Players | 6/8 |
-| Host Name | ARCHER |
+| Lobby ID | 28613896033044503 |
+| Players | 2/10 |
+| Host Name | kekegozu |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:42:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896032955123 |
-| Players | 5/15 |
-| Host Name | Ando furioso |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:43:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896032974339 |
-| Players | 1/8 |
-| Host Name | BgodFan |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:43:47 |
+| Lobby Creation Time | Friday, January 19, 2024 08:43:57 |
 
 
 |  | epic_boss_fight_nightmare |
