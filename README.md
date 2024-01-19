@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:00:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896205870669 |
-| Players | 14/15 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 14:59:18 |
+| Lobby ID | 28613896208942915 |
+| Players | 5/24 |
+| Host Name | -.DrimacheY.- ҈҉҈҉ |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 15:05:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:02:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896208679176 |
-| Players | 10/15 |
-| Host Name | timmyl |
+| Lobby ID | 28613896209041715 |
+| Players | 2/8 |
+| Host Name | im sorry |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:04:35 |
+| Lobby Creation Time | Friday, January 19, 2024 15:05:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | шарійКО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:58:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896208942915 |
-| Players | 1/24 |
-| Host Name | -.DrimacheY.- ҈҉҈҉ |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 15:05:04 |
 
 
 |  | epic_boss_fight_nightmare |
