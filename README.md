@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896154150840 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:13:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896152632119 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 13:10:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896150965623 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:07:12 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lucho Barrios |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:15:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896155180008 |
+| Players | 5/8 |
+| Host Name | textrañopoco |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:16:12 |
 
 
 |  | epic_boss_fight_normal |
