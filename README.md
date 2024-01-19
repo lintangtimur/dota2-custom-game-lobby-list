@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896130470284 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:22:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896131089636 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:23:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896135493582 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | RichieZones |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:33:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896135192939 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 最高[ジャーク] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:32:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896135735647 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | kura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:33:44 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LEAR |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:34:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896136303989 |
+| Players | 1/10 |
+| Host Name | Davy Jones |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:34:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896132073663 |
+| Players | 23/24 |
+| Host Name | nvxe |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:25:48 |
 
 
