@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896109459287 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | The pope´s mom |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:36:11 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:35:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896109018181 |
-| Players | 5/10 |
-| Host Name | Don payiyo |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:35:14 |
+| Lobby ID | 28613896109150245 |
+| Players | 10/15 |
+| Host Name | 雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:35:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896109197446 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Sissoko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:35:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896109150245 |
-| Players | 8/15 |
-| Host Name | 雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:35:31 |
+| Lobby ID | 28613896109869142 |
+| Players | 1/8 |
+| Host Name | 🥚Little Egg :3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:37:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896108143427 |
+| Players | 7/8 |
+| Host Name | APOLO |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:33:19 |
 
 
 |  | epic_boss_fight_nightmare |
