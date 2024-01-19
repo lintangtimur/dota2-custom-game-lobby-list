@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896146878850 |
-| Players | 7/8 |
-| Host Name | XCLARAX |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:58:28 |
+| Lobby ID | 28613896147274275 |
+| Players | 5/8 |
+| Host Name | Max of Tarask |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 12:59:19 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896148200097 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | رماد سق |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:17 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147235800 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896147274275 |
-| Players | 6/8 |
-| Host Name | Max of Tarask |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 12:59:19 |
 
 
 |  | epic_boss_fight_nightmare |
