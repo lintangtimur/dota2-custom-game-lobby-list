@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896356299781 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Trendo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:57:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
@@ -50,27 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896355772094 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | рядовой залупа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:57:19 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896356441956 |
+| Players | 1/24 |
+| Host Name | 米粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:58:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896355133753 |
+| Players | 2/8 |
+| Host Name | Платина |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:56:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896349613030 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Fey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:49:49 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896356217223 |
-| Players | 2/7 |
-| Host Name | Uriikon |
-| Region | INDIA |
-| Lobby Creation Time | Friday, January 19, 2024 18:57:52 |
+| Lobby ID | 28613896356501601 |
+| Players | 1/5 |
+| Host Name | Ҝ£ί₮₳℟Ǿ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:58:13 |
 
 
