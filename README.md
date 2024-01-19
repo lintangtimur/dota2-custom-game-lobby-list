@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:23:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896218528307 |
-| Players | 17/24 |
-| Host Name | daed pleier |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 15:22:53 |
+| Lobby ID | 28613896219349754 |
+| Players | 5/10 |
+| Host Name | Sohei |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:24:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896219349754 |
-| Players | 5/10 |
-| Host Name | Sohei |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:24:27 |
+| Lobby ID | 28613896220252619 |
+| Players | 2/10 |
+| Host Name | pega. |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 15:26:08 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896219644784 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | I`m just Curious |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:25:00 |
