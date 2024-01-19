@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896365987100 |
-| Players | 13/15 |
-| Host Name | ☢9OO9☢ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:09:49 |
+| Lobby ID | 28613896366238237 |
+| Players | 1/15 |
+| Host Name | Kathryn Bernardon't |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896366071381 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mode:Попка ягодка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:09:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896366118550 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Paalang-Pe-Malaang |
 | Region | INDIA |
 | Lobby Creation Time | Friday, January 19, 2024 19:09:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896366365386 |
+| Players | 2/15 |
+| Host Name | Don't run! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dale |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:09:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896366357633 |
+| Players | 1/5 |
+| Host Name | konoha virus |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:15 |
 
 
