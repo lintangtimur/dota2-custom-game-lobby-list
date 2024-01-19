@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:24:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896072760509 |
-| Players | 1/8 |
-| Host Name | HABLA CONMIGO BRODERRRR |
+| Lobby ID | 28613896073050229 |
+| Players | 2/10 |
+| Host Name | La Vaqueee muuuuu |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:14:15 |
+| Lobby Creation Time | Friday, January 19, 2024 10:14:55 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896072366873 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896072582820 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | no incoming chat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:50 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896072737119 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896073050229 |
-| Players | 2/10 |
-| Host Name | La Vaqueee muuuuu |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:14:55 |
 
 
