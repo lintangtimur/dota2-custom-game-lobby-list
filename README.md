@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Baked Potato. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896218528307 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:22:53 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:21:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896218676450 |
+| Players | 1/5 |
+| Host Name | kirhuawei2010 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:23:10 |
 
 
