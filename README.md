@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896266625980 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ароматный чепчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:49:35 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:52:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896268833163 |
-| Players | 9/10 |
-| Host Name | Frankenstein |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:53:23 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896269761285 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:54:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896269839677 |
+| Players | 1/10 |
+| Host Name | FREE PALESTINE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:55:05 |
 
 
 |  | epic_boss_fight_normal |
