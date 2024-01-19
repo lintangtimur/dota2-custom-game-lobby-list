@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896366572613 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:10:31 |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896366365386 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Don't run! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:10:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896367917054 |
-| Players | 1/24 |
-| Host Name | Man NOT HOT ! never HoT |
-| Region | INDIA |
-| Lobby Creation Time | Friday, January 19, 2024 19:12:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896361589828 |
-| Players | 9/10 |
-| Host Name | Хозяин |
+| Lobby ID | 28613896367980808 |
+| Players | 4/10 |
+| Host Name | da, greshil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:04:27 |
+| Lobby Creation Time | Friday, January 19, 2024 19:12:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896367978752 |
+| Players | 2/10 |
+| Host Name | SomethingToSay |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:12:11 |
 
 
