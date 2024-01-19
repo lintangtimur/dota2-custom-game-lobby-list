@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896107022931 |
 | Players | 2/24 |
-| Host Name | Incradiator |
+| Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896107661223 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Oops |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:32:13 |
@@ -58,17 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896106068894 |
-| Players | 14/15 |
-| Host Name | •● ZaGg ●• |
+| Lobby ID | 28613896108096693 |
+| Players | 1/15 |
+| Host Name | life v kaif |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 11:33:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896108097387 |
+| Players | 1/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:33:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896108108976 |
+| Players | 1/15 |
+| Host Name | maku reactor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:28:42 |
+| Lobby Creation Time | Friday, January 19, 2024 11:33:14 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28613896104569384 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | venom876 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:25:22 |
