@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:18:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896249193996 |
-| Players | 12/15 |
-| Host Name | qwerty тарантино |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:19:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896249645115 |
-| Players | 3/15 |
-| Host Name | Yatoro de dia, Teatoro de noche |
-| Region | CHILE |
-| Lobby Creation Time | Friday, January 19, 2024 16:20:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896247089298 |
