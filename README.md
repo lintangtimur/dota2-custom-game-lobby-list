@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896148200097 |
-| Players | 9/10 |
-| Host Name | رماد سق |
+| Lobby ID | 28613896150586587 |
+| Players | 2/10 |
+| Host Name | стимулятор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:01:17 |
+| Lobby Creation Time | Friday, January 19, 2024 13:06:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896150023231 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:05:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896148321388 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896150408510 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | テフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:06:00 |
@@ -41,45 +41,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896150336834 |
-| Players | 7/8 |
-| Host Name | Stun + Tower = win |
+| Players | 2/8 |
+| Host Name | Wisper |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 13:05:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896150485487 |
-| Players | 5/15 |
-| Host Name | OverFlown |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 13:06:10 |
+| Lobby ID | 28613896150761812 |
+| Players | 1/24 |
+| Host Name | Vernedomo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:06:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896150498950 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | MIP |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 13:06:12 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896150719185 |
+| Players | 1/24 |
+| Host Name | Reality Escaper |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 13:06:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896150830355 |
+| Players | 1/24 |
+| Host Name | MAGA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:06:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896148130820 |
-| Players | 3/10 |
-| Host Name | Freddy Fazber |
+| Players | 5/10 |
+| Host Name | Zephyr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896149860842 |
-| Players | 1/5 |
-| Host Name | купи сырок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:04:51 |
 
 
