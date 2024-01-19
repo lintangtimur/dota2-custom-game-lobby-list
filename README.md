@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896075461715 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Gato Tonoto |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:20:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896074774192 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | El vago de la Sunat |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:18:47 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896075603827 |
-| Players | 11/15 |
-| Host Name | Ants In My Eyes Johnson |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 10:20:38 |
+| Lobby ID | 28613896076246929 |
+| Players | 6/15 |
+| Host Name | KuKin.Punkkeke |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:22:04 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896073812594 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | anita max wynn |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:16:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896073915739 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Comprofiles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:16:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896075441521 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Duracho la real llanta baja |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:20:16 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | el cacha viejas de 20 años |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:21:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896074999405 |
+| Players | 14/15 |
+| Host Name | Si_FeDeO_eS_pOr_Tu_BieN_AmiGuiTo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:19:17 |
 
 
