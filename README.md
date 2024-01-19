@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:12:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896287920722 |
-| Players | 22/24 |
-| Host Name | lovewei042 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:24:50 |
+| Lobby ID | 28613896289280286 |
+| Players | 1/8 |
+| Host Name | Безумный Кабачок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:26:59 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896288960454 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:26:29 |
@@ -85,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896289280286 |
+| Lobby ID | 28613896289494187 |
 | Players | 1/8 |
-| Host Name | Безумный Кабачок |
+| Host Name | popizxcONELOVE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:26:59 |
+| Lobby Creation Time | Friday, January 19, 2024 17:27:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896289498829 |
+| Players | 1/24 |
+| Host Name | C.C. Lemon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:27:19 |
 
 
