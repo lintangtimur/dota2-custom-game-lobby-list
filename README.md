@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896168881943 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | HAPPY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:45:14 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:46:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896169714360 |
-| Players | 4/8 |
-| Host Name | www.twitch.tv/arbyzik_ept |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 13:46:58 |
 
 
 |  | epic_boss_fight_nightmare |
