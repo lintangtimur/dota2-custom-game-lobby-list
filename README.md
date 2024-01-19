@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896165485923 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 13:37:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896163878997 |
-| Players | 22/24 |
-| Host Name | 國王rowin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:34:32 |
+| Lobby ID | 28613896167583901 |
+| Players | 1/15 |
+| Host Name | Nani? |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 13:42:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896167486665 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | autism |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:42:13 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:42:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896167583901 |
-| Players | 1/15 |
-| Host Name | Nani? |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 13:42:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896167772932 |
-| Players | 1/8 |
-| Host Name | IA |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 13:42:50 |
+| Lobby ID | 28613896167899923 |
+| Players | 1/24 |
+| Host Name | Push Back |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 13:43:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:40:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896167851789 |
+| Players | 1/10 |
+| Host Name | ∮Ӥκ∁ӤӃ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:43:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896167908964 |
+| Players | 1/10 |
+| Host Name | Graysanityyy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 13:43:07 |
 
 
