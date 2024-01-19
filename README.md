@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896162794428 |
-| Players | 7/8 |
-| Host Name | SopTema |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 13:32:12 |
+| Lobby ID | 28613896163617714 |
+| Players | 3/10 |
+| Host Name | aña |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:33:58 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896160691501 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | AEA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:27:43 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:32:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896163617714 |
-| Players | 2/10 |
-| Host Name | aña |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 13:33:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896163628918 |
+| Lobby ID | 28613896163719456 |
 | Players | 1/15 |
 | Host Name | Pladimir Vutin |
 | Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 13:34:00 |
+| Lobby Creation Time | Friday, January 19, 2024 13:34:11 |
 
 
 |  | epic_boss_fight_nightmare |
