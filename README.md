@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896429695894 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:17:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896440437812 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | BaBayagbols |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:27:24 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896444551787 |
-| Players | 9/10 |
-| Host Name | invoker через универ |
+| Lobby ID | 28613896445433737 |
+| Players | 5/10 |
+| Host Name | протеин по вене |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:18 |
+| Lobby Creation Time | Friday, January 19, 2024 20:32:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896444798945 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:32 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896445397693 |
-| Players | 1/8 |
-| Host Name | Flash Gordon |
+| Players | 2/8 |
+| Host Name | LET ME COOK |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:32:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896445424305 |
+| Players | 2/15 |
+| Host Name | Беноевский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:32:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896445500624 |
+| Players | 9/15 |
+| Host Name | 古埃及掌管不出分的神 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, January 19, 2024 20:32:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896445516979 |
+| Players | 1/15 |
+| Host Name | YO PINGA LOCA |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 20:32:12 |
 
 
 |  | epic_boss_fight_nightmare |
