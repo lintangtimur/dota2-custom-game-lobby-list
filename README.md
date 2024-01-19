@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 16/24 |
-| Host Name | Fabian! |
+| Players | 15/24 |
+| Host Name | أنا رايدن |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896036451278 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 1thekey |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:52:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896035306116 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Stepdad with boundary issues |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:49:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896036474825 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | riukmyra |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:52:04 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896035705423 |
-| Players | 9/10 |
-| Host Name | SENTINEL |
+| Lobby ID | 28613896034275645 |
+| Players | 10/10 |
+| Host Name | jhano |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:50:18 |
+| Lobby Creation Time | Friday, January 19, 2024 08:46:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896035843949 |
-| Players | 10/24 |
+| Players | 19/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:50:37 |
@@ -119,10 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:51:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896034440388 |
+| Players | 6/8 |
+| Host Name | theshotcaller2017 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896036807548 |
+| Players | 4/15 |
+| Host Name | no le hables a mi coach ctmre |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:52:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896036825891 |
+| Players | 1/8 |
+| Host Name | kagura bachi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:52:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896035613435 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Please stan Yorushika! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 08:50:05 |
