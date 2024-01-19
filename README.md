@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896338009623 |
-| Players | 5/8 |
-| Host Name | PLODOTVOR |
+| Lobby ID | 28613896339985305 |
+| Players | 2/10 |
+| Host Name | رماد سق |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:35:29 |
+| Lobby Creation Time | Friday, January 19, 2024 18:37:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896339953188 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Thawne |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:37:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896339364188 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Zaddler |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:37:10 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896338879137 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | pumpel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:36:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896339985305 |
-| Players | 2/10 |
-| Host Name | رماد سق |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:37:56 |
 
 
 |  | epic_boss_fight_nightmare |
