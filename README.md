@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | NiCol |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896429695894 |
-| Players | 4/24 |
-| Host Name | Yonwalther |
+| Players | 2/24 |
+| Host Name | NiM.BuS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:17:13 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896454023489 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:40:04 |
@@ -49,74 +49,74 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896453453344 |
-| Players | 7/8 |
-| Host Name | acsess |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:39:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896439529982 |
-| Players | 3/10 |
-| Host Name | Leopard 2A7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:26:32 |
+| Lobby ID | 28613896454898362 |
+| Players | 1/8 |
+| Host Name | GOTH ANGEL SINNER |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896453614440 |
-| Players | 8/15 |
-| Host Name | Sunlight |
+| Lobby ID | 28613896454455229 |
+| Players | 4/15 |
+| Host Name | Ruiner |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:39:41 |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896453674591 |
-| Players | 6/10 |
-| Host Name | <{SAM S!CK}> |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:39:45 |
+| Lobby ID | 28613896454269623 |
+| Players | 4/10 |
+| Host Name | Bengal табурет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896444757593 |
+| Players | 7/8 |
+| Host Name | Winter |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896453698073 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Shadows |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:39:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896454098100 |
-| Players | 1/8 |
-| Host Name | 我不想打3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, January 19, 2024 20:40:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896454210454 |
-| Players | 4/8 |
-| Host Name | Kolokoja |
+| Lobby ID | 28613896454871574 |
+| Players | 4/10 |
+| Host Name | Leopard 2A7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:40:14 |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896450110387 |
-| Players | 2/10 |
-| Host Name | Nyx-Kyoron |
-| Region | INDIA |
-| Lobby Creation Time | Friday, January 19, 2024 20:36:26 |
+| Lobby ID | 28613896454998162 |
+| Players | 1/24 |
+| Host Name | Вечная весна |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896450668481 |
+| Players | 1/5 |
+| Host Name | .ntz |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:36:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896454574641 |
+| Players | 2/10 |
+| Host Name | Nyx-Kyoron |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896454701742 |
+| Players | 1/10 |
+| Host Name | woof woof |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:40:41 |
 
 
