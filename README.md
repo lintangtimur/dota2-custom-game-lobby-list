@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896146878850 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | XCLARAX |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:58:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147286050 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | 千キングス ☼ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896145678921 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Kenshin Himura |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:55:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147169765 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | hayo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147235800 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896147274275 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | bryant♎ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:19 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896147730462 |
+| Lobby ID | 28613896148130820 |
 | Players | 1/10 |
 | Host Name | Freddy Fazber |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:00:17 |
+| Lobby Creation Time | Friday, January 19, 2024 13:01:08 |
 
 
