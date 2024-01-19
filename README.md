@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896246184401 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Dance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:13:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242066175 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 不二周助 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896242131547 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Snappix |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896246270393 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | nissinwafer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:13:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896246502264 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Anal Airlines |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:14:14 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Astral Ado E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:15:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896247026293 |
+| Players | 1/8 |
+| Host Name | Дымоок |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:15:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896247075459 |
+| Players | 1/10 |
+| Host Name | nacko LoaL |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 16:15:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Laglikk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:13:52 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613896246995418 |
+| Players | 1/7 |
+| Host Name | KURS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:15:09 |
 
 
