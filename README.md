@@ -2,66 +2,57 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896234924063 |
-| Players | 7/8 |
-| Host Name | ashiro |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:53:16 |
+| Lobby ID | 28613896235562993 |
+| Players | 4/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 15:54:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896235117242 |
-| Players | 3/8 |
-| Host Name | SLYROM |
+| Lobby ID | 28613896235650284 |
+| Players | 5/10 |
+| Host Name | PAFUNDEL ver 2.0 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:53:37 |
+| Lobby Creation Time | Friday, January 19, 2024 15:54:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Хуеморген |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896235033239 |
-| Players | 2/15 |
-| Host Name | nangosu |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 15:53:28 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896234476208 |
-| Players | 7/8 |
-| Host Name | Snappix |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 15:52:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896233478323 |
-| Players | 23/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 15:50:38 |
+| Lobby ID | 28613896235746667 |
+| Players | 2/8 |
+| Host Name | f1ashmix |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:54:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896235255130 |
-| Players | 7/15 |
-| Host Name | cfg |
+| Lobby ID | 28613896235810630 |
+| Players | 4/15 |
+| Host Name | Bruh |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:53:52 |
+| Lobby Creation Time | Friday, January 19, 2024 15:54:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896235698103 |
+| Players | 1/10 |
+| Host Name | Toha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:54:40 |
 
 
