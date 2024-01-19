@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896394677466 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Nevalyashka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:41:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896394113053 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | fair_blood/twitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:41:12 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896392143691 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:39:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896393057572 |
-| Players | 3/8 |
-| Host Name | YO SOLO MATO PERUANOS |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 19:40:05 |
+| Lobby ID | 28613896394883497 |
+| Players | 3/10 |
+| Host Name | Sir Flex-a-Lot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:42:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:39:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896394787295 |
-| Players | 1/15 |
-| Host Name | -KanaMincho #訓練弧 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 19:41:55 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896391337468 |
@@ -119,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:38:11 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896393237992 |
-| Players | 1/5 |
-| Host Name | ПУТИН ЦАРЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:40:16 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896394752699 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:41:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896394924369 |
+| Players | 2/5 |
+| Host Name | ПУТИН ЦАРЬ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:42:04 |
 
 
