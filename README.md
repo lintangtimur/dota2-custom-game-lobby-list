@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896361436715 |
-| Players | 20/24 |
-| Host Name | KomtingKons |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 19:04:16 |
+| Lobby ID | 28613896362380155 |
+| Players | 5/10 |
+| Host Name | npc in nft |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:05:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896361647105 |
-| Players | 6/8 |
-| Host Name | Djeiki4 |
+| Lobby ID | 28613896362518326 |
+| Players | 5/8 |
+| Host Name | Crabfish |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:04:32 |
+| Lobby Creation Time | Friday, January 19, 2024 19:05:36 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896361519623 |
-| Players | 1/24 |
-| Host Name | Richard 99999 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 19:04:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896361733517 |
-| Players | 7/10 |
-| Host Name | Metraflex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:04:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896362143927 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | слизень пацан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:05:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896362266351 |
-| Players | 1/15 |
-| Host Name | Overthrow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 19:05:18 |
 
 
 |  | epic_boss_fight_nightmare |
