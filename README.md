@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896148200097 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | رماد سق |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896150023231 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:05:12 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896150336834 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Stun + Tower = win |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 13:05:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896150436903 |
-| Players | 1/24 |
-| Host Name | Reality Escaper |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:06:04 |
+| Lobby ID | 28613896150485487 |
+| Players | 5/15 |
+| Host Name | OverFlown |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 13:06:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896150498950 |
+| Players | 2/15 |
+| Host Name | MIP |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 13:06:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | купи сырок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:04:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896150447271 |
-| Players | 1/5 |
-| Host Name | ¤デ♥Пuʙacuĸ Tяʜ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:06:05 |
 
 
