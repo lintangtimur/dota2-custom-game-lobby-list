@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896301071153 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:45:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896304303489 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | SailerSilence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:49:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896303994814 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yumbe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:49:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896304395865 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ZoiBeerg |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:50:06 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:50:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896304473166 |
-| Players | 4/8 |
-| Host Name | Kyst |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:50:13 |
 
 
 |  | epic_boss_fight_challenger |
