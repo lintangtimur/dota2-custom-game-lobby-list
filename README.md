@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896137245913 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Ya no se que es ganar |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:37:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896137028778 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ‼►GIFT◄‼ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:36:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896137045648 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:36:35 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:39:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896138660999 |
+| Players | 1/15 |
+| Host Name | Nameless Face |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 12:40:04 |
 
 
 |  | epic_boss_fight_nightmare |
