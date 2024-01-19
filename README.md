@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896395992508 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:43:15 |
@@ -68,64 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896444551787 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | invoker через универ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896444420740 |
-| Players | 2/8 |
-| Host Name | Aid_Lucifer |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896444891529 |
-| Players | 2/8 |
-| Host Name | acsess |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896444708369 |
-| Players | 8/15 |
-| Host Name | булочка с корицей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896444757593 |
-| Players | 1/8 |
-| Host Name | Winter |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896444798945 |
-| Players | 4/24 |
-| Host Name | Kukurudza Striptizerka |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896445175259 |
-| Players | 3/8 |
-| Host Name | Heikko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,19 +83,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:31:51 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896444764554 |
-| Players | 2/7 |
-| Host Name | Un1verSE |
-| Region | SINGAPORE |
+| Lobby ID | 28613896444891529 |
+| Players | 2/8 |
+| Host Name | acsess |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 20:31:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896444798945 |
+| Players | 8/24 |
+| Host Name | Kukurudza Striptizerka |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:31:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896444757593 |
+| Players | 1/8 |
+| Host Name | Winter |
+| Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896445397693 |
+| Players | 1/8 |
+| Host Name | Flash Gordon |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:32:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896444138488 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | どこですか？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:30:54 |
