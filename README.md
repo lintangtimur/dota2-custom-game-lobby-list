@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896131089636 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:23:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896130102415 |
-| Players | 7/8 |
-| Host Name | 76561198335251350 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:21:31 |
+| Lobby ID | 28613896130658549 |
+| Players | 3/15 |
+| Host Name | ф1412341 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 12:22:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896129767900 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | El gato con botas |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 12:20:48 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TORNADO DE BOOMER |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:22:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896130658549 |
-| Players | 2/15 |
-| Host Name | ф1412341 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 12:22:44 |
 
 
 |  | epic_boss_fight_nightmare |
