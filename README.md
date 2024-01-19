@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896267454843 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | stats only |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:51:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896268833163 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Frankenstein |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:53:23 |
