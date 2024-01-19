@@ -5,73 +5,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896105127720 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:26:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896106449061 |
-| Players | 6/8 |
-| Host Name | Tamborsito |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:29:33 |
+| Lobby ID | 28613896107351302 |
+| Players | 5/10 |
+| Host Name | Bebe Dragon |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 11:31:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896107022931 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896106367331 |
-| Players | 13/15 |
-| Host Name | 愛してます。 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:29:22 |
+| Lobby ID | 28613896107661223 |
+| Players | 6/10 |
+| Host Name | Oops |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:32:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896106082921 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | NGX.RoR_kiler |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:28:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896105956937 |
-| Players | 21/24 |
-| Host Name | ♣«L­­»evi♣ |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:28:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896106068894 |
-| Players | 7/15 |
-| Host Name | •● ZaGg ●• |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:28:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896107351302 |
-| Players | 2/10 |
-| Host Name | Bebe Dragon |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 11:31:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pisaksa GOD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:31:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896106068894 |
+| Players | 14/15 |
+| Host Name | •● ZaGg ●• |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:28:42 |
 
 
 |  | epic_boss_fight_challenger |
