@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896055193811 |
-| Players | 9/10 |
-| Host Name | CMEKAЛИCTЫЙ HAE6 MAKAKИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 09:34:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896054626224 |
-| Players | 22/24 |
-| Host Name | Loquendo (2010) |
+| Lobby ID | 28613896055837698 |
+| Players | 5/10 |
+| Host Name | Tucan Mistico :v |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:33:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896054836556 |
-| Players | 7/8 |
-| Host Name | Ryota |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 09:34:11 |
+| Lobby Creation Time | Friday, January 19, 2024 09:36:23 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:36:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896055837698 |
-| Players | 5/10 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:36:23 |
+| Lobby ID | 28613896054836556 |
+| Players | 7/8 |
+| Host Name | Ryota |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 09:34:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896056211349 |
+| Players | 1/24 |
+| Host Name | imsofkingpro |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 09:37:13 |
 
 
 |  | epic_boss_fight_hard |
@@ -112,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896056072897 |
+| Lobby ID | 28613896056193579 |
 | Players | 1/10 |
 | Host Name | MinskVN |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 09:36:54 |
+| Lobby Creation Time | Friday, January 19, 2024 09:37:10 |
 
 
