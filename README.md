@@ -38,40 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896275541154 |
-| Players | 4/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:04:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896274900183 |
-| Players | 9/10 |
-| Host Name | Ya feel me? |
+| Lobby ID | 28613896276110594 |
+| Players | 2/10 |
+| Host Name | xochuabsinthe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:03:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896275832341 |
-| Players | 7/15 |
-| Host Name | Volodya1Clip☠ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:05:14 |
+| Lobby Creation Time | Friday, January 19, 2024 17:05:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896275903054 |
-| Players | 2/8 |
-| Host Name | I got this |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:05:22 |
+| Lobby ID | 28613896276201025 |
+| Players | 1/8 |
+| Host Name | MARALMAA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:05:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896275493999 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | bruh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:04:41 |
