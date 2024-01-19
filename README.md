@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896142047670 |
-| Players | 1/8 |
-| Host Name | Wyrd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:47:45 |
+| Lobby ID | 28613896143085082 |
+| Players | 5/8 |
+| Host Name | Jolty |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:50:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896142909489 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KIПGJᄃZ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:49:43 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 7-Ghost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:45:26 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613896143112369 |
+| Players | 1/7 |
+| Host Name | May God Rest Your Soul |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 12:50:10 |
 
 
