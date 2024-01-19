@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896279799618 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Honey Loop |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:11:46 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896278560908 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 无意义 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:09:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896279345367 |
-| Players | 1/24 |
-| Host Name |  |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:11:02 |
+| Lobby ID | 28613896279839413 |
+| Players | 5/8 |
+| Host Name | vladkyd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:11:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896279284027 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SWAP LIKES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:10:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896279839413 |
-| Players | 4/8 |
-| Host Name | vladkyd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:11:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896279952684 |
-| Players | 5/8 |
-| Host Name | sasuke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:12:01 |
+| Lobby ID | 28613896280055727 |
+| Players | 1/10 |
+| Host Name | Swap commends |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 17:12:11 |
 
 
 |  | epic_boss_fight_normal |
