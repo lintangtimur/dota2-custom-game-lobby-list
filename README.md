@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896408417037 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:56:19 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896410303756 |
-| Players | 14/15 |
-| Host Name | Кому глоточек? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:58:15 |
+| Lobby ID | 28613896410790551 |
+| Players | 8/15 |
+| Host Name | Don't run! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896410618880 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Millsy_10 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:58:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896410748786 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AckermanN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:58:42 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896410790551 |
-| Players | 5/15 |
-| Host Name | Don't run! |
+| Lobby ID | 28613896410969229 |
+| Players | 1/15 |
+| Host Name | Johnny Sins |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896411033591 |
+| Players | 2/10 |
+| Host Name | кид скади) |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:58:44 |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:59 |
 
 
 |  | epic_boss_fight_nightmare |
