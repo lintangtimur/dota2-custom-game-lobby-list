@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896304303489 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | SailerSilence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:49:58 |
@@ -50,10 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896303994814 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Yumbe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:49:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896304395865 |
+| Players | 5/10 |
+| Host Name | ZoiBeerg |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:50:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896304409118 |
+| Players | 1/10 |
+| Host Name | Васянович Младши |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:50:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896304408954 |
+| Players | 1/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:50:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896304473166 |
+| Players | 4/8 |
+| Host Name | Kyst |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:50:13 |
 
 
 |  | epic_boss_fight_challenger |
