@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896352604972 |
-| Players | 7/8 |
-| Host Name | 𒉭 Berserk 𒌐 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:53:25 |
+| Lobby ID | 28613896352873957 |
+| Players | 6/10 |
+| Host Name | Millsy_10 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:53:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896352966113 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Smile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:53:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896344896851 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Feeder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:44:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896347069726 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:46:44 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896352782191 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | s1vic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:53:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896352873957 |
-| Players | 4/10 |
-| Host Name | Millsy_10 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:53:44 |
 
 
 |  | epic_boss_fight_normal |
