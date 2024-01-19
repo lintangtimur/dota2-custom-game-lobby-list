@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896142811839 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | корсар 12 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:49:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896143364235 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Yuu |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:50:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896143365907 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Samichpunch |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:50:43 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896143956849 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Сын снитча |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:52:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896143991700 |
+| Players | 2/15 |
+| Host Name | Yakuza |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:52:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896136608237 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:35:38 |
