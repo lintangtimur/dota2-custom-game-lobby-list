@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896190345779 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | BB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:29:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896190751830 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Raewyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:30:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896191069236 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:30:37 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [HUI] Noobachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:30:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896191337158 |
+| Players | 2/10 |
+| Host Name | 󠀡󠀡󠀡󠀡󠀡󠀡¡็็ RealG4Life™ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 14:31:09 |
 
 
