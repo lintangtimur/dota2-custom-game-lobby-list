@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896226437128 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:37:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896226472539 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Golub |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:37:45 |
