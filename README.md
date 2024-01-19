@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:29:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896105596392 |
-| Players | 9/10 |
-| Host Name | Собянин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:27:40 |
+| Lobby ID | 28613896107022931 |
+| Players | 1/24 |
+| Host Name | Incradiator |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896105486506 |
-| Players | 9/10 |
-| Host Name | Desemputol |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:27:25 |
+| Lobby ID | 28613896106367331 |
+| Players | 12/15 |
+| Host Name | 愛してます。 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:29:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896105956937 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ♣«L­­»evi♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:28:28 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | оудап |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:28:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896106367331 |
-| Players | 11/15 |
-| Host Name | 愛してます。 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:29:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896107022931 |
-| Players | 1/24 |
-| Host Name | Incradiator |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
 
 
 |  | epic_boss_fight_challenger |
