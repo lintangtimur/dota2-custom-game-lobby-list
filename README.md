@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896242131547 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Snappix |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:19 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896241226589 |
-| Players | 6/8 |
-| Host Name | CiganО_о |
+| Lobby ID | 28613896242333659 |
+| Players | 1/8 |
+| Host Name | Hassuni enabler |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 16:04:43 |
+| Lobby Creation Time | Friday, January 19, 2024 16:06:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896241236571 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | madneSS. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:04:44 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896241907495 |
+| Lobby ID | 28613896242178103 |
 | Players | 1/15 |
-| Host Name | NiHaoDy |
+| Host Name | PINAKA BIHAYASA SA PAGDODOTES WO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:05:55 |
+| Lobby Creation Time | Friday, January 19, 2024 16:06:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242066175 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:12 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | future |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:02:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896242109215 |
-| Players | 1/5 |
-| Host Name | 다유타 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, January 19, 2024 16:06:17 |
 
 
