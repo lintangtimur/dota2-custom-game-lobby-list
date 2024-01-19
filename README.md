@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Baked Potato. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896219049431 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | СОЛЕВАЯ ЛАМПОЧКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:23:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896218528307 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:22:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896219290118 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | [DD] Дet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:24:20 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896219349754 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sohei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:24:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896219845259 |
+| Players | 2/8 |
+| Host Name | shelban po klitory |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:25:23 |
 
 
 |  | epic_boss_fight_nightmare |
