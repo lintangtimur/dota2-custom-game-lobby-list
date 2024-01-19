@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896180443595 |
-| Players | 23/24 |
-| Host Name | MR.ADS |
+| Lobby ID | 28613896184740184 |
+| Players | 5/8 |
+| Host Name | Trungdaica |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:09:08 |
+| Lobby Creation Time | Friday, January 19, 2024 14:18:07 |
 
 
 |  | ot3_necropolis_ffa |
