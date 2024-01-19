@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896130096952 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Father Doug |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:21:30 |
@@ -23,55 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896130102415 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 76561198335251350 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:21:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896128701095 |
-| Players | 1/8 |
-| Host Name | Батя |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:18:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896129571220 |
-| Players | 8/10 |
-| Host Name | why |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:20:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896130020800 |
-| Players | 5/15 |
-| Host Name | una chiki no ma... |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:21:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896129719952 |
-| Players | 12/15 |
-| Host Name | БУТЫЛОЧНЫЙ ШПАГАT |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 12:20:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896128245230 |
-| Players | 1/15 |
-| Host Name | Satogod |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:17:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,19 +40,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896130309186 |
-| Players | 1/10 |
-| Host Name | tom.pzdc |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 12:21:59 |
+| Lobby ID | 28613896129571220 |
+| Players | 9/10 |
+| Host Name | why |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:20:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896130020800 |
+| Players | 6/15 |
+| Host Name | una chiki no ma... |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 12:21:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896128245230 |
+| Players | 1/15 |
+| Host Name | Satogod |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:17:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896128609716 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tequilla |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:18:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896130333899 |
+| Players | 1/10 |
+| Host Name | Freddy Fazber |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:22:02 |
 
 
