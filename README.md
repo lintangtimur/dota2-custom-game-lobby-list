@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896184911375 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kinau |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:18:28 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896195005584 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Angel Dust |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:38:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896195413363 |
-| Players | 14/15 |
-| Host Name | Летчик Зигзаг |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 14:39:04 |
+| Lobby ID | 28613896191069236 |
+| Players | 19/24 |
+| Host Name | El Niño Robalonchis |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 14:30:37 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:38:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896191069236 |
-| Players | 19/24 |
-| Host Name | El Niño Robalonchis |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 14:30:37 |
+| Lobby ID | 28613896196543040 |
+| Players | 1/15 |
+| Host Name | TI Hype |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 14:41:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896194244720 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kawasaki |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 14:36:49 |
