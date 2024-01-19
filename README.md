@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896024898879 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:24:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896025549030 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:26:29 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896024990901 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PedroPicaMierda |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:25:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896025141037 |
-| Players | 6/8 |
-| Host Name | Noob Slayer |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:25:31 |
+| Lobby ID | 28613896025676739 |
+| Players | 2/15 |
+| Host Name | Lina Del Rey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:47 |
 
 
 |  | ot3_gardens_duo |
@@ -135,24 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1thekey |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:24:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896025676739 |
-| Players | 1/15 |
-| Host Name | Lina Del Rey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:26:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896025733780 |
-| Players | 2/8 |
-| Host Name | CIRASU |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:26:55 |
 
 
 |  | epic_boss_fight_hard |
