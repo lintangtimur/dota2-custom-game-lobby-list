@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896274900183 |
-| Players | 6/10 |
-| Host Name | Ya feel me? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:03:41 |
+| Lobby ID | 28613896275419531 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 17:04:33 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896275537116 |
+| Players | 5/10 |
+| Host Name | Aslambek |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:04:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896275358264 |
+| Players | 11/15 |
+| Host Name | Rob Lobb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:04:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896275220984 |
-| Players | 3/8 |
-| Host Name | YALNIZKURT42!! |
+| Lobby ID | 28613896275541154 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:04:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896275222483 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 17:04:14 |
+| Lobby Creation Time | Friday, January 19, 2024 17:04:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896273919680 |
-| Players | 9/10 |
-| Host Name | Dale |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 17:02:03 |
+| Lobby ID | 28613896275493999 |
+| Players | 5/10 |
+| Host Name | bruh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:04:41 |
 
 
