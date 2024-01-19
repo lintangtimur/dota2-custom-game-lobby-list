@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896013515091 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | dmR.[Svnt] |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:57:56 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896013880206 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:58:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896013921783 |
-| Players | 4/15 |
-| Host Name | B_ywaX_Haũmkop |
+| Lobby ID | 28613896013546646 |
+| Players | 2/8 |
+| Host Name | kn9z |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:58:53 |
+| Lobby Creation Time | Friday, January 19, 2024 07:58:00 |
 
 
 |  | ot3_desert_octet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896007815227 |
-| Players | 5/10 |
-| Host Name | ? |
+| Players | 2/10 |
+| Host Name | XrossX |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:44:33 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896013330792 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | twitch/Dreeaam24 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:57:30 |
@@ -104,37 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896013227550 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | 23 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:57:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896013546646 |
-| Players | 1/8 |
-| Host Name | kn9z |
+| Lobby ID | 28613896014343071 |
+| Players | 1/10 |
+| Host Name | Darkbear |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:58:00 |
+| Lobby Creation Time | Friday, January 19, 2024 07:59:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896013982298 |
-| Players | 1/10 |
-| Host Name | трахать сук |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 07:59:02 |
+| Lobby ID | 28613896014239154 |
+| Players | 3/10 |
+| Host Name | asdasd ☻ |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:59:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896013408421 |
-| Players | 13/15 |
-| Host Name | Vlaaa |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:57:41 |
+| Lobby ID | 28613896014279318 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896014294600 |
+| Players | 1/8 |
+| Host Name | Cabeza D. Nabo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:59:45 |
 
 
 |  | epic_boss_fight_nightmare |
