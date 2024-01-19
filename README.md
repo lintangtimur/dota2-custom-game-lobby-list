@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896127605209 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Felip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:16:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896130096952 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Father Doug |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:21:30 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896130020800 |
-| Players | 14/15 |
-| Host Name | una chiki no ma... |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:21:21 |
+| Lobby ID | 28613896130658549 |
+| Players | 1/15 |
+| Host Name | ф1412341 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 12:22:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896130470284 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:22:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896130658549 |
-| Players | 1/15 |
-| Host Name | ф1412341 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 12:22:44 |
 
 
 |  | epic_boss_fight_nightmare |
