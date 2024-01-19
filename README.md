@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896109459287 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | The pope´s mom |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:36:11 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896109869142 |
+| Lobby ID | 28613896110521134 |
 | Players | 1/8 |
-| Host Name | 🥚Little Egg :3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:37:03 |
+| Host Name | 8700 MMR MAIN |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 11:38:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896107022931 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896109197446 |
-| Players | 19/24 |
+| Players | 15/24 |
 | Host Name | Sissoko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:35:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896110370065 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | OldSchool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:38:08 |
@@ -59,28 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896110376477 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | zebaztian |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:38:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896107366606 |
+| Players | 6/8 |
+| Host Name | Pisaksa GOD |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 11:31:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896110725456 |
+| Players | 1/10 |
+| Host Name | hanzo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:38:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896110735393 |
+| Players | 1/8 |
+| Host Name | YO SOLO MATO PERUANOS |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:38:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896106709505 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896109284764 |
-| Players | 2/5 |
-| Host Name | good=boni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:35:48 |
 
 
 |  | epic_boss_fight_nightmare |
