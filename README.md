@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896125165003 |
-| Players | 19/24 |
-| Host Name | Injoker.Death |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:10:32 |
+| Lobby ID | 28613896126658741 |
+| Players | 14/15 |
+| Host Name | a1dargo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:13:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,49 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:12:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896123397390 |
-| Players | 4/8 |
-| Host Name | GOD JIHYO |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:06:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896126748540 |
-| Players | 6/8 |
-| Host Name | 最高[ジャーク] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:14:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896126658741 |
-| Players | 4/15 |
-| Host Name | 4pok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:13:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896127041654 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:14:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896127023970 |
-| Players | 1/15 |
-| Host Name | Loungy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:14:41 |
+| Lobby ID | 28613896127584871 |
+| Players | 5/8 |
+| Host Name | bex |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 12:15:59 |
 
 
 |  | epic_boss_fight_challenger |
