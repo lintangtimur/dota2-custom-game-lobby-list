@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896318153060 |
 | Players | 4/15 |
-| Host Name | D[3]VILISH |
+| Host Name | DVD ghoul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:09:47 |
 
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896318469983 |
+| Players | 3/10 |
+| Host Name | Mid? Destroyed |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:10:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896315944718 |
+| Players | 23/24 |
+| Host Name | Witch King of Angmar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:06:43 |
 
 
 |  | epic_boss_fight_nightmare |
