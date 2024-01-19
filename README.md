@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896224740404 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:34:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Baked Potato. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896225209243 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | envia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:35:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896223748689 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ¡¡°☛ Run If YoU CaN☚シ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:32:39 |
