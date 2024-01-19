@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896375315751 |
-| Players | 6/8 |
-| Host Name | Iron Heart |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:20:40 |
+| Lobby ID | 28613896375511025 |
+| Players | 3/10 |
+| Host Name | КМС по куни |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:20:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896375253034 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Spartacus |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:20:36 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896375511025 |
-| Players | 2/10 |
-| Host Name | КМС по куни |
+| Lobby ID | 28613896375678994 |
+| Players | 1/10 |
+| Host Name | Buğra |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:20:54 |
+| Lobby Creation Time | Friday, January 19, 2024 19:21:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896375227400 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Floydipapii™ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:20:34 |
