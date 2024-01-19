@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896116489211 |
-| Players | 21/24 |
-| Host Name | Chupete |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:51:34 |
+| Lobby ID | 28613896118979714 |
+| Players | 1/10 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 11:56:58 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896117741785 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:54:16 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:55:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896118687800 |
-| Players | 14/15 |
-| Host Name | wild animal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:56:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896118594490 |
-| Players | 5/24 |
-| Host Name | ✿迅猛小老虎 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:56:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896118804264 |
-| Players | 3/15 |
-| Host Name | una chiki no ma... |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:56:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896118911953 |
@@ -83,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:56:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896118979714 |
-| Players | 1/10 |
-| Host Name | Sarapan Srinivasan |
+| Lobby ID | 28613896118594490 |
+| Players | 7/24 |
+| Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:56:58 |
+| Lobby Creation Time | Friday, January 19, 2024 11:56:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896118804264 |
+| Players | 4/15 |
+| Host Name | una chiki no ma... |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:56:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896119095482 |
-| Players | 9/10 |
-| Host Name | †Dracula† |
+| Lobby ID | 28613896119534660 |
+| Players | 2/10 |
+| Host Name | ⌐verfsa |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:57:14 |
+| Lobby Creation Time | Friday, January 19, 2024 11:58:11 |
 
 
