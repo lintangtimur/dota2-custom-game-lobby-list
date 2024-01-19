@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | VEGANO CASUAL |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896395992508 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:43:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896430697017 |
-| Players | 20/24 |
-| Host Name | zeus2014 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:18:11 |
+| Lobby ID | 28613896432455123 |
+| Players | 5/15 |
+| Host Name | have a nice death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:19:51 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896431607986 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | sadfkfgpoliasjnohnbvxckjn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:19:03 |
@@ -74,39 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:18:49 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896432388927 |
+| Players | 2/24 |
+| Host Name | noob 2.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:19:48 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896431672652 |
+| Lobby ID | 28613896432560910 |
 | Players | 1/15 |
-| Host Name | $1GM@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:19:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896431704180 |
-| Players | 4/10 |
-| Host Name | levi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:19:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896431711517 |
-| Players | 2/10 |
-| Host Name | Millsy_10 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:19:09 |
+| Host Name | 啊，对对对 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:19:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896427165056 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | GANS PROVANS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:14:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896431932324 |
+| Players | 1/10 |
+| Host Name | †Dracula† |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:19:21 |
 
 
