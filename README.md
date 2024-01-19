@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896003846270 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ilisena |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:35:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896004062213 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | AXEL |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:35:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896001902514 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:30:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896003501100 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 07:34:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896003556936 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | MATA VENECOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:34:28 |
@@ -58,56 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896003096809 |
+| Lobby ID | 28613896004219342 |
 | Players | 14/15 |
-| Host Name | zzz |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:33:24 |
+| Host Name | Immortality |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 07:36:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896002968069 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 07:33:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896001185294 |
-| Players | 10/15 |
-| Host Name | roswel |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:28:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896002747394 |
-| Players | 9/10 |
-| Host Name | Adhed out my head |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:32:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896004048352 |
-| Players | 4/8 |
-| Host Name | De la Cruzito |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:35:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896004219342 |
-| Players | 3/15 |
-| Host Name | Immortality |
+| Lobby ID | 28613896004470965 |
+| Players | 6/8 |
+| Host Name | РЕКРУТ 5 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 07:36:01 |
+| Lobby Creation Time | Friday, January 19, 2024 07:36:36 |
 
 
 |  | epic_boss_fight_nightmare |
