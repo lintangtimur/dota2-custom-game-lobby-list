@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896245014619 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ФУРУНКУЛ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:11:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896244829434 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Ювелир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:11:10 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:11:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896245262971 |
-| Players | 1/15 |
-| Host Name | meishuchuhuanjingjiusong |
+| Lobby ID | 28613896245274901 |
+| Players | 1/10 |
+| Host Name | Wortex |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:11:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896243607500 |
+| Players | 7/10 |
+| Host Name | Ⓗ︎ beardedZEX; |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:08:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896245306014 |
+| Players | 1/24 |
+| Host Name | noob 2.0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:11:56 |
+| Lobby Creation Time | Friday, January 19, 2024 16:12:01 |
 
 
 |  | epic_boss_fight_nightmare |
