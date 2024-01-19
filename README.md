@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147235800 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147169765 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | hayo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896148321388 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896149319616 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | yeah right |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:03:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896148507339 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | †Dracula† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:01:56 |
