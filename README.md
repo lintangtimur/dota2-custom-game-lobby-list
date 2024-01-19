@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896015985515 |
-| Players | 10/24 |
+| Players | 21/24 |
 | Host Name | R-G |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:03:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896015583195 |
-| Players | 4/10 |
-| Host Name | Chico Percebe |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:02:47 |
+| Lobby ID | 28613896016730968 |
+| Players | 6/8 |
+| Host Name | РЕКРУТ 5 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:05:30 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -86,46 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896016494677 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Nerf Herder |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:04:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896015300659 |
-| Players | 14/15 |
-| Host Name | Axdeny |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:02:07 |
+| Lobby ID | 28613896016570723 |
+| Players | 5/8 |
+| Host Name | egoisto |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:05:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896016550647 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DSAQW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:05:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896016561897 |
-| Players | 3/8 |
-| Host Name | 3 iq run |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:05:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896015368694 |
-| Players | 14/15 |
-| Host Name | zzz |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:02:17 |
+| Lobby ID | 28613896016709569 |
+| Players | 2/15 |
+| Host Name | El Tío Tony-Slark |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:05:27 |
 
 
 |  | epic_boss_fight_nightmare |
