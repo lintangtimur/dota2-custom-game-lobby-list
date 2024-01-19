@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896153374466 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:12:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896152768465 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | NeverGS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 13:10:59 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:14:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896154652000 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 13:15:04 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896154124485 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Priimakk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:14:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896154612677 |
-| Players | 1/5 |
-| Host Name | [18+]印度大麻 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:14:59 |
 
 
