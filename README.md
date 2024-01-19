@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896124130703 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | HOHO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:08:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896125165304 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | CHIPI CHIPI CHAPA CHAPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:32 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896125269638 |
-| Players | 1/24 |
-| Host Name | aaronjp7 |
+| Players | 3/24 |
+| Host Name | SanTy--To..!! |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:46 |
 
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896125165003 |
-| Players | 3/24 |
-| Host Name | Aegis |
+| Players | 2/24 |
+| Host Name | Injoker.Death |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:32 |
 
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896125347470 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896124511890 |
+| Players | 3/8 |
+| Host Name | Mode Upload Medal ↑↑↑ |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:09:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896124938388 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | woof woof |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:10:03 |
