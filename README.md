@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147286050 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 千キングス ☼ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:21 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:56:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896146134037 |
-| Players | 12/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:56:49 |
+| Lobby ID | 28613896147588364 |
+| Players | 4/10 |
+| Host Name | :Xaiko midaX:) |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:59:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896145678921 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Kenshin Himura |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:55:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896144071903 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:52:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896147235800 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:59:14 |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:59:19 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896147588364 |
-| Players | 2/10 |
-| Host Name | :Xaiko midaX:) |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:59:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896147697546 |
-| Players | 1/5 |
+| Lobby ID | 28613896147730462 |
+| Players | 1/10 |
 | Host Name | Freddy Fazber |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:00:13 |
+| Lobby Creation Time | Friday, January 19, 2024 13:00:17 |
 
 
