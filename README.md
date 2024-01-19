@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896309049714 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:56:57 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:56:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896310572336 |
-| Players | 9/10 |
-| Host Name | mamania |
+| Lobby ID | 28613896311201929 |
+| Players | 10/15 |
+| Host Name | Tired |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:59:09 |
+| Lobby Creation Time | Friday, January 19, 2024 18:00:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896310607729 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | boss dave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:59:12 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896311141753 |
-| Players | 3/15 |
-| Host Name | Черный мечник |
+| Players | 2/15 |
+| Host Name | Conqueror |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:59:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896311201929 |
-| Players | 3/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:00:01 |
 
 
 |  | epic_boss_fight_nightmare |
