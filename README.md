@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:35:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896137019304 |
-| Players | 3/8 |
-| Host Name | Anakin Skywrath |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:36:32 |
+| Lobby ID | 28613896135037984 |
+| Players | 9/10 |
+| Host Name | rasmus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 12:32:13 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896137245913 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ya no se que es ganar |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:37:00 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896137028778 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Bukr |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:36:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896135037984 |
-| Players | 10/10 |
-| Host Name | rasmus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:32:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:35:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896137202710 |
-| Players | 8/10 |
-| Host Name | ChowChow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:36:55 |
 
 
 |  | epic_boss_fight_nightmare |
