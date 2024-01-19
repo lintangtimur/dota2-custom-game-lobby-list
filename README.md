@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896329252810 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Miya |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:24:38 |
@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896328958736 |
-| Players | 7/10 |
-| Host Name | КМС по куни |
+| Lobby ID | 28613896329722590 |
+| Players | 6/8 |
+| Host Name | Я ЧЕРТ РАЗОШЛИСЬ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:24:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896329419139 |
-| Players | 1/15 |
-| Host Name | John The Baptist |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:24:50 |
+| Lobby Creation Time | Friday, January 19, 2024 18:25:13 |
 
 
 |  | epic_boss_fight_nightmare |
