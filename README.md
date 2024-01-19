@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 3/24 |
-| Host Name | Marshalldoge |
+| Players | 2/24 |
+| Host Name | Хуеморген |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
 
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:49:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896232723637 |
+| Players | 1/5 |
+| Host Name | ♦ лихач ♦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:49:17 |
 
 
