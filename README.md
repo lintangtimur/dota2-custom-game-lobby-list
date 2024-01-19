@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895999809331 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Sicario-Ursz |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:25:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895995069846 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | GloveBox |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 07:14:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896000176869 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Vagabond |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:26:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896000173883 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | EL SARAMAMBICHE |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:26:39 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:23:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896000306353 |
-| Players | 2/5 |
-| Host Name | Undertaker) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:26:58 |
 
 
