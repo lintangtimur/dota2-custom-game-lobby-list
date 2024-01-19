@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896283282129 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Astral Ado E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:17:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896280357257 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | ароматный чепчик |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:12:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896283149587 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ПодТрусник |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:17:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896284228595 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Bsl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:18:57 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896284333253 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Лариса Ивановна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:19:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896284506858 |
+| Players | 1/15 |
+| Host Name | Zenshu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:19:24 |
 
 
 |  | epic_boss_fight_nightmare |
