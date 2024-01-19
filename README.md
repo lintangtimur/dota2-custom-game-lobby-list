@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896180443595 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Anti-Simp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:09:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896180202671 |
-| Players | 7/10 |
-| Host Name | clownfiesta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:08:39 |
+| Lobby ID | 28613896181630537 |
+| Players | 1/15 |
+| Host Name | X'Zar |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 14:11:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:04:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896178716851 |
-| Players | 3/8 |
-| Host Name | 手指插在屁股上 |
+| Lobby ID | 28613896181745622 |
+| Players | 2/10 |
+| Host Name | pavlysha666 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 14:05:36 |
+| Lobby Creation Time | Friday, January 19, 2024 14:11:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,37 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:08:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896181014181 |
-| Players | 5/8 |
-| Host Name | Jolty |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 14:10:17 |
+| Lobby ID | 28613896181449369 |
+| Players | 3/15 |
+| Host Name | mr. anal rambo slayer |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 14:11:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896181244902 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | I'm TheChosenOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:10:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896181326208 |
-| Players | 2/24 |
-| Host Name | Stayler |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 14:10:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896178826022 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Nyanko |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:05:50 |
