@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896071798868 |
-| Players | 13/15 |
-| Host Name | Funboy |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 10:12:02 |
+| Lobby ID | 28613896072702321 |
+| Players | 1/8 |
+| Host Name | CUMnelom |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 10:14:07 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896072246375 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Yaneris |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896072366873 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:22 |
@@ -72,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chrollo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896072700125 |
+| Players | 1/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 10:14:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896072737119 |
+| Players | 1/8 |
+| Host Name | Rem is life<3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:14:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896072760509 |
+| Players | 1/8 |
+| Host Name | HABLA CONMIGO BRODERRRR |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:14:15 |
 
 
