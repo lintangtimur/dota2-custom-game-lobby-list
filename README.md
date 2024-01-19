@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896275419531 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:04:33 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896277380284 |
-| Players | 3/8 |
-| Host Name | Тайлерджон Дёрде |
+| Lobby ID | 28613896277658140 |
+| Players | 5/8 |
+| Host Name | saitama |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:07:49 |
+| Lobby Creation Time | Friday, January 19, 2024 17:08:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,31 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:05:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896278317051 |
-| Players | 1/15 |
-| Host Name | naiman |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 17:09:22 |
+| Lobby ID | 28613896278747019 |
+| Players | 6/8 |
+| Host Name | BlesTyaska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:10:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896278370694 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Плюшка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:09:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896278568224 |
-| Players | 2/8 |
-| Host Name | xD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:09:47 |
+| Lobby ID | 28613896278770585 |
+| Players | 1/15 |
+| Host Name | naiman |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 17:10:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896276577186 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:06:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896278623878 |
-| Players | 1/5 |
-| Host Name | QX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:09:52 |
 
 
