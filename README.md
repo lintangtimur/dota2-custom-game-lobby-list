@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896274330396 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896329938905 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Gable |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:25:29 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896330209983 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | chipi chapa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:25:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896330441803 |
+| Players | 1/24 |
+| Host Name | 大炮 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:26:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896330468390 |
+| Players | 3/10 |
+| Host Name | 2-3 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:26:08 |
 
 
 |  | epic_boss_fight_nightmare |
