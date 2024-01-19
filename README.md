@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896274330396 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
@@ -41,26 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896310572336 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | mamania |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:59:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896310560223 |
-| Players | 2/10 |
-| Host Name | Thawne |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:59:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896310581883 |
-| Players | 1/15 |
-| Host Name | LoveLera |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:59:09 |
 
@@ -68,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896310607729 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | boss dave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:59:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896311141753 |
+| Players | 3/15 |
+| Host Name | Черный мечник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:59:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896311201929 |
+| Players | 3/15 |
+| Host Name | Tired |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:00:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896310319328 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Dale |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:58:47 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28613896310657769 |
-| Players | 1/7 |
-| Host Name | ๋WhiteVoid961 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:59:16 |
 
 
