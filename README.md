@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896282074042 |
-| Players | 1/24 |
-| Host Name | ☭PolpotTrotskyXiǎopíngDantes |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 17:15:29 |
+| Lobby ID | 28613896283282129 |
+| Players | 9/24 |
+| Host Name | Astral Ado E678 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:17:26 |
 
 
 |  | ot3_desert_octet |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896283160760 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:17:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896283282129 |
-| Players | 7/24 |
-| Host Name | Astral Ado E678 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:17:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896283121869 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Пионер |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:17:10 |
