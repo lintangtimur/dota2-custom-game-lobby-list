@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896029176964 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Rumbo al retiro |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:34:56 |
@@ -92,19 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:36:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896029631423 |
-| Players | 11/15 |
-| Host Name | Thiccolo |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:35:51 |
+| Lobby ID | 28613896030216813 |
+| Players | 1/10 |
+| Host Name | YELTY |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:37:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896030180334 |
+| Players | 3/10 |
+| Host Name | Cassie |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:37:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896027834330 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 08:31:55 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28613896024428227 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:23:52 |
