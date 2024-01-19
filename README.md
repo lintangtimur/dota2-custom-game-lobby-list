@@ -11,31 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:12:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896253397955 |
-| Players | 1/24 |
-| Host Name | June |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:26:38 |
+| Lobby ID | 28613896253678636 |
+| Players | 3/15 |
+| Host Name | РомкаW |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:27:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896253137949 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Деградант |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:26:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896253636101 |
-| Players | 1/15 |
-| Host Name | jesus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:27:03 |
 
 
 |  | epic_boss_fight_nightmare |
