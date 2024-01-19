@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896351065516 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Djonny ;) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:51:33 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896350659155 |
 | Players | 2/10 |
-| Host Name | игрок |
+| Host Name | Mahoraga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:51:04 |
 
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:46:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896347833049 |
-| Players | 3/8 |
-| Host Name | тварь? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:47:40 |
+| Lobby ID | 28613896351094245 |
+| Players | 7/24 |
+| Host Name | VanAugurr |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:51:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896350518485 |
-| Players | 6/15 |
-| Host Name | Don't run! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:50:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896351094245 |
-| Players | 3/24 |
-| Host Name | VanAugurr |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:51:35 |
+| Lobby ID | 28613896352186479 |
+| Players | 4/15 |
+| Host Name | DVD ghoul |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:52:55 |
 
 
 |  | epic_boss_fight_normal |
