@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896017257343 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Becky Blackbell |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:06:45 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896017882519 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Быдло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:08:15 |
@@ -135,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amphibian Kid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:08:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896018258061 |
+| Players | 3/8 |
+| Host Name | Ego |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:09:09 |
 
 
 |  | epic_boss_fight_nightmare |
