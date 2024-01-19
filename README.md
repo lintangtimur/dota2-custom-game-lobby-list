@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896276949055 |
-| Players | 9/10 |
-| Host Name | Продам аккаунт |
+| Lobby ID | 28613896277585976 |
+| Players | 2/10 |
+| Host Name | мур |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:07:07 |
+| Lobby Creation Time | Friday, January 19, 2024 17:08:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896274001476 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Ho-oH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896277380284 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Тайлерджон Дёрде |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:07:49 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:05:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896277529044 |
-| Players | 1/15 |
+| Lobby ID | 28613896277658140 |
+| Players | 1/8 |
 | Host Name | Кружик |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:08:04 |
+| Lobby Creation Time | Friday, January 19, 2024 17:08:17 |
 
 
 |  | epic_boss_fight_normal |
