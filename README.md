@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896120284895 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:59:50 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InspectorClouseau |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:02:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896121773713 |
+| Players | 4/15 |
+| Host Name | TUCA |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:03:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896121837413 |
+| Players | 3/24 |
+| Host Name | PAPÁ CUCHITO |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:03:14 |
 
 
 |  | epic_boss_fight_nightmare |
