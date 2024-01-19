@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:04:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896121722823 |
-| Players | 13/15 |
-| Host Name | InspectorClouseau |
+| Lobby ID | 28613896122770942 |
+| Players | 9/24 |
+| Host Name | BingBongTheRedranger.∩ (◣_ |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:02:58 |
+| Lobby Creation Time | Friday, January 19, 2024 12:05:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896121390092 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | dc bout loses) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:02:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896122293768 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Slunthy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:04:14 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896122951198 |
-| Players | 4/8 |
-| Host Name | (.i.)WaRnIt(.i.) |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:05:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28613896122493562 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Porunga |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:04:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896122770942 |
-| Players | 8/24 |
-| Host Name | BingBongTheRedranger.∩ (◣_ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:05:16 |
 
 
 |  | epic_boss_fight_normal |
