@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896214435141 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 「Catch the Rainbow」 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 15:15:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896219049431 |
-| Players | 7/8 |
-| Host Name | СОЛЕВАЯ ЛАМПОЧКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:23:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896220538474 |
-| Players | 14/15 |
-| Host Name | Fumimochi Fan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:26:41 |
 
 
 |  | ot3_gardens_duo |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:21:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896221362874 |
+| Players | 1/5 |
+| Host Name | ツ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 15:28:13 |
 
 
