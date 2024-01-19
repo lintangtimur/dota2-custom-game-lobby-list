@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896073406653 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | EL TETIS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:15:43 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:24:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896073050229 |
-| Players | 8/10 |
-| Host Name | ga |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:14:55 |
+| Lobby ID | 28613896073662695 |
+| Players | 6/15 |
+| Host Name | Justi4541 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 10:16:17 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896072807783 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Eric V |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:21 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896072366873 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:13:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896072582820 |
-| Players | 13/15 |
-| Host Name | no incoming chat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 10:13:50 |
+| Lobby ID | 28613896073812594 |
+| Players | 1/24 |
+| Host Name | anita max wynn |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 10:16:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896072867815 |
-| Players | 4/10 |
-| Host Name | Chigiri Nagi |
+| Lobby ID | 28613896073915739 |
+| Players | 1/8 |
+| Host Name | cored1nation |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 10:14:29 |
+| Lobby Creation Time | Friday, January 19, 2024 10:16:52 |
 
 
 |  | ot3_gardens_duo |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 10:14:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896073987275 |
+| Players | 2/10 |
+| Host Name | il nero |
+| Region | CHILE |
+| Lobby Creation Time | Friday, January 19, 2024 10:17:01 |
 
 
