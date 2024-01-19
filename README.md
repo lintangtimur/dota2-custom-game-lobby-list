@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896360172948 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | тварь-мразь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:02:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896360527328 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ШИЗАНУТЫЙ АМНЯМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:03:08 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896360544306 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | sexual pressure |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:03:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896360538424 |
-| Players | 1/10 |
-| Host Name | НЭЙТ АРЧИБАЛЬД |
+| Lobby ID | 28613896359181185 |
+| Players | 14/15 |
+| Host Name | ЕбуАлиБабу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:03:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896360542150 |
-| Players | 1/10 |
-| Host Name | Ex-Mørtis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:03:10 |
+| Lobby Creation Time | Friday, January 19, 2024 19:01:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GANS PROVANS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:00:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896360572802 |
+| Players | 1/10 |
+| Host Name | ggwp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:03:12 |
 
 
