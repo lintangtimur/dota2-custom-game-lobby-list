@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896274330396 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:04:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896276238341 |
-| Players | 6/8 |
-| Host Name | даа ну нахуй |
+| Lobby ID | 28613896276949055 |
+| Players | 2/10 |
+| Host Name | Продам аккаунт |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:05:55 |
+| Lobby Creation Time | Friday, January 19, 2024 17:07:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896274001476 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Ho-oH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896276819364 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Oldwarx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:06:54 |
