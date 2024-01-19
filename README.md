@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896168881943 |
-| Players | 3/15 |
-| Host Name | HAPPY |
+| Players | 11/15 |
+| Host Name | bALON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:45:14 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896167269361 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:41:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896168960787 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | テフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:45:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896168308844 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Nugget |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:44:00 |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:46:44 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896169598744 |
-| Players | 1/24 |
-| Host Name | Wu Gensheng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:46:44 |
+| Lobby ID | 28613896167851789 |
+| Players | 3/10 |
+| Host Name | ∮Ӥκ∁ӤӃ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:43:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896167851789 |
+| Lobby ID | 28613896169978987 |
 | Players | 2/10 |
-| Host Name | ∮Ӥκ∁ӤӃ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:43:00 |
+| Host Name | Heen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 13:47:30 |
 
 
