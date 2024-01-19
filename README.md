@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896090185731 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 10:53:30 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896095086571 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Z3RO~×͜× |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:04:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896095819754 |
+| Players | 1/8 |
+| Host Name | Omega |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:05:59 |
 
 
 |  | epic_boss_fight_nightmare |
