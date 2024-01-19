@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896274330396 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
@@ -13,10 +13,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896367980808 |
-| Players | 9/10 |
-| Host Name | da, greshil |
-| Region | STOCKHOLM |
+| Lobby ID | 28613896367978752 |
+| Players | 3/10 |
+| Host Name | toflex |
+| Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:12:11 |
 
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:12:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896367978752 |
-| Players | 3/10 |
-| Host Name | toflex |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:12:11 |
+| Lobby ID | 28613896368844061 |
+| Players | 3/15 |
+| Host Name | Garrett_AVG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:13:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:12:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896368839996 |
+| Players | 1/10 |
+| Host Name | Mистер Роябот Абд |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:13:13 |
 
 
