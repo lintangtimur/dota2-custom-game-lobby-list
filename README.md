@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896086794214 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:45:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896084132941 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Notsalty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:39:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896086463553 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Leon- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:45:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896087277079 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | enola alexandra |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:46:57 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896083865639 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OBONGA JR. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:39:02 |
