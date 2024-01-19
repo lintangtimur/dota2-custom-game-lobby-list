@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896366071381 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Mode:Попка ягодка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:09:55 |
@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896365955770 |
-| Players | 3/10 |
-| Host Name | y.y |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:09:46 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896366442650 |
-| Players | 1/24 |
-| Host Name | Man NOT HOT ! never HoT |
-| Region | INDIA |
-| Lobby Creation Time | Friday, January 19, 2024 19:10:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896366365386 |
-| Players | 2/15 |
-| Host Name | Don't run! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:10:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896364725135 |
-| Players | 9/10 |
-| Host Name | hrostmy |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:08:17 |
+| Lobby ID | 28613896366572613 |
+| Players | 7/24 |
+| Host Name | Pubo999 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,21 +56,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:09:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896366365386 |
+| Players | 3/15 |
+| Host Name | Don't run! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896366692725 |
+| Players | 7/10 |
+| Host Name | mih.ai |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896362967978 |
+| Players | 23/24 |
+| Host Name | chokeza555+ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:06:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896366780639 |
+| Players | 1/8 |
+| Host Name | Shadow relax |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896366847618 |
+| Players | 1/24 |
+| Host Name | Man NOT HOT ! never HoT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896361589828 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Хозяин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:04:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896365706314 |
-| Players | 8/10 |
-| Host Name | Dale |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 19:09:29 |
+| Lobby ID | 28613896366972776 |
+| Players | 1/5 |
+| Host Name | леша куни ниньзя |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:10:59 |
 
 
