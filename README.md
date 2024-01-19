@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896341802089 |
-| Players | 8/15 |
-| Host Name | Obito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:40:12 |
+| Lobby ID | 28613896342411261 |
+| Players | 2/8 |
+| Host Name | II |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:40:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896341765467 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | OopsieDaisy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:40:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896341756373 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | чиф киф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:40:08 |
@@ -56,6 +56,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:39:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896341954971 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:40:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896342186278 |
+| Players | 3/8 |
+| Host Name | Chevrolet Impala |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:40:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896342454496 |
+| Players | 2/15 |
+| Host Name | Starry |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:41:00 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896341345919 |
@@ -67,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896340918782 |
-| Players | 6/10 |
-| Host Name | SuperBoneHack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:39:07 |
+| Lobby ID | 28613896342383183 |
+| Players | 1/10 |
+| Host Name | sigmapipiska |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:40:55 |
 
 
