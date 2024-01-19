@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896219049431 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | СОЛЕВАЯ ЛАМПОЧКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:23:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896218528307 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:22:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896219290118 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | [DD] Дet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:24:20 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sohei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:24:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896219542731 |
-| Players | 2/15 |
-| Host Name | pega. |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 15:24:49 |
 
 
 |  | epic_boss_fight_nightmare |
