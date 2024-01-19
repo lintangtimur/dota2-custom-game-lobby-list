@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896432455123 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | have a nice death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:19:51 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:19:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896432560910 |
-| Players | 1/15 |
-| Host Name | 啊，对对对 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:19:58 |
+| Lobby ID | 28613896432745794 |
+| Players | 1/8 |
+| Host Name | BeNeBe |
+| Region | CHILE |
+| Lobby Creation Time | Friday, January 19, 2024 20:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
