@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896274297980 |
-| Players | 7/15 |
-| Host Name | UCHIHA DROW |
+| Lobby ID | 28613896274342048 |
+| Players | 7/8 |
+| Host Name | Граф Трахула |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:02:41 |
+| Lobby Creation Time | Friday, January 19, 2024 17:02:45 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896273721700 |
-| Players | 1/8 |
-| Host Name | SECURITY |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 17:01:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896274342048 |
-| Players | 3/8 |
-| Host Name | Граф Трахула |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:02:45 |
+| Lobby ID | 28613896274502672 |
+| Players | 3/10 |
+| Host Name | кинь в меня игнайт |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:03:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dale |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896274531229 |
+| Players | 1/5 |
+| Host Name | Похвалите.пж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:03:04 |
 
 
