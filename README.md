@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896209882693 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | maku reactor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:06:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896209674633 |
-| Players | 6/24 |
+| Players | 20/24 |
 | Host Name | Velocitus- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:06:25 |
@@ -29,6 +29,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:07:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896210180393 |
+| Players | 7/24 |
+| Host Name | Baked Potato. |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896210176072 |
+| Players | 3/8 |
+| Host Name | climate control |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:07:20 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28613896209986052 |
@@ -36,5 +54,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PaiNwoW~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:06:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896210201023 |
+| Players | 1/10 |
+| Host Name | All muth Dead Chat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:07:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896210463829 |
+| Players | 4/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 15:07:53 |
 
 
