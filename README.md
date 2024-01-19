@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896230476243 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | jimpork |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:45:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Marshalldoge |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896229600914 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | GodjaBoys! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:43:32 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896230761319 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yanekoro雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:45:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896229768345 |
-| Players | 7/8 |
-| Host Name | vanyuwa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:43:51 |
+| Lobby ID | 28613896231002654 |
+| Players | 1/15 |
+| Host Name | Infinity Tsukuyomi |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 15:46:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:41:49 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896230905021 |
-| Players | 1/5 |
+| Lobby ID | 28613896230959482 |
+| Players | 1/10 |
 | Host Name | con chó đen có bộ lôngmàutrắng |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 15:46:00 |
+| Lobby Creation Time | Friday, January 19, 2024 15:46:06 |
 
 
