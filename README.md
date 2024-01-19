@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:51:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896175002231 |
-| Players | 14/15 |
-| Host Name | In the pipe five by five |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 13:57:55 |
+| Lobby ID | 28613896177401975 |
+| Players | 2/24 |
+| Host Name | El Niño Robalonchis |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896176361530 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | + vibe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:00:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896177151529 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 1000-7 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:02:23 |
@@ -44,24 +44,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/10 |
 | Host Name | ZHOAS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896177404812 |
-| Players | 1/10 |
-| Host Name | Hani |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896177401975 |
-| Players | 1/24 |
-| Host Name | El Niño Robalonchis |
-| Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
 
 
