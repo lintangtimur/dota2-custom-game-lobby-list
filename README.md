@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896395992508 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:43:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896403914401 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | DoctorWhoops |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:51:38 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:51:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896402847272 |
-| Players | 1/10 |
-| Host Name | IGSoNN |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 19:50:32 |
+| Lobby ID | 28613896402821778 |
+| Players | 14/15 |
+| Host Name | sojj |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:50:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896403823072 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 6esToLoch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:51:33 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896403641912 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | @パシャ三百GPM☮ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:51:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896404446094 |
+| Players | 1/24 |
+| Host Name | YouKnowMyName |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:52:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -101,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:51:20 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896404326673 |
-| Players | 1/5 |
-| Host Name | Min_Z_Draw |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:52:04 |
+| Lobby ID | 28613896404355779 |
+| Players | 1/10 |
+| Host Name | Фе́ликс  Дзержи́н |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:52:06 |
 
 
