@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896223926041 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Хуеморген |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:32:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896230504860 |
-| Players | 2/8 |
-| Host Name | chambaMAN |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 15:45:15 |
+| Lobby ID | 28613896230476243 |
+| Players | 5/15 |
+| Host Name | jimpork |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:45:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Marshalldoge |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:45:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896230476243 |
-| Players | 1/15 |
-| Host Name | jimpork |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:45:12 |
+| Lobby ID | 28613896230594470 |
+| Players | 1/10 |
+| Host Name | StaR |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 15:45:25 |
 
 
 |  | epic_boss_fight_normal |
