@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896280357257 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ха3ар |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:12:41 |
@@ -65,46 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:15:29 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896282141136 |
-| Players | 1/8 |
-| Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:15:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896278560908 |
-| Players | 23/24 |
-| Host Name | 无意义 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:09:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896282428819 |
-| Players | 1/8 |
-| Host Name | mordvinych |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:16:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896281798301 |
-| Players | 1/5 |
-| Host Name | PolLy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:15:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896281248753 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | casadh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:14:07 |
