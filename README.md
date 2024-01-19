@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896096108240 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Zet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:06:38 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896094213853 |
-| Players | 9/10 |
-| Host Name | hanzo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:02:27 |
+| Lobby ID | 28613896096331511 |
+| Players | 1/10 |
+| Host Name | sp_flame |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:07:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896096091239 |
-| Players | 5/8 |
-| Host Name | el cacha viejas de 20 años |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:06:36 |
+| Lobby ID | 28613896096084143 |
+| Players | 2/24 |
+| Host Name | Caleb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 11:06:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896095819754 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Omega |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:05:59 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:06:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896096084143 |
-| Players | 1/24 |
-| Host Name | Caleb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:06:35 |
+| Lobby ID | 28613896096331413 |
+| Players | 1/10 |
+| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:07:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896095571183 |
+| Players | 9/10 |
+| Host Name | chibolo cachanga |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:05:26 |
 
 
 |  | epic_boss_fight_nightmare |
