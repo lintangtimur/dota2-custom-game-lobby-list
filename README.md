@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896253900071 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ShinZen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:27:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896255146157 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | better to stay lonely |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:29:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896255301908 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Терпения всем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:29:53 |
