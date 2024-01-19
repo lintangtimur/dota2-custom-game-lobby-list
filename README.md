@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | VEGANO CASUAL |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896408417037 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:56:19 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:59:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896412155791 |
-| Players | 1/15 |
-| Host Name | Johnny Sins |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:00:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896411890120 |
-| Players | 2/8 |
-| Host Name | TK.Dev |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:59:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896411689317 |
-| Players | 7/8 |
-| Host Name | Radion |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:59:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896411762622 |
@@ -92,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:59:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896411731909 |
-| Players | 5/10 |
-| Host Name | Enjoy dota, enjoy... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:59:42 |
+| Lobby ID | 28613896412399527 |
+| Players | 1/15 |
+| Host Name | prometi no volver aqui |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 20:00:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896409530069 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:57:27 |
