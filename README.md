@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896112435108 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | »Rewrite] |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:42:38 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ФР]Максим КринЖ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:44:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896112862423 |
+| Players | 3/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:43:36 |
 
 
 |  | epic_boss_fight_nightmare |
