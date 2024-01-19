@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896040289104 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:00:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896034581865 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | noaim |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:47:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896038468188 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 08:56:39 |
@@ -146,10 +146,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:00:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896040418485 |
+| Players | 6/8 |
+| Host Name | ZeekkeeN |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:01:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896040458251 |
+| Players | 1/15 |
+| Host Name | Rover |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:01:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896040465393 |
+| Players | 1/8 |
+| Host Name | deadinside vladick qwerzxc123123 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 09:01:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896037072349 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 08:53:26 |
