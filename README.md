@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | VEGANO CASUAL |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896408417037 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:56:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896412608996 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ШТАНДАРТЕНФЮРЕР |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:00:33 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:00:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896413166000 |
+| Players | 1/5 |
+| Host Name | _flamingo_ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:01:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896413273705 |
+| Players | 1/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:01:12 |
 
 
