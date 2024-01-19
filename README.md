@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896084445305 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | noaim |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 10:40:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896087827591 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | FS.► ☺Yawar |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:48:12 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896087277079 |
-| Players | 14/15 |
-| Host Name | Hado- |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:46:57 |
+| Lobby ID | 28613896088379804 |
+| Players | 4/15 |
+| Host Name | SweetheartYuki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 10:49:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 10:49:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896086986738 |
-| Players | 1/15 |
-| Host Name | ^o^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 10:46:17 |
+| Lobby ID | 28613896085796077 |
+| Players | 9/10 |
+| Host Name | Keeper |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 10:43:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896087883468 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | xd |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:48:19 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LordValdomero |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:48:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896088379804 |
-| Players | 4/15 |
-| Host Name | SweetheartYuki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 10:49:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896085796077 |
-| Players | 9/10 |
-| Host Name | Keeper |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:43:30 |
 
 
 |  | epic_boss_fight_nightmare |
