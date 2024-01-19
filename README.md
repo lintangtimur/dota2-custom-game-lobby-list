@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896117741785 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:54:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896118371067 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Gerardoooo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:55:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896118687800 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | wild animal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:56:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896118804264 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | una chiki no ma... |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:56:35 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896118911953 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Niko Niko Niii |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:56:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896118979714 |
+| Players | 1/10 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 11:56:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896118985196 |
+| Players | 1/10 |
+| Host Name | TRAVIS |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:56:59 |
 
 
