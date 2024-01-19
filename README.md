@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896130470284 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:22:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896135192939 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 最高[ジャーク] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:32:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896135735647 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | NereN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:33:44 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:36:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896137019304 |
-| Players | 4/8 |
-| Host Name | Anakin Skywrath |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:36:32 |
+| Lobby ID | 28613896137245913 |
+| Players | 2/24 |
+| Host Name | Ya no se que es ganar |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:37:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896137045648 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:36:35 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:36:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896137245913 |
-| Players | 2/24 |
-| Host Name | Ya no se que es ganar |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:37:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896136608237 |
@@ -131,18 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896137202710 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:36:55 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896137227301 |
-| Players | 2/7 |
-| Host Name | lowskill |
+| Lobby ID | 28613896137331626 |
+| Players | 1/10 |
+| Host Name | Anita Max Wynn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 12:36:58 |
+| Lobby Creation Time | Friday, January 19, 2024 12:37:12 |
 
 
