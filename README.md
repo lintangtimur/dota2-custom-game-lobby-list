@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:46:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896172540917 |
-| Players | 2/15 |
-| Host Name | EstA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:52:45 |
+| Lobby ID | 28613896173130795 |
+| Players | 2/8 |
+| Host Name | PUSHQ.A.Get up |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:53:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896172814523 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:53:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896173130795 |
-| Players | 2/8 |
-| Host Name | PUSHQ.A.Get up |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:53:58 |
 
 
 |  | epic_boss_fight_nightmare |
