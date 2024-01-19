@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | NiCol |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:43:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896450843686 |
-| Players | 2/15 |
-| Host Name | 荒 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:37:07 |
+| Lobby ID | 28613896451984894 |
+| Players | 1/8 |
+| Host Name | desai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:38:11 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896450385846 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | potato |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896450050707 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ~Djeeta~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:23 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896444757593 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Winter |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896448639992 |
-| Players | 23/24 |
-| Host Name | BODYSHOT BANDIT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:35:05 |
+| Lobby ID | 28613896451838757 |
+| Players | 1/15 |
+| Host Name | Ювелир. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:38:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896451841600 |
+| Players | 6/15 |
+| Host Name | Главный в дурке |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:38:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896451994794 |
+| Players | 1/15 |
+| Host Name | ChEsHiR CaT◥◣ ◢◤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:38:11 |
 
 
 |  | epic_boss_fight_normal |
