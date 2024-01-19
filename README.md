@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896405342291 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ПОВЕЛИТЕЛЬ ПИСЮНОВ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:53:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896404275071 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:52:01 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896404144992 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Madvetu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:51:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896404446094 |
-| Players | 1/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 19:52:11 |
+| Lobby ID | 28613896405444135 |
+| Players | 7/10 |
+| Host Name | протеин по вене |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:53:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:51:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896405090946 |
-| Players | 9/10 |
-| Host Name | Тот самый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:52:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896405101974 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Pochison |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:52:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896405444135 |
-| Players | 3/10 |
-| Host Name | протеин по вене |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:53:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896403624950 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Bahog Bilat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:51:20 |
