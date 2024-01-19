@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896023561195 |
-| Players | 2/15 |
-| Host Name | QNMLGB101 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:21:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896021821012 |
-| Players | 9/10 |
-| Host Name | Leave My Soul Alone |
+| Lobby ID | 28613896023660013 |
+| Players | 6/8 |
+| Host Name | Sona |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:17:41 |
+| Lobby Creation Time | Friday, January 19, 2024 08:22:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896023628579 |
+| Players | 20/24 |
+| Host Name | JD01 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:21:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896023330331 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Darkbear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:21:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896021967123 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
@@ -83,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896020481474 |
+| Players | 8/10 |
+| Host Name | YAMCHA |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:14:29 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896023660013 |
-| Players | 1/8 |
-| Host Name | Sona |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:22:04 |
+| Lobby ID | 28613896024016408 |
+| Players | 6/8 |
+| Host Name | РЕКРУТ 5 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:22:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896023628579 |
-| Players | 1/24 |
-| Host Name | JD01 |
+| Lobby ID | 28613896024058176 |
+| Players | 1/15 |
+| Host Name | ✪ ✪ yooo✪ ✪ |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:21:59 |
+| Lobby Creation Time | Friday, January 19, 2024 08:23:00 |
 
 
