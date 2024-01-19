@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896204231429 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | D |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:56:10 |
@@ -40,15 +40,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896205247362 |
-| Players | 7/8 |
-| Host Name | Prokuror |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:58:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28613896205240663 |
 | Players | 1/8 |
 | Host Name | М-01 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896194962123 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | Tiger :l |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 14:38:11 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896204641051 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | แง่มมมม |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:56:57 |
