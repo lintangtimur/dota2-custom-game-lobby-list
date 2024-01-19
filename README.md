@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895996444451 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Archer |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:18:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895998531705 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | STaR SHine |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 07:22:50 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895998601231 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 释放你的灵魂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:23:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895998639211 |
+| Players | 1/10 |
+| Host Name | SENTINEL |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:23:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613895997706985 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Son Goku 孫そん悟ご空 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:20:56 |
