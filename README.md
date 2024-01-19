@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896113273052 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | SAMURAI |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:44:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896113874552 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:45:54 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:45:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896111532972 |
-| Players | 14/15 |
-| Host Name | Yoi |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:40:37 |
+| Lobby ID | 28613896113573862 |
+| Players | 3/8 |
+| Host Name | El milenium ya no es lo mismo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:45:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896113979888 |
+| Players | 3/24 |
+| Host Name | DogJeWz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 11:46:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896113970050 |
+| Players | 1/24 |
+| Host Name | CryMeARiver |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 11:46:06 |
 
 
 |  | epic_boss_fight_nightmare |
