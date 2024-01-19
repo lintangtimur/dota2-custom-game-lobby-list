@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896191069236 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:30:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896196310298 |
-| Players | 1/24 |
-| Host Name | noaim |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 14:40:47 |
+| Lobby ID | 28613896197959086 |
+| Players | 3/15 |
+| Host Name | 12345667890 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:44:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896197137085 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | vova12676 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:42:24 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiger :l |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 14:38:11 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613896198035315 |
+| Players | 1/7 |
+| Host Name | я наказание. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:44:10 |
 
 
