@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896073406653 |
-| Players | 14/15 |
-| Host Name | EL TETIS |
+| Lobby ID | 28613896074395341 |
+| Players | 2/10 |
+| Host Name | Chijaukay |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:15:43 |
+| Lobby Creation Time | Friday, January 19, 2024 10:17:56 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896073662695 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Justi4541 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:16:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896070274775 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | C.C. Lemon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:08:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896073812594 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | anita max wynn |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:16:38 |
@@ -104,25 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896074313580 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | yangxuvictory |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:17:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896074395341 |
-| Players | 2/10 |
-| Host Name | Chijaukay |
+| Lobby ID | 28613896073406653 |
+| Players | 14/15 |
+| Host Name | EL TETIS |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:17:56 |
+| Lobby Creation Time | Friday, January 19, 2024 10:15:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896074480524 |
+| Players | 1/15 |
+| Host Name | AMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 10:18:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896074242556 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Inku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:17:36 |
