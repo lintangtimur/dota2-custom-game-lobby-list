@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Baked Potato. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896214435141 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | 「Catch the Rainbow」 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 15:15:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896218528307 |
-| Players | 10/24 |
+| Players | 17/24 |
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:22:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896219290118 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | [DD] Дet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:24:20 |
@@ -74,39 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:24:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896219845259 |
-| Players | 2/8 |
-| Host Name | shelban po klitory |
+| Lobby ID | 28613896219644784 |
+| Players | 2/5 |
+| Host Name | I`m just Curious |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:25:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896214463860 |
-| Players | 9/10 |
-| Host Name | 山上徹也 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 15:15:22 |
+| Lobby Creation Time | Friday, January 19, 2024 15:25:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896217553510 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | GreShnik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:21:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896219644784 |
-| Players | 1/5 |
-| Host Name | I`m just Curious |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:25:00 |
+| Lobby ID | 28613896219978780 |
+| Players | 5/10 |
+| Host Name | SunBack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 15:25:38 |
 
 
