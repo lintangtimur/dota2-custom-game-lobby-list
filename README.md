@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896200966252 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Turtle |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:49:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896201163252 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | island |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:50:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896201450282 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:50:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896201743416 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | vova12676 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:51:22 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Viole |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:51:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896202140926 |
+| Players | 1/8 |
+| Host Name | BabaYaga |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 14:52:08 |
 
 
 |  | epic_boss_fight_normal |
