@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896325585474 |
-| Players | 9/10 |
-| Host Name | Грибнята |
+| Lobby ID | 28613896327101754 |
+| Players | 4/10 |
+| Host Name | poonpooq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:19:52 |
+| Lobby Creation Time | Friday, January 19, 2024 18:21:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896324603279 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ☯︎KURAMA☯ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:18:34 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896326797537 |
-| Players | 10/15 |
-| Host Name | ГВОЗДЕЁБ ИЛЬЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:21:27 |
+| Lobby ID | 28613896327233091 |
+| Players | 3/8 |
+| Host Name | depressed |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:22:02 |
 
 
 |  | ot3_gardens_duo |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gable |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:17:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896326715317 |
-| Players | 1/15 |
-| Host Name | Obito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:21:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896327101754 |
-| Players | 2/10 |
-| Host Name | poonpooq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:21:51 |
 
 
 |  | epic_boss_fight_nightmare |
