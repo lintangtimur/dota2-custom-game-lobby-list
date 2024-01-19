@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896181449369 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | mr. anal rambo slayer |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 14:11:12 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:13:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896178826022 |
+| Lobby ID | 28613896183742575 |
+| Players | 1/8 |
+| Host Name | Уолтер? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:16:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896183763965 |
 | Players | 1/10 |
-| Host Name | Ylylysha |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 14:05:50 |
+| Host Name | Serranacle |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 14:16:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:10:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613896183747710 |
+| Players | 1/7 |
+| Host Name | Ylylysha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:16:05 |
 
 
