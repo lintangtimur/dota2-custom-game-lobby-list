@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896379637495 |
-| Players | 8/10 |
-| Host Name | bALON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:25:31 |
+| Lobby ID | 28613896380118898 |
+| Players | 4/24 |
+| Host Name | 76561199027529133 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:26:03 |
 
 
 |  | ot3_gardens_duo |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:19:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896379598014 |
-| Players | 11/15 |
-| Host Name | SilveRex |
+| Lobby ID | 28613896380032895 |
+| Players | 2/10 |
+| Host Name | Уолтер? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:25:29 |
+| Lobby Creation Time | Friday, January 19, 2024 19:25:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896378198435 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | НЯШКА |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:23:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896379874721 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | WorldTrader |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:25:47 |
