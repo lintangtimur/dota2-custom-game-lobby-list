@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896242131547 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Snappix |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:19 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896242773835 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | балбес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896243083463 |
-| Players | 4/8 |
-| Host Name | автостопом |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 16:08:02 |
 
 
 |  | epic_boss_fight_nightmare |
