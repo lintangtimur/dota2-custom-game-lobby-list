@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:57:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896175075307 |
-| Players | 1/8 |
-| Host Name | Are you alone? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:58:04 |
+| Lobby ID | 28613896173980943 |
+| Players | 9/10 |
+| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:55:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896174778119 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | UnderПиво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:57:26 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896173980943 |
-| Players | 8/10 |
-| Host Name | ErvinGabriel {FTF2∫Time-Fire} |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 13:55:46 |
+| Lobby ID | 28613896175476632 |
+| Players | 5/10 |
+| Host Name | олег |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:58:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896174825601 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | debardak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:57:32 |
