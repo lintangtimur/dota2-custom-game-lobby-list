@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896047826035 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Yatollapse |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:18:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896044527912 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:10:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896048902686 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Yamiツ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:20:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896048679082 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Gaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:20:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896049030091 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | yuca |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:20:57 |
