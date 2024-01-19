@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896330973596 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Werewolf.GR |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:26:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896330441803 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:26:06 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896330468390 |
-| Players | 9/10 |
-| Host Name | 2-3 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:26:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28613896331103871 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | N |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:26:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896331124196 |
-| Players | 4/10 |
-| Host Name | Gable |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:26:57 |
 
 
 |  | epic_boss_fight_nightmare |
