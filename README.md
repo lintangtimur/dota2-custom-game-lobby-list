@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896175002231 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | In the pipe five by five |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:57:55 |
@@ -23,37 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896173980943 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:55:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896174778119 |
-| Players | 12/15 |
-| Host Name | UnderПиво |
+| Lobby ID | 28613896175793198 |
+| Players | 2/8 |
+| Host Name | first импакт |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:57:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896175476632 |
-| Players | 5/10 |
-| Host Name | олег |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:58:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896174776345 |
-| Players | 1/5 |
-| Host Name | Darkpan |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 13:57:26 |
+| Lobby Creation Time | Friday, January 19, 2024 13:59:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +45,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | debardak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:57:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896175931887 |
+| Players | 1/5 |
+| Host Name | procastinator. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 13:59:51 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613896175949118 |
+| Players | 2/7 |
+| Host Name | Darkpan |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 13:59:54 |
 
 
