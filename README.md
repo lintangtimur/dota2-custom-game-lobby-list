@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896036451278 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 1thekey |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:52:00 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896037241792 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:53:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896034275645 |
-| Players | 9/10 |
-| Host Name | jhano |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:46:54 |
+| Lobby ID | 28613896037356839 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:54:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896036807548 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | no le hables a mi coach ctmre |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:52:50 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896036435027 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:51:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896037159190 |
-| Players | 5/8 |
-| Host Name | riukmyra |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:53:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896037168413 |
-| Players | 4/8 |
-| Host Name | Meeeel |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:53:39 |
 
 
 |  | epic_boss_fight_nightmare |
