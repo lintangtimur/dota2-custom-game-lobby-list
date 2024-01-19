@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896297059887 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | patisonti |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:38:57 |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:35:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896297935111 |
-| Players | 6/8 |
-| Host Name | KinT.Anduin |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:40:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896298135720 |
-| Players | 8/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:40:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896298446825 |
@@ -65,21 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:41:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896296575211 |
-| Players | 7/10 |
-| Host Name | Dale |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:38:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896296867703 |
-| Players | 7/10 |
-| Host Name | ReCors |
+| Lobby ID | 28613896299044014 |
+| Players | 2/15 |
+| Host Name | muba |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:38:40 |
+| Lobby Creation Time | Friday, January 19, 2024 17:41:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896298884141 |
+| Players | 2/10 |
+| Host Name | Moon Knight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:41:45 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613896299005761 |
+| Players | 1/7 |
+| Host Name | Jeman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:41:55 |
 
 
