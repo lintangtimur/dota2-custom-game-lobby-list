@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:32:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896231282732 |
-| Players | 7/10 |
-| Host Name | Dance |
+| Lobby ID | 28613896231418232 |
+| Players | 3/8 |
+| Host Name | Анальная патока |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:46:41 |
+| Lobby Creation Time | Friday, January 19, 2024 15:46:55 |
 
 
 |  | ot3_desert_octet |
@@ -36,14 +36,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GodjaBoys! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:43:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896231418232 |
-| Players | 2/8 |
-| Host Name | Анальная патока |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:46:55 |
 
 
