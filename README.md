@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896233167870 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Fumimochi Fan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:50:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896233257938 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Avent- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:50:14 |
