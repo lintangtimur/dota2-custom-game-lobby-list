@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896118985196 |
-| Players | 2/10 |
-| Host Name | Alberik |
+| Players | 4/10 |
+| Host Name | DoomRamon |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:56:59 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:58:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896116489211 |
-| Players | 23/24 |
-| Host Name | Chupete |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:51:34 |
+| Lobby ID | 28613896116843769 |
+| Players | 9/10 |
+| Host Name | overrated |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 11:52:20 |
 
 
 |  | epic_boss_fight_nightmare |
