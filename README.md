@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:48:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896202354603 |
-| Players | 7/10 |
-| Host Name | Shailer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:52:33 |
+| Lobby ID | 28613896203163601 |
+| Players | 1/24 |
+| Host Name | noaim |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 14:54:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896201379207 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:50:40 |
