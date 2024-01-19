@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896200856984 |
-| Players | 1/15 |
-| Host Name | Wooo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:49:39 |
+| Lobby ID | 28613896200966252 |
+| Players | 2/15 |
+| Host Name | Turtle |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 14:49:51 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896197172736 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:42:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896200676628 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Игорь Потов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:49:18 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:49:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896200966252 |
-| Players | 2/15 |
-| Host Name | Turtle |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 14:49:51 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896194962123 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896200785940 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:49:31 |
