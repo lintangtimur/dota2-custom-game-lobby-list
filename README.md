@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896301071153 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:45:05 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:35:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896301996701 |
-| Players | 7/10 |
-| Host Name | Сосок_улитки |
+| Lobby ID | 28613896302197089 |
+| Players | 1/15 |
+| Host Name | минус жёпа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:46:29 |
+| Lobby Creation Time | Friday, January 19, 2024 17:46:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896297739968 |
-| Players | 9/15 |
-| Host Name | 学生 |
+| Players | 10/15 |
+| Host Name | ZipZipper |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:40:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896302197089 |
-| Players | 1/15 |
-| Host Name | минус жёпа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:46:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896302348046 |
-| Players | 1/24 |
-| Host Name | Way Nini Way |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 17:47:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vanesse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:41:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896302431896 |
+| Players | 1/5 |
+| Host Name | Миликанес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:47:09 |
 
 
