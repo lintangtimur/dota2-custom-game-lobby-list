@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:22:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896377846066 |
-| Players | 1/8 |
-| Host Name | я буду мстить |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:23:31 |
+| Lobby ID | 28613896378347029 |
+| Players | 1/10 |
+| Host Name | altaira ♥ |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 19:24:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896378198435 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | НЯШКА |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:23:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896378273418 |
-| Players | 1/10 |
-| Host Name | Hopeless |
+| Lobby ID | 28613896378485963 |
+| Players | 1/8 |
+| Host Name | я буду мстить |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:24:00 |
+| Lobby Creation Time | Friday, January 19, 2024 19:24:14 |
 
 
 |  | epic_boss_fight_nightmare |
