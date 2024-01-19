@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896364182553 |
-| Players | 9/10 |
-| Host Name | TAWeR |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:07:38 |
+| Lobby ID | 28613896364505119 |
+| Players | 1/15 |
+| Host Name | Shadow |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 19:08:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896364505119 |
+| Lobby ID | 28613896364638768 |
 | Players | 1/15 |
-| Host Name | Shadow |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 19:08:02 |
+| Host Name | LFT Tier 1 plz |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:08:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896364725135 |
+| Players | 1/10 |
+| Host Name | hrostmy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:08:17 |
 
 
 |  | epic_boss_fight_nightmare |
