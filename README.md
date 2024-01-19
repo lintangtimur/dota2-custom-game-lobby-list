@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896340402308 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Advocate- |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:38:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896338844446 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | numb lil' bug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:36:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896336156407 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | 我不吃牛肉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:33:10 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896340846597 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | [NR] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:39:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896340887138 |
-| Players | 4/8 |
-| Host Name | Эммерсон Мнангаг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:39:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896340903627 |
-| Players | 1/15 |
-| Host Name | ピュタ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:39:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | absolut |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:37:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896340918782 |
+| Players | 2/10 |
+| Host Name | SuperBoneHack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:39:07 |
 
 
