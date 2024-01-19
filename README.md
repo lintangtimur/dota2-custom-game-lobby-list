@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:35:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896304408954 |
-| Players | 12/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
+| Lobby ID | 28613896304409118 |
+| Players | 7/10 |
+| Host Name | Васянович Младши |
+| Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:50:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896303994814 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Yumbe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:49:30 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896304990473 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Aim Misfire "勤" |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:51:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896304409118 |
-| Players | 7/10 |
-| Host Name | Васянович Младши |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:50:07 |
 
 
 |  | epic_boss_fight_challenger |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896304902491 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:50:52 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Путь к 10ммр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:50:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896305111567 |
+| Players | 1/5 |
+| Host Name | Loli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:51:11 |
 
 
