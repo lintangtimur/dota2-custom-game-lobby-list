@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895996628825 |
-| Players | 3/8 |
-| Host Name | One by one |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:18:31 |
+| Lobby ID | 28613895997314683 |
+| Players | 6/8 |
+| Host Name | justwannawin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:20:03 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895995810789 |
-| Players | 18/24 |
-| Host Name | //MX` |
+| Lobby ID | 28613895997653415 |
+| Players | 2/15 |
+| Host Name | Silver |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:16:38 |
+| Lobby Creation Time | Friday, January 19, 2024 07:20:48 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895995069846 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | GloveBox |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 07:14:54 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:18:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895996218148 |
-| Players | 9/15 |
-| Host Name | Briel |
-| Region | CHILE |
-| Lobby Creation Time | Friday, January 19, 2024 07:17:35 |
+| Lobby ID | 28613895997591189 |
+| Players | 3/8 |
+| Host Name | Skarp |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:20:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895996927421 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Jericho bilyat |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:19:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895996455067 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | ..... |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:18:07 |
@@ -85,46 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895996002586 |
-| Players | 8/10 |
-| Host Name | Bondwewd :3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:17:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613895996308837 |
-| Players | 7/8 |
-| Host Name | : |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:17:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28613895996909802 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Darkbear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:19:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613895997120885 |
-| Players | 6/10 |
-| Host Name | Ego |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:19:36 |
+| Lobby ID | 28613895995345207 |
+| Players | 14/15 |
+| Host Name | Дюша Метёлкин[USB] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:15:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895997314683 |
-| Players | 3/8 |
-| Host Name | justwannawin |
+| Lobby ID | 28613895997752572 |
+| Players | 5/8 |
+| Host Name | GAStrit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:20:03 |
+| Lobby Creation Time | Friday, January 19, 2024 07:21:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613895997706985 |
+| Players | 2/10 |
+| Host Name | Son Goku 孫そん悟ご空 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 07:20:56 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613895997755884 |
+| Players | 1/7 |
+| Host Name | CadaVer |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:21:02 |
 
 
