@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896289617258 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Pur_Ple |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:27:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896289498829 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | C.C. Lemon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:27:19 |
@@ -56,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:27:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896289980894 |
+| Players | 2/8 |
+| Host Name | AUTUMNGOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:28:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896287920722 |
+| Players | 22/24 |
+| Host Name | lovewei042 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:24:50 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896289690793 |
@@ -63,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Waterproof Teabag |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:27:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896290094203 |
+| Players | 1/5 |
+| Host Name | FaMily. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:28:15 |
 
 
