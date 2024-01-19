@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896238144111 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Moonlight |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:59:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896238728737 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ANGEL MAY CRY |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:00:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896239115417 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 片目の悪魔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:00:53 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Toha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:59:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896239272409 |
+| Players | 1/5 |
+| Host Name | - |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:01:10 |
 
 
