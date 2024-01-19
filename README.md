@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896160619242 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | iDONThaVEaNAMEE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:27:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896158237287 |
-| Players | 9/10 |
-| Host Name | Rakafina♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:22:37 |
+| Lobby ID | 28613896161166622 |
+| Players | 5/24 |
+| Host Name | Vernedomo |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:28:43 |
 
 
 |  | ot3_desert_octet |
@@ -29,46 +29,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:26:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896160530842 |
-| Players | 12/15 |
-| Host Name | =f |
+| Lobby ID | 28613896160982439 |
+| Players | 3/10 |
+| Host Name | clownfiesta |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:27:23 |
+| Lobby Creation Time | Friday, January 19, 2024 13:28:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896160691501 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AEA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:27:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896160885505 |
-| Players | 1/24 |
-| Host Name | Xiros |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 13:28:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896160892193 |
-| Players | 2/10 |
-| Host Name | ЛОТУС) |
+| Lobby ID | 28613896161134057 |
+| Players | 3/15 |
+| Host Name | madneSS. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:28:08 |
+| Lobby Creation Time | Friday, January 19, 2024 13:28:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896160810244 |
+| Players | 5/8 |
+| Host Name | Megamel™ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 13:27:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896159938598 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | -Dread Doll- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:26:10 |
