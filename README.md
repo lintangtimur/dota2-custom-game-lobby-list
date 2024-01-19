@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896002747394 |
-| Players | 8/10 |
-| Host Name | 葬儀屋 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:32:35 |
+| Lobby ID | 28613896003809007 |
+| Players | 1/15 |
+| Host Name | FLY GOD |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 07:35:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895887534376 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SeventhSaint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896003292246 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | OveOveOve |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:33:51 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:30:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896003096809 |
-| Players | 13/15 |
-| Host Name | zzz |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:33:24 |
+| Lobby ID | 28613896003501100 |
+| Players | 1/10 |
+| Host Name | Mcry |
+| Region | CHILE |
+| Lobby Creation Time | Friday, January 19, 2024 07:34:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896003556936 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MATA VENECOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:34:28 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:33:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896003501100 |
-| Players | 1/10 |
-| Host Name | Mcry |
-| Region | CHILE |
-| Lobby Creation Time | Friday, January 19, 2024 07:34:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896003764963 |
+| Lobby ID | 28613896003846270 |
 | Players | 1/15 |
-| Host Name | sape2195 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, January 19, 2024 07:34:57 |
+| Host Name | Ilisena |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 07:35:09 |
 
 
 |  | epic_boss_fight_nightmare |
