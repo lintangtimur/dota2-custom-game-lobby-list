@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:41:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896167517445 |
-| Players | 8/10 |
-| Host Name | javifre4K |
+| Lobby ID | 28613896169273614 |
+| Players | 5/8 |
+| Host Name | Jolty |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 13:42:17 |
+| Lobby Creation Time | Friday, January 19, 2024 13:46:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896168960787 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | テフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:45:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896169273614 |
-| Players | 5/8 |
-| Host Name | Jolty |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 13:46:03 |
 
 
 |  | epic_boss_fight_nightmare |
