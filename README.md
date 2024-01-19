@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896335291426 |
-| Players | 7/8 |
-| Host Name | Jim |
+| Lobby ID | 28613896336131362 |
+| Players | 5/10 |
+| Host Name | КМС по куни |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:32:06 |
+| Lobby Creation Time | Friday, January 19, 2024 18:33:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896335765248 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Radical |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:32:41 |
@@ -47,28 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:33:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896336131362 |
-| Players | 1/10 |
-| Host Name | Donald Tusk |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:33:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896336130764 |
-| Players | 1/15 |
-| Host Name | espalloc- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:33:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896329364102 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:24:46 |
