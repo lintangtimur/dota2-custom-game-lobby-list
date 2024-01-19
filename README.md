@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896071465806 |
-| Players | 3/15 |
-| Host Name | HarryTD |
+| Players | 2/15 |
+| Host Name | Theo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:11:15 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896071674781 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | EL MASCA PINGAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:11:44 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896071781284 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Gucci |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:12:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896071798868 |
+| Players | 2/15 |
+| Host Name | Funboy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 10:12:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896069884119 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Soos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:07:43 |
