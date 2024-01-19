@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896287920722 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | lovewei042 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:24:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896288686494 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Норильский никел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:26:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896288686866 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Sitropy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:26:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896288736951 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | RedBeardedFox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:26:07 |
