@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896243276196 |
-| Players | 6/8 |
-| Host Name | Trelis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:08:23 |
+| Lobby ID | 28613896243607500 |
+| Players | 3/10 |
+| Host Name | Ⓗ︎ beardedZEX; |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:08:58 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242535322 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:02 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896243503485 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | uveysbk |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:08:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896243607500 |
-| Players | 1/10 |
-| Host Name | Ⓗ︎ beardedZEX; |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 16:08:58 |
+| Lobby ID | 28613896243729147 |
+| Players | 4/8 |
+| Host Name | |-|9|||^_^|-|ЬI|/| zombik:3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:09:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 다유타 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896243661786 |
+| Players | 1/5 |
+| Host Name | ИМЯ ПРОФИЛЯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 16:09:04 |
 
 
