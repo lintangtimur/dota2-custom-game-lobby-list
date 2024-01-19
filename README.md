@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896201379207 |
-| Players | 23/24 |
-| Host Name | Shrimp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:50:40 |
+| Lobby ID | 28613896203952847 |
+| Players | 1/24 |
+| Host Name | magucciy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:55:39 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896203952847 |
+| Lobby ID | 28613896204231429 |
 | Players | 1/24 |
-| Host Name | magucciy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:55:39 |
+| Host Name | D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:56:10 |
 
 
 |  | epic_boss_fight_normal |
