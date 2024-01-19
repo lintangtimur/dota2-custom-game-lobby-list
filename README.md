@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896275419531 |
 | Players | 3/24 |
-| Host Name | Black Raven |
+| Host Name | DIMUNYU |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:04:33 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896281193254 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | mef³ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:14:02 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:12:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896281696643 |
-| Players | 1/15 |
-| Host Name | 9M01 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:14:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896280793690 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | casadh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:14:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896281798301 |
+| Players | 1/5 |
+| Host Name | PolLy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:15:02 |
 
 
