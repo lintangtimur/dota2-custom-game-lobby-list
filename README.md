@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896225209243 |
-| Players | 10/15 |
-| Host Name | envia |
+| Lobby ID | 28613896225702274 |
+| Players | 1/15 |
+| Host Name | Alhamdulillah |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:35:22 |
+| Lobby Creation Time | Friday, January 19, 2024 15:36:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896223748689 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ¡¡°☛ Run If YoU CaN☚シ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:32:39 |
