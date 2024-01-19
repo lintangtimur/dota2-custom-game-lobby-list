@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896180132474 |
-| Players | 6/15 |
-| Host Name | bALON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:08:30 |
+| Lobby ID | 28613896180443595 |
+| Players | 4/24 |
+| Host Name | Anti-Simp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:09:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896180202671 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | clownfiesta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:08:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896178021129 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:04:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896180319690 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dicrocelum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:08:53 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896180443595 |
+| Lobby ID | 28613896180853999 |
 | Players | 1/24 |
-| Host Name | Anti-Simp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:09:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896180463998 |
-| Players | 1/24 |
-| Host Name | hǝɐ‎d 3350 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 14:09:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896178392267 |
-| Players | 9/10 |
-| Host Name | Tequilla |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 14:04:56 |
+| Host Name | ·D· |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 14:09:58 |
 
 
 |  | epic_boss_fight_nightmare |
