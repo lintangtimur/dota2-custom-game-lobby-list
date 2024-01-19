@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896089599957 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | MRMAFFFIA |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 10:52:11 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 10:52:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896090007034 |
+| Players | 1/24 |
+| Host Name | Frank Zappa |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:53:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896089401692 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:51:45 |
@@ -99,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Inku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:51:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896088909373 |
-| Players | 3/5 |
-| Host Name | Ryosaky |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:50:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896089855860 |
-| Players | 2/5 |
-| Host Name | Doctorsaurio (ง'̀-'́)ง |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:52:46 |
 
 
