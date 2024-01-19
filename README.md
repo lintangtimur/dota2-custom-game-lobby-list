@@ -47,6 +47,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:08:53 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896180443595 |
+| Players | 1/24 |
+| Host Name | Anti-Simp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:09:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896180463998 |
+| Players | 1/24 |
+| Host Name | hǝɐ‎d 3350 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 14:09:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896178392267 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896178826022 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nyanko |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:05:50 |
