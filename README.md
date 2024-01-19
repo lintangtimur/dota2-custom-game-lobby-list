@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896139398033 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 1K de dia - 1K-bro de noche |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:41:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896142077356 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:47:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896138530868 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:39:48 |
@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:47:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896142133348 |
-| Players | 3/8 |
-| Host Name | prepara esas nalgas xq el pacho |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:47:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896136608237 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:35:38 |
