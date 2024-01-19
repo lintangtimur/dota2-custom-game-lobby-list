@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896164796032 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:36:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896163878997 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | 國王rowin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:34:32 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896165979776 |
-| Players | 5/8 |
-| Host Name | Maratik |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 13:39:00 |
+| Lobby ID | 28613896166469501 |
+| Players | 2/8 |
+| Host Name | 🥚Little Egg :3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 13:40:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ESQUIZOFRENICO_69 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:37:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896166501280 |
+| Players | 1/10 |
+| Host Name | Baba Yega |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 13:40:08 |
 
 
