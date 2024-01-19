@@ -29,30 +29,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:24:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896251939840 |
-| Players | 13/15 |
-| Host Name | 改良する |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:24:04 |
+| Lobby ID | 28613896252445952 |
+| Players | 2/8 |
+| Host Name | Based Cringe |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:24:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896252277556 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 1111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:24:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896252445952 |
-| Players | 1/8 |
-| Host Name | Based Cringe |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 16:24:58 |
 
 
