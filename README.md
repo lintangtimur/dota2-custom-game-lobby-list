@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896235810630 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Bruh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:54:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896236088429 |
+| Players | 1/8 |
+| Host Name | Gatsby.. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:55:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896236106644 |
+| Players | 3/15 |
+| Host Name | АААААА ЖЕНЩИНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:55:25 |
 
 
 |  | epic_boss_fight_nightmare |
