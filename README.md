@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896242178103 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | PINAKA BIHAYASA SA PAGDODOTES WO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:24 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242535322 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896242572637 |
-| Players | 1/15 |
-| Host Name | mr. anal rambo slayer |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 16:07:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Don't run! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896242524972 |
-| Players | 1/5 |
-| Host Name | 다유타 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, January 19, 2024 16:07:01 |
 
 
 |  | epic_boss_fight_nightmare |
