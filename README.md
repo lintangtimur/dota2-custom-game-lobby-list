@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896289617258 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Pur_Ple |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:27:30 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:28:05 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896287920722 |
-| Players | 22/24 |
-| Host Name | lovewei042 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:24:50 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896289690793 |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Waterproof Teabag |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:27:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896290094203 |
-| Players | 1/5 |
-| Host Name | FaMily. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:28:15 |
 
 
