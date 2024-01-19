@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896264118768 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Yatoro de dia, Teatoro de noche |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 16:45:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896264669060 |
+| Players | 1/15 |
+| Host Name | Black BongBong |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 16:46:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:43:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896263509384 |
-| Players | 1/5 |
-| Host Name | Joynakamura |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:44:06 |
 
 
 |  | epic_boss_fight_nightmare |
