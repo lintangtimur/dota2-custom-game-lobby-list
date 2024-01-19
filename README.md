@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:52:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896318831958 |
-| Players | 8/15 |
-| Host Name | Fart of Tarrasque |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:10:43 |
+| Lobby ID | 28613896319251078 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | INDIA |
+| Lobby Creation Time | Friday, January 19, 2024 18:11:18 |
 
 
 |  | ot3_desert_octet |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896319274663 |
+| Players | 1/15 |
+| Host Name | Vitaminka42rus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:11:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nights |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:07:27 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613896319174922 |
+| Players | 1/7 |
+| Host Name | Jeman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:11:11 |
 
 
