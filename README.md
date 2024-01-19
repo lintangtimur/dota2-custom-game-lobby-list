@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896038327297 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:56:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896038730453 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Missing you happiness |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:57:15 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896038261830 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | M i a m i |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:56:11 |
