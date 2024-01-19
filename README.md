@@ -5,46 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896171927878 |
-| Players | 7/24 |
-| Host Name | Sukuna |
+| Players | 5/24 |
+| Host Name | 76561199027529133 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:51:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896173806018 |
-| Players | 13/15 |
-| Host Name | DVD ghoul |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:55:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896169597969 |
-| Players | 22/24 |
-| Host Name | Haode |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:46:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896168448398 |
-| Players | 13/15 |
-| Host Name | UP |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 13:44:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896173630054 |
-| Players | 8/10 |
-| Host Name | invoker через универ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:55:01 |
+| Lobby ID | 28613896175002231 |
+| Players | 1/15 |
+| Host Name | In the pipe five by five |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 13:57:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:53:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896174778119 |
+| Players | 4/15 |
+| Host Name | UnderПиво |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:57:26 |
 
 
 |  | ot3_gardens_duo |
@@ -67,19 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896174305461 |
-| Players | 5/8 |
-| Host Name | 夜曲 |
+| Lobby ID | 28613896175075307 |
+| Players | 1/8 |
+| Host Name | Are you alone? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:56:27 |
+| Lobby Creation Time | Friday, January 19, 2024 13:58:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896174623614 |
-| Players | 1/15 |
-| Host Name | doseu. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:57:07 |
+| Lobby ID | 28613896174776345 |
+| Players | 1/5 |
+| Host Name | Darkpan |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 13:57:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896174825601 |
+| Players | 3/10 |
+| Host Name | debardak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:57:32 |
 
 
