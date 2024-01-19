@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896114285445 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | PolloMusulman |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:46:47 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896114124533 |
-| Players | 8/10 |
-| Host Name | sexflixxx |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:46:26 |
+| Lobby ID | 28613896115338490 |
+| Players | 1/10 |
+| Host Name | Shearinex |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:49:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896115234180 |
+| Lobby ID | 28613896115373568 |
 | Players | 1/8 |
 | Host Name | Frozen |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:48:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896115292843 |
-| Players | 1/8 |
-| Host Name | EDX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:48:59 |
+| Lobby Creation Time | Friday, January 19, 2024 11:49:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 💯< ΰӆҝ∩ℴẘℕ >💯 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:44:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896115367775 |
+| Players | 1/5 |
+| Host Name | 鲁子敬 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, January 19, 2024 11:49:09 |
 
 
