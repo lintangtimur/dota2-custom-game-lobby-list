@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896021357031 |
-| Players | 5/15 |
-| Host Name | Salam bikkitae |
+| Lobby ID | 28613896021922185 |
+| Players | 1/8 |
+| Host Name | ДОЛБЛЮ МЕТАДОН |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:16:36 |
+| Lobby Creation Time | Friday, January 19, 2024 08:17:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896020710886 |
-| Players | 18/24 |
-| Host Name | <Kenay> |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:15:03 |
+| Lobby ID | 28613896021821012 |
+| Players | 1/10 |
+| Host Name | Leave My Soul Alone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:17:41 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896021356308 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | sleepy space cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:16:36 |
@@ -77,27 +77,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | will |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896019643545 |
-| Players | 8/10 |
-| Host Name | Dr. Sexo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 08:12:28 |
+| Lobby ID | 28613896021625388 |
+| Players | 5/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:17:13 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896021335475 |
-| Players | 2/7 |
-| Host Name | Crow. |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:16:32 |
+| Lobby ID | 28613896021649317 |
+| Players | 3/10 |
+| Host Name | Mcry |
+| Region | CHILE |
+| Lobby Creation Time | Friday, January 19, 2024 08:17:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896021708451 |
+| Players | 3/8 |
+| Host Name | Jabzs |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 08:17:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896021903502 |
+| Players | 1/8 |
+| Host Name | <The-Last*Apes> |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 08:17:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896021967123 |
+| Players | 1/10 |
+| Host Name | DJ NUTQUIK |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
 
 
