@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896224740404 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:34:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896224681980 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | I N S T I N C T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:34:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Baked Potato. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896224730549 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Терпения всем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:34:28 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896225209243 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | envia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:35:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896223273867 |
-| Players | 8/10 |
-| Host Name | All muth Dead Chat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:31:46 |
+| Lobby ID | 28613896225322723 |
+| Players | 1/5 |
+| Host Name | Gornji Batak?!!! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:35:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896223748689 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ¡¡°☛ Run If YoU CaN☚シ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:32:39 |
