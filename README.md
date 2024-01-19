@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 10:40:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896083083333 |
-| Players | 14/15 |
-| Host Name | autism |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:37:17 |
+| Lobby ID | 28613896085117309 |
+| Players | 3/8 |
+| Host Name | zxc max |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 10:41:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896084745505 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:41:00 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896083784798 |
-| Players | 23/24 |
-| Host Name | Krammnik |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:38:51 |
+| Lobby ID | 28613896085126921 |
+| Players | 1/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 10:41:53 |
 
 
 |  | ot3_desert_octet |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ejboss (the real one) |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:41:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896085117309 |
-| Players | 3/8 |
-| Host Name | zxc max |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 10:41:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896085126921 |
-| Players | 1/24 |
-| Host Name | <Cyborgix> |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:41:53 |
 
 
 |  | epic_boss_fight_nightmare |
