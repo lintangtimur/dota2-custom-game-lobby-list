@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:21:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896436720484 |
-| Players | 6/8 |
-| Host Name | A tu vieja la vuelvo mi gata |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 20:23:53 |
+| Lobby ID | 28613896442135203 |
+| Players | 4/10 |
+| Host Name | Липа |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:29:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896441555739 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | DIM |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:28:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896441940773 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:28:50 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:28:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896442135203 |
-| Players | 4/10 |
-| Host Name | Липа |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:29:01 |
+| Lobby ID | 28613896442444755 |
+| Players | 2/8 |
+| Host Name | Капитан ПУЗО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:29:19 |
 
 
 |  | epic_boss_fight_nightmare |
