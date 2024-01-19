@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896275419531 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:04:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896278370694 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Spaceman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:09:28 |
@@ -38,42 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:09:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896277658140 |
-| Players | 6/8 |
-| Host Name | 死 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:08:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896278770585 |
-| Players | 1/15 |
-| Host Name | naiman |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 17:10:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896279271801 |
-| Players | 1/10 |
-| Host Name | я не боюсь ебли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:10:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896279284027 |
-| Players | 1/10 |
-| Host Name | SWAP LIKES |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:10:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896279345367 |
@@ -85,11 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896279355522 |
+| Lobby ID | 28613896278770585 |
 | Players | 1/15 |
+| Host Name | naiman |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 17:10:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896279355522 |
+| Players | 2/15 |
 | Host Name | Кружик |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:11:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896279284027 |
+| Players | 3/10 |
+| Host Name | SWAP LIKES |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:10:56 |
 
 
 |  | epic_boss_fight_normal |
