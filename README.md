@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | YAYO |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896408417037 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:56:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896409657940 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | fgervnhkuytqsdafsd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:57:35 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ゴール下 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:57:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896410403241 |
+| Players | 1/15 |
+| Host Name | Дюша Метёлкин[USB] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:21 |
 
 
 |  | epic_boss_fight_nightmare |
