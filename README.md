@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896023330331 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Darkbear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:21:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896021967123 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896022161113 |
-| Players | 6/10 |
-| Host Name | Lurien |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:18:30 |
+| Lobby ID | 28613896023660013 |
+| Players | 1/8 |
+| Host Name | Sona |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:22:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896023628579 |
+| Players | 1/24 |
+| Host Name | JD01 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:21:59 |
 
 
