@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896233021792 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ???% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:49:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896232407202 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Wiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:48:43 |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896233768547 |
-| Players | 1/24 |
-| Host Name | Mun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 15:51:10 |
+| Lobby ID | 28613896233489355 |
+| Players | 7/15 |
+| Host Name | The GayLord |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:50:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896233478323 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:50:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896233489355 |
-| Players | 6/15 |
-| Host Name | The GayLord |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:50:39 |
 
 
 |  | epic_boss_fight_nightmare |
