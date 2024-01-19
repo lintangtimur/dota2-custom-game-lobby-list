@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896284228595 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Bsl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:18:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896284308133 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:19:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896284333253 |
+| Players | 1/10 |
+| Host Name | Лариса Ивановна |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:19:07 |
 
 
 |  | epic_boss_fight_nightmare |
