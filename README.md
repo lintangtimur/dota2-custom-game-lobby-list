@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896021286838 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Shea Dr. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:16:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:44:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896021356308 |
-| Players | 13/15 |
-| Host Name | sleepy space cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:16:36 |
+| Lobby ID | 28613896021967123 |
+| Players | 1/10 |
+| Host Name | DJ NUTQUIK |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896021649317 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 08:17:16 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | <The-Last*Apes> |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 08:17:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896021967123 |
-| Players | 1/10 |
-| Host Name | DJ NUTQUIK |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
 
 
