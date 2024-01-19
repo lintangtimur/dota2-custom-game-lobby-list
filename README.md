@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896154150840 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:13:58 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896153911201 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 13:13:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896152501860 |
-| Players | 23/24 |
-| Host Name | My Name is JEFF |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:10:27 |
+| Lobby ID | 28613896154652000 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 13:15:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896150965623 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:07:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896154515473 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:14:46 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 13:15:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896154599459 |
-| Players | 1/15 |
-| Host Name | DonFlag |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 13:14:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896154652000 |
-| Players | 1/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 13:15:04 |
 
 
 |  | epic_boss_fight_normal |
