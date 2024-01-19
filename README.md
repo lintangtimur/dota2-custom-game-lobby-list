@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896325585474 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Грибнята |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:19:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896324603279 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ☯︎KURAMA☯ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:18:34 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896306301817 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 17:52:56 |
+| Lobby ID | 28613896325812943 |
+| Players | 4/15 |
+| Host Name | пшл_т |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:20:09 |
 
 
 |  | ot3_gardens_duo |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:17:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896325597346 |
-| Players | 14/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:19:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896321107037 |
-| Players | 9/10 |
-| Host Name | Dang |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:13:50 |
+| Lobby ID | 28613896324766681 |
+| Players | 1/10 |
+| Host Name | 谜兔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:18:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:16:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896324766681 |
-| Players | 1/10 |
-| Host Name | 谜兔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:18:47 |
 
 
