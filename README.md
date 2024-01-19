@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896093614866 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | MACASOR 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:01:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896094386596 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Saul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:02:50 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896094422722 |
-| Players | 3/8 |
-| Host Name | МаХнОкРыЛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:02:55 |
+| Lobby ID | 28613896094482340 |
+| Players | 2/8 |
+| Host Name | Pegando Kricks |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:03:02 |
 
 
 |  | epic_boss_fight_nightmare |
