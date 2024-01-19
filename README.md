@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896101789820 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Yatollapse |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:19:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896101461434 |
-| Players | 6/8 |
-| Host Name | $%&@dota&%"! |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:18:34 |
+| Lobby ID | 28613896102541298 |
+| Players | 1/24 |
+| Host Name | zx. |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 11:20:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896100734922 |
 | Players | 2/10 |
-| Host Name | Naturel |
+| Host Name | overrated |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:16:58 |
 
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896102150645 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Yoi |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:20:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896102541298 |
-| Players | 1/24 |
-| Host Name | zx. |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 11:20:56 |
 
 
 |  | epic_boss_fight_nightmare |
