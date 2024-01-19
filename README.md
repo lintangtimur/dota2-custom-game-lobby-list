@@ -11,57 +11,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 16:12:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896254964052 |
-| Players | 1/15 |
-| Host Name | BomBiTa |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 16:29:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896253900071 |
-| Players | 10/24 |
-| Host Name | ShinZen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:27:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896254571992 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | AssassinS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:28:38 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896253900071 |
+| Players | 12/24 |
+| Host Name | ShinZen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 16:27:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896254641742 |
-| Players | 13/15 |
-| Host Name | giza |
+| Lobby ID | 28613896255146157 |
+| Players | 7/15 |
+| Host Name | better to stay lonely |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:28:45 |
+| Lobby Creation Time | Friday, January 19, 2024 16:29:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896254934276 |
-| Players | 5/15 |
-| Host Name | PHƎNOMƎNAL |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 16:29:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896254935099 |
-| Players | 1/10 |
-| Host Name | Road to 6800 |
+| Lobby ID | 28613896255301908 |
+| Players | 2/8 |
+| Host Name | Терпения всем |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:29:15 |
+| Lobby Creation Time | Friday, January 19, 2024 16:29:53 |
 
 
