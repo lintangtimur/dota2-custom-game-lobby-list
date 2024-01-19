@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896378347029 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | altaira ♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 19:24:05 |
@@ -38,40 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:19:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896381616042 |
-| Players | 6/8 |
-| Host Name | THE LONELIEST |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:27:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896381611406 |
-| Players | 15/15 |
-| Host Name | Криминальный БО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:27:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896382234605 |
-| Players | 9/10 |
-| Host Name | Фрирен 🌙 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:28:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896382623837 |
+| Lobby ID | 28613896382986335 |
 | Players | 1/15 |
-| Host Name | Lionel Andres Messi Cuccittini |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 19:28:49 |
+| Host Name | Venya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:29:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896382912022 |
+| Players | 3/15 |
+| Host Name | кефтеме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:29:08 |
 
 
 |  | epic_boss_fight_hard |
@@ -95,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896380865250 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 影帝. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:26:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896382982891 |
+| Players | 1/5 |
+| Host Name | шрэк 2 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, January 19, 2024 19:29:13 |
 
 
