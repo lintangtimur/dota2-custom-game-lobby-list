@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896014343071 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Darkbear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:53 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:10:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896018258061 |
-| Players | 6/8 |
-| Host Name | YO_SOY_NIKKO |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:09:09 |
+| Lobby ID | 28613896019393093 |
+| Players | 1/10 |
+| Host Name | Kael |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 08:11:51 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896018970105 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:10:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | will |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896017937181 |
-| Players | 10/15 |
-| Host Name | vb |
+| Lobby ID | 28613896019127210 |
+| Players | 9/15 |
+| Host Name | Amphibian Kid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:08:22 |
+| Lobby Creation Time | Friday, January 19, 2024 08:11:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896017144927 |
-| Players | 8/10 |
+| Players | 4/10 |
 | Host Name | Tiburon_sinti |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:06:29 |
@@ -110,57 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:10:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896018165660 |
-| Players | 4/24 |
-| Host Name | Chandideadmoon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:08:56 |
+| Lobby ID | 28613896019382684 |
+| Players | 5/15 |
+| Host Name | Thiccolo |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:11:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896018767992 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | serrano cacha serranos |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:10:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896017728672 |
-| Players | 8/10 |
-| Host Name | Gerzson12 |
+| Lobby ID | 28613896019320804 |
+| Players | 3/8 |
+| Host Name | Уровень игры: БОГ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:07:53 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28613896018123354 |
-| Players | 1/7 |
-| Host Name | p7asha7 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:08:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896015426411 |
-| Players | 9/10 |
-| Host Name | <3 Родип Роге |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:02:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896013097010 |
-| Players | 9/10 |
-| Host Name | ChowChow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 07:56:56 |
+| Lobby Creation Time | Friday, January 19, 2024 08:11:41 |
 
 
