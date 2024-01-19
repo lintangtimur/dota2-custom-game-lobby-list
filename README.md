@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896044527912 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:10:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896046915937 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Sweet...Sadistic |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:15:54 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [Leb] Peterpan |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:16:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896048235009 |
+| Players | 2/5 |
+| Host Name | ! Dante ! |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 09:19:03 |
 
 
