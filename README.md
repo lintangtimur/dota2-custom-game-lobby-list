@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896007296208 |
-| Players | 1/8 |
-| Host Name | Obi-Wan Kenobi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:43:17 |
+| Lobby ID | 28613896012292925 |
+| Players | 2/24 |
+| Host Name | The Silverwing |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 07:54:59 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896006770285 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Elchars#25 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:41:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896011799347 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Зловредина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 07:53:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896005747241 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | LunchBox |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:39:33 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896007815227 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:44:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896012056310 |
-| Players | 7/10 |
-| Host Name | Adhed out my head |
+| Lobby ID | 28613896010175289 |
+| Players | 2/15 |
+| Host Name | Silver |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:54:26 |
+| Lobby Creation Time | Friday, January 19, 2024 07:50:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896006502175 |
-| Players | 2/24 |
-| Host Name | Kael(Sem micro) |
+| Players | 1/24 |
+| Host Name | ] Kise[ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:41:19 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896010847138 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Chat GPT BOT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:51:38 |
@@ -146,40 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:50:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896010175289 |
-| Players | 2/15 |
-| Host Name | Silver |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 07:50:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896012292925 |
-| Players | 2/24 |
-| Host Name | The Silverwing |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:54:59 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896011380878 |
-| Players | 9/10 |
-| Host Name | @prolux20 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:52:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896009792489 |
-| Players | 8/10 |
-| Host Name | Inku |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 07:49:11 |
+| Lobby ID | 28613896010482559 |
+| Players | 6/10 |
+| Host Name | _Durnoy_161_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:50:47 |
 
 
 |  | epic_boss_fight_nightmare |
