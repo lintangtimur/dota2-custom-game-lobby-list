@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896114502659 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Zegatus |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:47:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896114092113 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Alto Cheems |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:46:22 |
