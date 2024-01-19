@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896003846270 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Ilisena |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:35:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896001902514 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:30:38 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896003556936 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | MATA VENECOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:34:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896004219342 |
-| Players | 14/15 |
-| Host Name | Immortality |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 07:36:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896002968069 |
-| Players | 4/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 07:33:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РЕКРУТ 5 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:36:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896002968069 |
+| Players | 3/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 07:33:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896004759208 |
+| Players | 1/8 |
+| Host Name | JaggerJack |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 07:37:16 |
 
 
 |  | epic_boss_fight_nightmare |
