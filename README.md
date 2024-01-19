@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896097037212 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:08:40 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896097888874 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dingus Khan |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 11:10:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896095961762 |
-| Players | 12/15 |
-| Host Name | Dr. Balzdeep Gupta |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:06:18 |
+| Lobby ID | 28613896098068770 |
+| Players | 2/10 |
+| Host Name | »Rewrite] |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:10:57 |
 
 
 |  | epic_boss_fight_nightmare |
