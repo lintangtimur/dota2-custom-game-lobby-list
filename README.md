@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896066949165 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | The Chigüi |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:01:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896065768529 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | poo-zinping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:58:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896067082201 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:01:30 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896066724112 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Twitch.tv/ElGuapo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:00:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896065198830 |
+| Players | 9/10 |
+| Host Name | PATO |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:57:18 |
 
 
 |  | epic_boss_fight_nightmare |
