@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896130470284 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:22:19 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896132093041 |
-| Players | 13/15 |
-| Host Name | YEEZUSB1Gg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:25:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896132251312 |
-| Players | 5/15 |
-| Host Name | حمو بيكا |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:26:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28613896132741884 |
 | Players | 2/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:27:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896132251312 |
+| Players | 6/15 |
+| Host Name | حمو بيكا |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 12:26:11 |
 
 
 |  | epic_boss_fight_hard |
