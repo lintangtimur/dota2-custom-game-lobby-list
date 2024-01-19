@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896095571183 |
-| Players | 3/10 |
-| Host Name | chibolo cachanga |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:05:26 |
+| Lobby ID | 28613896096108240 |
+| Players | 1/8 |
+| Host Name | Zet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:06:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896095628556 |
-| Players | 2/24 |
+| Players | 13/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:05:34 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896095765309 |
-| Players | 1/15 |
-| Host Name | Bulbasaurus |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 11:05:52 |
+| Lobby ID | 28613896095961762 |
+| Players | 9/15 |
+| Host Name | Dr. Balzdeep Gupta |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:06:18 |
 
 
 |  | ot3_desert_octet |
@@ -47,22 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:02:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896095086571 |
-| Players | 14/15 |
-| Host Name | Z3RO~×͜× |
+| Lobby ID | 28613896096091239 |
+| Players | 5/8 |
+| Host Name | el cacha viejas de 20 años |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:04:22 |
+| Lobby Creation Time | Friday, January 19, 2024 11:06:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896095819754 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Omega |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:05:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896096063365 |
+| Players | 6/8 |
+| Host Name | mario |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:06:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896096084143 |
+| Players | 1/24 |
+| Host Name | Caleb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 11:06:35 |
 
 
 |  | epic_boss_fight_nightmare |
