@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896301071153 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 17:45:05 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896300897151 |
+| Lobby ID | 28613896302291951 |
 | Players | 4/8 |
-| Host Name | ☠۩ПсИх۩☠ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:44:49 |
+| Host Name | Эммерсон Мнангаг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:46:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:35:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896300429343 |
-| Players | 1/15 |
-| Host Name | 华北躺赢王 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Friday, January 19, 2024 17:44:06 |
+| Lobby ID | 28613896301996701 |
+| Players | 7/10 |
+| Host Name | Сосок_улитки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:46:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896301880742 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Millsy_10 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:46:19 |
@@ -58,17 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896301458371 |
-| Players | 13/15 |
-| Host Name | Pan!ca |
+| Lobby ID | 28613896297739968 |
+| Players | 9/15 |
+| Host Name | 学生 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:40:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896302197089 |
+| Players | 1/15 |
+| Host Name | минус жёпа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:45:41 |
+| Lobby Creation Time | Friday, January 19, 2024 17:46:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896302348046 |
+| Players | 1/24 |
+| Host Name | Way Nini Way |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 17:47:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896298884141 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Vanesse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:41:45 |
