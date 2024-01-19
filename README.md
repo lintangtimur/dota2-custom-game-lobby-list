@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896070490033 |
-| Players | 3/8 |
-| Host Name | Nenonix Z |
+| Lobby ID | 28613896071465806 |
+| Players | 3/15 |
+| Host Name | HarryTD |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:09:03 |
+| Lobby Creation Time | Friday, January 19, 2024 10:11:15 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896070481585 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | rasmus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:09:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896070274775 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | C.C. Lemon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:08:35 |
@@ -49,38 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896070662955 |
-| Players | 20/24 |
-| Host Name | Anne |
+| Lobby ID | 28613896071674781 |
+| Players | 8/24 |
+| Host Name | EL MASCA PINGAS |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:09:26 |
+| Lobby Creation Time | Friday, January 19, 2024 10:11:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896070663553 |
-| Players | 13/15 |
-| Host Name | legacy炎 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:09:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896065768529 |
-| Players | 23/24 |
-| Host Name | Gandalf the Racist |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 09:58:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896071401080 |
-| Players | 1/15 |
-| Host Name | HarryTD |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:11:06 |
+| Lobby ID | 28613896071781284 |
+| Players | 2/15 |
+| Host Name | Gucci |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 10:12:00 |
 
 
 |  | epic_boss_fight_nightmare |
