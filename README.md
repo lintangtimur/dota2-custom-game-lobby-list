@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896308770867 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Gooble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:56:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896313973130 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Swap Commander |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:03:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896314089130 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ПодТрусник |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:04:06 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | t.me/hellswb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:04:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896315001771 |
+| Players | 1/15 |
+| Host Name | อีมิ้ง นักบิดท่าข้าม |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:05:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deads :3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:02:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896314801928 |
-| Players | 1/5 |
-| Host Name | #SEMPAI#16 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:05:07 |
 
 
