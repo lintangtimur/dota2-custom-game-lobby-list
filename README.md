@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896321412187 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:14:16 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:17:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896323654350 |
-| Players | 7/8 |
-| Host Name | акунпирсел) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:17:19 |
+| Lobby ID | 28613896323524991 |
+| Players | 9/10 |
+| Host Name | Thawne |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:17:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896322823725 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:16:12 |
