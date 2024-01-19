@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896200966252 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Turtle |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:49:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896200262260 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | aña |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:48:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896202354603 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Shailer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:52:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896201379207 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:50:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896202525123 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | vova12676 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:52:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896200816711 |
-| Players | 8/8 |
+| Players | 7/8 |
 | Host Name | Plowjob king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:49:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896200785940 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:49:31 |
