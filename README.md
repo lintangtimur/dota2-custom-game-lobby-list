@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896178980567 |
-| Players | 14/15 |
-| Host Name | Nova |
+| Lobby ID | 28613896179379128 |
+| Players | 4/8 |
+| Host Name | Худший Кеери |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:06:09 |
+| Lobby Creation Time | Friday, January 19, 2024 14:06:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896177401975 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pavlysha666 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:06:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896179379128 |
-| Players | 1/8 |
-| Host Name | Худший Кеери |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:06:58 |
 
 
 |  | epic_boss_fight_nightmare |
