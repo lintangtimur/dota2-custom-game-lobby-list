@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896178021129 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:04:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896181014181 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jolty |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:10:17 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896181244902 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | I'm TheChosenOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:10:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896181326208 |
+| Players | 2/24 |
+| Host Name | Stayler |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 14:10:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896180986687 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:10:14 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anita Max Wynn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:10:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896181321595 |
-| Players | 1/5 |
-| Host Name | SpecialHead |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 14:10:56 |
 
 
