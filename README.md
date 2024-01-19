@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896347697397 |
-| Players | 23/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:47:30 |
+| Lobby ID | 28613896349044443 |
+| Players | 4/10 |
+| Host Name | Gable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:49:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:50:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896349044443 |
-| Players | 4/10 |
-| Host Name | Gable |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:49:08 |
+| Lobby ID | 28613896347697397 |
+| Players | 23/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:47:30 |
 
 
 |  | epic_boss_fight_normal |
