@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896025170303 |
-| Players | 6/10 |
-| Host Name | Naranja |
+| Lobby ID | 28613896025549030 |
+| Players | 14/15 |
+| Host Name | lusketa |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:25:35 |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:29 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896026000785 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | procrastinador |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:27:34 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896025676739 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Lina Del Rey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:26:47 |
