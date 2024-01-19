@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896137575573 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Toto Wolff |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:37:44 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896138175179 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Tamborsito |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:39:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896138157846 |
-| Players | 1/24 |
-| Host Name | Tomie清月<3 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:39:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896138188927 |
-| Players | 1/15 |
-| Host Name | pharmacist |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:39:04 |
 
 
 |  | epic_boss_fight_nightmare |
