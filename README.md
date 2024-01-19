@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896192667812 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | bee sting |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:33:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896193951623 |
-| Players | 5/8 |
-| Host Name | kawasaki drip |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 14:36:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896194056385 |
-| Players | 6/10 |
-| Host Name | Dr.Paul_Vazo |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 14:36:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:34:12 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896194056385 |
+| Players | 7/10 |
+| Host Name | Dr.Paul_Vazo |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 14:36:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896194244720 |
@@ -63,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kawasaki |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 14:36:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896194962123 |
+| Players | 1/5 |
+| Host Name | Tiger :l |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 14:38:11 |
 
 
