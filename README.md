@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896139857648 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | My Name is JEFF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:42:44 |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:42:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896141323819 |
-| Players | 14/15 |
-| Host Name | Yello |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:46:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896140335277 |
-| Players | 14/15 |
-| Host Name | PRIME TIME |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:43:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896141717116 |
-| Players | 1/8 |
-| Host Name | КЕКЧУП |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:46:59 |
+| Lobby ID | 28613896139729194 |
+| Players | 23/24 |
+| Host Name | Fckend |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:42:26 |
 
 
 |  | epic_boss_fight_nightmare |
