@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896021967123 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 11/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896024898879 |
-| Players | 9/10 |
-| Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
+| Lobby ID | 28613896025170303 |
+| Players | 6/10 |
+| Host Name | Naranja |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:24:57 |
+| Lobby Creation Time | Friday, January 19, 2024 08:25:35 |
 
 
 |  | ot3_desert_octet |
@@ -65,20 +65,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:44:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896025549030 |
-| Players | 9/15 |
-| Host Name | Fox |
+| Lobby ID | 28613896025915958 |
+| Players | 2/8 |
+| Host Name | preñador de paisanas |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:26:29 |
+| Lobby Creation Time | Friday, January 19, 2024 08:27:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896025183732 |
-| Players | 4/10 |
-| Host Name | ritsuritsu |
+| Players | 6/10 |
+| Host Name | Lorduka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:25:37 |
 
@@ -94,47 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896024990901 |
-| Players | 21/24 |
-| Host Name | PedroPicaMierda |
+| Lobby ID | 28613896026000785 |
+| Players | 2/24 |
+| Host Name | procrastinador |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:25:10 |
+| Lobby Creation Time | Friday, January 19, 2024 08:27:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896025676739 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Lina Del Rey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:26:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896025170303 |
-| Players | 2/10 |
-| Host Name | Naranja |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:25:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896023330331 |
-| Players | 8/10 |
-| Host Name | Darkbear |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:21:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896024701568 |
-| Players | 14/15 |
-| Host Name | 1thekey |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:24:29 |
 
 
 |  | epic_boss_fight_hard |
@@ -149,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896025489660 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 08:26:21 |
@@ -158,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896025536590 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | AlbanHX |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:26:27 |
