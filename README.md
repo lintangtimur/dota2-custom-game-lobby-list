@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896079726602 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:29:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896077463015 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Khyleberg jr. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:24:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896080752764 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | [T.A.] T.D. Kal-El |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:32:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896081297237 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Anne |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:33:20 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896081462196 |
-| Players | 1/15 |
-| Host Name | piece of chees |
+| Lobby ID | 28613896077944237 |
+| Players | 14/15 |
+| Host Name | Panoli el kchero |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:33:42 |
+| Lobby Creation Time | Friday, January 19, 2024 10:25:50 |
 
 
 |  | ot3_gardens_duo |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896080333956 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | LET THE KID WATCH C: |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:31:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896077944237 |
-| Players | 14/15 |
-| Host Name | Panoli el kchero |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:25:50 |
 
 
 |  | epic_boss_fight_nightmare |
