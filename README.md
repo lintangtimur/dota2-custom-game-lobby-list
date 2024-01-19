@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896017144927 |
-| Players | 5/10 |
-| Host Name | Tiburon_sinti |
+| Lobby ID | 28613896017604340 |
+| Players | 2/10 |
+| Host Name | Don barriga |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:06:29 |
+| Lobby Creation Time | Friday, January 19, 2024 08:07:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896017257343 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Becky Blackbell |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:06:45 |
@@ -65,46 +65,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:44:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896010755168 |
-| Players | 1/15 |
-| Host Name | vb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 07:51:25 |
+| Lobby ID | 28613896017728672 |
+| Players | 1/10 |
+| Host Name | Gerzson12 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:07:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896016494677 |
-| Players | 15/15 |
-| Host Name | Nerf Herder |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:04:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896017369393 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:07:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896017453339 |
+| Players | 13/15 |
+| Host Name | Sou |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:07:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896017673096 |
+| Players | 2/8 |
+| Host Name | CRIMSON™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:07:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896013097010 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:56:56 |
