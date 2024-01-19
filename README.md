@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896024898879 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:24:57 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896024677463 |
-| Players | 10/15 |
-| Host Name | Midnight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:24:26 |
+| Lobby ID | 28613896025549030 |
+| Players | 8/15 |
+| Host Name | Fox |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:29 |
 
 
 |  | ot3_gardens_duo |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896024742356 |
-| Players | 7/8 |
-| Host Name | ♠2drugs drugs drugs |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:24:35 |
+| Lobby ID | 28613896025524405 |
+| Players | 2/8 |
+| Host Name | Mk-Jh |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896024990901 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | PedroPicaMierda |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:25:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896025141037 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Noob Slayer |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:25:31 |
@@ -119,12 +119,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:25:35 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896023330331 |
+| Players | 8/10 |
+| Host Name | Darkbear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:21:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896024701568 |
+| Players | 14/15 |
+| Host Name | 1thekey |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:24:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896025676739 |
+| Players | 1/15 |
+| Host Name | Lina Del Rey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896025733780 |
+| Players | 2/8 |
+| Host Name | CIRASU |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:55 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28613896024428227 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:23:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896025489660 |
+| Players | 2/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896025536590 |
+| Players | 1/10 |
+| Host Name | AlbanHX |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:26:27 |
 
 
