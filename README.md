@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896336703444 |
-| Players | 1/8 |
-| Host Name | 接受过去才能走向未来 |
+| Players | 3/8 |
+| Host Name | AE<3 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:33:51 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896337005476 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | ПЬЛЬ Е!АННАЯ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:34:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896336156407 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | 我不吃牛肉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:33:10 |
@@ -58,17 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896336378790 |
-| Players | 5/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:33:27 |
+| Lobby ID | 28613896337590386 |
+| Players | 4/10 |
+| Host Name | Malot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:34:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896337606640 |
+| Players | 1/15 |
+| Host Name | REaper_JacK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:34:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896329364102 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:24:46 |
@@ -77,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896328102381 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | духа соевая |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:23:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896336345256 |
-| Players | 1/10 |
-| Host Name | Pai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:33:24 |
 
 
