@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896046647688 |
-| Players | 2/15 |
-| Host Name | MEDIC bandit.camp |
+| Players | 1/15 |
+| Host Name | WoW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 09:15:17 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896046177404 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | arkadd herald gaming |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:14:09 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:14:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896045068524 |
-| Players | 12/15 |
-| Host Name | DAVIS A. |
+| Lobby ID | 28613896046940897 |
+| Players | 4/24 |
+| Host Name | SNC |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:11:29 |
+| Lobby Creation Time | Friday, January 19, 2024 09:15:58 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896046921564 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | EL NIÑO CARICRIMEN |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:15:55 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:15:56 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896046940897 |
-| Players | 3/24 |
-| Host Name | SNC |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:15:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896045846339 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:13:23 |
