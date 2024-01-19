@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896242583287 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Don't run! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242066175 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896242178103 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | PINAKA BIHAYASA SA PAGDODOTES WO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:24 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896242773835 |
-| Players | 6/8 |
-| Host Name | балбес |
+| Lobby ID | 28613896243276196 |
+| Players | 3/8 |
+| Host Name | Trelis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:07:28 |
+| Lobby Creation Time | Friday, January 19, 2024 16:08:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896242577002 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:07 |
