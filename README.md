@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:52:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896312927365 |
-| Players | 13/15 |
-| Host Name | Semen developer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:02:28 |
+| Lobby ID | 28613896313175333 |
+| Players | 2/8 |
+| Host Name | ShadowStorm |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 18:02:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896308770867 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:56:33 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896313107486 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kid diddler |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:02:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896313175333 |
-| Players | 1/8 |
-| Host Name | ShadowStorm |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 18:02:49 |
+| Lobby ID | 28613896313395464 |
+| Players | 2/15 |
+| Host Name | GostRed |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:03:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896313293600 |
+| Lobby ID | 28613896313429945 |
 | Players | 4/8 |
 | Host Name | VLI1RUS |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 18:02:59 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:03:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bad homeles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:02:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896313299138 |
+| Players | 1/10 |
+| Host Name | Deads :3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:02:59 |
 
 
