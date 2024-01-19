@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896057062749 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 09:39:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896057013025 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | kagura bachi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:39:00 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:38:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896056950810 |
-| Players | 7/8 |
-| Host Name | chainsaw |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 09:38:52 |
+| Lobby ID | 28613896057278586 |
+| Players | 2/15 |
+| Host Name | dazai |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 09:39:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896057058461 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | AMOROZO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:39:06 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896057241800 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Tovar Babuino PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:39:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896057278586 |
-| Players | 2/15 |
-| Host Name | dazai |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 09:39:35 |
 
 
 |  | epic_boss_fight_challenger |
