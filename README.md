@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896383501268 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | radbix |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:29:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896383337920 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Женя Чидрочило |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:29:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896383441756 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | (турбовоин) |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:29:43 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mine_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:27:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896383569322 |
-| Players | 2/5 |
-| Host Name | meedX |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:29:51 |
 
 
