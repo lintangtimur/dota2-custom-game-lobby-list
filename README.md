@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:32:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896229436948 |
-| Players | 9/15 |
-| Host Name | 3-hp |
+| Lobby ID | 28613896229768345 |
+| Players | 6/8 |
+| Host Name | vanyuwa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:43:13 |
+| Lobby Creation Time | Friday, January 19, 2024 15:43:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 5/24 |
-| Host Name | Baked Potato. |
+| Players | 4/24 |
+| Host Name | Marshalldoge |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
 
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896229600914 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | GodjaBoys! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:43:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896229485975 |
-| Players | 8/10 |
-| Host Name | кинь в меня игнайт |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:43:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896229768345 |
-| Players | 2/8 |
-| Host Name | vanyuwa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:43:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896228681785 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | AMAnet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:41:49 |
