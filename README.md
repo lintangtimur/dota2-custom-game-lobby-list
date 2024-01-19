@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896193951623 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | пузожитель |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 14:36:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896191069236 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:30:37 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:34:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896194328494 |
+| Players | 2/15 |
+| Host Name | Fear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:36:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896194244720 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Kawasaki |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 14:36:49 |
