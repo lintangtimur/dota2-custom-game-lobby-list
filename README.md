@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896099230514 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | CDA- |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:13:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896099848342 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:14:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896096084143 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:06:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896099510279 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Хaoсит  Untimely |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:14:12 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 11:15:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896100179488 |
+| Players | 2/8 |
+| Host Name | Y@RIEL.97 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:15:44 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896099575622 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | vvw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:14:21 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896100151202 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | YangYang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:15:40 |
