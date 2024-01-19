@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896030180334 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Cassie |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:37:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896029895098 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Х777АЧ77 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:36:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896029725672 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Audi Whit |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:36:04 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896030462595 |
-| Players | 1/15 |
-| Host Name | emerging from the aether |
+| Lobby ID | 28613896030575004 |
+| Players | 3/15 |
+| Host Name | <The-Last*Apes> |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 08:38:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896030567093 |
+| Players | 1/10 |
+| Host Name | 大大hate myself |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:37:47 |
+| Lobby Creation Time | Friday, January 19, 2024 08:38:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896030568435 |
+| Players | 1/8 |
+| Host Name | Уровень игры: БОГ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:38:02 |
 
 
 |  | epic_boss_fight_nightmare |
