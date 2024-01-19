@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896274330396 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896345098153 |
-| Players | 7/8 |
-| Host Name | Vatican II |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:44:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896345699648 |
-| Players | 12/15 |
-| Host Name | УНАГИ МАГИ |
+| Lobby ID | 28613896345995173 |
+| Players | 13/15 |
+| Host Name | Дымок prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:45:01 |
+| Lobby Creation Time | Friday, January 19, 2024 18:45:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896345876168 |
+| Players | 7/10 |
+| Host Name | Laki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 18:45:14 |
 
 
 |  | ot3_desert_octet |
@@ -47,40 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:40:23 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896344482444 |
-| Players | 22/24 |
-| Host Name | Cloud |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:43:30 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896344896851 |
-| Players | 2/15 |
-| Host Name | Молочный отец |
+| Players | 1/15 |
+| Host Name | Feeder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:44:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896344122050 |
-| Players | 9/10 |
-| Host Name | Metraflex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:43:04 |
+| Lobby ID | 28613896346303611 |
+| Players | 4/8 |
+| Host Name | 動畫史萊克 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:45:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896345876168 |
-| Players | 2/10 |
-| Host Name | Laki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:45:14 |
+| Lobby ID | 28613896346402329 |
+| Players | 1/24 |
+| Host Name | datu_MAHABARATBU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:45:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896346521491 |
+| Players | 1/8 |
+| Host Name | @@@@@@@@@@@@ |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, January 19, 2024 18:46:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YangYang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:43:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896346454628 |
+| Players | 1/5 |
+| Host Name | 다유타 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:45:58 |
 
 
