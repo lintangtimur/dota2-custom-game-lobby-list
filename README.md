@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896035311935 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:49:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896035306116 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Stepdad with boundary issues |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:49:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896035248125 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:49:13 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896035341385 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:49:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896035605918 |
+| Players | 1/10 |
+| Host Name | esquisse |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:50:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896035613435 |
+| Players | 1/10 |
+| Host Name | Please stan Yorushika! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 08:50:05 |
 
 
