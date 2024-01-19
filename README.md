@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896092346416 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Cheetos Flamin' Hot |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:58:20 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896092574831 |
-| Players | 2/15 |
-| Host Name | ЖиЖик |
+| Players | 4/15 |
+| Host Name | FeeZy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:58:51 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896092920781 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Leche de Lagarto |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:59:37 |
@@ -65,19 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 10:59:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896093107443 |
+| Players | 1/8 |
+| Host Name | kagura bachi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 11:00:02 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896092984448 |
-| Players | 3/10 |
-| Host Name | Mr.Lulu^^ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 10:59:45 |
+| Lobby ID | 28613896093178799 |
+| Players | 1/10 |
+| Host Name | SaitamaCH |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:00:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896090832932 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:54:58 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896093078474 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ESCARCHO 420-9000 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:59:58 |
