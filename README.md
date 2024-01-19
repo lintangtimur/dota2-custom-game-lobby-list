@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896297739968 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Hassuni enabler |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:40:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896297935111 |
+| Players | 2/8 |
+| Host Name | KinT.Anduin |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:40:17 |
 
 
 |  | epic_boss_fight_nightmare |
