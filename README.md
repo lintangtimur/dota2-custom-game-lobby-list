@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896055967082 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | я так заебался |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 09:36:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896056260289 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | AMATERASU™ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:37:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896055837698 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:36:23 |
@@ -59,37 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896056468260 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Ghost夏 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 09:37:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896056536700 |
-| Players | 1/24 |
-| Host Name | Lindvia| ZaiSe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 09:37:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896056560202 |
-| Players | 1/8 |
-| Host Name | KYARA( V ) andy |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:37:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896054840608 |
-| Players | 13/15 |
-| Host Name | Cris1st |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 09:34:11 |
+| Lobby ID | 28613896056600479 |
+| Players | 2/15 |
+| Host Name | Kabir |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:38:04 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DσKα Prime |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:37:45 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613896056626613 |
+| Players | 1/7 |
+| Host Name | Beautyyy |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 09:38:08 |
 
 
