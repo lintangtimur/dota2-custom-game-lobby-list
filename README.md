@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 14:26:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896189215632 |
-| Players | 1/15 |
-| Host Name | #Mahsaamini-WOMAN-LIFE-FREEDOM |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, January 19, 2024 14:27:02 |
+| Lobby ID | 28613896189263831 |
+| Players | 1/24 |
+| Host Name | MADARA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:27:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896188399456 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:25:27 |
