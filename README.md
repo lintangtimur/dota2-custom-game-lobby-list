@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896247240586 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | permanently lost |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:15:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242066175 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 不二周助 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896247026293 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Дымоок |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:15:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896246960182 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Astral Ado E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:15:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896247447941 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ПОТМЕН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:16:00 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:16:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896246270393 |
+| Players | 6/8 |
+| Host Name | nissinwafer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 16:13:47 |
 
 
 |  | epic_boss_fight_nightmare |
