@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896217248023 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | I'll never forget you |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:20:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896215211825 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Jenducky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:16:44 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896217431870 |
+| Lobby ID | 28613896217552070 |
 | Players | 2/8 |
-| Host Name | hacker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:20:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896217514523 |
-| Players | 1/8 |
 | Host Name | Prokuror |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:20:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896217517581 |
-| Players | 2/8 |
-| Host Name | Eric Whitney ☿ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:20:58 |
+| Lobby Creation Time | Friday, January 19, 2024 15:21:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:15:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896217553510 |
+| Players | 1/10 |
+| Host Name | GreShnik |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:21:02 |
 
 
