@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896195005584 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Angel Dust |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:38:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896191069236 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:30:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896197172736 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Paj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:42:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896197405375 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | минус жёпа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:42:55 |
