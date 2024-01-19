@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896107022931 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896109197446 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Sissoko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:35:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896110370065 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | OldSchool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:38:08 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YO SOLO MATO PERUANOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:38:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896110817822 |
+| Players | 1/15 |
+| Host Name | BingBongTheRedranger.∩ (◣_ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:39:06 |
 
 
 |  | epic_boss_fight_nightmare |
