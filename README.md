@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896338009623 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | PLODOTVOR |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:35:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896339082688 |
-| Players | 11/15 |
-| Host Name | NAISLYMON666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:36:49 |
+| Lobby ID | 28613896339418443 |
+| Players | 8/10 |
+| Host Name | chipi chipi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:37:14 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896338844446 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | numb lil' bug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:36:31 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 18:37:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896339418443 |
-| Players | 3/10 |
-| Host Name | chipi chipi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:37:14 |
+| Lobby ID | 28613896339555144 |
+| Players | 4/8 |
+| Host Name | 000 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 18:37:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896328102381 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | духа соевая |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 18:23:10 |
