@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896139441899 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | PERU = BASURA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:41:46 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:40:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896137028778 |
-| Players | 11/15 |
-| Host Name | if god exists, IT'S FUCKING ME |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 12:36:33 |
+| Lobby ID | 28613896139398033 |
+| Players | 1/8 |
+| Host Name | 1K de dia - 1K-bro de noche |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:41:40 |
 
 
 |  | ot3_gardens_duo |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:39:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896139398033 |
-| Players | 1/8 |
-| Host Name | 1K de dia - 1K-bro de noche |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:41:40 |
 
 
 |  | epic_boss_fight_nightmare |
