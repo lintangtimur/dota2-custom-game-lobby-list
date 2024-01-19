@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:43:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896444710033 |
-| Players | 3/8 |
-| Host Name | akumaqqe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:27 |
+| Lobby ID | 28613896440437812 |
+| Players | 13/15 |
+| Host Name | Play with dog = loss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:27:24 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896447868979 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Run Forest |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 20:34:22 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896446008990 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ШИЗЫЧ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:32:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896446003690 |
-| Players | 22/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:32:39 |
+| Lobby ID | 28613896444757593 |
+| Players | 5/8 |
+| Host Name | Winter |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896444891529 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | acsess |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:37 |
@@ -95,43 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896448127762 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hopeless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:34:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896444757593 |
-| Players | 3/8 |
-| Host Name | Winter |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896445516979 |
-| Players | 2/15 |
-| Host Name | YO PINGA LOCA |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 20:32:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896440437812 |
-| Players | 13/15 |
-| Host Name | Play with dog = loss |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:27:24 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896447209267 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | goy dwaga dwaga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:33:46 |
