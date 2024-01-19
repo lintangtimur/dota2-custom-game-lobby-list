@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896034734806 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ►PSG.LGD 愛我 |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:48:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896033310730 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:44:36 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896034275645 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | jhano |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:46:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896035248125 |
+| Players | 1/15 |
+| Host Name | Midnight |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:49:13 |
 
 
 |  | epic_boss_fight_nightmare |
