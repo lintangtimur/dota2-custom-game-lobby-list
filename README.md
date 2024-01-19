@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896014279318 |
-| Players | 2/24 |
-| Host Name | RiftBreaker |
+| Lobby ID | 28613896034440388 |
+| Players | 3/8 |
+| Host Name | theshotcaller2017 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896034168132 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | lusketa |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:46:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896032709089 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Sir Katerpirat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:43:07 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896033968030 |
+| Lobby ID | 28613896034309851 |
 | Players | 6/8 |
-| Host Name | Ghost夏 |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 08:46:10 |
+| Host Name | CAT Z ( PANDORA) |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:46:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896033695520 |
-| Players | 19/24 |
-| Host Name | SNC |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:45:31 |
+| Lobby ID | 28613896034352074 |
+| Players | 2/15 |
+| Host Name | byunjoe |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:05 |
 
 
 |  | ot3_gardens_duo |
@@ -110,48 +110,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 08:46:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896034319475 |
-| Players | 2/10 |
-| Host Name | Jonaxx |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 08:47:01 |
+| Lobby ID | 28613896034640966 |
+| Players | 1/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896034581865 |
+| Players | 1/24 |
+| Host Name | noaim |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896034309851 |
-| Players | 5/8 |
-| Host Name | CAT Z ( PANDORA) |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:46:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896034352074 |
-| Players | 1/15 |
-| Host Name | byunjoe |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 08:47:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896032425876 |
-| Players | 14/15 |
-| Host Name | Sicario-Ursz |
+| Lobby ID | 28613896034696560 |
+| Players | 1/8 |
+| Host Name | preñador de paisanas |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:42:25 |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896032243658 |
-| Players | 8/10 |
-| Host Name | bruh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 08:41:59 |
+| Lobby ID | 28613896034683799 |
+| Players | 1/10 |
+| Host Name | Error 404 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 08:47:53 |
 
 
