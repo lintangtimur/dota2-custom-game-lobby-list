@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896214435141 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Luhuti |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 15:15:19 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896221943125 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 廾丹乂丫认 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:29:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896223030429 |
+| Players | 2/15 |
+| Host Name | silence |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:31:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896223046483 |
+| Players | 3/8 |
+| Host Name | Chimuelo |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 15:31:21 |
 
 
 |  | epic_boss_fight_nightmare |
