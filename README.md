@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896108097387 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:33:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896107022931 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896106082921 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | NGX.RoR_kiler |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:28:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896108096693 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | life v kaif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:33:12 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896108143427 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | APOLO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:33:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896108871685 |
-| Players | 5/10 |
-| Host Name | (-) |
+| Lobby ID | 28613896108593500 |
+| Players | 7/8 |
+| Host Name | Jogitσz |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:34:55 |
+| Lobby Creation Time | Friday, January 19, 2024 11:34:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896108736058 |
+| Lobby ID | 28613896108892167 |
 | Players | 1/5 |
 | Host Name | good=boni |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:34:38 |
+| Lobby Creation Time | Friday, January 19, 2024 11:34:58 |
 
 
