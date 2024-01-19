@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896272053376 |
-| Players | 23/24 |
-| Host Name | noob 2.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 16:58:53 |
+| Lobby ID | 28613896272755999 |
+| Players | 6/15 |
+| Host Name | Anakin |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:00:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896272693903 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | :D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:59:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896272755999 |
-| Players | 6/15 |
-| Host Name | Anakin |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 17:00:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nights |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:54:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896269808081 |
-| Players | 1/5 |
-| Host Name | Gornji Batak?!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 16:55:02 |
 
 
 |  | epic_boss_fight_nightmare |
