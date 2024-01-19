@@ -56,12 +56,3 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:07:23 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28613896213213013 |
-| Players | 1/5 |
-| Host Name | Himer Senpai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:13:00 |
-
-
