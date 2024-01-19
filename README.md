@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896108097387 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:33:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896107351302 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Bebe Dragon |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 11:31:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896107022931 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896107661223 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Oops |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:32:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896107366606 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Pisaksa GOD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:31:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896108096693 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | life v kaif |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:33:12 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896108143427 |
-| Players | 5/8 |
-| Host Name | Jolty |
+| Players | 1/8 |
+| Host Name | APOLO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:33:19 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896108330379 |
-| Players | 1/5 |
-| Host Name | good=boni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:33:43 |
+| Lobby ID | 28613896108871685 |
+| Players | 5/10 |
+| Host Name | (-) |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:34:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896106709505 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:30:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896108680911 |
+| Players | 1/5 |
+| Host Name | Small Baby Israel |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 11:34:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896108736058 |
+| Players | 1/5 |
+| Host Name | good=boni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:34:38 |
 
 
