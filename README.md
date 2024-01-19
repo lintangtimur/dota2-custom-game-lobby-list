@@ -2,55 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896098153419 |
-| Players | 10/15 |
-| Host Name | Great Admiral of Mongol Empire |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:11:08 |
+| Lobby ID | 28613896099230514 |
+| Players | 1/24 |
+| Host Name | CDA- |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:13:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896097888874 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Dingus Khan |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 11:10:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896098957999 |
-| Players | 1/10 |
-| Host Name | TEPUNTEO |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:12:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896090185731 |
-| Players | 4/24 |
-| Host Name | magucciy |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 10:53:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896098265471 |
-| Players | 3/10 |
-| Host Name | LemonLime |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 11:11:22 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896096084143 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:06:35 |
@@ -58,20 +31,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896098265523 |
-| Players | 23/24 |
-| Host Name | ElHombreQueCarreoAlIncarreable |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:11:22 |
+| Lobby ID | 28613896090185731 |
+| Players | 5/24 |
+| Host Name | magucciy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 10:53:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896096976481 |
-| Players | 8/10 |
-| Host Name | evil |
+| Lobby ID | 28613896099373968 |
+| Players | 1/8 |
+| Host Name | TEPUNTEO |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:13:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896099393451 |
+| Players | 1/10 |
+| Host Name | LemonLime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 11:08:32 |
+| Lobby Creation Time | Friday, January 19, 2024 11:13:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896099431698 |
+| Players | 1/15 |
+| Host Name | Валет бубновый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:14:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896099445411 |
+| Players | 2/8 |
+| Host Name | pm'd you the fix |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 11:14:03 |
 
 
 |  | epic_boss_fight_nightmare |
