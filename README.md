@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896162794428 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SopTema |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 13:32:12 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896162648889 |
-| Players | 7/10 |
-| Host Name | #деньгименяют |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 13:31:53 |
+| Lobby ID | 28613896161579601 |
+| Players | 8/10 |
+| Host Name | clownfiesta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:29:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896159888635 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:26:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896161066022 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 13:28:30 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896162783010 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | DVD ghoul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:32:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896163158500 |
-| Players | 1/24 |
-| Host Name | Крымболтяра |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:32:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896162994165 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 13:32:38 |
