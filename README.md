@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896042070936 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | @ndrew |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:04:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896041955101 |
-| Players | 7/8 |
-| Host Name | JoLyn ☺3 K |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:04:28 |
+| Lobby ID | 28613896038468188 |
+| Players | 5/15 |
+| Host Name | Guihs |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 08:56:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896040458251 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:01:08 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896041434131 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:03:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896038468188 |
-| Players | 5/15 |
-| Host Name | Guihs |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 08:56:39 |
 
 
 |  | epic_boss_fight_nightmare |
