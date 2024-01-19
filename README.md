@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896214995682 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | WinNee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:16:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896213618942 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:13:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896214435141 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 「Catch the Rainbow」 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 15:15:19 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:14:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896213975121 |
-| Players | 3/8 |
-| Host Name | hyakkimaru |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 15:14:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896215345884 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | кинь в меня игнайт |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:16:59 |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:15:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896210201023 |
-| Players | 9/10 |
-| Host Name | All muth Dead Chat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:07:23 |
+| Lobby ID | 28613896215885764 |
+| Players | 1/5 |
+| Host Name | Nuar |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:17:57 |
 
 
