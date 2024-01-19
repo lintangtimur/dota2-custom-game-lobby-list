@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896317401397 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | magucciy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:39:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896393087751 |
-| Players | 4/8 |
-| Host Name | несквик с пивом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:40:06 |
+| Lobby ID | 28613896393148218 |
+| Players | 3/10 |
+| Host Name | _Ferxxo_ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 19:40:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896393028977 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | SHADOWSONG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:40:03 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896392643148 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:39:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896393096395 |
+| Players | 1/24 |
+| Host Name | Orcibaldo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:40:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896393260901 |
+| Players | 3/8 |
+| Host Name | MALEBEL TYT?? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:40:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Please stan Yorushika! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:39:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896393237992 |
+| Players | 1/5 |
+| Host Name | ПУТИН ЦАРЬ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:40:16 |
 
 
