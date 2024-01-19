@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896350421340 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Mode:Попка ягодка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:50:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896350650532 |
-| Players | 4/8 |
-| Host Name | Qup_ |
+| Lobby ID | 28613896350659155 |
+| Players | 2/10 |
+| Host Name | игрок |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:51:03 |
+| Lobby Creation Time | Friday, January 19, 2024 18:51:04 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896347697397 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:47:30 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896349613030 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:49:49 |
