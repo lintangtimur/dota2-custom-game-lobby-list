@@ -13,47 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896358640146 |
-| Players | 6/10 |
-| Host Name | TAWeR |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:00:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896357884201 |
-| Players | 4/8 |
-| Host Name | PLODOTVOR |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:59:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896317401397 |
-| Players | 1/24 |
-| Host Name | magucciy |
+| Lobby ID | 28613896359469808 |
+| Players | 8/10 |
+| Host Name | dead inside |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896357939580 |
-| Players | 7/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:59:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896356967895 |
-| Players | 1/8 |
-| Host Name | friendly |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 18:58:47 |
+| Lobby Creation Time | Friday, January 19, 2024 19:01:50 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +29,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:00:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896358392790 |
-| Players | 13/15 |
-| Host Name | Солевая 2009 |
+| Lobby ID | 28613896317401397 |
+| Players | 2/24 |
+| Host Name | magucciy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:00:32 |
+| Lobby Creation Time | Friday, January 19, 2024 18:08:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896357939580 |
+| Players | 11/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:59:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896359396587 |
+| Players | 6/8 |
+| Host Name | Loyalty Above Money |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:01:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896356441956 |
+| Players | 23/24 |
+| Host Name | 米粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:58:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896358314005 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GANS PROVANS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:00:26 |
