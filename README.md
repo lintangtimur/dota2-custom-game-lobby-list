@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 03:57:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896020727024 |
-| Players | 9/10 |
-| Host Name | Missing you happiness |
+| Lobby ID | 28613896021357031 |
+| Players | 5/15 |
+| Host Name | Salam bikkitae |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:15:06 |
+| Lobby Creation Time | Friday, January 19, 2024 08:16:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896020710886 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | <Kenay> |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:15:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896021356308 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | sleepy space cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:16:36 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | will |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896021357031 |
-| Players | 5/15 |
-| Host Name | Salam bikkitae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:16:36 |
 
 
 |  | epic_boss_fight_nightmare |
