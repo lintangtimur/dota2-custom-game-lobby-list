@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896246184401 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Dance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:13:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896242066175 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 不二周助 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:06:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896245306014 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | noob 2.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:12:01 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896245643151 |
 | Players | 2/8 |
-| Host Name | Papejik |
+| Host Name | SOEKARNO ASEAN HITLER |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, January 19, 2024 16:12:38 |
 
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896246502264 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Anal Airlines |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:14:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896246960182 |
+| Players | 6/24 |
+| Host Name | Astral Ado E678 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 16:15:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kolpacheque |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:07:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896242762711 |
-| Players | 9/10 |
-| Host Name | 다유타 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, January 19, 2024 16:07:27 |
 
 
 |  | epic_boss_fight_normal |
