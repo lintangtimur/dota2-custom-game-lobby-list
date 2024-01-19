@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896060623779 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | lusketa |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:47:12 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 09:46:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896060870719 |
-| Players | 14/15 |
-| Host Name | Dominique de Coco |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 09:47:46 |
+| Lobby ID | 28613896057582064 |
+| Players | 7/8 |
+| Host Name | Dicky McBalls |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 09:40:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896059059823 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:43:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896060782636 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ivadangio |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:47:34 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896060851863 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SOY EL MEJOR ENTIENDE |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:47:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896057582064 |
-| Players | 7/8 |
-| Host Name | Dicky McBalls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 09:40:15 |
+| Lobby ID | 28613896059643904 |
+| Players | 9/10 |
+| Host Name | Waldorf |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 09:45:00 |
 
 
 |  | epic_boss_fight_nightmare |
