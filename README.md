@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896139441899 |
-| Players | 14/15 |
-| Host Name | PERU = BASURA |
+| Lobby ID | 28613896139398033 |
+| Players | 7/8 |
+| Host Name | 1K de dia - 1K-bro de noche |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:41:46 |
+| Lobby Creation Time | Friday, January 19, 2024 12:41:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896139857648 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | My Name is JEFF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:42:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896140335277 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | PRIME TIME |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 12:43:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896139729194 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Fckend |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 12:42:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896137045648 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 12:36:35 |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896140367271 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | bex |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 12:43:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896139398033 |
-| Players | 7/8 |
-| Host Name | 1K de dia - 1K-bro de noche |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 12:41:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896136608237 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 12:35:38 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28613896140492100 |
+| Players | 1/7 |
+| Host Name | King Crimson |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, January 19, 2024 12:44:12 |
 
 
