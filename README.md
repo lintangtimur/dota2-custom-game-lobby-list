@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896059964960 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | TorontoMiko |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:45:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896059953003 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | El tiburon espantado |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:45:43 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896059445086 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | no le hables a mi coach ctmre |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:44:33 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896060623779 |
+| Players | 1/24 |
+| Host Name | me comi varias de amarillo xd |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:47:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896056732079 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | пуп |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:38:22 |
