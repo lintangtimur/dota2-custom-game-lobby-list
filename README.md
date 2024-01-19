@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | VEGANO CASUAL |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896409657940 |
-| Players | 3/8 |
-| Host Name | fgervnhkuytqsdafsd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:57:35 |
+| Lobby ID | 28613896412608996 |
+| Players | 2/8 |
+| Host Name | ШТАНДАРТЕНФЮРЕР |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:00:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:59:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896412443243 |
-| Players | 7/10 |
-| Host Name | Junior C# |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:00:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896412608996 |
-| Players | 1/8 |
-| Host Name | ШТАНДАРТЕНФЮРЕР |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 20:00:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896412926382 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | DiKeey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:00:52 |
