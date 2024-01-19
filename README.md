@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896057062749 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 09:39:07 |
@@ -31,29 +31,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
+| Lobby ID | 28613896057582064 |
+| Players | 2/8 |
+| Host Name | Dicky McBalls |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 09:40:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
 | Lobby ID | 28613896057013025 |
-| Players | 6/8 |
-| Host Name | kagura bachi |
+| Players | 7/8 |
+| Host Name | 巴基曼巴 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 09:39:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896055837698 |
-| Players | 9/10 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:36:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896057040442 |
-| Players | 3/10 |
-| Host Name | kayn1x |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 09:39:04 |
+| Lobby ID | 28613896057869169 |
+| Players | 1/15 |
+| Host Name | dazai |
+| Region | USWEST |
+| Lobby Creation Time | Friday, January 19, 2024 09:40:54 |
 
 
 |  | ot3_desert_octet |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896057278586 |
-| Players | 2/15 |
-| Host Name | dazai |
-| Region | USWEST |
-| Lobby Creation Time | Friday, January 19, 2024 09:39:35 |
+| Lobby ID | 28613896057803429 |
+| Players | 1/15 |
+| Host Name | TALLANO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 09:40:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896057058461 |
-| Players | 17/24 |
-| Host Name | AMOROZO |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:39:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896057241800 |
-| Players | 5/15 |
-| Host Name | Tovar Babuino PMA |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 09:39:30 |
+| Lobby ID | 28613896057791804 |
+| Players | 1/8 |
+| Host Name | kagura bachi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 09:40:44 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896056732079 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:38:22 |
