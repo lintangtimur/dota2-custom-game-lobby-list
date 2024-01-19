@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | takeoff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896021967123 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 08:18:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896014279318 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896029176964 |
-| Players | 11/24 |
+| Players | 20/24 |
 | Host Name | Rumbo al retiro |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:34:56 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896028785443 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | M i a m i |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:34:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896027601591 |
-| Players | 9/15 |
-| Host Name | PoTsi |
+| Lobby ID | 28613896029895098 |
+| Players | 5/10 |
+| Host Name | Х777АЧ77 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 08:31:23 |
+| Lobby Creation Time | Friday, January 19, 2024 08:36:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896029631423 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Thiccolo |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 08:35:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896029369580 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | D1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:35:19 |
