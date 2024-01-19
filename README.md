@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896236963968 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | experiment |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:56:59 |
@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:59:31 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896238728737 |
+| Players | 1/8 |
+| Host Name | Андрюха |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 16:00:10 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896237206158 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Little Sailor |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, January 19, 2024 15:57:25 |
