@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896077463015 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Khyleberg jr. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:24:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896079861963 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:30:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896080333956 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | LET THE KID WATCH C: |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:31:12 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896080569326 |
+| Lobby ID | 28613896080683931 |
 | Players | 1/15 |
 | Host Name | Probel |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 10:31:44 |
+| Lobby Creation Time | Friday, January 19, 2024 10:31:59 |
 
 
 |  | epic_boss_fight_nightmare |
