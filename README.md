@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896226370532 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | gay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:37:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896210180393 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Baked Potato. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 15:07:21 |
@@ -38,21 +38,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 15:32:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896226842716 |
+| Players | 3/15 |
+| Host Name | whyforme? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 15:38:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896226872565 |
+| Players | 1/15 |
+| Host Name | -❤ｓｐｉｃｙ❤ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 15:38:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896226437128 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 15:37:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896226472539 |
-| Players | 1/10 |
-| Host Name | Loc Dog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:37:45 |
 
 
