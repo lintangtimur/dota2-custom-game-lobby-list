@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896010021599 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:49:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896020190018 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Elias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:13:46 |
@@ -113,17 +113,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896020727024 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:15:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896020781946 |
+| Players | 1/8 |
+| Host Name | Chimbombin 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 08:15:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896019643545 |
-| Players | 5/10 |
-| Host Name | Lucifer = Demon |
+| Players | 4/10 |
+| Host Name | Dr. Sexo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 08:12:28 |
 
