@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896105127720 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:26:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896106367331 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 愛してます。 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:29:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896106068894 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | •● ZaGg ●• |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:28:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896107351302 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Bebe Dragon |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 11:31:32 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896107366606 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Pisaksa GOD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:31:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896107539588 |
-| Players | 1/15 |
-| Host Name | selspaso |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:31:57 |
 
 
 |  | epic_boss_fight_challenger |
