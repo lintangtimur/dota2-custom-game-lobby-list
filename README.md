@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896345008421 |
-| Players | 5/8 |
-| Host Name | pumpel |
+| Lobby ID | 28613896345098153 |
+| Players | 2/8 |
+| Host Name | Vatican II |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:44:10 |
+| Lobby Creation Time | Friday, January 19, 2024 18:44:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896344122050 |
-| Players | 9/10 |
-| Host Name | Laki |
+| Lobby ID | 28613896344994137 |
+| Players | 10/15 |
+| Host Name | FErman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:43:04 |
+| Lobby Creation Time | Friday, January 19, 2024 18:44:09 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896344482444 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Cloud |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:43:30 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896344896851 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 流泪猫猫头 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:44:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896344994137 |
-| Players | 1/15 |
-| Host Name | FErman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:44:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896345070517 |
-| Players | 1/8 |
-| Host Name | @@@@@@@@@@@@ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:44:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896344828295 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | YangYang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 18:43:56 |
