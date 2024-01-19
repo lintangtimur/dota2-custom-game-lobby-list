@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896116210068 |
-| Players | 6/8 |
-| Host Name | El Tio Custom |
+| Lobby ID | 28613896116489211 |
+| Players | 8/24 |
+| Host Name | Chupete |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:50:59 |
+| Lobby Creation Time | Friday, January 19, 2024 11:51:34 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896116592917 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | I'm TheChosenOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:51:47 |
@@ -31,46 +31,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896116053851 |
-| Players | 13/15 |
-| Host Name | 3 |
+| Lobby ID | 28613896117331045 |
+| Players | 7/15 |
+| Host Name | Harry Styles |
 | Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 11:50:38 |
+| Lobby Creation Time | Friday, January 19, 2024 11:53:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896117146349 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | tupapiprogiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:52:58 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896116489211 |
-| Players | 3/24 |
-| Host Name | Chupete |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:51:34 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896115630684 |
-| Players | 5/8 |
-| Host Name | Frozen |
+| Lobby ID | 28613896117605790 |
+| Players | 6/8 |
+| Host Name | mario |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:49:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896113249069 |
-| Players | 7/10 |
-| Host Name | 💯< ΰӆҝ∩ℴẘℕ >💯 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 11:44:30 |
+| Lobby Creation Time | Friday, January 19, 2024 11:53:58 |
 
 
