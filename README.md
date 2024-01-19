@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896118804264 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | una chiki no ma... |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 11:56:35 |
@@ -65,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 12:00:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896120406950 |
-| Players | 14/15 |
-| Host Name | maku reactor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 12:00:07 |
+| Lobby ID | 28613896120842026 |
+| Players | 3/10 |
+| Host Name | AmiR |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 12:01:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896120863844 |
+| Players | 1/24 |
+| Host Name | SRAM |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 12:01:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896120882975 |
+| Players | 1/8 |
+| Host Name | Ǥнσs⸸ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, January 19, 2024 12:01:09 |
 
 
 |  | epic_boss_fight_nightmare |
