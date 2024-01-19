@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896248512862 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | unic_16 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 16:17:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896246960182 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Astral Ado E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:15:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896248260727 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Djdcoolcry®#1337# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:17:30 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | noob 2.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 16:12:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896247485895 |
-| Players | 14/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 16:16:04 |
 
 
 |  | epic_boss_fight_nightmare |
