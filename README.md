@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896084445305 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | noaim |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 10:40:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896086794214 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:45:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896085796077 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Keeper |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 10:43:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896084132941 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Notsalty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 10:39:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896086463553 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Leon- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:45:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896086450445 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Winter |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:45:04 |
@@ -86,25 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896086675937 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | murph12 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:45:35 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896084855568 |
+| Players | 9/10 |
+| Host Name | Snakes |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 10:41:15 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896084745505 |
-| Players | 15/15 |
-| Host Name | El gatito erotico |
-| Region | USEAST |
-| Lobby Creation Time | Friday, January 19, 2024 10:41:00 |
+| Lobby ID | 28613896084983579 |
+| Players | 14/15 |
+| Host Name | Me and 23 dogs |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:41:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896083865639 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | OBONGA JR. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 10:39:02 |
