@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896388486680 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:35:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896389606626 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПОВЕЛИТЕЛЬ ПИСЮНОВ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:36:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896390920253 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ABRIKOS102 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:37:46 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:37:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896391021277 |
-| Players | 5/8 |
-| Host Name | fghjkl. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:37:53 |
+| Lobby ID | 28613896391071753 |
+| Players | 4/10 |
+| Host Name | Poseidon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 19:37:56 |
 
 
