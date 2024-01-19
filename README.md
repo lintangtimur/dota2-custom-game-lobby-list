@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896063634741 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | 黙れ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:53:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896062796577 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:52:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896059059823 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 09:43:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896065060730 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | Dranxzy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 09:57:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896063024207 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:52:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896064814348 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | штора |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 09:56:27 |
@@ -103,20 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896065101672 |
+| Lobby ID | 28613896065198830 |
 | Players | 2/10 |
-| Host Name | гундосявый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 09:57:05 |
+| Host Name | PATO |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 09:57:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896065130287 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | killer |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 09:57:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896065457952 |
+| Players | 1/10 |
+| Host Name | CMEKAЛИCTЫЙ HAE6 MAKAKИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 09:57:52 |
 
 
 |  | epic_boss_fight_nightmare |
