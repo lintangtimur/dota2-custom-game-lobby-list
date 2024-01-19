@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613895987061633 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 06:56:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895992902634 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | G r e e n |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:09:50 |
@@ -32,46 +32,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613895993002646 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Уровень игры: БОГ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:10:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613895993194970 |
+| Players | 1/8 |
+| Host Name | Elysium |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 07:10:29 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613895992262884 |
-| Players | 4/10 |
-| Host Name | Nedver  Zadan |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:08:25 |
+| Lobby ID | 28613895993384475 |
+| Players | 1/10 |
+| Host Name | MaRiNhA dO BrAsIL |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, January 19, 2024 07:10:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613895992644418 |
-| Players | 7/15 |
-| Host Name | ►◄H.Alexis►◄ |
+| Lobby ID | 28613895993142890 |
+| Players | 7/24 |
+| Host Name | o. |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:09:16 |
+| Lobby Creation Time | Friday, January 19, 2024 07:10:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613895993402482 |
+| Players | 2/10 |
+| Host Name | SomethingToSay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 07:10:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613895992492297 |
-| Players | 3/8 |
-| Host Name | NO. |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:08:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613895992734291 |
-| Players | 10/15 |
-| Host Name | Lazy Greek |
+| Lobby ID | 28613895993433321 |
+| Players | 1/8 |
+| Host Name | Eclipse |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 07:09:28 |
+| Lobby Creation Time | Friday, January 19, 2024 07:11:02 |
 
 
 |  | epic_boss_fight_nightmare |
