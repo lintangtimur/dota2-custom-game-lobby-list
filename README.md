@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896170415877 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Angel Dust |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 13:48:24 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 13:44:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896170725083 |
-| Players | 1/10 |
-| Host Name | vimidag |
+| Lobby ID | 28613896170740847 |
+| Players | 1/8 |
+| Host Name | бананчики |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 13:49:02 |
+| Lobby Creation Time | Friday, January 19, 2024 13:49:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896170771361 |
+| Players | 3/15 |
+| Host Name | I'm TheChosenOne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 13:49:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 13:43:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896169978987 |
-| Players | 9/10 |
-| Host Name | Heen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:47:30 |
 
 
