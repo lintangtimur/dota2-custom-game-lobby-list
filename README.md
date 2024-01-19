@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613895993616129 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Trevor Phillips |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:11:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895994623982 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Nerf Herder |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 07:13:49 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613895993488152 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 07:11:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613895992902634 |
+| Players | 14/15 |
+| Host Name | G r e e n |
+| Region | USEAST |
+| Lobby Creation Time | Friday, January 19, 2024 07:09:50 |
 
 
 |  | epic_boss_fight_nightmare |
