@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896279799618 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Honey Loop |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 17:11:46 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:09:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896280245129 |
-| Players | 4/8 |
-| Host Name | weeraloveploy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:12:30 |
+| Lobby ID | 28613896280375500 |
+| Players | 6/15 |
+| Host Name | Игорь Потов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:12:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896279284027 |
-| Players | 5/10 |
-| Host Name | SWAP LIKES |
+| Players | 6/10 |
+| Host Name | ♥Hz•1s♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:10:56 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896280283929 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | mOON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:12:34 |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:12:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896280375500 |
-| Players | 6/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:12:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28613896278876405 |
-| Players | 9/10 |
-| Host Name | แง่มมมม |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 17:10:16 |
+| Lobby ID | 28613896280720074 |
+| Players | 1/5 |
+| Host Name | ᶜᵃʳⁿᵃᵍᵉ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 17:13:17 |
 
 
