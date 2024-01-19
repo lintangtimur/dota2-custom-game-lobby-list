@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | NiCol |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896450339846 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | I don't lose |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896450050707 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | ~Djeeta~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896450296407 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | suicide thoughts |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:37 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | коля железяка |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:36:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896449104763 |
+| Players | 8/10 |
+| Host Name | я танцую на костях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 20:35:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896450779959 |
+| Players | 1/15 |
+| Host Name | Frank-Jia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:37:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 20:36:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28613896450438757 |
-| Players | 2/5 |
-| Host Name | Hawk |
+| Lobby ID | 28613896450683222 |
+| Players | 2/10 |
+| Host Name | •M1N1M4L• |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:36:45 |
+| Lobby Creation Time | Friday, January 19, 2024 20:36:58 |
 
 
