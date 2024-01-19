@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896180443595 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Anti-Simp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 14:09:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896180202671 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | clownfiesta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:08:39 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896180319690 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Dicrocelum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:08:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896180853999 |
-| Players | 1/24 |
-| Host Name | ·D· |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 14:09:58 |
+| Lobby ID | 28613896181014181 |
+| Players | 4/8 |
+| Host Name | Jolty |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 14:10:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896180942926 |
-| Players | 1/15 |
-| Host Name | war3 |
+| Lobby ID | 28613896181244902 |
+| Players | 3/15 |
+| Host Name | I'm TheChosenOne |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:10:09 |
+| Lobby Creation Time | Friday, January 19, 2024 14:10:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nyanko |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 14:05:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896180986687 |
+| Players | 2/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:10:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896181155935 |
+| Players | 1/10 |
+| Host Name | Anita Max Wynn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:10:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896181321595 |
+| Players | 1/5 |
+| Host Name | SpecialHead |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 14:10:56 |
 
 
