@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896018740021 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | NO HABLO CON POBRES, GRACIAS. |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:10:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896018258061 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | YO_SOY_NIKKO |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:09:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896017144927 |
-| Players | 10/10 |
+| Players | 8/10 |
 | Host Name | Tiburon_sinti |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 08:06:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896018893417 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ЧЕБУРНЕТ 20!8 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:10:38 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896018165660 |
-| Players | 10/24 |
-| Host Name | Amphibian Kid |
+| Players | 4/24 |
+| Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:08:56 |
 
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | <3 Родип Роге |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 08:02:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896013097010 |
+| Players | 9/10 |
+| Host Name | ChowChow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 07:56:56 |
 
 
