@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896396575674 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:43:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896397851282 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Гусь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 19:45:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896398079986 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | テロ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:45:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896397185481 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 19:44:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896398348586 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Dale |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:45:49 |
