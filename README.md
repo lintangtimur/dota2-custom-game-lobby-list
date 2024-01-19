@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896287309188 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | xochuabsinthe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 17:23:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896287140471 |
-| Players | 3/10 |
-| Host Name | Actor |
+| Lobby ID | 28613896287450660 |
+| Players | 3/8 |
+| Host Name | Kyst |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:23:35 |
+| Lobby Creation Time | Friday, January 19, 2024 17:24:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 17:23:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896287450660 |
-| Players | 3/8 |
-| Host Name | Kyst |
+| Lobby ID | 28613896287605062 |
+| Players | 2/15 |
+| Host Name | Кружик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:24:05 |
+| Lobby Creation Time | Friday, January 19, 2024 17:24:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stormbringer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:24:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28613896287582400 |
+| Players | 1/5 |
+| Host Name | cheesepomidore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:24:18 |
 
 
