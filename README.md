@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896090185731 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | magucciy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 10:53:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896102246250 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Cooper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:20:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896101515656 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ИГОРЕК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:18:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896101981289 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, January 19, 2024 11:19:42 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | я люблю чiпси |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 11:22:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896103091212 |
+| Players | 1/8 |
+| Host Name | boss dave |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 11:22:07 |
 
 
 |  | epic_boss_fight_nightmare |
