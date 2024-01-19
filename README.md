@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896274330396 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 17:02:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896300631920 |
-| Players | 7/10 |
-| Host Name | Angel_Kasteil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:44:25 |
+| Lobby ID | 28613896301071153 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 17:45:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896299438384 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | experiment |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 17:42:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896301071153 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, January 19, 2024 17:45:05 |
+| Lobby ID | 28613896301176414 |
+| Players | 4/15 |
+| Host Name | Nazuno |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 17:45:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28613896300806660 |
+| Lobby ID | 28613896301097288 |
 | Players | 1/5 |
-| Host Name | Hawk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 17:44:41 |
+| Host Name | #SEMPAI#16 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 17:45:08 |
 
 
