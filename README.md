@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896214435141 |
-| Players | 11/15 |
+| Players | 8/15 |
 | Host Name | Luhuti |
 | Region | USWEST |
 | Lobby Creation Time | Friday, January 19, 2024 15:15:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896221835618 |
-| Players | 8/10 |
-| Host Name | glinomes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:29:05 |
 
 
 |  | ot3_necropolis_ffa |
