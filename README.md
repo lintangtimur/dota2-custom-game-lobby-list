@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896206601265 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SnowLife |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 15:00:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896206714206 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Diana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 15:00:53 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28613896206789101 |
-| Players | 3/8 |
-| Host Name | Ирина Михайловна |
+| Lobby ID | 28613896206824057 |
+| Players | 5/8 |
+| Host Name | 116 IQ player |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 15:01:01 |
+| Lobby Creation Time | Friday, January 19, 2024 15:01:05 |
 
 
 |  | epic_boss_fight_normal |
