@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896447868979 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Run Forest |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 20:34:22 |
@@ -86,26 +86,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896444891529 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | acsess |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:37 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896448639992 |
+| Players | 6/24 |
+| Host Name | BODYSHOT BANDIT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:35:05 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896448127762 |
-| Players | 9/10 |
-| Host Name | Hopeless |
+| Lobby ID | 28613896448635914 |
+| Players | 2/10 |
+| Host Name | Ramson |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 20:34:37 |
+| Lobby Creation Time | Friday, January 19, 2024 20:35:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896448818496 |
+| Players | 4/8 |
+| Host Name | INKRO |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 20:35:15 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896447209267 |
 | Players | 1/5 |
-| Host Name | goy dwaga dwaga |
+| Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:33:46 |
 
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896448081179 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | -Dread Doll- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:34:34 |
@@ -135,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | бойцовский хуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:34:34 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28613896448802896 |
+| Players | 3/7 |
+| Host Name | Rimuru Tempest |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 20:35:14 |
 
 
