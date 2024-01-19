@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:59:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896013880206 |
-| Players | 22/24 |
-| Host Name | 사랑해 나연 |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:58:48 |
+| Lobby ID | 28613896014630308 |
+| Players | 6/10 |
+| Host Name | muted |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 08:00:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896005747241 |
-| Players | 11/24 |
+| Players | 8/24 |
 | Host Name | LunchBox |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 07:39:33 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28613896014750214 |
 | Players | 3/15 |
-| Host Name | Садовый Гномик |
+| Host Name | Е100 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 08:00:50 |
 
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 07:51:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896014630308 |
-| Players | 5/10 |
-| Host Name | muted |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 08:00:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896014294600 |
-| Players | 7/8 |
-| Host Name | Cabeza D. Nabo |
+| Lobby ID | 28613896014894574 |
+| Players | 1/24 |
+| Host Name | Emo Morales |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 07:59:45 |
+| Lobby Creation Time | Friday, January 19, 2024 08:01:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896014811560 |
-| Players | 4/8 |
-| Host Name | Meeeel |
+| Lobby ID | 28613896014902838 |
+| Players | 4/15 |
+| Host Name | ZENA TESTA |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 08:00:59 |
+| Lobby Creation Time | Friday, January 19, 2024 08:01:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896013097010 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 07:56:56 |
