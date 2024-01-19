@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896437368833 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Stop.crying your heart.out |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:24:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896447153636 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | доброжелательность к хуесосам |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:33:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896446003690 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 20:32:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896444757593 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Winter |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 20:31:30 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896447108941 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Стекловата |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:33:41 |
@@ -140,25 +140,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896447348137 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Я и 4 Гуся |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 20:33:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896444138488 |
-| Players | 9/10 |
-| Host Name | どこですか？ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 20:30:54 |
+| Lobby ID | 28613896447393358 |
+| Players | 1/24 |
+| Host Name | Saint |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, January 19, 2024 20:33:56 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896447209267 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | goy dwaga dwaga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 20:33:46 |
