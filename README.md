@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896335765248 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Radical |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 18:32:41 |
@@ -40,29 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896335986753 |
-| Players | 2/24 |
-| Host Name | OsmOZe |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, January 19, 2024 18:32:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896333290067 |
-| Players | 22/24 |
-| Host Name | jnikko |
+| Lobby ID | 28613896336156407 |
+| Players | 1/24 |
+| Host Name | 我不吃牛肉 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 18:29:37 |
+| Lobby Creation Time | Friday, January 19, 2024 18:33:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896336131362 |
+| Players | 1/10 |
+| Host Name | Donald Tusk |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 18:33:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896335746382 |
+| Lobby ID | 28613896336130764 |
 | Players | 1/15 |
-| Host Name | Certified lover boy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 18:32:39 |
+| Host Name | espalloc- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 18:33:08 |
 
 
 |  | epic_boss_fight_nightmare |
