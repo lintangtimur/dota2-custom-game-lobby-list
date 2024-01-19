@@ -2,67 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896171927878 |
-| Players | 16/24 |
-| Host Name | 76561199027529133 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, January 19, 2024 13:51:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28613896177401975 |
-| Players | 7/24 |
-| Host Name | El Niño Robalonchis |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896176361530 |
-| Players | 11/15 |
-| Host Name | + vibe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:00:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28613896177151529 |
-| Players | 4/8 |
-| Host Name | 1000-7 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 14:02:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896177397441 |
-| Players | 3/10 |
-| Host Name | Slarkas777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896177810589 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | テフィ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 14:03:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28613896178013330 |
-| Players | 1/8 |
-| Host Name | Enki |
+| Lobby ID | 28613896177401975 |
+| Players | 9/24 |
+| Host Name | El Niño Robalonchis |
 | Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 14:04:10 |
+| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,5 +27,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 14:04:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896178173503 |
+| Players | 4/15 |
+| Host Name | Sexy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:04:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28613896177397441 |
+| Players | 4/10 |
+| Host Name | Hani |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 14:02:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28613896178380873 |
+| Players | 3/24 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:04:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28613896178392267 |
+| Players | 1/10 |
+| Host Name | Tequilla |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, January 19, 2024 14:04:56 |
 
 
