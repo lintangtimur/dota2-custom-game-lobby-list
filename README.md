@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28613896074395341 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Chijaukay |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:17:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896050622149 |
-| Players | 1/24 |
-| Host Name | <Cyborgix> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 09:24:39 |
+| Lobby ID | 28613896074262958 |
+| Players | 8/10 |
+| Host Name | Darsee Egoavil |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 10:17:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896075078459 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Pikıl Rick |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, January 19, 2024 10:19:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896074097722 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:17:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896073812594 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | anita max wynn |
 | Region | USEAST |
 | Lobby Creation Time | Friday, January 19, 2024 10:16:38 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896074999405 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Si_FeDeO_eS_pOr_Tu_BieN_AmiGuiTo |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 10:19:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28613896074262958 |
-| Players | 8/10 |
-| Host Name | Darsee Egoavil |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 10:17:38 |
 
 
 |  | epic_boss_fight_nightmare |
