@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896398998490 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | YAYO |
 | Region | CHILE |
 | Lobby Creation Time | Friday, January 19, 2024 19:46:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896395992508 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:43:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896408417037 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 闻人翊悬 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:56:19 |
@@ -47,28 +47,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, January 19, 2024 19:57:35 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28613896410303756 |
+| Players | 14/15 |
+| Host Name | Кому глоточек? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:15 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28613896409823430 |
-| Players | 8/10 |
-| Host Name | ゴール下 |
+| Lobby ID | 28613896410618880 |
+| Players | 6/10 |
+| Host Name | Millsy_10 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, January 19, 2024 19:57:45 |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896410748786 |
+| Players | 3/8 |
+| Host Name | AckermanN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28613896410403241 |
-| Players | 1/15 |
-| Host Name | Дюша Метёлкин[USB] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, January 19, 2024 19:58:21 |
+| Lobby ID | 28613896410790551 |
+| Players | 5/15 |
+| Host Name | Don't run! |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, January 19, 2024 19:58:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896406709813 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Valiant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 19:54:34 |
