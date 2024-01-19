@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896111623460 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:40:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28613896111437319 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Patata |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:40:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896111805194 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Gamehong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 11:41:13 |
@@ -77,34 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896112074782 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:41:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28613896112082794 |
-| Players | 1/15 |
-| Host Name | Moonlight |
-| Region | PERU |
-| Lobby Creation Time | Friday, January 19, 2024 11:41:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28613896112126035 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | killer |
 | Region | PERU |
 | Lobby Creation Time | Friday, January 19, 2024 11:41:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896112236796 |
+| Players | 1/8 |
+| Host Name | 76561199196836346 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, January 19, 2024 11:42:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28613896109621372 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Anita Max Wynn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, January 19, 2024 11:36:31 |
