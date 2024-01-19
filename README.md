@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28613896259995340 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | вАНУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:37:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28613896260156144 |
+| Players | 3/8 |
+| Host Name | El dedo perdido de lalatroni |
+| Region | PERU |
+| Lobby Creation Time | Friday, January 19, 2024 16:38:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28613896259615737 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | бойцовский хуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, January 19, 2024 16:37:15 |
