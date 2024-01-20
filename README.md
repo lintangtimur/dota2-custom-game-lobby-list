@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122471475383 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:15:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122472378734 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Superdeterminist |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:16:46 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 13:17:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122473159006 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 13:18:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617122469819591 |
-| Players | 9/10 |
-| Host Name | Blaze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 13:12:21 |
+| Lobby ID | 28617122472939354 |
+| Players | 2/10 |
+| Host Name | 我想你 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 13:17:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:17:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617122472939354 |
-| Players | 1/10 |
-| Host Name | 我想你 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 13:17:46 |
 
 
