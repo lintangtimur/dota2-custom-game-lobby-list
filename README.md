@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122476615883 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:24:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122477845722 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 김지수 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:26:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122477562937 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | 웃음 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:25:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122477270699 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Cumpy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:25:11 |
