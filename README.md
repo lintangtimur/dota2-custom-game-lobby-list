@@ -23,16 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122507646719 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | autobus ebat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:13:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122507910624 |
+| Players | 2/8 |
+| Host Name | Levi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:14:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122501058727 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ^_^ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:03:44 |
