@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122539378305 |
-| Players | 8/10 |
-| Host Name | I'm really a bastard |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:01:46 |
+| Lobby ID | 28617122539723613 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:02:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,20 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122539615977 |
-| Players | 1/15 |
-| Host Name | NGABLAK |
+| Lobby ID | 28617122539625264 |
+| Players | 2/15 |
+| Host Name | Vulgar |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:02:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122539756329 |
+| Players | 2/8 |
+| Host Name | \ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:02:07 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:02:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122539625264 |
-| Players | 1/15 |
-| Host Name | Vulgar |
+| Lobby ID | 28617122539058758 |
+| Players | 13/15 |
+| Host Name | Dokha |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:02:08 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:01:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | гена бетон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:00:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122539720398 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:02:17 |
 
 
