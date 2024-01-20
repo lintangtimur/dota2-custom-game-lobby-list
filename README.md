@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122469283788 |
-| Players | 22/24 |
-| Host Name | VIVA LA LIBERTAD CARAJO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 13:11:26 |
+| Lobby ID | 28617122472539728 |
+| Players | 1/8 |
+| Host Name | Whisper |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 13:17:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122471968486 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:16:01 |
@@ -58,28 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122472283854 |
-| Players | 1/15 |
-| Host Name | no1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 13:16:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28617122472378734 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Superdeterminist |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:16:46 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122472570663 |
+| Players | 1/8 |
+| Host Name | JAYCE |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 13:17:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122469819591 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Blaze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:12:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122472498500 |
+| Players | 1/10 |
+| Host Name | GM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 13:16:58 |
 
 
