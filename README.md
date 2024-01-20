@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122503941397 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:16 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122504962881 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Koky_g |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:09:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122506377019 |
-| Players | 2/8 |
-| Host Name | алёшапопкавич |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:12:03 |
+| Lobby ID | 28617122503927098 |
+| Players | 7/10 |
+| Host Name | javifre4K |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:08:14 |
 
 
 |  | ot3_desert_octet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Michael Myers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122503927098 |
-| Players | 7/10 |
-| Host Name | javifre4K |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:08:14 |
 
 
 |  | epic_boss_fight_nightmare |
