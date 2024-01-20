@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122518547241 |
-| Players | 22/24 |
-| Host Name | 玫瑰少年 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:30:46 |
+| Lobby ID | 28617122520582367 |
+| Players | 3/10 |
+| Host Name | ♦?♦ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:33:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122520409964 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Lala♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:33:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122520447701 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Stayler |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:33:41 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sʅҽҽρ ɯҽʅʅ |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:33:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122520582367 |
-| Players | 2/10 |
-| Host Name | ♦?♦ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:33:54 |
 
 
 |  | epic_boss_fight_nightmare |
