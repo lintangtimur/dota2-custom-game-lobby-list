@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122510674202 |
-| Players | 1/15 |
-| Host Name | BIGNOSE |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, January 20, 2024 14:18:44 |
+| Lobby ID | 28617122511769942 |
+| Players | 6/8 |
+| Host Name | MLS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:20:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122510770896 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | woaaaar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:18:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122510092405 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:17:50 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122511580823 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | QTab |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:20:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122511930541 |
+| Players | 2/8 |
+| Host Name | Прости,я был пьян,твоя мать тоже |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:20:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122511674016 |
+| Lobby ID | 28617122512134743 |
 | Players | 1/15 |
-| Host Name | 黯法 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:20:18 |
+| Host Name | 大大大Allah Ak Bar大大大 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:21:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | どこですか？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:19:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122511759943 |
+| Players | 1/10 |
+| Host Name | -Panico |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:20:26 |
 
 
