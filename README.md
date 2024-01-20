@@ -29,33 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:06:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122541013731 |
-| Players | 5/15 |
-| Host Name | Mayans94 |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, January 20, 2024 15:04:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122542580242 |
-| Players | 6/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 15:06:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122541298691 |
-| Players | 15/24 |
-| Host Name | RogerQ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122541869558 |
@@ -65,13 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:05:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122543089270 |
-| Players | 3/8 |
-| Host Name | Cami- |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 15:07:07 |
+| Lobby ID | 28617122542580242 |
+| Players | 13/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:06:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122541298691 |
+| Players | 19/24 |
+| Host Name | RogerQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122543153230 |
+| Players | 6/24 |
+| Host Name | batman |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, January 20, 2024 15:07:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:52:50 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617122541527062 |
-| Players | 1/7 |
-| Host Name | SaDoRUM |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:04:52 |
 
 
