@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122482616124 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:34:01 |
@@ -67,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122484963499 |
-| Players | 2/8 |
-| Host Name | Brad Pitt modo moti |
+| Lobby ID | 28617122485796083 |
+| Players | 4/8 |
+| Host Name | Peter el Panda |
 | Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 13:37:52 |
+| Lobby Creation Time | Saturday, January 20, 2024 13:39:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122485654611 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WorldTrader |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:39:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122485708598 |
+| Players | 1/24 |
+| Host Name | -qwerty |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 13:39:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Проктолог Олег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:28:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617122483295280 |
-| Players | 9/10 |
-| Host Name | KV |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 13:35:07 |
 
 
 |  | epic_boss_fight_nightmare |
