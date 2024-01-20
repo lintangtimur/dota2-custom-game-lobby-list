@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122485654611 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | WorldTrader |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:39:02 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122485881491 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Hanni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:39:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122482010016 |
-| Players | 8/10 |
-| Host Name | nacko LoaL |
+| Lobby ID | 28617122486380426 |
+| Players | 1/24 |
+| Host Name | -qwerty |
 | Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 13:33:02 |
+| Lobby Creation Time | Saturday, January 20, 2024 13:40:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122484844481 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Mish_GUN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:37:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122485708598 |
-| Players | 1/24 |
-| Host Name | -qwerty |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 13:39:07 |
 
 
 |  | epic_boss_fight_nightmare |
