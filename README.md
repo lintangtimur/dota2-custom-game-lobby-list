@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122537621903 |
-| Players | 2/10 |
-| Host Name | Серега Ауе |
+| Players | 4/10 |
+| Host Name | ∝  → 3 Knives Knight | |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:59:11 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122537857897 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Fallen |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:59:32 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:00:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122537612850 |
-| Players | 1/10 |
-| Host Name | ^^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:59:11 |
+| Lobby ID | 28617122538286795 |
+| Players | 1/8 |
+| Host Name | не контактирую/no c |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:00:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:52:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122538374323 |
+| Players | 1/10 |
+| Host Name | ^^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:00:18 |
 
 
