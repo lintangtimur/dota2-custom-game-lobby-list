@@ -31,15 +31,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122494868636 |
-| Players | 4/8 |
-| Host Name | ералаша не забуду |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:53:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28617122496044332 |
 | Players | 2/8 |
 | Host Name | One Greenbean |
