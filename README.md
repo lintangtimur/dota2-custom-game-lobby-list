@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122521372881 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122523755735 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:38:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122523449621 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:38:10 |
