@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122558622418 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Egu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122558875876 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122558365367 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Kanade |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:08 |
@@ -67,28 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122558844899 |
-| Players | 7/8 |
-| Host Name | Kiwi_ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:29:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28617122559049741 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Qq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:30:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122559106986 |
+| Players | 2/15 |
+| Host Name | Shinori |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:30:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122559235183 |
+| Players | 2/8 |
+| Host Name | waste |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:30:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617122559097228 |
+| Lobby ID | 28617122559216883 |
 | Players | 1/5 |
-| Host Name | MUDZAN |
+| Host Name | zxcBITCH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:30:09 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:30:19 |
 
 
