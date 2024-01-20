@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122549437921 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | udacha |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:16:19 |
@@ -32,37 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122548201295 |
-| Players | 12/24 |
+| Players | 21/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:14:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122549545158 |
-| Players | 12/15 |
-| Host Name | Pussy Destroyer |
+| Lobby ID | 28617122549854613 |
+| Players | 2/10 |
+| Host Name | .KarmA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:16:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122549491762 |
-| Players | 1/8 |
-| Host Name | 得到ins安静的 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:16:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122549840537 |
-| Players | 1/15 |
-| Host Name | carl |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, January 20, 2024 15:16:56 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:16:57 |
 
 
 |  | epic_boss_fight_nightmare |
