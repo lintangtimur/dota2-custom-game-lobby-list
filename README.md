@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122486879947 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:40:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122492061360 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | зааажигалочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:49:26 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 13:49:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122492922136 |
-| Players | 1/10 |
-| Host Name | EBRam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:50:53 |
+| Lobby ID | 28617122493052625 |
+| Players | 5/8 |
+| Host Name | Anakin Skywrath |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 13:51:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122491626002 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Genesis-Exodus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:48:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122492337506 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Dreadother |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, January 20, 2024 13:49:55 |
