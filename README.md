@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122503941397 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122504304228 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Michael Myers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122504892631 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | GenocidAmeb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:09:44 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:09:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122505045956 |
-| Players | 1/15 |
-| Host Name | ПЕРЕЦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:09:58 |
+| Lobby ID | 28617122505098799 |
+| Players | 6/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:10:03 |
 
 
 |  | epic_boss_fight_nightmare |
