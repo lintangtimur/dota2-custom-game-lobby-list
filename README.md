@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:06:15 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122503742892 |
-| Players | 1/24 |
-| Host Name | [NeXus`] CreeW AsaSsiN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:07:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122503750544 |
@@ -63,6 +54,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Estoy cansado jefe |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:07:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122502290877 |
+| Players | 7/8 |
+| Host Name | Gyomei 俄非 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:05:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122503831184 |
+| Players | 1/24 |
+| Host Name | Stayler |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:08:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122503836207 |
+| Players | 2/15 |
+| Host Name | Kadang Kadang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:08:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122503852305 |
+| Players | 1/24 |
+| Host Name | [NeXus`] CreeW AsaSsiN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:08:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122502973069 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Blaze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:06:44 |
@@ -99,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:06:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617122503735483 |
-| Players | 1/5 |
-| Host Name | ABNoOB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:07:56 |
 
 
