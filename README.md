@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122521372881 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122525180877 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:40:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122525839465 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | I want? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:41:46 |
@@ -83,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:42:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122526674846 |
-| Players | 1/15 |
-| Host Name | TeAmoNathalia♥ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:42:59 |
+| Lobby ID | 28617122526752034 |
+| Players | 1/8 |
+| Host Name | PA solo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122521181472 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:34:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617122525735413 |
-| Players | 8/10 |
-| Host Name | YangYang |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:41:37 |
 
 
