@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122503941397 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122504427163 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Estoy cansado jefe |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:09:01 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:07:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122504336714 |
-| Players | 8/10 |
-| Host Name | bobr-dobr |
+| Lobby ID | 28617122505315063 |
+| Players | 5/15 |
+| Host Name | Langlyaaa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:08:52 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:10:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122504304228 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Michael Myers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:49 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122503927098 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | javifre4K |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122504411347 |
-| Players | 3/8 |
-| Host Name | wyndarm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:08:59 |
+| Lobby ID | 28617122505098799 |
+| Players | 6/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:10:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122504892631 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | GenocidAmeb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:09:44 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:09:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122505098799 |
-| Players | 6/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:10:03 |
+| Lobby ID | 28617122505609231 |
+| Players | 1/15 |
+| Host Name | Hi |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:10:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ NO NAME ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:08:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122505551441 |
+| Players | 3/10 |
+| Host Name | Minez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:10:45 |
 
 
