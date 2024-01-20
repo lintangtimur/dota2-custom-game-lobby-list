@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122494868636 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ералаша не забуду |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:53:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122493793835 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Alice~ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:52:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122491626002 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Genesis-Exodus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:48:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122494297762 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | koey poon mai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:53:03 |
