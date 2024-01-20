@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122476615883 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:24:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122477845722 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 김지수 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:26:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122478439575 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ASURA |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:27:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122477812384 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | MIRACLE O COLLAPSE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:26:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122478602334 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Игорь Потов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:27:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122478595737 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | R1ck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:27:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122478973253 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | violetepuna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:28:02 |
