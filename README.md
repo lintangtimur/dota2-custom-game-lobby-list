@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122477562937 |
-| Players | 12/15 |
-| Host Name | 웃음 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:25:41 |
+| Lobby ID | 28617122478439575 |
+| Players | 1/15 |
+| Host Name | mr. anal rambo slayer |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 13:27:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122477677632 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Vibe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:25:52 |
