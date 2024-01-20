@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122508195754 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Naturel |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:14:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122508405790 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | paontous |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:15:11 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122509081349 |
-| Players | 4/8 |
-| Host Name | killer |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:16:14 |
+| Lobby ID | 28617122509152381 |
+| Players | 1/15 |
+| Host Name | He'er |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:16:20 |
 
 
 |  | epic_boss_fight_nightmare |
