@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122554092440 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | nangosu |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122555077695 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | sly |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:24:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122554503487 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | (ELO :) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:41 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122556108072 |
-| Players | 2/10 |
-| Host Name | MinZ <3 |
+| Players | 1/10 |
+| Host Name | Lench |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:25:58 |
 
