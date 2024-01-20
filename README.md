@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122534865358 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | NEONER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:55:09 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:55:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122534167518 |
-| Players | 14/15 |
-| Host Name | ROFL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:54:07 |
+| Lobby ID | 28617122535507454 |
+| Players | 1/24 |
+| Host Name | gimbi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122533590636 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | <3 Родип Роге |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:53:17 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:52:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617122534955793 |
-| Players | 1/5 |
-| Host Name | J'onn J'onzz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:55:16 |
 
 
