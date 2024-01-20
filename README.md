@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:34:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122520409964 |
-| Players | 12/15 |
-| Host Name | Lala♥ |
+| Lobby ID | 28617122521454008 |
+| Players | 6/10 |
+| Host Name | Parazittus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:33:38 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:35:12 |
 
 
 |  | ot3_desert_octet |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122521454008 |
-| Players | 5/10 |
-| Host Name | Parazittus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:35:12 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617122520233437 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:34:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617122521977345 |
-| Players | 1/5 |
-| Host Name | Wipser |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:35:59 |
 
 
