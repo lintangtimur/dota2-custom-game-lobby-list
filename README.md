@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122486881036 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Mio Ishikawa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:40:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122488143451 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:42:57 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122489505690 |
+| Lobby ID | 28617122489572680 |
 | Players | 1/8 |
-| Host Name | Nix |
+| Host Name | trb. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:45:09 |
+| Lobby Creation Time | Saturday, January 20, 2024 13:45:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617122489641939 |
+| Players | 6/10 |
+| Host Name | Zԋɾσƚαɾ.么亗 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 13:45:23 |
 
 
 |  | epic_boss_fight_nightmare |
