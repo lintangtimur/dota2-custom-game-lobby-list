@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122545155003 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:10:05 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122546923083 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Наташа два Баша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:12:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122546450517 |
-| Players | 9/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:11:57 |
+| Lobby ID | 28617122547348659 |
+| Players | 2/24 |
+| Host Name | kaYz1e |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:13:16 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122547173122 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Stayler |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:13:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122547198991 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Пиздохряк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:13:03 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122547215998 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | уринабомбер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:13:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122547293831 |
-| Players | 2/24 |
-| Host Name | Top G |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:13:11 |
 
 
 |  | epic_boss_fight_nightmare |
