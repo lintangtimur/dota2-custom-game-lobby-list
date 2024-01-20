@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122556471840 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Usim |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:26:29 |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122556108072 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Lench |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:25:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122556811113 |
-| Players | 1/15 |
-| Host Name | 闹 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:26:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122556827842 |
-| Players | 2/8 |
-| Host Name | мори мори |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:26:59 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617122556794412 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | zxcBITCH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:26:56 |
