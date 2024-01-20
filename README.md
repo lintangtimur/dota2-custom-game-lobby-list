@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122475899175 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | popkaDurak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:22:50 |
@@ -41,16 +41,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122475466523 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:22:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122476615883 |
+| Players | 2/24 |
+| Host Name | Anantherzine-無盡的 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 13:24:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122476646468 |
+| Players | 1/8 |
+| Host Name | GGGroom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 13:24:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122476656907 |
+| Players | 1/15 |
+| Host Name | Corin |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, January 20, 2024 13:24:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122472939354 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:17:46 |
