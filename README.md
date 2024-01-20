@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122538228664 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 15:00:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122544594879 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | KinGモリア? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:09:17 |
@@ -40,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122540312252 |
-| Players | 20/24 |
-| Host Name | NGABLAK |
+| Lobby ID | 28617122545146469 |
+| Players | 1/24 |
+| Host Name | Nerfstyle |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:03:07 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:10:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122545155003 |
+| Players | 1/24 |
+| Host Name | BROOKLYN T GUY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:10:05 |
 
 
 |  | epic_boss_fight_nightmare |
