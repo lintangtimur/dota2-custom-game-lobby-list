@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122477845722 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 김지수 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:26:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122479396618 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ไอ้หมวก4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:28:44 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | violetepuna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:28:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122479557492 |
+| Players | 1/15 |
+| Host Name | 云玩家 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, January 20, 2024 13:29:00 |
 
 
 |  | epic_boss_fight_nightmare |
