@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122514701745 |
-| Players | 12/15 |
-| Host Name | titanic pan flute |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:24:55 |
+| Lobby ID | 28617122516792218 |
+| Players | 2/8 |
+| Host Name | かcса#2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:28:06 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122516140733 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122516679800 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | king of fools |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122516646804 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Тянка сталина |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122515708934 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | pepeLaugh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:26:27 |
