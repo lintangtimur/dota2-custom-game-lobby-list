@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:03:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122543376001 |
-| Players | 12/15 |
-| Host Name | Nesss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:07:32 |
+| Lobby ID | 28617122544278060 |
+| Players | 1/24 |
+| Host Name | Shrimp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:08:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:06:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122541298691 |
-| Players | 22/24 |
-| Host Name | RogerQ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
+| Lobby ID | 28617122544092678 |
+| Players | 2/8 |
+| Host Name | dal6aeb) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:08:34 |
 
 
 |  | ot3_desert_octet |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122540312252 |
-| Players | 18/24 |
-| Host Name | Chloe Grace Moretz |
+| Players | 13/24 |
+| Host Name | NGABLAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:03:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122544374573 |
+| Players | 2/15 |
+| Host Name | 值得疼爱角落淋湿青苔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:08:58 |
 
 
 |  | epic_boss_fight_nightmare |
