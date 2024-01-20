@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122534880877 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | nangosu |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:55:10 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:03:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122539756329 |
-| Players | 4/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:02:20 |
+| Lobby ID | 28617122540230741 |
+| Players | 8/10 |
+| Host Name | DN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:03:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122540991089 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Itachi Uchiha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122541013731 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mayans94 |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:08 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RogerQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122540230741 |
-| Players | 8/10 |
-| Host Name | DN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:03:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SaDoRUM |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:52 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28617122541659192 |
+| Players | 1/7 |
+| Host Name | _lushan_ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:05:04 |
 
 
