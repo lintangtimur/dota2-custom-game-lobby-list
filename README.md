@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122542812157 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | AVOID ME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:06:43 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122541791939 |
-| Players | 1/15 |
-| Host Name | 5poz farm or fid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:05:15 |
+| Lobby ID | 28617122542580242 |
+| Players | 6/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:06:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122541298691 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | RogerQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122541869558 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | peacewalker8103 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:05:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122542580242 |
-| Players | 6/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 15:06:24 |
+| Lobby ID | 28617122543089270 |
+| Players | 3/8 |
+| Host Name | Cami- |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 15:07:07 |
 
 
 |  | epic_boss_fight_nightmare |
