@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122494176256 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | chokeza555+ |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, January 20, 2024 13:52:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122494802085 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Hajimari No Kiseki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:53:51 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alice~ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:52:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122493386033 |
+| Players | 6/8 |
+| Host Name | skwern.dorai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 13:51:38 |
 
 
 |  | epic_boss_fight_nightmare |
