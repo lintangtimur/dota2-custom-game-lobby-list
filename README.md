@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122516792218 |
-| Players | 7/8 |
-| Host Name | かcса#2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:28:06 |
+| Lobby ID | 28617122517606829 |
+| Players | 3/10 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:29:20 |
 
 
 |  | ot3_gardens_duo |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:23:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122515593390 |
-| Players | 7/8 |
-| Host Name | Kermitt |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:26:17 |
+| Lobby ID | 28617122517625103 |
+| Players | 2/15 |
+| Host Name | 中年手残 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:29:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122516140733 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122516679800 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | king of fools |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:56 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122516646804 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Тянка сталина |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122517606829 |
-| Players | 2/10 |
-| Host Name | Leonidas |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:29:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122517625103 |
-| Players | 1/15 |
-| Host Name | 中年手残 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:29:22 |
+| Lobby ID | 28617122518096232 |
+| Players | 4/8 |
+| Host Name | Ame |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:30:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122515708934 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | pepeLaugh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:26:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617122517975546 |
+| Players | 2/5 |
+| Host Name | anuL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:29:54 |
 
 
