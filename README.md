@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122509152381 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | He'er |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122509321571 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122510092405 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:17:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122510542971 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | full rage |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:18:32 |
