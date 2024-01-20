@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122521372881 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122519918234 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | who knows |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122526146704 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 9 Ручной картофел |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:42:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122528645587 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Stayler |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:45:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122528285906 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MaxNor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:45:23 |
