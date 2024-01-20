@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122534370400 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | CumHere |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:54:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122535507454 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | gimbi |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122535798660 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Parpy |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:56:31 |
@@ -41,10 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122534880877 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | MinOs_Rulz |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:55:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122536374784 |
+| Players | 5/8 |
+| Host Name | dCAWJIMBVIK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:57:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122536364559 |
+| Players | 7/15 |
+| Host Name | ` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:57:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122536570227 |
+| Players | 3/24 |
+| Host Name | IM A TREE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:57:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -67,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617122536162434 |
+| Lobby ID | 28617122536796475 |
 | Players | 1/5 |
-| Host Name | D j i N 4 U r i K |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:57:03 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28617122536328286 |
-| Players | 1/7 |
 | Host Name | ErnestoFerry |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:57:18 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:57:59 |
 
 
