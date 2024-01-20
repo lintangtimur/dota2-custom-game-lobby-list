@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122535507454 |
-| Players | 14/24 |
-| Host Name | gimbi |
+| Players | 9/24 |
+| Host Name | F.N.Z ♡ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122541133613 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Пяточный имплант |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122540312252 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:03:07 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122539756329 |
-| Players | 5/8 |
-| Host Name | Play with dog = loss |
+| Players | 4/8 |
+| Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:02:20 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122540523311 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Д.О.Л.Б.А.Е.Б |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:03:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122540991089 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Itachi Uchiha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:06 |
@@ -83,39 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122541298691 |
+| Players | 1/24 |
+| Host Name | RogerQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122541166615 |
-| Players | 1/10 |
-| Host Name | бездарь |
+| Lobby ID | 28617122540230741 |
+| Players | 8/10 |
+| Host Name | DN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:04:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122541167848 |
-| Players | 4/8 |
-| Host Name | x1ka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:04:21 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:03:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122533283938 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:52:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28617122539720398 |
-| Players | 9/10 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:02:17 |
+| Lobby ID | 28617122541527062 |
+| Players | 1/7 |
+| Host Name | SaDoRUM |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:04:52 |
 
 
