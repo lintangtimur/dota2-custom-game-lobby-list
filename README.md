@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122475453489 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Orph3us |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:22:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122482829121 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | who is LMFAO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:34:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122482010016 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:33:02 |
