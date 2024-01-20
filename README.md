@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122487208678 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | El Niño Robalonchis |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:41:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122490339375 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Creampie Fetisher |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:46:33 |
