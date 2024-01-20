@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122545155003 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:10:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122546148269 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:11:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122546450517 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:11:57 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:11:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122546164816 |
-| Players | 9/10 |
-| Host Name | Kanade |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:11:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122546558788 |
-| Players | 1/15 |
-| Host Name | DeadlyMoon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:12:06 |
+| Lobby ID | 28617122546649655 |
+| Players | 1/24 |
+| Host Name | Stayler |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:12:14 |
 
 
 |  | epic_boss_fight_normal |
