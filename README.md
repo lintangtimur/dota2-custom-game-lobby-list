@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122496719891 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ПОТМЕН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:56:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122496418082 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:56:24 |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 13:57:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122494297762 |
-| Players | 9/10 |
-| Host Name | koey poon mai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 13:53:03 |
+| Lobby ID | 28617122494868636 |
+| Players | 6/8 |
+| Host Name | БаРаГуЗ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 13:53:57 |
 
 
