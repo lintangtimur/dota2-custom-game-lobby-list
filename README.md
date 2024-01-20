@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122518291227 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:30:22 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122518547241 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 玫瑰少年 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:30:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122518764866 |
+| Players | 2/15 |
+| Host Name | Meepo to Miduele |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:31:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122518752569 |
+| Players | 4/15 |
+| Host Name | Lord Bat |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:31:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -45,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ NO NAME ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:30:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122518700226 |
+| Players | 1/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:31:00 |
 
 
