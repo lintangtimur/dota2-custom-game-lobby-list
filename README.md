@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122521372881 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122526902157 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | woaaaar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:43:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122527557858 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Singapur |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:44:17 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i win always alone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:44:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122528216488 |
+| Players | 1/8 |
+| Host Name | ♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:45:16 |
 
 
 |  | epic_boss_fight_nightmare |
