@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122469283788 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:11:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122470347602 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Non Toxic Gamer |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, January 20, 2024 13:13:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122471193982 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ayase Aragaki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:14:40 |
