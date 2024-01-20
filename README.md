@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122555077695 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | sly |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:24:30 |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122556083523 |
-| Players | 3/5 |
-| Host Name | Harry Spotter |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, January 20, 2024 15:25:55 |
+| Lobby ID | 28617122556108072 |
+| Players | 2/10 |
+| Host Name | MinZ <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:25:58 |
 
 
