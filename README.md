@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122535507454 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | gimbi |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122539625264 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Vulgar |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:02:08 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122540245020 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Fatsheep |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:03:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122540312252 |
+| Players | 6/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:03:07 |
 
 
 |  | epic_boss_fight_nightmare |
