@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122554505643 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ЗАДОДЖИЛ АБОРТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:41 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (ELO :) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617122554909886 |
+| Players | 1/10 |
+| Host Name | FriscyDriscy |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:24:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122554897617 |
+| Players | 1/24 |
+| Host Name | SuperKeke |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:24:15 |
 
 
 |  | epic_boss_fight_nightmare |
