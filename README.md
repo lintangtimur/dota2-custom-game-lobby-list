@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122553227951 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:21:52 |
@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122554142379 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Бонд с кнопкой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122554277046 |
+| Players | 1/8 |
+| Host Name | bolu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:23:21 |
 
 
 |  | epic_boss_fight_nightmare |
