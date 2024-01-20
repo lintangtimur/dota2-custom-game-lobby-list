@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122516792218 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | かcса#2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:28:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122516679800 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | king of fools |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:56 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Тянка сталина |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122517006491 |
+| Players | 1/15 |
+| Host Name | 中年手残 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:28:26 |
 
 
 |  | epic_boss_fight_normal |
