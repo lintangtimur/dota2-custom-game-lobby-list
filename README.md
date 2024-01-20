@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122469283788 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:11:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122470867146 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | nut |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:14:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122470672546 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Shearinex |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:13:47 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 13:13:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122469686030 |
-| Players | 7/10 |
-| Host Name | bitchiwakeupfeelnothing |
+| Lobby ID | 28617122470540162 |
+| Players | 1/8 |
+| Host Name | зозо колумбия |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:12:08 |
+| Lobby Creation Time | Saturday, January 20, 2024 13:13:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,35 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122470099076 |
-| Players | 12/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 13:12:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122470242282 |
-| Players | 1/15 |
-| Host Name | 1593 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 13:13:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122470540162 |
-| Players | 1/8 |
-| Host Name | зозо колумбия |
+| Lobby ID | 28617122471193982 |
+| Players | 4/15 |
+| Host Name | Ayase Aragaki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:13:33 |
+| Lobby Creation Time | Saturday, January 20, 2024 13:14:40 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28617122467386779 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Не в Боге дело |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:08:05 |
