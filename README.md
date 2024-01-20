@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122534568997 |
-| Players | 23/24 |
-| Host Name | KuKorn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:54:42 |
+| Lobby ID | 28617122535507454 |
+| Players | 8/24 |
+| Host Name | gimbi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122535798660 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Parpy |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:56:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122535178533 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | @Adán N°1 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:55:36 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122534880877 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | MinOs_Rulz |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:55:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122535507454 |
-| Players | 3/24 |
-| Host Name | gimbi |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D j i N 4 U r i K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:57:03 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28617122536328286 |
+| Players | 1/7 |
+| Host Name | ErnestoFerry |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:57:18 |
 
 
