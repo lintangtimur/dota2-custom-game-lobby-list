@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122473159006 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:18:09 |
@@ -32,16 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122472378734 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Superdeterminist |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:16:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122474367604 |
+| Players | 1/15 |
+| Host Name | JGerard0504 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 13:20:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122472939354 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:17:46 |
