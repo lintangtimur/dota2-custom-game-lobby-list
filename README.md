@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122529355746 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | АХАХАХАХАХАХААХА |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:47:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122529387706 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | КАКООО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:47:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122526146704 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 9 Ручной картофел |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:42:13 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ¡¡°☛ Run If YoU CaN☚シ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:48:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122530824517 |
+| Players | 1/10 |
+| Host Name | Cаня Эхослем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:49:13 |
 
 
