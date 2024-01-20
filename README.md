@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122526146704 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 9 Ручной картофел |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:42:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122519918234 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | who knows |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122530899354 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ДАНЯ ВАЛЫНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:49:20 |
@@ -45,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:42:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617122530968404 |
+| Players | 6/10 |
+| Host Name | wild dodge戦死 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:49:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122531025360 |
+| Players | 2/15 |
+| Host Name | Monkey D Luffy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:49:31 |
 
 
 |  | epic_boss_fight_nightmare |
