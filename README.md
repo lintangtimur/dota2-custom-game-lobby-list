@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122529355746 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | АХАХАХАХАХАХААХА |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:47:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122527998330 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | i win always alone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:44:56 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:42:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122529232423 |
-| Players | 7/8 |
-| Host Name | Екатерина Гофман |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:46:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122529902181 |
@@ -76,19 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122529944762 |
+| Lobby ID | 28617122530070377 |
 | Players | 1/15 |
 | Host Name | Walas |
 | Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 14:47:55 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:48:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122528285906 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | MaxNor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:45:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122529996889 |
+| Players | 1/10 |
+| Host Name | Shiro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:47:59 |
 
 
