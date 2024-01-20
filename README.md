@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122521372881 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:05 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122525180877 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:40:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122526980842 |
-| Players | 14/15 |
-| Host Name | P1zdaboL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:43:26 |
+| Lobby ID | 28617122526351490 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:42:30 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122525839465 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | I want? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:41:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122526351490 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:42:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122527403568 |
-| Players | 1/15 |
-| Host Name | sympathy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:44:03 |
+| Lobby ID | 28617122527498563 |
+| Players | 2/10 |
+| Host Name | February |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:44:12 |
 
 
 |  | epic_boss_fight_nightmare |
