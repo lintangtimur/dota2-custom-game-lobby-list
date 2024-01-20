@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122521372881 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:35:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122519918234 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | stupid autistic fuck |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122525163485 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:40:43 |
@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122525180877 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:40:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122524374611 |
-| Players | 16/24 |
-| Host Name | Eye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:39:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122524904023 |
-| Players | 7/8 |
-| Host Name | Gay ruin |
+| Lobby ID | 28617122525858017 |
+| Players | 4/10 |
+| Host Name | яzxcLinkiP03BATb |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:40:19 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:41:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,19 +58,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122525536642 |
-| Players | 6/8 |
-| Host Name | the genius |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:41:18 |
+| Lobby ID | 28617122525839465 |
+| Players | 1/8 |
+| Host Name | I want? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:41:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122526001000 |
+| Players | 1/24 |
+| Host Name | *улюлюканье* |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:42:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122526040217 |
+| Players | 4/24 |
+| Host Name | woaaaar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:42:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122521181472 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:34:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122525735413 |
+| Players | 2/10 |
+| Host Name | YangYang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:41:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617122520233437 |
+| Players | 3/5 |
+| Host Name | goy dwaga dwaga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:33:22 |
 
 
