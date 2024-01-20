@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122499234207 |
-| Players | 12/15 |
-| Host Name | king of fools |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:00:53 |
+| Lobby ID | 28617122500827711 |
+| Players | 4/10 |
+| Host Name | _PoLkOvNiK_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:03:22 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:01:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122499799935 |
-| Players | 18/24 |
-| Host Name | Nerfstyle |
+| Lobby ID | 28617122501049688 |
+| Players | 1/15 |
+| Host Name | Juni |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:01:46 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:03:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,37 +40,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122499489173 |
-| Players | 1/8 |
-| Host Name | i win always alone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:01:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122499563291 |
-| Players | 8/10 |
-| Host Name | JÅST |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:01:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122500440977 |
-| Players | 9/15 |
-| Host Name | The Rizzler |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:02:46 |
+| Lobby ID | 28617122500959880 |
+| Players | 2/8 |
+| Host Name | кабанчик) |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:03:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122500303972 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | halal player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:02:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122501058727 |
+| Players | 1/10 |
+| Host Name | ^_^ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:03:44 |
 
 
