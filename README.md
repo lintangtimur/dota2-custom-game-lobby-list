@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122499234207 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | king of fools |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:00:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122499799935 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:01:46 |
