@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122516679800 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | king of fools |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:56 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122516646804 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Тянка сталина |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:27:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617122517606829 |
+| Players | 2/10 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:29:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122517006491 |
+| Lobby ID | 28617122517625103 |
 | Players | 1/15 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:28:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122517184470 |
-| Players | 7/8 |
-| Host Name | skwern.dorai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:28:42 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:29:22 |
 
 
 |  | epic_boss_fight_normal |
