@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122548139503 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SECURITY |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:14:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122543307637 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:07:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122548137830 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | daun_2003 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:14:24 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122546073843 |
-| Players | 23/24 |
-| Host Name | Chloe Grace Moretz |
+| Lobby ID | 28617122548713431 |
+| Players | 1/24 |
+| Host Name | YouKnowMyName |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:11:24 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:15:15 |
 
 
 |  | ot3_desert_octet |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gama1100 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:14:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617122548804226 |
+| Players | 1/5 |
+| Host Name | J'onn J'onzz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:15:23 |
 
 
