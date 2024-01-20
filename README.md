@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122561873997 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Annette |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:34:04 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:28:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122562320045 |
-| Players | 11/15 |
-| Host Name | Darksinner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:34:42 |
+| Lobby ID | 28617122562424897 |
+| Players | 10/24 |
+| Host Name | 小百合 平野 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:34:51 |
 
 
 |  | ot3_desert_octet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122561974515 |
-| Players | 3/15 |
-| Host Name | MinisterByDay, DotaPlayerByNight |
+| Players | 1/15 |
+| Host Name | NGABLAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:34:13 |
 
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Джон Дик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:34:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122562424897 |
-| Players | 2/24 |
-| Host Name | 小百合 平野 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:34:51 |
 
 
 |  | epic_boss_fight_nightmare |
