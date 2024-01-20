@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122502290877 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Gyomei 俄非 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:05:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122499830889 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, January 20, 2024 14:01:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122501320944 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:04:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122502343610 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | popkaDurak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:05:45 |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:05:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122502410935 |
-| Players | 1/15 |
-| Host Name | 别信女人 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:05:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122501058727 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ^_^ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:03:44 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122502333454 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:05:44 |
