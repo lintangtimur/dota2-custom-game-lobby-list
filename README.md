@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122560772702 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | CÀ UỒM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:32:31 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:28:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122560045647 |
-| Players | 13/15 |
-| Host Name | MON (GG WP) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:31:28 |
+| Lobby ID | 28617122561175033 |
+| Players | 1/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:33:05 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _-Ferrari-_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:32:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122561175033 |
-| Players | 1/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:33:05 |
 
 
 |  | epic_boss_fight_nightmare |
