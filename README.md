@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122502290877 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Gyomei 俄非 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:05:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122501320944 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:04:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122502259973 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | twitch.tv/skydrowrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:05:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122502760408 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Прости,я был пьян,твоя мать тоже |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:06:24 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:06:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122503213687 |
+| Players | 1/10 |
+| Host Name | ggwp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:07:07 |
 
 
