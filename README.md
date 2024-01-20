@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122499833879 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | GarrotTe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:01:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122499489173 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | i win always alone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:01:17 |
@@ -59,27 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122499992888 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hans Zimmer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:02:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617122500051783 |
-| Players | 4/8 |
-| Host Name | BlesTyaska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:02:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617122498762036 |
-| Players | 9/10 |
-| Host Name | Ansel Elgort |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:00:07 |
 
 
