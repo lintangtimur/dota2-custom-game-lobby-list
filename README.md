@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122558875876 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:51 |
@@ -67,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122558802489 |
-| Players | 1/8 |
-| Host Name | Qq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:29:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28617122558844899 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kiwi_ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122557821584 |
-| Players | 8/10 |
-| Host Name | Damaged |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:28:23 |
+| Lobby ID | 28617122559049741 |
+| Players | 1/8 |
+| Host Name | Qq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:30:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617122559097228 |
+| Players | 1/5 |
+| Host Name | MUDZAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:30:09 |
 
 
