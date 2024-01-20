@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122482900890 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Gyomei 俄非 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:34:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122475453489 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Orph3us |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 13:22:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122485654611 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | WorldTrader |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:39:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122485881491 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Hanni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:39:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122486380426 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:40:08 |
@@ -56,6 +56,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 13:36:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122479396618 |
+| Players | 22/24 |
+| Host Name | Fuji_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 13:28:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122486881036 |
+| Players | 5/24 |
+| Host Name | §āpriռce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 13:40:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122486879947 |
+| Players | 1/24 |
+| Host Name | Curly Fries |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 13:40:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122485625054 |
@@ -68,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122486481974 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | casadh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:40:17 |
