@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122551667572 |
-| Players | 5/8 |
-| Host Name | slatt+ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:19:37 |
+| Lobby ID | 28617122550047816 |
+| Players | 12/15 |
+| Host Name | ROJA PERO BONITA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 15:17:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,48 +20,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:07:26 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122548713431 |
-| Players | 23/24 |
-| Host Name | ZZZZZZZZZZZZZZZZZZZZZZZZZZZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:15:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122551272794 |
-| Players | 8/15 |
-| Host Name | Hubbabubba |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:19:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122550047816 |
-| Players | 12/15 |
-| Host Name | ROJA PERO BONITA |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 15:17:15 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122552088503 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | She looks like starry sky |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:20:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122546982450 |
-| Players | 9/10 |
-| Host Name | 时琦 狂三 |
+| Lobby ID | 28617122552517800 |
+| Players | 1/24 |
+| Host Name | 就这？ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:12:43 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:20:51 |
 
 
