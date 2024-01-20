@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122552088503 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | She looks like starry sky |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:20:13 |
@@ -36,5 +36,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 就这？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:20:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122551272794 |
+| Players | 14/15 |
+| Host Name | Hubbabubba |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:19:02 |
 
 
