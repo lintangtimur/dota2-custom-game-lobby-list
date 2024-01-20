@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122509152381 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | He'er |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122509321571 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:37 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617122510674202 |
 | Players | 2/15 |
-| Host Name | Smile |
+| Host Name | BIGNOSE |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, January 20, 2024 14:18:44 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122510542971 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | full rage |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:18:32 |
