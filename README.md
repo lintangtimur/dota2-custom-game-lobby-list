@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 13:13:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122471193982 |
-| Players | 14/15 |
-| Host Name | Ayase Aragaki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 13:14:40 |
+| Lobby ID | 28617122470347602 |
+| Players | 7/8 |
+| Host Name | Non Toxic Gamer |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, January 20, 2024 13:13:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122470347602 |
-| Players | 7/8 |
-| Host Name | Non Toxic Gamer |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, January 20, 2024 13:13:15 |
+| Lobby ID | 28617122472139316 |
+| Players | 5/8 |
+| Host Name | SR.Dibujito Dark |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 13:16:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122469819591 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Blaze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:12:21 |
