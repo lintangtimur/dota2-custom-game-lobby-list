@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617122560772702 |
-| Players | 18/24 |
-| Host Name | CÀ UỒM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:32:31 |
+| Lobby ID | 28617122561873997 |
+| Players | 2/10 |
+| Host Name | Annette |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:34:04 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:28:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122561175033 |
-| Players | 1/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:33:05 |
+| Lobby ID | 28617122562320045 |
+| Players | 3/15 |
+| Host Name | xzc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:34:42 |
 
 
 |  | ot3_desert_octet |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Джон Дик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:34:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122561873997 |
-| Players | 2/10 |
-| Host Name | Annette |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:34:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617122559598708 |
-| Players | 9/10 |
-| Host Name | akamera |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:30:51 |
 
 
 |  | epic_boss_fight_nightmare |
