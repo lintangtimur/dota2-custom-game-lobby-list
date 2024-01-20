@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122519918234 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | who knows |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122526902157 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | woaaaar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:43:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122527998330 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | i win always alone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:44:56 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122528645587 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | Stayler |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:45:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122524374611 |
+| Players | 24/24 |
+| Host Name | Eye |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:39:32 |
 
 
 |  | epic_boss_fight_nightmare |
