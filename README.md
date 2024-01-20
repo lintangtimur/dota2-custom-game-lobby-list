@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122508535941 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Phoenix |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, January 20, 2024 14:15:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122508221196 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | R1ck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:14:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122508405790 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | paontous |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:15:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122509065558 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | xzc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122509321571 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Rabbit1257 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:16:37 |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:03:44 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617122504104333 |
-| Players | 1/5 |
-| Host Name | Lando |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:08:31 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617122508539547 |
-| Players | 1/7 |
-| Host Name | SaDoRUM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:15:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122508914427 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Raging.Hope |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:15:58 |
