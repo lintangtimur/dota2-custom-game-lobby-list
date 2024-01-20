@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122496719891 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ПОТМЕН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:56:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122490339375 |
-| Players | 21/24 |
-| Host Name | Creampie Fetisher |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 13:46:33 |
+| Lobby ID | 28617122497234635 |
+| Players | 1/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 13:57:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122496418082 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 13:56:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122496655029 |
-| Players | 11/15 |
-| Host Name | sympathy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 13:56:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122496929622 |
-| Players | 1/10 |
-| Host Name | Saigo |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, January 20, 2024 13:57:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:53:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617122496929622 |
+| Players | 1/10 |
+| Host Name | Saigo |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, January 20, 2024 13:57:12 |
 
 
