@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122474721102 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Creampie Fetisher |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 13:20:50 |
@@ -45,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lonely Nomad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 13:20:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122475402240 |
+| Players | 6/15 |
+| Host Name | P1zdaboL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 13:22:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122475453489 |
+| Players | 1/24 |
+| Host Name | Orph3us |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 13:22:05 |
 
 
 |  | epic_boss_fight_nightmare |
