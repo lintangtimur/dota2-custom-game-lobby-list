@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122556471840 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Usim |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:26:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122556365815 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Володя автомойка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:26:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122555314108 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:24:51 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:23:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122556108072 |
-| Players | 9/10 |
-| Host Name | Lench |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:25:58 |
+| Lobby ID | 28617122557103032 |
+| Players | 1/24 |
+| Host Name | Nino |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:27:22 |
 
 
 |  | epic_boss_fight_normal |
