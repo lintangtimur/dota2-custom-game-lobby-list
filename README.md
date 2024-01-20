@@ -5,43 +5,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122538228664 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 15:00:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122535507454 |
-| Players | 22/24 |
-| Host Name | F.N.Z ♡ |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:56:05 |
+| Lobby ID | 28617122543307637 |
+| Players | 3/8 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:07:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617122542812157 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | AVOID ME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:06:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122541869558 |
-| Players | 7/10 |
-| Host Name | peacewalker8103 |
+| Lobby ID | 28617122543376001 |
+| Players | 10/15 |
+| Host Name | Nesss |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:05:22 |
+| Lobby Creation Time | Saturday, January 20, 2024 15:07:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122542580242 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Shroomba |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:06:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122541298691 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | RogerQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:04:33 |
@@ -58,19 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122543153230 |
+| Lobby ID | 28617122543648730 |
 | Players | 6/24 |
 | Host Name | batman |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, January 20, 2024 15:07:13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:07:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122533283938 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:52:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122543687768 |
+| Players | 2/10 |
+| Host Name | KAPYANAMMU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:07:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617122543727787 |
+| Players | 1/5 |
+| Host Name | Леночек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:08:02 |
 
 
