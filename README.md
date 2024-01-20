@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122519484417 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122519632704 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Djdcoolcry®#1337# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:26 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:32:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617122520121596 |
+| Players | 1/15 |
+| Host Name | ♦?♦ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, January 20, 2024 14:33:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122518700226 |
@@ -77,27 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122519015810 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | HotsyTotsy80s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:31:30 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28617122520000472 |
-| Players | 1/5 |
-| Host Name | loki19912827 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:33:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617122519993285 |
-| Players | 1/5 |
+| Lobby ID | 28617122520087399 |
+| Players | 1/7 |
 | Host Name | goy dwaga dwaga |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:33:00 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:33:09 |
 
 
