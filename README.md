@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122514007014 |
-| Players | 6/8 |
-| Host Name | 🤖 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:23:52 |
+| Lobby ID | 28617122514701745 |
+| Players | 4/15 |
+| Host Name | titanic pan flute |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 14:24:55 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122513618784 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:23:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122510092405 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:17:50 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122514479405 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Иваня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 14:24:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122514701745 |
-| Players | 3/15 |
-| Host Name | titanic pan flute |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 14:24:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122511759943 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Saturday, January 20, 2024 14:20:26 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frost |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 14:24:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617122514879893 |
+| Players | 1/10 |
+| Host Name | patruzeci si inci |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 14:25:11 |
 
 
