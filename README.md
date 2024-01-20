@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617122544535170 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | я панк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:09:11 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122545146469 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:10:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617122545307368 |
+| Players | 1/24 |
+| Host Name | Stayler |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:10:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122545239187 |
+| Lobby ID | 28617122545386493 |
 | Players | 1/15 |
 | Host Name | Walas |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 15:10:12 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, January 20, 2024 15:10:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122543687768 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Limitless |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:07:59 |
