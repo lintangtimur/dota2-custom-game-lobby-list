@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 14:34:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122522883977 |
+| Players | 1/8 |
+| Host Name | гнойная ангина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:37:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122522197138 |
-| Players | 14/15 |
-| Host Name | ВОТОНЯ 雨 |
+| Lobby ID | 28617122522884803 |
+| Players | 1/15 |
+| Host Name | sa†_Hite |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, January 20, 2024 14:36:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122522384946 |
-| Players | 5/10 |
-| Host Name | bobr-dobr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 14:36:35 |
+| Lobby Creation Time | Saturday, January 20, 2024 14:37:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 我想你 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, January 20, 2024 14:34:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617122522953456 |
+| Players | 1/5 |
+| Host Name | Asizaem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 14:37:26 |
 
 
