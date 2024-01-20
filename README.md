@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122558482484 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | code10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:29:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617122557849553 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | C|R|E|E|P |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, January 20, 2024 15:28:25 |
@@ -56,28 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, January 20, 2024 15:31:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122561072766 |
-| Players | 1/8 |
-| Host Name | _-Ferrari-_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:32:56 |
+| Lobby ID | 28617122555314108 |
+| Players | 21/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, January 20, 2024 15:24:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617122561461436 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | pleasure |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:33:29 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617122561742230 |
+| Players | 1/8 |
+| Host Name | _-Ferrari-_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, January 20, 2024 15:33:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122559598708 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | akamera |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, January 20, 2024 15:30:51 |
@@ -86,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617122559460544 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | GordeyeV_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, January 20, 2024 15:30:40 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28617122561191287 |
-| Players | 1/7 |
-| Host Name | den4ik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:33:06 |
 
 
