@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125140969055 |
-| Players | 4/8 |
-| Host Name | Мориарти |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:07:31 |
+| Lobby ID | 28617125141054416 |
+| Players | 2/8 |
+| Host Name | Meid |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:07:35 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125132476475 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:00:08 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125140789755 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Iron Heart |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:07:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125141083323 |
+| Players | 2/15 |
+| Host Name | Don'tStopHooligans™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:07:37 |
 
 
 |  | epic_boss_fight_nightmare |
