@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124905543882 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | kalash? MadFun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:45:16 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:45:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124900896592 |
-| Players | 7/8 |
-| Host Name | carroñar es mi pasion |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:38:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124883993913 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isskender |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:43:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124905809828 |
-| Players | 1/5 |
-| Host Name | pookie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:45:41 |
 
 
