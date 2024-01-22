@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125064986682 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Жопашник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:58:44 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125064437053 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:58:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125064663868 |
-| Players | 9/10 |
-| Host Name | Revoker |
+| Lobby ID | 28617125065527184 |
+| Players | 4/8 |
+| Host Name | cao chico |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:58:25 |
+| Lobby Creation Time | Monday, January 22, 2024 19:59:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125063668274 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -74,29 +74,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:58:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125065407477 |
-| Players | 2/10 |
-| Host Name | cry.LO |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:59:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125065527184 |
-| Players | 2/8 |
-| Host Name | cao chico |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:59:15 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125064308793 |
-| Players | 3/5 |
-| Host Name | 佐々木 琲世 |
+| Players | 1/5 |
+| Host Name | ĂʟӍάƷ♛► |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:58:04 |
 
