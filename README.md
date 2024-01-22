@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125283989101 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:17:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125285643366 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | лейм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:18:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125281636577 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ANITA MAX WYNN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:15:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125286079221 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | TrueAlpha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:19:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125276261629 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Brunesco |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125285988762 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Основатель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:19:14 |
