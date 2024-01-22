@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124954246038 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Gooble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:32 |
@@ -101,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124955194092 |
+| Players | 9/10 |
+| Host Name | sex |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:55:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124955404021 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124955588722 |
-| Players | 1/10 |
-| Host Name | duhkha |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:21 |
 
 
