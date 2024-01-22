@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124951486192 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Пунчик Жунчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:50:46 |
@@ -56,39 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:51:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124952466981 |
-| Players | 3/8 |
-| Host Name | can`t win?! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:52:07 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124952140283 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Тот самый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:51:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124952636133 |
+| Players | 1/15 |
+| Host Name | 最好的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:52:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124947768821 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ĵęŗĩcħo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:45:42 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124951009099 |
-| Players | 2/5 |
-| Host Name | shadowqtrxz |
+| Lobby ID | 28617124952568103 |
+| Players | 1/10 |
+| Host Name | call me autisticttipon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:52:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28617124952623346 |
+| Players | 2/7 |
+| Host Name | ||Цeлуū Эkрāн|| пока я онлайн |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:50:07 |
+| Lobby Creation Time | Monday, January 22, 2024 17:52:20 |
 
 
