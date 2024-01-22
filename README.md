@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315598176 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | Disenchantment |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
@@ -101,28 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:49:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125317322992 |
-| Players | 5/15 |
-| Host Name | 永遠在我心中(KuroKy)Fukk S |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:49:18 |
+| Lobby ID | 28617125317379684 |
+| Players | 6/10 |
+| Host Name | рогуля |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:49:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125317360806 |
-| Players | 1/15 |
+| Players | 13/15 |
 | Host Name | Nesay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125317555558 |
+| Players | 5/8 |
+| Host Name | 永遠在我心中(KuroKy)Fukk S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:49:31 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125312272547 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Simpson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:26 |
@@ -135,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOVI |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125314661492 |
-| Players | 9/10 |
-| Host Name | OnlyGOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:46:45 |
 
 
