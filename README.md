@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125152844392 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Genjut$u |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:17:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125165028888 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 21:28:33 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125163543467 |
-| Players | 2/15 |
-| Host Name | Wade |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 21:27:14 |
+| Lobby ID | 28617125163282176 |
+| Players | 9/10 |
+| Host Name | FLASH |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:27:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125162633966 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | BaragoZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:26:25 |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125165204307 |
 | Players | 4/24 |
-| Host Name | abdul najeev |
+| Host Name | o7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:28:43 |
 
@@ -113,19 +113,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125165205000 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | escapist PRIME 666 雨  |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:28:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125163282176 |
-| Players | 9/10 |
-| Host Name | FLASH |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 21:27:00 |
+| Lobby ID | 28617125165381869 |
+| Players | 1/24 |
+| Host Name | アニメのたわご(Shizuka) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:28:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125165388074 |
+| Players | 1/24 |
+| Host Name | Reiz |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:28:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125165444026 |
+| Players | 2/15 |
+| Host Name | Levi Ackerman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:28:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125165492549 |
+| Players | 6/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:28:58 |
 
 
 |  | epic_boss_fight_nightmare |
