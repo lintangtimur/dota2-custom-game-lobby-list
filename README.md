@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MARIA NO ME DEJES POR EL PAYASO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124986810285 |
-| Players | 9/10 |
-| Host Name | N |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:36:03 |
+| Lobby ID | 28617124987681157 |
+| Players | 3/8 |
+| Host Name | T.R |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:37:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124987462718 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Милфа Малфой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:36:50 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124987645002 |
-| Players | 6/8 |
-| Host Name | биг сиси лайф |
+| Players | 1/8 |
+| Host Name | ☠۩ПсИх۩☠ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:37:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124983949549 |
+| Players | 23/24 |
+| Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124987818845 |
+| Players | 5/8 |
+| Host Name | биг сиси лайф |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:37:15 |
 
 
 |  | epic_boss_fight_nightmare |
