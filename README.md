@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124914578197 |
-| Players | 10/15 |
-| Host Name | Melted |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 16:58:51 |
+| Lobby ID | 28617124914663744 |
+| Players | 4/15 |
+| Host Name | resting |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:58:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124910787036 |
-| Players | 23/24 |
-| Host Name | ☆ VAZ ☆ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
+| Lobby ID | 28617124914980393 |
+| Players | 1/8 |
+| Host Name | наменявсесмотрят |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:59:27 |
 
 
 |  | ot3_gardens_duo |
@@ -77,46 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124913815516 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Deicide |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124914663744 |
-| Players | 1/15 |
-| Host Name | resting |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:58:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124914761766 |
-| Players | 2/8 |
-| Host Name | You told me you loved me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:59:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124914947379 |
-| Players | 1/15 |
-| Host Name | 有品 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, January 22, 2024 16:59:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124914980393 |
-| Players | 1/8 |
-| Host Name | наменявсесмотрят |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:59:27 |
 
 
 |  | epic_boss_fight_nightmare |
