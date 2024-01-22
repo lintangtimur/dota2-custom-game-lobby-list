@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Kaltes |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125051526306 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:45:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125052449323 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kurmanjan Datka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125053608519 |
-| Players | 6/15 |
-| Host Name | Minar |
+| Players | 9/15 |
+| Host Name | Gay Fish |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:47:34 |
 
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125053820120 |
-| Players | 2/8 |
-| Host Name | Jarasftik |
+| Players | 3/8 |
+| Host Name | jh0xs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:47:47 |
 
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | U_U |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:48:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125053924272 |
+| Players | 2/8 |
+| Host Name | 2$ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:47:53 |
 
 
 |  | epic_boss_fight_nightmare |
