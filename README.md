@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125169392370 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:32:24 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:04:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125173554127 |
-| Players | 3/8 |
-| Host Name | Акаши Сейджуро |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:36:01 |
+| Lobby ID | 28617125175777547 |
+| Players | 1/10 |
+| Host Name | Elithasten^ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:37:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125172598506 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:35:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125174579164 |
-| Players | 14/15 |
-| Host Name | shpic707 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:36:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125174703981 |
-| Players | 7/8 |
-| Host Name | DG_COACH |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:37:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | can`t win?! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:37:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125174703981 |
+| Players | 4/8 |
+| Host Name | DG_COACH |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:37:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125175745894 |
+| Players | 2/15 |
+| Host Name | s1mplyden |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:37:55 |
 
 
 |  | epic_boss_fight_nightmare |
