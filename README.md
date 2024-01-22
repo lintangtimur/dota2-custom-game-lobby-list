@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124983949549 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124984554464 |
-| Players | 5/8 |
-| Host Name | игрь амфетоминовая пятка |
+| Lobby ID | 28617124985594581 |
+| Players | 6/10 |
+| Host Name | Dark.Teacher |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:33:21 |
+| Lobby Creation Time | Monday, January 22, 2024 18:34:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124985778339 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Cpt.Illidan |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:34:49 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:34:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124985594581 |
-| Players | 4/10 |
-| Host Name | Dark.Teacher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:34:36 |
 
 
 |  | epic_boss_fight_challenger |
