@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124912463543 |
-| Players | 7/8 |
-| Host Name | KD6-3.7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:55:44 |
+| Lobby ID | 28617124912575909 |
+| Players | 2/8 |
+| Host Name | k3MGBELLCROSS |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 16:55:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124910787036 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ☆ VAZ ☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124913451785 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Sir Henry Manchester |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124912575909 |
-| Players | 2/8 |
-| Host Name | k3MGBELLCROSS |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:55:54 |
 
 
 |  | epic_boss_fight_nightmare |
