@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124970072810 |
-| Players | 5/8 |
-| Host Name | tv/Lexaofficial |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:15:20 |
+| Lobby ID | 28617124970432162 |
+| Players | 4/10 |
+| Host Name | Sirius |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:15:47 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:15:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124970432162 |
-| Players | 1/10 |
-| Host Name | Sirius |
+| Lobby ID | 28617124970556146 |
+| Players | 1/8 |
+| Host Name | соня миньен секс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:15:47 |
+| Lobby Creation Time | Monday, January 22, 2024 18:15:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124967686136 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:12:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124968342463 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Emperor⚜ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:13:08 |
