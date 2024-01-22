@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125141054416 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Meid |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:07:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125140111255 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Талант |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:06:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125134738602 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | House |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:02:06 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125132476475 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:00:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125140655212 |
-| Players | 2/24 |
-| Host Name | Ебите меня семеро |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:07:14 |
+| Lobby ID | 28617125141083323 |
+| Players | 5/15 |
+| Host Name | Don'tStopHooligans™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:07:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125135369311 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ....,p.,.,giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:02:39 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:07:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125141083323 |
-| Players | 2/15 |
-| Host Name | Don'tStopHooligans™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:07:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125133129060 |
@@ -128,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:00:42 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125139474923 |
-| Players | 1/5 |
-| Host Name | 大喵 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, January 22, 2024 21:06:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125139221804 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Atista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:06:00 |
