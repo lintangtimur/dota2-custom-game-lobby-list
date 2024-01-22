@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125057257259 |
-| Players | 7/8 |
-| Host Name | ignoring everybody |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:51:09 |
+| Lobby ID | 28617125058406954 |
+| Players | 3/8 |
+| Host Name | АдминГинекологии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:52:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125057274780 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 19:51:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125058126749 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Red |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:52:00 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125058406954 |
+| Lobby ID | 28617125058575288 |
 | Players | 3/8 |
-| Host Name | АдминГинекологии |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:52:17 |
+| Host Name | флоря |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:52:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125058580420 |
+| Players | 1/8 |
+| Host Name | Buriza-Do Kyanon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:52:27 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125058229820 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | NoMoreTears |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:52:06 |
