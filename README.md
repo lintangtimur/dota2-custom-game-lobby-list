@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124914980393 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | наменявсесмотрят |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:59:27 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:00:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124915813368 |
-| Players | 1/8 |
-| Host Name | soul is missing?¿ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:00:40 |
+| Lobby ID | 28617124894727051 |
+| Players | 22/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124913354285 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:03 |
