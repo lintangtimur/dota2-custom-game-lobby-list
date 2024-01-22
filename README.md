@@ -29,57 +29,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124965034008 |
-| Players | 9/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:08:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124955460721 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124964314384 |
-| Players | 6/8 |
-| Host Name | Zaboobey run |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:07:57 |
+| Lobby ID | 28617124965775153 |
+| Players | 4/8 |
+| Host Name | tttpttt |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 18:09:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124965294185 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | yazık kafanıza |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:09:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124965694228 |
-| Players | 2/8 |
-| Host Name | FXRCE |
+| Lobby ID | 28617124965708688 |
+| Players | 3/10 |
+| Host Name | ва цао ни маааа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:09:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124960985352 |
-| Players | 8/10 |
-| Host Name | san~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:03:35 |
+| Lobby Creation Time | Monday, January 22, 2024 18:09:44 |
 
 
