@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125270758844 |
-| Players | 6/8 |
-| Host Name | EL NIÑO CARICRIMEN |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:04:57 |
+| Lobby ID | 28617125274069200 |
+| Players | 3/10 |
+| Host Name | Marvibon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:08:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125270854745 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | elimis |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125271443559 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125268255905 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | saj |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:02:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125273906323 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | AAM.2 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:07:53 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125274275502 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Mog |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:08:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125274069200 |
-| Players | 3/10 |
-| Host Name | Marvibon |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:08:02 |
 
 
 |  | epic_boss_fight_nightmare |
