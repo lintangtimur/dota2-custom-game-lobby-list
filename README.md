@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125241064847 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Novato Prime |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:37:14 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125241101219 |
-| Players | 7/8 |
-| Host Name | 1K de dia - 1K-bro de noche |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 22:37:16 |
+| Lobby ID | 28617125246748930 |
+| Players | 4/8 |
+| Host Name | Kenough |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:42:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125249096183 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | HAIZZZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:44:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125249915347 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Джул |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:45:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125249942883 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Kisya Tokyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:45:30 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:45:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125249996338 |
-| Players | 1/8 |
-| Host Name | OGur4k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:45:33 |
+| Lobby ID | 28617125250067177 |
+| Players | 3/10 |
+| Host Name | Писи Сиси |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:45:37 |
 
 
 |  | epic_boss_fight_nightmare |
