@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124931622716 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | я ебал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:23:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124930364254 |
-| Players | 8/10 |
-| Host Name | LEGENDA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:21:34 |
+| Lobby ID | 28617124931087015 |
+| Players | 2/15 |
+| Host Name | адидас |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:22:35 |
 
 
 |  | ot3_gardens_duo |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124931087015 |
-| Players | 1/15 |
-| Host Name | адидас |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 17:22:35 |
+| Lobby ID | 28617124931786938 |
+| Players | 1/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:23:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124931827005 |
+| Players | 1/24 |
+| Host Name | Abdul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:23:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124928920433 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:19:31 |
