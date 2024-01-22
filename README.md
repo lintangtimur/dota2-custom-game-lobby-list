@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124954246038 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Gooble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124954522525 |
-| Players | 7/8 |
-| Host Name | флоря |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:54:55 |
+| Lobby ID | 28617124955750614 |
+| Players | 4/15 |
+| Host Name | Windows 10 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124955426339 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Revoker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:08 |
@@ -92,30 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124955750614 |
-| Players | 1/15 |
-| Host Name | Windows 10 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124955194092 |
-| Players | 9/10 |
-| Host Name | sex |
+| Lobby ID | 28617124956016454 |
+| Players | 1/8 |
+| Host Name | Ryan Gosling |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:55:49 |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124955404021 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124955974508 |
+| Players | 1/5 |
+| Host Name | Дитя сатаны |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:52 |
 
 
