@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125055047205 |
-| Players | 1/8 |
-| Host Name | P福特メ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 19:48:59 |
+| Lobby ID | 28617125060737665 |
+| Players | 8/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:54:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125061242985 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ??????? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 19:55:04 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125061748826 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:55:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125056428089 |
-| Players | 12/15 |
-| Host Name | Levi Ackerman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:50:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:55:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125060737665 |
-| Players | 8/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:54:35 |
+| Lobby ID | 28617125062073949 |
+| Players | 1/8 |
+| Host Name | jusikz |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:55:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125059892162 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:53:45 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28617125061851486 |
-| Players | 1/7 |
-| Host Name | Burkeytacon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:55:40 |
 
 
