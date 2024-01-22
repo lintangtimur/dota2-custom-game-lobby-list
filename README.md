@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124904826647 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | EpicBossFightEnjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:44:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124906628617 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Я конченый беги |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:46:57 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124906559653 |
-| Players | 3/8 |
-| Host Name | GRaster |
+| Players | 2/8 |
+| Host Name | Игорь Телевизор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:46:51 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124906806124 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Yatoro雨 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:47:13 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124906856990 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Revoker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:47:18 |
@@ -148,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617124906096550 |
+| Lobby ID | 28617124907042050 |
 | Players | 1/5 |
 | Host Name | JOLOR WAS HERE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:46:08 |
+| Lobby Creation Time | Monday, January 22, 2024 16:47:36 |
 
 
