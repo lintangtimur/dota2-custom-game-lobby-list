@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125049670643 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | МАРАР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:41 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:44:48 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125051212732 |
+| Players | 2/15 |
+| Host Name | 私には小児性愛者の友 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:45:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125047811210 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:41:51 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125049612237 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:38 |
