@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125283989101 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:17:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125286666487 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Randy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:19:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125286829961 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:20:01 |
@@ -86,37 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125276261629 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Brunesco |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125286475494 |
-| Players | 8/10 |
-| Host Name | Угашен Членом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:19:41 |
+| Lobby ID | 28617125287140380 |
+| Players | 3/8 |
+| Host Name | владыка(UWU) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:20:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125286544533 |
-| Players | 5/8 |
-| Host Name | I am the supreme gentleman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:19:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125286751620 |
-| Players | 10/15 |
-| Host Name | Destroy |
+| Lobby ID | 28617125287150357 |
+| Players | 1/8 |
+| Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:19:56 |
+| Lobby Creation Time | Monday, January 22, 2024 23:20:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125287136585 |
+| Players | 1/8 |
+| Host Name | М-01 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:20:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125287140226 |
+| Players | 1/8 |
+| Host Name | streamer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:20:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125285189137 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | All muth Dead Chat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:18:28 |
