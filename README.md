@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617124940807810 |
 | Players | 9/24 |
-| Host Name | Oh Shit I'm Sorry |
+| Host Name | Eggtarts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:36:09 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124941126173 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:36:35 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124941047089 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:36:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124941538616 |
+| Players | 1/8 |
+| Host Name | Ней Бегров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:37:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124937821310 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Илья Николаевич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:01 |
@@ -86,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124939941532 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Where is Danko? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:34:58 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617124941112196 |
-| Players | 2/7 |
-| Host Name | ||Цeлуū Эkрāн|| пока я онлайн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:36:34 |
 
 
