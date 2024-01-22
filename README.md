@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125131704025 |
-| Players | 4/8 |
-| Host Name | учитель фуцин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:59:27 |
+| Lobby ID | 28617125132992938 |
+| Players | 8/15 |
+| Host Name | ezio auditore 05 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:00:35 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:55:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125131646171 |
-| Players | 6/15 |
-| Host Name | Human Prib |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:59:24 |
+| Lobby ID | 28617125132953058 |
+| Players | 1/24 |
+| Host Name | habitas |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 21:00:33 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125131987228 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:59:42 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125131156817 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Van ♂️ Darkholme |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:58:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125126639904 |
-| Players | 12/15 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 20:54:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125131240312 |
-| Players | 10/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:59:02 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:00:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125131249633 |
-| Players | 9/10 |
-| Host Name | EBF MASTER - NAIX AFK |
+| Lobby ID | 28617125131240312 |
+| Players | 15/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:59:03 |
+| Lobby Creation Time | Monday, January 22, 2024 20:59:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125133123051 |
+| Players | 1/8 |
+| Host Name | Руки из жопы |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:00:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125133253321 |
+| Players | 1/24 |
+| Host Name | ANIKI 兄貴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:00:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125133289313 |
+| Players | 1/15 |
+| Host Name | BORIXPC ;) |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:00:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125126639904 |
+| Players | 14/15 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 20:54:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Osmos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:59:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125133129060 |
+| Players | 4/10 |
+| Host Name | KiJo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:00:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125133464951 |
+| Players | 1/5 |
+| Host Name | 4elovek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:01:00 |
 
 
