@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125220168057 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Вечная весна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:18:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125220239394 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:18:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125214665547 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:13:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:18:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125219368257 |
-| Players | 21/24 |
-| Host Name | KUKURIKAPO! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:17:20 |
+| Lobby ID | 28617125221706773 |
+| Players | 4/10 |
+| Host Name | nophom |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 22:19:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125221614999 |
-| Players | 1/8 |
-| Host Name | tyuio |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:19:25 |
+| Lobby ID | 28617125221678713 |
+| Players | 2/8 |
+| Host Name | Ёshi_мур0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:19:29 |
 
 
 |  | ot3_desert_octet |
@@ -137,10 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:19:21 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125221755355 |
+| Players | 2/24 |
+| Host Name | 闻人翊悬 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:19:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125220091027 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | lol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:18:00 |
