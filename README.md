@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124998536584 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Пивослав Мудрый гроза ящеров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:49:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124998103798 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 18:49:28 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124998225033 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | крокодильчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:49:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124998639792 |
-| Players | 2/24 |
-| Host Name | Mr.Suppor1er |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:50:06 |
+| Lobby ID | 28617124998671746 |
+| Players | 1/8 |
+| Host Name | РУБИЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:50:08 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:50:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124998698499 |
+| Players | 6/24 |
+| Host Name | Egoist |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:50:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124998727542 |
+| Players | 3/15 |
+| Host Name | Игорь Потов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:50:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124998643768 |
+| Lobby ID | 28617124998792543 |
 | Players | 1/8 |
 | Host Name | youzer |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:50:06 |
+| Lobby Creation Time | Monday, January 22, 2024 18:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
