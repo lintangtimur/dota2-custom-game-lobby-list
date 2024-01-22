@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:38:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124907425753 |
-| Players | 4/8 |
-| Host Name | senkach |
+| Lobby ID | 28617124907898882 |
+| Players | 2/10 |
+| Host Name | i hate u all |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:48:11 |
+| Lobby Creation Time | Monday, January 22, 2024 16:48:54 |
 
 
 |  | ot3_gardens_duo |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124907450072 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | めちゃくちゃなあなた |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:48:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124907898882 |
-| Players | 2/10 |
-| Host Name | i hate u all |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:48:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124907817653 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 16:48:47 |
