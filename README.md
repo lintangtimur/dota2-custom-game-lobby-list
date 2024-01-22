@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125104015292 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | EVian |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:34:57 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125103683297 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Limitlesss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:34:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125104733882 |
+| Players | 2/10 |
+| Host Name | Thawne |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:35:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125104731225 |
+| Players | 6/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:35:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 爱抓双马尾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:33:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125092777298 |
-| Players | 3/5 |
-| Host Name | Waterproof Teabag |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:24:53 |
 
 
 |  | epic_boss_fight_nightmare |
