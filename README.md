@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124938956854 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | LoveLera |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:33:36 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124938745947 |
-| Players | 1/10 |
-| Host Name | DON COQUEX 90 |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 17:33:18 |
+| Lobby ID | 28617124939135676 |
+| Players | 4/10 |
+| Host Name | Avicks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:33:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | эщкере панк |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:33:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124939135676 |
-| Players | 3/10 |
-| Host Name | Avicks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:33:51 |
 
 
 |  | epic_boss_fight_normal |
