@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124983949549 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124986730432 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | smile_face |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:35:58 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MARIA NO ME DEJES POR EL PAYASO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124985778339 |
-| Players | 14/15 |
-| Host Name | Cpt.Illidan |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:34:49 |
 
 
 |  | epic_boss_fight_challenger |
