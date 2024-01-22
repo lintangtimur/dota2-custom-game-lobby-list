@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124996614154 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | Натян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:47:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124994265329 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Waffles |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:45:00 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:48:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124997403086 |
+| Players | 1/15 |
+| Host Name | ? |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 18:48:40 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124994211180 |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124995962875 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | y peenoise r always dumb? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:46:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124997433844 |
+| Players | 1/5 |
+| Host Name | Jean-Michel Beauf |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:48:42 |
 
 
