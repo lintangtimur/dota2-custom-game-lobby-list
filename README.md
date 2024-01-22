@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125060737665 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:54:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125063673460 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | god’s favourite since 00 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125063383415 |
-| Players | 11/15 |
-| Host Name | Agresor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:57:10 |
+| Lobby ID | 28617125063816607 |
+| Players | 1/15 |
+| Host Name | Emmmmm. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:57:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125063914941 |
+| Players | 1/15 |
+| Host Name | envia |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:57:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NoMoreTears |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:52:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125063759959 |
-| Players | 1/10 |
-| Host Name | Burkeytacon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:57:32 |
 
 
