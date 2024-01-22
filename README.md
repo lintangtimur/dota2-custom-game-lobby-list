@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124911033059 |
-| Players | 14/15 |
-| Host Name | tice |
+| Lobby ID | 28617124913451785 |
+| Players | 6/10 |
+| Host Name | Sir Henry Manchester |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:53:36 |
+| Lobby Creation Time | Monday, January 22, 2024 16:57:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124912575909 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | k3MGBELLCROSS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:55:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124913451785 |
-| Players | 2/10 |
-| Host Name | Sir Henry Manchester |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
