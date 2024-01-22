@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125396386427 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | kyuubi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:06:39 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125396700539 |
+| Lobby ID | 28617125396627328 |
 | Players | 3/8 |
-| Host Name | everything is fine |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:06:57 |
+| Host Name | Frontier |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:06:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125393368833 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:03:41 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125396265079 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ХАЙПАНЕМ НЕМНОЖЕЧКО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:06:32 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125396104746 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | hope |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:06:22 |
@@ -139,20 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125396627328 |
+| Lobby ID | 28617125396865103 |
 | Players | 2/8 |
-| Host Name | Frontier |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:06:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125396668876 |
-| Players | 2/8 |
-| Host Name | Deathly |
+| Host Name | integoneo |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:06:55 |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:07:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125395971082 |
+| Players | 9/10 |
+| Host Name | сын Stray228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:06:15 |
 
 
 |  | epic_boss_fight_nightmare |
