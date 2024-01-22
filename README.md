@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:38:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124908131567 |
-| Players | 23/24 |
-| Host Name | veon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:49:15 |
+| Lobby ID | 28617124912801181 |
+| Players | 1/15 |
+| Host Name | Remember Me |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 16:56:14 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124911033059 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:36 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124912463543 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | KD6-3.7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:55:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124912801181 |
-| Players | 1/15 |
-| Host Name | Remember Me |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 16:56:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124912939215 |
-| Players | 2/8 |
-| Host Name | アスタ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:56:27 |
 
 
 |  | epic_boss_fight_nightmare |
