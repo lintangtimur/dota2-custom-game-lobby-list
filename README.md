@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125226907502 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Diamond Fish sauce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:24:20 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125231196066 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:28:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125231934472 |
-| Players | 5/8 |
-| Host Name | валентин утюг |
+| Lobby ID | 28617125232469014 |
+| Players | 2/10 |
+| Host Name | НаХерДоту |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:28:56 |
+| Lobby Creation Time | Monday, January 22, 2024 22:29:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:25:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125231786310 |
-| Players | 8/10 |
-| Host Name | forever alone |
+| Lobby ID | 28617125232285459 |
+| Players | 5/15 |
+| Host Name | SExy.. FREEPALESTINE |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:28:48 |
+| Lobby Creation Time | Monday, January 22, 2024 22:29:15 |
 
 
 |  | ot3_desert_octet |
@@ -101,37 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:28:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28617125232285459 |
-| Players | 2/15 |
-| Host Name | SExy.. FREEPALESTINE |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:29:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125232290072 |
-| Players | 1/15 |
-| Host Name | myrza |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:29:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125220391023 |
-| Players | 9/10 |
-| Host Name | Tess Tickles |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 22, 2024 22:18:17 |
+| Lobby ID | 28617125231384848 |
+| Players | 1/7 |
+| Host Name | DimASS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:28:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125227750105 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:25:07 |
@@ -144,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:23:25 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617125231384848 |
-| Players | 1/7 |
-| Host Name | DimASS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:28:26 |
 
 
