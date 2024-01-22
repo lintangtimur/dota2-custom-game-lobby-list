@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124934674128 |
-| Players | 2/24 |
-| Host Name | GeForce |
+| Players | 1/24 |
+| Host Name | Fenix |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:27:36 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124934162913 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Agony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124935430840 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Hollow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:28:39 |
