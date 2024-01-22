@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124945393193 |
-| Players | 4/15 |
-| Host Name | Norea Du Noc |
+| Players | 2/15 |
+| Host Name | Маралмаа |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124955460721 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:01:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124961035954 |
-| Players | 6/8 |
-| Host Name | SeDoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:03:39 |
+| Lobby ID | 28617124961756189 |
+| Players | 7/15 |
+| Host Name | 765611 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:04:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124961691068 |
-| Players | 1/24 |
-| Host Name | Jiren- |
+| Lobby ID | 28617124961755753 |
+| Players | 2/24 |
+| Host Name | KENGisREAL |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:04:31 |
+| Lobby Creation Time | Monday, January 22, 2024 18:04:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124960985352 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:03:35 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:04:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124961778171 |
+| Players | 1/5 |
+| Host Name | オレグ・モンゴル |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:04:38 |
 
 
