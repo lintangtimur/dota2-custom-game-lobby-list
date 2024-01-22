@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125287995390 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:21:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125277169612 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Marshals |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125289632034 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Zodrim |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:22:40 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125289165374 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Eduardo tu bebita Marengo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:22:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125290079473 |
-| Players | 4/8 |
-| Host Name | Чунга-чанга |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:23:05 |
+| Lobby ID | 28617125290169824 |
+| Players | 2/10 |
+| Host Name | road to 1 mmr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:23:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:20:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28617125287825720 |
-| Players | 9/10 |
-| Host Name | call me autisticttipon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:20:57 |
+| Lobby ID | 28617125288633611 |
+| Players | 2/7 |
+| Host Name | NiyoTx |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:21:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pachunya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:20:59 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28617125288633611 |
-| Players | 2/7 |
-| Host Name | NiyoTx |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:21:43 |
 
 
