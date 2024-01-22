@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125283989101 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:17:20 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:16:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125281969031 |
-| Players | 2/15 |
-| Host Name | Puck Fuck Duck |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:15:26 |
+| Lobby ID | 28617125286079221 |
+| Players | 2/10 |
+| Host Name | TrueAlpha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:19:19 |
 
 
 |  | ot3_desert_octet |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:10:05 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125285988762 |
+| Players | 6/15 |
+| Host Name | Основатель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:19:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125286035489 |
+| Players | 3/8 |
+| Host Name | FaLLeN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:19:16 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125273435317 |
@@ -108,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zy- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:14:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125281793475 |
-| Players | 9/10 |
-| Host Name | k |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:15:17 |
 
 
 |  | epic_boss_fight_nightmare |
