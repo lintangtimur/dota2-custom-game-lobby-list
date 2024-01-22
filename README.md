@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124928523632 |
-| Players | 10/15 |
-| Host Name | Jungeeeeeeee |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:18:58 |
+| Lobby ID | 28617124929771531 |
+| Players | 1/15 |
+| Host Name | Wangers_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:20:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124929209214 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ⭕⃤_ MORTAL ALLAH QB1 ⭕⃤_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:19:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124929771139 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 4 pos idc |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:20:43 |
