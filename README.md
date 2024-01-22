@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124921354361 |
-| Players | 9/10 |
-| Host Name | Mr_Sly |
+| Lobby ID | 28617124922187732 |
+| Players | 2/24 |
+| Host Name | Topskij托普斯基 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:08:43 |
+| Lobby Creation Time | Monday, January 22, 2024 17:09:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124921244420 |
-| Players | 4/15 |
-| Host Name | W |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 17:08:33 |
+| Lobby ID | 28617124922128064 |
+| Players | 6/8 |
+| Host Name | duni66 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:09:49 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124920522720 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | mzk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:07:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124921733342 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | One Love - One Piece |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:09:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124921830707 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | COD |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:09:23 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КОММЕРС |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 17:09:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124922128064 |
-| Players | 6/8 |
-| Host Name | duni66 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:09:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124922187732 |
-| Players | 2/24 |
-| Host Name | Topskij托普斯基 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:09:54 |
 
 
 |  | epic_boss_fight_nightmare |
