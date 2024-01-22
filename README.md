@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:44:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124946376568 |
-| Players | 6/10 |
-| Host Name | Маймыл куте |
+| Lobby ID | 28617124947013168 |
+| Players | 1/8 |
+| Host Name | quasar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:43:47 |
+| Lobby Creation Time | Monday, January 22, 2024 17:44:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124944227528 |
-| Players | 9/10 |
-| Host Name | tiil na mani |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:40:50 |
+| Lobby ID | 28617124947014088 |
+| Players | 4/8 |
+| Host Name | fjsiaijgsajigsjia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:44:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124944314950 |
-| Players | 9/10 |
-| Host Name | All muth Dead Chat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:40:57 |
+| Lobby ID | 28617124947129360 |
+| Players | 1/10 |
+| Host Name | ACE |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 17:44:50 |
 
 
