@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125301595416 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | Gamer4Life |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:34:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125301370093 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:33:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125303621102 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | душный скуф чеел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:36:05 |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125303410427 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | la bika me hizo mejor |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 22, 2024 23:35:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125303891290 |
-| Players | 2/8 |
-| Host Name | Just Tea |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:36:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125304190126 |
-| Players | 1/15 |
-| Host Name | Lina Paucar |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:36:38 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125304146232 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | нормальный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:36:35 |
@@ -99,6 +81,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I am the supreme gentleman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:36:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125304207913 |
+| Players | 6/15 |
+| Host Name | barley flex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:36:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125304210026 |
+| Players | 1/15 |
+| Host Name | 大丈夫でし君 弱いもん |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:36:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125304284619 |
+| Players | 2/8 |
+| Host Name | everything is fine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:36:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125304364000 |
+| Players | 6/8 |
+| Host Name | Шалунишка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:36:48 |
 
 
 |  | epic_boss_fight_nightmare |
