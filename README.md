@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:54:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124956847348 |
-| Players | 1/24 |
-| Host Name | <Cyborgix> |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:58:02 |
+| Lobby ID | 28617124956206810 |
+| Players | 6/8 |
+| Host Name | Fire inside |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:57:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124956472204 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Technical Crossout |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:57:32 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124957477385 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:58:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124954246038 |
-| Players | 22/24 |
-| Host Name | Gooble |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:54:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124956206810 |
-| Players | 6/8 |
-| Host Name | Fire inside |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:57:11 |
 
 
 |  | epic_boss_fight_nightmare |
