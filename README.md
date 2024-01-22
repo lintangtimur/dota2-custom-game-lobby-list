@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | dNische_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125040327491 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:34:30 |
@@ -65,37 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:36:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125040970334 |
-| Players | 7/8 |
-| Host Name | Кирюш турбо хрюш |
+| Lobby ID | 28617125042218969 |
+| Players | 4/24 |
+| Host Name | Diamond Fish sauce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125042577097 |
+| Players | 8/10 |
+| Host Name | blessed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:35:08 |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125040964077 |
-| Players | 1/8 |
-| Host Name | 165Hz |
+| Lobby ID | 28617125042701680 |
+| Players | 1/10 |
+| Host Name | trash teammate |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:35:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125041726475 |
-| Players | 7/15 |
-| Host Name | Jon Snow |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:35:53 |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125041742845 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | flowy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:54 |
@@ -103,37 +103,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125042218969 |
-| Players | 1/24 |
-| Host Name | Diamond Fish sauce |
+| Lobby ID | 28617125042525592 |
+| Players | 3/24 |
+| Host Name | weza ripoto |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:36:23 |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125039806754 |
-| Players | 3/5 |
-| Host Name | gvbs |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:33:59 |
+| Lobby ID | 28617125042789527 |
+| Players | 2/10 |
+| Host Name | ЖДК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125042833665 |
+| Players | 1/15 |
+| Host Name | 無念無想 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125042870225 |
+| Players | 1/8 |
+| Host Name | R |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:37:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125039648288 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:33:49 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617125041908129 |
-| Players | 1/7 |
-| Host Name | Тини Камушкин |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:36:04 |
+| Lobby ID | 28617125042882824 |
+| Players | 1/5 |
+| Host Name | $@g!dy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:37:02 |
 
 
