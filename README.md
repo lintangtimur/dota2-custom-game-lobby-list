@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124923452290 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | зашел п(р)оиграть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:11:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124921733342 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | One Love - One Piece |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:09:15 |
@@ -40,17 +40,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124923452270 |
-| Players | 7/8 |
-| Host Name | KD6-3.7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:11:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28617124923446051 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | GodK4pp4lelelelele!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:11:42 |
@@ -58,29 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124923752044 |
+| Lobby ID | 28617124924074712 |
 | Players | 1/24 |
 | Host Name | ryan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:12:09 |
+| Lobby Creation Time | Monday, January 22, 2024 17:12:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124923896511 |
-| Players | 3/8 |
-| Host Name | ЛОШАДЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:12:22 |
+| Lobby ID | 28617124924088957 |
+| Players | 1/8 |
+| Host Name | SanctuaryMoon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 17:12:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124922568113 |
-| Players | 14/15 |
-| Host Name | Topskij托普斯基 |
+| Lobby ID | 28617124924104718 |
+| Players | 1/24 |
+| Host Name | Скрипач Ёся |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:10:27 |
+| Lobby Creation Time | Monday, January 22, 2024 17:12:40 |
 
 
 |  | epic_boss_fight_nightmare |
