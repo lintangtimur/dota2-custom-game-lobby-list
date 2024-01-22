@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125343649581 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:14:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125333980047 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Mathiasla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125346113641 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | DotaEngineer |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125346245261 |
+| Players | 1/8 |
+| Host Name | mietekproplayer24 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:17:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125346307896 |
+| Players | 1/8 |
+| Host Name | mag |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:17:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125346344424 |
+| Players | 4/8 |
+| Host Name | proebal hardu suka! 100-7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:17:27 |
 
 
 |  | epic_boss_fight_challenger |
