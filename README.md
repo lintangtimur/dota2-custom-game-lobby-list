@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125274069200 |
-| Players | 8/10 |
-| Host Name | Marvibon |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:08:02 |
+| Lobby ID | 28617125276261629 |
+| Players | 1/15 |
+| Host Name | Brunesco |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 23:10:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125270854745 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | elimis |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125268255905 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | saj |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:02:37 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125273906323 |
-| Players | 6/15 |
-| Host Name | Меня Тамаз завут |
+| Players | 5/15 |
+| Host Name | Nhị Sư Đệ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:07:53 |
 
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125275821397 |
-| Players | 6/8 |
-| Host Name | ナテanxietyテナ ϒdrainϒ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:40 |
+| Lobby ID | 28617125276238924 |
+| Players | 1/8 |
+| Host Name | 塔下意识粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:10:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -155,37 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:09:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125276108828 |
-| Players | 3/15 |
-| Host Name | 大pavshiy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125276143237 |
-| Players | 1/24 |
-| Host Name | 塔下意识粉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125276125199 |
-| Players | 5/8 |
-| Host Name | Ps1x |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125270661110 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | kaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:04:51 |
