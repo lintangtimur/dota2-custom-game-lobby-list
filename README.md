@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124988175478 |
-| Players | 12/15 |
-| Host Name | HERALD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:37:41 |
+| Lobby ID | 28617124987645002 |
+| Players | 6/8 |
+| Host Name | ☠۩ПсИх۩☠ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:37:03 |
 
 
 |  | ot3_gardens_duo |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124987909791 |
-| Players | 8/10 |
-| Host Name | DEusEXpressionTAS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:37:22 |
+| Lobby ID | 28617124989167455 |
+| Players | 4/24 |
+| Host Name | рядовой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:38:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:36:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124987645002 |
-| Players | 6/8 |
-| Host Name | ☠۩ПсИх۩☠ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:37:03 |
+| Lobby ID | 28617124989133095 |
+| Players | 2/15 |
+| Host Name | skrff |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:38:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xeno's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:38:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124989034022 |
-| Players | 1/5 |
-| Host Name | Fyker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:38:43 |
 
 
