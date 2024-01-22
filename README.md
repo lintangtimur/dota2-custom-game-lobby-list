@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124979635209 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Lucifer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:27:22 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124975527618 |
-| Players | 8/10 |
-| Host Name | Satoru Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 18:22:14 |
+| Lobby ID | 28617124978144355 |
+| Players | 11/24 |
+| Host Name | Oversea Sexy Guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
 
 
 |  | ot3_desert_octet |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124978144355 |
-| Players | 7/24 |
-| Host Name | Oversea Sexy Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124979086578 |
-| Players | 8/10 |
-| Host Name | малышка <3 |
+| Lobby ID | 28617124980049352 |
+| Players | 6/8 |
+| Host Name | Magnus Carlsen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:26:41 |
+| Lobby Creation Time | Monday, January 22, 2024 18:27:53 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Einsiedler [ru] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:21:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124980001531 |
+| Players | 1/5 |
+| Host Name | joni |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:27:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124980009512 |
+| Players | 1/10 |
+| Host Name | N a y |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:27:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124980116521 |
+| Players | 1/10 |
+| Host Name | Osmos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:27:58 |
 
 
