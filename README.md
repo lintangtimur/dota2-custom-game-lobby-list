@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:27:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125298121953 |
-| Players | 4/8 |
-| Host Name | Na 4iLe |
+| Lobby ID | 28617125298899552 |
+| Players | 10/15 |
+| Host Name | Homelander |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:30:45 |
+| Lobby Creation Time | Monday, January 22, 2024 23:31:30 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125298850117 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:31:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125298750050 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | BaDBoY!! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:31:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125286570880 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Эль Чуро 주님 神إله هذه ال |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:19:46 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:29:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125298043199 |
-| Players | 6/8 |
-| Host Name | JimPark |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:30:40 |
+| Lobby ID | 28617125297368967 |
+| Players | 12/15 |
+| Host Name | spasibo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 23:30:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:31:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125298889435 |
-| Players | 1/15 |
-| Host Name | ytka_Dark |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:31:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125298899552 |
-| Players | 1/15 |
-| Host Name | Homelander |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:31:30 |
 
 
 |  | epic_boss_fight_nightmare |
