@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125021013440 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:14:34 |
@@ -65,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:14:24 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125021828160 |
+| Players | 3/15 |
+| Host Name | MEDvedЬ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:15:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125016918816 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | RTZ.Kodiang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:14 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617125021794510 |
-| Players | 1/7 |
-| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, January 22, 2024 19:15:24 |
 
 
