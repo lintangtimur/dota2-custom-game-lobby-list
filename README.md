@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:57:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124956722842 |
-| Players | 5/8 |
-| Host Name | cringe ranks |
+| Lobby ID | 28617124958393132 |
+| Players | 7/10 |
+| Host Name | unbalanced |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:57:52 |
+| Lobby Creation Time | Monday, January 22, 2024 18:00:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124957776449 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:59:17 |
@@ -101,13 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:59:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124958485863 |
+| Players | 3/8 |
+| Host Name | 金木 研 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:00:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124956722842 |
+| Players | 7/8 |
+| Host Name | cringe ranks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:57:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124958515832 |
+| Players | 1/8 |
+| Host Name | АдминГинекологии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:00:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124958180927 |
+| Lobby ID | 28617124958510396 |
 | Players | 1/10 |
-| Host Name | ŧɇNf๘łĐ |
+| Host Name | sad--)) |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:59:50 |
+| Lobby Creation Time | Monday, January 22, 2024 18:00:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124958535795 |
+| Players | 6/10 |
+| Host Name | pepsi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:00:19 |
 
 
 |  | epic_boss_fight_nightmare |
