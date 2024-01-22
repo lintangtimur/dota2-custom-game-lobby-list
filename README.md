@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124891907797 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Kaltes |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 16:23:59 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124899415345 |
-| Players | 1/8 |
-| Host Name | REAPER |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 16:35:45 |
+| Lobby ID | 28617124900375374 |
+| Players | 2/8 |
+| Host Name | cored1nation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:37:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124900375374 |
+| Lobby ID | 28617124900527494 |
 | Players | 1/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:37:15 |
+| Host Name | REAPER |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 16:37:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shadowqtrxz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:33:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124889954314 |
+| Players | 7/10 |
+| Host Name | Fey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:20:52 |
 
 
