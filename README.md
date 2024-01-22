@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125067325740 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:00:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125068530162 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | spirin-sport |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125068567609 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ปู่มหามุนี |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:09 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:02:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125067461915 |
-| Players | 8/10 |
-| Host Name | Where is Danko? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:01:06 |
+| Lobby ID | 28617125069470067 |
+| Players | 1/8 |
+| Host Name | Atomega_kaktus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:03:01 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28617125069033050 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Жора из Hi-Fi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:36 |
