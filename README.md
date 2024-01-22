@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | dNische_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125041188713 |
-| Players | 7/15 |
-| Host Name | Tsexos |
+| Lobby ID | 28617125041512022 |
+| Players | 2/10 |
+| Host Name | maradonner |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:35:21 |
+| Lobby Creation Time | Monday, January 22, 2024 19:35:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125039743686 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:33:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125040964077 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 165Hz |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:08 |
