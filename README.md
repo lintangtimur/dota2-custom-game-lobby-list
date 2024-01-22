@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125294833048 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DRAKE |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:27:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125294261744 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:27:04 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125296716072 |
-| Players | 2/8 |
-| Host Name | Deathly |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:29:24 |
+| Lobby ID | 28617125296465561 |
+| Players | 7/8 |
+| Host Name | Miracle's Son |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:10 |
 
 
 |  | ot3_gardens_duo |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:29:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125296406033 |
-| Players | 8/15 |
-| Host Name | Mister csgorun.run |
+| Lobby ID | 28617125296946781 |
+| Players | 4/10 |
+| Host Name | artuzyy |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:29:06 |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125296745782 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | i m no longer fear the razor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:29:26 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | λ̯͡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:29:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125296920380 |
+| Players | 2/8 |
+| Host Name | ICHZ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125297009364 |
+| Players | 5/8 |
+| Host Name | 5к узник |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:41 |
 
 
 |  | epic_boss_fight_nightmare |
