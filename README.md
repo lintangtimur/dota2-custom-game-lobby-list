@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:58:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125012049475 |
-| Players | 4/10 |
-| Host Name | TORONTOADIDAS |
+| Lobby ID | 28617125012609276 |
+| Players | 1/15 |
+| Host Name | Lancelot |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:05:01 |
+| Lobby Creation Time | Monday, January 22, 2024 19:05:37 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125011892251 |
-| Players | 14/15 |
-| Host Name | TED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:04:51 |
+| Lobby ID | 28617125001026999 |
+| Players | 7/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:52:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125010427235 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:03:16 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125012054672 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 2Ѳ52 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:05:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125001026999 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:52:52 |
+| Lobby ID | 28617125012626042 |
+| Players | 1/10 |
+| Host Name | mrad |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:05:39 |
 
 
 |  | epic_boss_fight_nightmare |
