@@ -41,37 +41,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125110747626 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ベニ・ヤウリ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 20:40:53 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125115460085 |
-| Players | 23/24 |
-| Host Name | Hajimari No Kiseki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:45:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125116009584 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | KAZAKH DAMI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:45:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125116718225 |
-| Players | 1/15 |
-| Host Name | 123456 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 20:46:11 |
+| Lobby ID | 28617125116931774 |
+| Players | 2/10 |
+| Host Name | kaneki黒 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:46:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125116900333 |
+| Players | 1/8 |
+| Host Name | Riz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:46:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125116920070 |
+| Players | 2/24 |
+| Host Name | MinisterByDay, DotaPlayerByNight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:46:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125116913751 |
+| Players | 2/24 |
+| Host Name | SeniannaFranciff |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:46:22 |
 
 
 |  | epic_boss_fight_normal |
