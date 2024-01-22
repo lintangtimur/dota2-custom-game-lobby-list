@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125258067698 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | 最強の |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 22:53:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125259888096 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | помидор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:54:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125260130925 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:55:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125246683041 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Insomniac |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
@@ -85,38 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125260690846 |
+| Lobby ID | 28617125260748316 |
 | Players | 1/24 |
-| Host Name | Almond Butter Honey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:55:32 |
+| Host Name | Tranquility5207 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Monday, January 22, 2024 22:55:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125260695658 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | lalala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:55:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125252506955 |
-| Players | 1/10 |
-| Host Name | NoMoreTears |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:47:53 |
+| Lobby ID | 28617125260786552 |
+| Players | 6/10 |
+| Host Name | Pupsik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:55:38 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125259711354 |
-| Players | 1/5 |
-| Host Name | I Love  your Момм |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 22:54:38 |
+| Lobby ID | 28617125260806984 |
+| Players | 3/15 |
+| Host Name | Emptiness' |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 22:55:39 |
 
 
 |  | epic_boss_fight_nightmare |
