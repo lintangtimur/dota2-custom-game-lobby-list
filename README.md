@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125289946770 |
-| Players | 3/8 |
-| Host Name | Муза |
+| Lobby ID | 28617125290169824 |
+| Players | 2/10 |
+| Host Name | road to 1 mmr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:22:58 |
+| Lobby Creation Time | Monday, January 22, 2024 23:23:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125288122454 |
-| Players | 3/10 |
-| Host Name | Sband_Mirand |
+| Players | 5/10 |
+| Host Name | kkkkkkkkkk |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:21:14 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125287995390 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:21:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125289632034 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Zodrim |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:22:40 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eduardo tu bebita Marengo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:22:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125290169824 |
-| Players | 2/10 |
-| Host Name | road to 1 mmr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:23:11 |
 
 
 |  | epic_boss_fight_normal |
