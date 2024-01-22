@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124891907797 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Kaltes |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 16:23:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124901605594 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Jewish Tunnel Rat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124903323347 |
-| Players | 8/15 |
-| Host Name | BAD JUJU |
+| Players | 10/15 |
+| Host Name | Фуфлик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:41:48 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124903238547 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ₭۞ђ ☯ ҜÆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:41:41 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124902244711 |
-| Players | 14/15 |
-| Host Name | RememberTheName |
+| Lobby ID | 28617124903477876 |
+| Players | 1/15 |
+| Host Name | адидас |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:40:09 |
+| Lobby Creation Time | Monday, January 22, 2024 16:42:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124901277588 |
+| Players | 9/10 |
+| Host Name | Satoru Gojō |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 16:38:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124903590141 |
+| Players | 2/8 |
+| Host Name | I am the supreme gentleman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:42:13 |
 
 
 |  | epic_boss_fight_nightmare |
