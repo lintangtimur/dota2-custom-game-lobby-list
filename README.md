@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124945393193 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | 雨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:51:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124959861053 |
-| Players | 5/8 |
-| Host Name | Drago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:02:06 |
+| Lobby ID | 28617124960794057 |
+| Players | 1/24 |
+| Host Name | KENGisREAL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:03:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:01:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124958510396 |
-| Players | 3/10 |
-| Host Name | sad--)) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:00:17 |
+| Lobby ID | 28617124960751540 |
+| Players | 2/8 |
+| Host Name | XITER VAGAL |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 18:03:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124960666396 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Clixco |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:03:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124960704578 |
-| Players | 1/24 |
-| Host Name | KENGisREAL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:03:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124960751540 |
-| Players | 1/8 |
-| Host Name | XITER VAGAL |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 18:03:17 |
 
 
