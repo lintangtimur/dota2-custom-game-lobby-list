@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125075346787 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125076199550 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | KatenKyokotsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:09:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125076323247 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Luboš Kotvička |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:09:34 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125076409424 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | can`t win?! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:09:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125076815997 |
-| Players | 1/15 |
+| Lobby ID | 28617125077016986 |
+| Players | 1/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:10:02 |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Einsiedler [ru] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:07:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125076942547 |
+| Players | 1/5 |
+| Host Name | ~Renji |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:09 |
 
 
