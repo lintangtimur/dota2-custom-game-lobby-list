@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:32:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125301246951 |
-| Players | 8/10 |
-| Host Name | Не дай себе засохнуть хе-хе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:33:47 |
+| Lobby ID | 28617125301873719 |
+| Players | 5/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 23:34:24 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125300292504 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name |  Marco Aurelio Denegri  |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:32:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125300862068 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Enrique la promesa |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:33:24 |
@@ -83,28 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:33:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125301722328 |
-| Players | 12/15 |
-| Host Name | Mystic |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:34:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125301873719 |
-| Players | 1/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 23:34:24 |
+| Lobby ID | 28617125302061170 |
+| Players | 6/8 |
+| Host Name | гроза тугосерь |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 23:34:35 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28617125301428223 |
-| Players | 2/7 |
+| Players | 4/7 |
 | Host Name | PaiNwoW~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:33:58 |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | el catador de imillas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:34:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125301889665 |
-| Players | 2/10 |
-| Host Name | CHRISTIAN PACIENTE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:34:25 |
 
 
