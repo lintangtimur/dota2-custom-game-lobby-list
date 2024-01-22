@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124937444646 |
-| Players | 8/10 |
-| Host Name | Вова Колобашкин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:31:29 |
+| Lobby ID | 28617124936912400 |
+| Players | 13/15 |
+| Host Name | Nevalyashka |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 17:30:44 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124937887304 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Wheredoyouwantme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:07 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124937893031 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Инокентий Чашелистник |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124936912400 |
-| Players | 12/15 |
-| Host Name | Nevalyashka |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 17:30:44 |
 
 
 |  | epic_boss_fight_normal |
