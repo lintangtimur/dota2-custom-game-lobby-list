@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125345903527 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Kiongku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:00 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125346307896 |
-| Players | 3/8 |
-| Host Name | mag |
+| Players | 2/8 |
+| Host Name | wbf ~ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:24 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125343649581 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:14:46 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125347651116 |
-| Players | 6/15 |
-| Host Name | Яндекс Елда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:18:43 |
+| Lobby ID | 28617125347833935 |
+| Players | 3/8 |
+| Host Name | oewe |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:18:54 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125347350488 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Smertnik |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:18:25 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rosquette |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:18:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125347798017 |
+| Players | 6/15 |
+| Host Name | GoriLL@ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:18:52 |
 
 
 |  | epic_boss_fight_challenger |
