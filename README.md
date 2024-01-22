@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244559755 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | Marshals |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125253165059 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:48:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125246683041 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Наташа 2 баша |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125253583961 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | s̸͉̋a̴̬̓r̵̦͌a̸̛̮h̶ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:48:52 |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125253351959 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | WaTaFak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:48:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125247986459 |
-| Players | 9/10 |
-| Host Name | call me autisticttipon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:43:40 |
+| Lobby ID | 28617125253910407 |
+| Players | 1/8 |
+| Host Name | Angel(a) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:49:10 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125253780500 |
-| Players | 1/5 |
-| Host Name | Баламошка |
+| Lobby ID | 28617125253958384 |
+| Players | 3/10 |
+| Host Name | Гнида |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:49:03 |
+| Lobby Creation Time | Monday, January 22, 2024 22:49:13 |
 
 
 |  | epic_boss_fight_nightmare |
