@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 16/24 |
+| Players | 12/24 |
 | Host Name | dNische_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125040327491 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:34:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125039743686 |
-| Players | 19/24 |
-| Host Name | veon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:33:55 |
+| Lobby ID | 28617125041833486 |
+| Players | 5/8 |
+| Host Name | игрь амфетоминовая пятка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125040970334 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Кирюш турбо хрюш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125041726475 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Jon Snow |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:53 |
@@ -95,37 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125041742845 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | flowy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125039132315 |
-| Players | 7/8 |
-| Host Name | Анальный шарик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:33:18 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125039806754 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | gvbs |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:33:59 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617125038669575 |
-| Players | 1/7 |
-| Host Name | Тини Камушкин |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:32:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:33:49 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28617125041908129 |
+| Players | 1/7 |
+| Host Name | Тини Камушкин |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:04 |
 
 
