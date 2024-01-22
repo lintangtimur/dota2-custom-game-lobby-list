@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125283989101 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:17:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125286666487 |
-| Players | 4/10 |
-| Host Name | Randy |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:19:52 |
+| Lobby ID | 28617125287376022 |
+| Players | 1/15 |
+| Host Name | Nut Supplier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:20:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125281636577 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ANITA MAX WYNN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:15:08 |
@@ -103,29 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125287150357 |
-| Players | 1/8 |
-| Host Name | Сквиртуоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:20:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125287136585 |
-| Players | 1/8 |
-| Host Name | М-01 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:20:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28617125287140226 |
 | Players | 1/8 |
 | Host Name | streamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:20:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125287136585 |
+| Players | 2/8 |
+| Host Name | М-01 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:20:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125283874412 |
+| Players | 9/10 |
+| Host Name | Pupsik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:17:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125285189137 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | All muth Dead Chat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:18:28 |
