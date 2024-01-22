@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125030125577 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | RELEGATE FC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125030350238 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ТИГРУЛЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125030676427 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Арсенчик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:44 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:24:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125031239775 |
-| Players | 1/15 |
-| Host Name | ♡unlucky nn♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:25:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125025533660 |
-| Players | 9/10 |
-| Host Name | FavoRi  n-qiN |
+| Lobby ID | 28617125031383315 |
+| Players | 4/8 |
+| Host Name | Fapanya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:19:20 |
+| Lobby Creation Time | Monday, January 22, 2024 19:25:28 |
 
 
 |  | epic_boss_fight_nightmare |
