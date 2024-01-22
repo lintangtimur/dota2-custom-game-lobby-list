@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124938765136 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | SMOTRA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:33:20 |
@@ -40,56 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124938240254 |
-| Players | 9/10 |
-| Host Name | Nhe4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:32:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124938956854 |
-| Players | 13/15 |
-| Host Name | LoveLera |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:33:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124939135676 |
-| Players | 9/10 |
-| Host Name | Avicks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:33:51 |
+| Lobby ID | 28617124939851405 |
+| Players | 6/10 |
+| Host Name | Pray to Play |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:34:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124938956754 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | эщкере панк |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:33:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124939725529 |
-| Players | 2/10 |
-| Host Name | OSEMENITEL'_1111111111111111111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:34:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124939809169 |
-| Players | 2/8 |
-| Host Name | Лил Чичь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:34:47 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Илья Николаевич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124939941532 |
+| Players | 1/10 |
+| Host Name | Where is Danko? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:34:58 |
 
 
