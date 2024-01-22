@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125082052045 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:15:00 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125090351895 |
-| Players | 1/8 |
-| Host Name | hate はマshiningマは 彡はz |
+| Lobby ID | 28617125090925462 |
+| Players | 4/8 |
+| Host Name | zxcБАНДИТ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:22:40 |
+| Lobby Creation Time | Monday, January 22, 2024 20:23:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125089618737 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ramos #Free_Palestine |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:22:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125090243685 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Оргазм кукушки |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:22:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125090546761 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 天王寺瑚太朗 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 22, 2024 20:22:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125090652265 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:22:57 |
