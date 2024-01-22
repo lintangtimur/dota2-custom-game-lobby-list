@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124917896288 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
+| Lobby ID | 28617124934493188 |
+| Players | 1/15 |
+| Host Name |  ∩ (◣_◢) ∩  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:27:20 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124934168460 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | faverkss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124933488928 |
-| Players | 1/15 |
-| Host Name | адидас |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 17:25:56 |
+| Lobby ID | 28617124933755448 |
+| Players | 3/8 |
+| Host Name | prada\party |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:19 |
 
 
 |  | ot3_desert_octet |
@@ -92,31 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:27:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124933755448 |
-| Players | 3/8 |
-| Host Name | prada\party |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:26:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124934493188 |
+| Lobby ID | 28617124934642543 |
 | Players | 1/15 |
-| Host Name |  ∩ (◣_◢) ∩  |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:27:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124934540230 |
-| Players | 1/24 |
-| Host Name | Strelitzia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:27:24 |
+| Host Name | адидас |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:27:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:19:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124934558952 |
+| Players | 1/10 |
+| Host Name | T3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:27:26 |
 
 
