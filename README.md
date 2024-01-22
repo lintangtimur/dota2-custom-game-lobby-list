@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:52:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125017796263 |
-| Players | 1/8 |
-| Host Name | Лил Чичь |
+| Lobby ID | 28617125017806017 |
+| Players | 4/15 |
+| Host Name | Виктор Кобейн |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:11:10 |
+| Lobby Creation Time | Monday, January 22, 2024 19:11:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:11:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125017710695 |
-| Players | 3/8 |
-| Host Name | чумба юмба |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:11:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125017806017 |
-| Players | 1/15 |
-| Host Name | Виктор Кобейн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:11:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125010030317 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125016918816 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RTZ.Kodiang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:14 |
