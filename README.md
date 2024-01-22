@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124934007903 |
+| Players | 2/8 |
+| Host Name | wwwwwwwwwwwwwwwwww. |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:40 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124931827005 |
-| Players | 22/24 |
-| Host Name | Abdul |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:23:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124933027242 |
-| Players | 9/10 |
-| Host Name | Satoru Gojō |
+| Lobby ID | 28617124933735402 |
+| Players | 2/24 |
+| Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 17:25:18 |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124917896288 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124931786938 |
-| Players | 2/24 |
-| Host Name | <Cyborgix> |
+| Players | 1/24 |
+| Host Name | GeForce |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:23:34 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124933553280 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | BlacK_ArroW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:02 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:25:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124933735402 |
-| Players | 1/24 |
-| Host Name | ValKyria GaLanTiS♥ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
+| Lobby ID | 28617124934142221 |
+| Players | 4/8 |
+| Host Name | i hate u all |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:51 |
 
 
 |  | epic_boss_fight_normal |
