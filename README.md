@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125227160801 |
-| Players | 2/8 |
-| Host Name | poLeyK#JustRust |
+| Lobby ID | 28617125247662689 |
+| Players | 1/8 |
+| Host Name | MiMiK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:24:34 |
+| Lobby Creation Time | Monday, January 22, 2024 22:43:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125247440324 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Flash Gordon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:43:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244459458 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | K h a m i |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125246683041 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125247460829 |
-| Players | 11/15 |
+| Players | 8/15 |
 | Host Name | Isca |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:43:10 |
@@ -96,27 +96,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125247646910 |
 | Players | 1/10 |
-| Host Name | the best |
+| Host Name | i'm so tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:43:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125247162086 |
-| Players | 9/10 |
-| Host Name | Властелин |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:42:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125247662689 |
-| Players | 1/8 |
-| Host Name | MiMiK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:43:22 |
+| Lobby ID | 28617125247806684 |
+| Players | 1/24 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:43:30 |
 
 
 |  | epic_boss_fight_nightmare |
