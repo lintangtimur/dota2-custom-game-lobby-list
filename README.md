@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125221961836 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Цепий бычень |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:19:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125214003634 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:12:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125222070320 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | WIO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:19:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125212539353 |
-| Players | 21/24 |
+| Players | 18/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:11:02 |
@@ -113,16 +113,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125220966314 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:18:49 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125222502409 |
+| Players | 2/8 |
+| Host Name | владыка(UWU) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:20:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125222627927 |
+| Players | 4/15 |
+| Host Name | 󠀡󠀡 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:20:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125222616232 |
+| Players | 1/8 |
+| Host Name | ♡♡♡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:20:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125222639995 |
+| Players | 1/15 |
+| Host Name | NaGato - 初級 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 22:20:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125220091027 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | lol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:18:00 |
