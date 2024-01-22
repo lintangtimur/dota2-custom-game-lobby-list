@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125118192847 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:47:30 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125126116633 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Ынженер™ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:54:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125126350291 |
+| Players | 1/24 |
+| Host Name | 出生在海边 从小喜欢浪 |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 20:54:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125126365779 |
+| Players | 1/15 |
+| Host Name | MaLast |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:54:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125126350983 |
+| Players | 1/24 |
+| Host Name | 小百合 平野 |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 20:54:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DUKUN SANTET |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:52:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125126157398 |
-| Players | 1/5 |
-| Host Name | Ardilya |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 20:54:33 |
 
 
