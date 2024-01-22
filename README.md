@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124973721291 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Super Position |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:19:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124975406290 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Puppet Master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:22:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124975368287 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Big Fatхер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:22:02 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Тот самый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:21:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124975891515 |
+| Players | 1/15 |
+| Host Name | адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:22:43 |
 
 
 |  | epic_boss_fight_nightmare |
