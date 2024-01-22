@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125396627328 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:06:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125387496492 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | magnus did nothing wrong |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:57:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125371611695 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | кий |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:42:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125393368833 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:03:41 |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 01:07:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125397829177 |
-| Players | 4/10 |
-| Host Name | SEA WOLF |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:08:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125397767724 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Фрост173 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 01:08:02 |
@@ -139,11 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125397810563 |
-| Players | 2/10 |
-| Host Name | yurika |
+| Lobby ID | 28617125397956349 |
+| Players | 3/10 |
+| Host Name | ШВЕЕЕЕПС |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:08:04 |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:08:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125396939966 |
+| Players | 1/10 |
+| Host Name | ccaнинa мepтвoгo дeдa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:07:12 |
 
 
 |  | epic_boss_fight_nightmare |
