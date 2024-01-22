@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125071888389 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Shadowblade Riki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:05:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125063668274 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:06:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125073299307 |
-| Players | 1/8 |
-| Host Name | 123 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Monday, January 22, 2024 20:06:42 |
+| Lobby ID | 28617125073409217 |
+| Players | 1/10 |
+| Host Name | Titio Dark Kevin |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 20:06:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125073489101 |
+| Players | 1/15 |
+| Host Name | A |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:06:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125073492418 |
+| Players | 1/15 |
+| Host Name | <3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:06:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +144,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hit |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 22, 2024 20:06:33 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28617125073518937 |
+| Players | 1/7 |
+| Host Name | Mr.Einsiedler [ru] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:06:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125073521843 |
+| Players | 1/5 |
+| Host Name | Gorham |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:06:54 |
 
 
