@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124917896288 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124933553280 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | BlacK_ArroW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:02 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:25:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124934142221 |
-| Players | 4/8 |
-| Host Name | i hate u all |
+| Lobby ID | 28617124934162913 |
+| Players | 2/24 |
+| Host Name | Agony |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124934168460 |
+| Players | 4/15 |
+| Host Name | faverkss |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:26:51 |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
 
 
 |  | epic_boss_fight_normal |
