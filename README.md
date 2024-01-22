@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124987681157 |
-| Players | 7/8 |
-| Host Name | T.R |
+| Lobby ID | 28617124988175478 |
+| Players | 7/15 |
+| Host Name | HERALD |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:37:05 |
+| Lobby Creation Time | Monday, January 22, 2024 18:37:41 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124987280051 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:36:37 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124987645002 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ☠۩ПсИх۩☠ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:37:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124988175478 |
-| Players | 3/15 |
-| Host Name | HERALD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:37:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124985808915 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | 4MORT |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:34:52 |
@@ -112,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124988409685 |
+| Lobby ID | 28617124988477319 |
 | Players | 1/10 |
 | Host Name | Xeno's |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:37:58 |
+| Lobby Creation Time | Monday, January 22, 2024 18:38:03 |
 
 
