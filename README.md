@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124998536584 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Пивослав Мудрый гроза ящеров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:49:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124998103798 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 18:49:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124998652001 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 18:50:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124998698499 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Egoist |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:50:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124995962875 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | y peenoise r always dumb? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:46:59 |
