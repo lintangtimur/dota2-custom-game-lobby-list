@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:38:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124898922961 |
-| Players | 1/8 |
-| Host Name | гадаю на клиторе |
+| Lobby ID | 28617124899814366 |
+| Players | 8/10 |
+| Host Name | ZXC_PIDARAS) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:34:58 |
+| Lobby Creation Time | Monday, January 22, 2024 16:36:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124897085884 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | bigboiboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:07 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124899916812 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Чайный глистик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:36:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124899814366 |
-| Players | 7/10 |
-| Host Name | ZXC_PIDARAS) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:36:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:11:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124896643145 |
-| Players | 7/10 |
-| Host Name | Secretary-specific |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:31:25 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617124899621679 |
-| Players | 2/7 |
-| Host Name | Readmeed |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 16:36:04 |
 
 
 |  | epic_boss_fight_normal |
