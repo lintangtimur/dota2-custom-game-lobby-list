@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125305764971 |
-| Players | 14/15 |
-| Host Name | El Sucio DAN |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:09 |
+| Lobby ID | 28617125307827928 |
+| Players | 10/24 |
+| Host Name | Ah Zai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:40:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125310081428 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Son Goku |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125308489119 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Doraemon |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:40:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125309932835 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | AZRAEL 00 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:11 |
@@ -77,25 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125305291523 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | MoonDio |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:37:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125307827928 |
-| Players | 9/24 |
-| Host Name | Ah Zai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:40:09 |
+| Lobby ID | 28617125310235782 |
+| Players | 5/15 |
+| Host Name | kobinator |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:42:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125310281068 |
+| Players | 2/10 |
+| Host Name | Jilix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:42:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125308061129 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EvilNoob2007 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:40:23 |
