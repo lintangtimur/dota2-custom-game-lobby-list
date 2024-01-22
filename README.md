@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125305610171 |
-| Players | 9/10 |
-| Host Name | Ltpw01 |
+| Lobby ID | 28617125306306515 |
+| Players | 4/10 |
+| Host Name | ketamine girl |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:00 |
+| Lobby Creation Time | Monday, January 22, 2024 23:38:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125301264274 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ???% |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:33:48 |
@@ -31,18 +31,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125306323203 |
-| Players | 5/8 |
-| Host Name | 10 ммр абьюзер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:41 |
+| Lobby ID | 28617125304180905 |
+| Players | 6/8 |
+| Host Name | I am the supreme gentleman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:36:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125304911378 |
-| Players | 7/10 |
-| Host Name | Шалунишка |
+| Players | 1/10 |
+| Host Name | Pinoikyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:37:20 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125305973493 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Elune || 嘘月 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:38:21 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125305268492 |
-| Players | 4/8 |
-| Host Name | cazaputas42 |
+| Players | 6/8 |
+| Host Name | Angelico |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:37:40 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125306095041 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | sarfentas |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:38:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125306173213 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | †bysadneess† |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:38:33 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125306161166 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | k3zar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:38:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125304180905 |
-| Players | 6/8 |
-| Host Name | I am the supreme gentleman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:36:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125306306515 |
-| Players | 2/10 |
-| Host Name | ketamine girl |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:40 |
 
 
 |  | epic_boss_fight_nightmare |
