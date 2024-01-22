@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125321362148 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | fgervnhkuytqsdafsd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:53:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315598176 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | AID |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317111334 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Harvest Dawn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125320886871 |
-| Players | 2/8 |
-| Host Name | Alucard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:52:45 |
+| Lobby ID | 28617125321445228 |
+| Players | 3/10 |
+| Host Name | American Psycho |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 23:53:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125320804360 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | парашют sоли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:52:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125321212118 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | иo̷ ۰۪۫ℳ乇ℛƈƳ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:53:04 |
@@ -171,6 +171,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TONY PARRY |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:52:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125321547291 |
+| Players | 1/8 |
+| Host Name | EL NEGRITO OJO CLARO |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 23:53:24 |
 
 
 |  | epic_boss_fight_nightmare |
