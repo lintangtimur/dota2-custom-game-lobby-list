@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124936912400 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Rekardio |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:30:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124937227569 |
+| Players | 1/8 |
+| Host Name | koala |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:31:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Attor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:12:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124937132055 |
-| Players | 1/10 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:31:03 |
 
 
