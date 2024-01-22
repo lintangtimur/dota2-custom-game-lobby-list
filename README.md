@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124934007903 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | wwwwwwwwwwwwwwwwww. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124934750397 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | BIZON |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:27:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124934162913 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | Agony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124934382763 |
-| Players | 7/10 |
-| Host Name | Dozy |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:27:11 |
+| Lobby ID | 28617124935018093 |
+| Players | 3/10 |
+| Host Name | ЛЕСЛИ ЧАУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:28:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:19:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124934558952 |
-| Players | 1/10 |
-| Host Name | T3 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:27:26 |
 
 
