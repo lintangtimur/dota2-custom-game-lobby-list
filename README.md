@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124934168460 |
-| Players | 11/15 |
-| Host Name | faverkss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
+| Lobby ID | 28617124934723816 |
+| Players | 2/15 |
+| Host Name | адидас |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:27:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124934162913 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Agony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124934382763 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Dozy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:27:11 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124934674128 |
+| Players | 1/24 |
+| Host Name | GeForce |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:27:36 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124934642543 |
-| Players | 1/15 |
-| Host Name | адидас |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 17:27:33 |
+| Lobby ID | 28617124934750397 |
+| Players | 3/15 |
+| Host Name | BIZON |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:27:42 |
 
 
 |  | epic_boss_fight_normal |
