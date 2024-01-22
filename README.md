@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124928523632 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Jungeeeeeeee |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:18:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124929209214 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ⭕⃤_ MORTAL ALLAH QB1 ⭕⃤_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:19:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124924074712 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:12:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124928473647 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:18:53 |
