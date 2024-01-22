@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124977113241 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Frenky-kun |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:15 |
@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:21:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124977215511 |
+| Players | 1/8 |
+| Host Name | новогодн1й п0к3м0н |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:24:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124975266607 |
@@ -65,20 +74,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:21:52 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124977204015 |
-| Players | 1/5 |
-| Host Name | ming |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:24:21 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124977214407 |
-| Players | 1/10 |
-| Host Name | ⁂•☃Donald Treantツ☃•⁂ |
+| Players | 2/10 |
+| Host Name | ming |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:22 |
 
