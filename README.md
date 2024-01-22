@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125304494576 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | шизик(НГОЛО КАНТЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:36:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125304990240 |
-| Players | 9/15 |
-| Host Name | wotam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:37:24 |
+| Lobby ID | 28617125305610171 |
+| Players | 5/10 |
+| Host Name | Ltpw01 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:38:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125301264274 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ???% |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:33:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125304911378 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Шалунишка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:37:20 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:37:42 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125305774728 |
+| Players | 6/8 |
+| Host Name | KAWAZAKI |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:38:09 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125304513559 |
@@ -92,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:36:57 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125305493604 |
-| Players | 2/7 |
-| Host Name | PaiNwoW~ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:37:53 |
+| Lobby ID | 28617125305566877 |
+| Players | 3/10 |
+| Host Name | Alex_sas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:37:58 |
 
 
 |  | epic_boss_fight_normal |
