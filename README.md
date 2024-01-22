@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 11/15 |
-| Host Name | Kaltes |
+| Players | 10/15 |
+| Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125054978277 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | U_U |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:48:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125052449323 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Kurmanjan Datka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jh0xs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:47:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125055301630 |
+| Players | 1/24 |
+| Host Name | Silvers Rayleigh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:49:14 |
 
 
 |  | epic_boss_fight_nightmare |
