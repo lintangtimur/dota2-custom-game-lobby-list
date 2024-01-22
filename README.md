@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125056428089 |
-| Players | 13/15 |
-| Host Name | Levi Ackerman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:50:20 |
+| Lobby ID | 28617125057274780 |
+| Players | 2/15 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 19:51:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125052449323 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Kurmanjan Datka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SirAlanGyrero (Комиссар) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:50:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125057164473 |
+| Players | 6/15 |
+| Host Name | Игорь Потов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:51:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125057257259 |
+| Players | 3/8 |
+| Host Name | ignoring everybody |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:51:09 |
 
 
 |  | epic_boss_fight_nightmare |
