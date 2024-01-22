@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125377522288 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Desert |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:48:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125375104434 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Леонов |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:45:41 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125374419581 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SharonS |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:45:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125378155607 |
-| Players | 1/24 |
-| Host Name | JohnNy |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:48:41 |
+| Lobby ID | 28617125378289410 |
+| Players | 6/8 |
+| Host Name | без негатива |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125377873366 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | μολὼν λαβέ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:48:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125377712691 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Kermitt |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:48:15 |
@@ -121,35 +121,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125378295253 |
-| Players | 2/8 |
-| Host Name | Poi_Poi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:48:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125378289410 |
+| Lobby ID | 28617125378338497 |
 | Players | 1/8 |
-| Host Name | без негатива |
+| Host Name | SRG6908 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:48:49 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125378351686 |
+| Players | 2/15 |
+| Host Name | Барон Рязани |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125378369546 |
+| Players | 5/10 |
+| Host Name | Gramozeka188 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125378420450 |
+| Players | 1/24 |
+| Host Name | мяу |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125369209094 |
-| Players | 8/10 |
-| Host Name | Green_Elf |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:39:51 |
+| Lobby ID | 28617125378306784 |
+| Players | 1/10 |
+| Host Name | bingbongbiang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125376342344 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KILOT |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:46:54 |
@@ -162,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No.6 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:48:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125378306784 |
-| Players | 1/10 |
-| Host Name | bingbongbiang |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:48:50 |
 
 
