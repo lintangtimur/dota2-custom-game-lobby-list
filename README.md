@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:45:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125313129275 |
-| Players | 3/8 |
-| Host Name | Derif.v2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:45:17 |
+| Lobby ID | 28617125314108051 |
+| Players | 1/24 |
+| Host Name | Tranquility5207 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:46:14 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125309932835 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | AZRAEL 00 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125309943745 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | enchantress (pregregnant) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125313826240 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Genjut$u |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:45:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125311202270 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | God Of Shit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:43:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125312673309 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 3-hp |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:50 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125314332247 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 痛苦与黑暗 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:46:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125313917988 |
-| Players | 13/15 |
-| Host Name | dcpshnik |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:46:03 |
+| Lobby ID | 28617125314542184 |
+| Players | 1/8 |
+| Host Name | nemec1306 |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:46:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,37 +121,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125301370093 |
-| Players | 23/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:33:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125314108051 |
+| Lobby ID | 28617125314626403 |
 | Players | 1/24 |
-| Host Name | Tranquility5207 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:46:14 |
+| Host Name | Dermatitis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:46:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125314672547 |
+| Players | 4/8 |
+| Host Name | ... |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:46:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125312272547 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Simpson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125314460978 |
-| Players | 1/5 |
+| Lobby ID | 28617125314661492 |
+| Players | 1/10 |
 | Host Name | OnlyGOD |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 23:46:34 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:46:45 |
 
 
