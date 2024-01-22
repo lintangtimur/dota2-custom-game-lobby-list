@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124983949549 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124985305880 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Glina |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:34:15 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:34:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124983838662 |
-| Players | 14/15 |
-| Host Name | 完全 |
+| Lobby ID | 28617124985594581 |
+| Players | 3/10 |
+| Host Name | Dark.Teacher |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:32:29 |
+| Lobby Creation Time | Monday, January 22, 2024 18:34:36 |
 
 
 |  | epic_boss_fight_challenger |
