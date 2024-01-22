@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124914578197 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Melted |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:58:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124910787036 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | ☆ VAZ ☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
@@ -94,15 +94,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124914643492 |
-| Players | 6/8 |
-| Host Name | ThOrflnn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:58:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28617124914761766 |
 | Players | 2/8 |
 | Host Name | You told me you loved me |
@@ -110,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:59:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124914947379 |
+| Players | 1/15 |
+| Host Name | 有品 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Monday, January 22, 2024 16:59:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124914838756 |
-| Players | 2/8 |
-| Host Name | アスタ |
+| Lobby ID | 28617124914980393 |
+| Players | 1/8 |
+| Host Name | наменявсесмотрят |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:59:14 |
+| Lobby Creation Time | Monday, January 22, 2024 16:59:27 |
 
 
 |  | epic_boss_fight_nightmare |
