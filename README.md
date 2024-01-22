@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124917896288 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124923446051 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | GodK4pp4lelelelele!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:11:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124924503177 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ROLO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:13:15 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124919001885 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Bad homeles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:05:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124924966631 |
+| Players | 1/10 |
+| Host Name | CLUE* |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 17:13:54 |
 
 
