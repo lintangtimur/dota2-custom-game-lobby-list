@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124945393193 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 雨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124953207680 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ПИВОЗАВР |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:08 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124951833702 |
-| Players | 22/24 |
-| Host Name | ™ bhadzki ½ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:51:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124952948730 |
-| Players | 4/8 |
-| Host Name | i am a surgeon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:52:47 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124953855130 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Darkneess |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:01 |
@@ -76,17 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124953982073 |
+| Lobby ID | 28617124952948730 |
+| Players | 7/8 |
+| Host Name | i am a surgeon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:52:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124954099799 |
 | Players | 1/8 |
-| Host Name | SLM_Valhejo |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 17:54:11 |
+| Host Name | Olivia Rodrigo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:54:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124953299422 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Dndama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:15 |
