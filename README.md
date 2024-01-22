@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125225091017 |
-| Players | 23/24 |
-| Host Name | Chisato |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 22:22:39 |
+| Lobby ID | 28617125226907502 |
+| Players | 22/24 |
+| Host Name | Diamond Fish sauce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:24:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125230414336 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | da, greshil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:27:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125230121394 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Пузожитель |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:27:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125228920352 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | G r e e n |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:26:11 |
@@ -112,29 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125227760062 |
-| Players | 14/15 |
-| Host Name | Molodoy |
+| Lobby ID | 28617125231090011 |
+| Players | 1/15 |
+| Host Name | Drunk moose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:25:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125226907502 |
-| Players | 22/24 |
-| Host Name | Diamond Fish sauce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:24:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125230908808 |
-| Players | 2/24 |
-| Host Name | Бытие Кирилла |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:28:00 |
+| Lobby Creation Time | Monday, January 22, 2024 22:28:10 |
 
 
 |  | epic_boss_fight_nightmare |
