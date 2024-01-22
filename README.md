@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:40:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125307235283 |
-| Players | 8/10 |
-| Host Name | ХУРМОЕД |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 23:39:34 |
+| Lobby ID | 28617125308175379 |
+| Players | 4/15 |
+| Host Name | Ð ＆ Ģ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:40:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125303855607 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:36:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125308064223 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | biz sizin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:40:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125307349256 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | fgervnhkuytqsdafsd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:39:41 |
@@ -94,38 +94,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125307804149 |
-| Players | 9/10 |
-| Host Name | Terinal |
+| Lobby ID | 28617125308144282 |
+| Players | 5/10 |
+| Host Name | PUSSY PRISONER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:40:08 |
+| Lobby Creation Time | Monday, January 22, 2024 23:40:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125307827928 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:40:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125308053690 |
-| Players | 3/8 |
-| Host Name | 52 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:40:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125308063341 |
-| Players | 1/10 |
-| Host Name | 12 |
+| Lobby ID | 28617125308127476 |
+| Players | 2/10 |
+| Host Name | zeR0- |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:40:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125305973493 |
+| Players | 19/24 |
+| Host Name | Elune || 嘘月 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:40:23 |
+| Lobby Creation Time | Monday, January 22, 2024 23:38:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125308246434 |
+| Players | 1/15 |
+| Host Name | akforce |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:40:33 |
 
 
 |  | epic_boss_fight_nightmare |
