@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124975527618 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 18:22:14 |
@@ -50,25 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124978144355 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124978748595 |
-| Players | 1/10 |
-| Host Name | SRT!5081 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:26:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124978795380 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | yagodachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:26:20 |
@@ -90,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Einsiedler [ru] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:21:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124978915888 |
+| Players | 1/10 |
+| Host Name | Osmos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:26:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124978980771 |
+| Players | 1/5 |
+| Host Name | -_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:26:33 |
 
 
