@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125064529321 |
-| Players | 5/8 |
-| Host Name | BaragoZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:58:17 |
+| Lobby ID | 28617125067123899 |
+| Players | 1/10 |
+| Host Name | Feedachyo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:00:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,26 +31,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125064437053 |
-| Players | 19/24 |
-| Host Name | Bubblicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:58:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125066115423 |
-| Players | 1/10 |
-| Host Name | :_V |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 19:59:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28617125063668274 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -58,37 +40,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125066027392 |
-| Players | 5/10 |
-| Host Name | oops- |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:59:44 |
+| Lobby ID | 28617125066115423 |
+| Players | 3/10 |
+| Host Name | :_V |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 19:59:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125065990456 |
-| Players | 14/15 |
-| Host Name | ︻デM̷A̷K̷A̷ ̷P̷A̷K̷A |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:59:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125066629583 |
-| Players | 3/15 |
-| Host Name | Олег Демикс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:00:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125064002172 |
-| Players | 9/10 |
-| Host Name | FAQ |
+| Lobby ID | 28617125067179112 |
+| Players | 5/24 |
+| Host Name | Lune |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:57:46 |
+| Lobby Creation Time | Monday, January 22, 2024 20:00:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125067325153 |
+| Players | 3/8 |
+| Host Name | Egor Nitler |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:00:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125067325740 |
+| Players | 1/24 |
+| Host Name | dNische_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:00:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125067338615 |
+| Players | 2/15 |
+| Host Name | Ataman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:00:59 |
 
 
