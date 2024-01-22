@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125306306515 |
+| Lobby ID | 28617125306173213 |
 | Players | 7/10 |
-| Host Name | ketamine girl |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:40 |
+| Host Name | †bysadneess† |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 23:38:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125306663856 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Миягу enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:39:01 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125304180905 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | I am the supreme gentleman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:36:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125306659705 |
-| Players | 1/15 |
-| Host Name | AloAlo |
+| Lobby ID | 28617125306594705 |
+| Players | 7/10 |
+| Host Name | Шалунишка |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:39:01 |
+| Lobby Creation Time | Monday, January 22, 2024 23:38:57 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125305973493 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Elune || 嘘月 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:38:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125305268492 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Angelico |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:37:40 |
@@ -81,42 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MoonDio |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:37:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125306594705 |
-| Players | 6/10 |
-| Host Name | Шалунишка |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125306173213 |
-| Players | 7/10 |
-| Host Name | †bysadneess† |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:38:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125306645344 |
-| Players | 4/8 |
-| Host Name | Bars |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:39:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125306724985 |
-| Players | 1/8 |
-| Host Name | 末有办法为你开满天花 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, January 22, 2024 23:39:05 |
 
 
 |  | epic_boss_fight_nightmare |
