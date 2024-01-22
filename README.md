@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124900896592 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124901605594 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Jewish Tunnel Rat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124902244711 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | RememberTheName |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:40:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124901277588 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:39 |
