@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125002226487 |
-| Players | 2/15 |
-| Host Name | VP.Pure~.WINLINE |
+| Players | 1/15 |
+| Host Name | Ride or die |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 18:54:15 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125004665700 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | SigmaSkuf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:56:58 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sad--)) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:57:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125003855683 |
-| Players | 7/8 |
-| Host Name | андрей aлпразолам |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:56:04 |
 
 
 |  | ot3_desert_octet |
@@ -101,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:52:09 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124997433844 |
-| Players | 4/5 |
-| Host Name | Jean-Michel Beauf |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:48:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125004637279 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Agoniya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:56:56 |
