@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244459458 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | K h a m i |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:21 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125244671277 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | porn for every day |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125243613555 |
-| Players | 9/10 |
-| Host Name | CreizyPinky |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 22:39:34 |
+| Lobby ID | 28617125245554170 |
+| Players | 8/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 22:41:23 |
 
 
 |  | ot3_desert_octet |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:41:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125245554170 |
-| Players | 2/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:41:23 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125245389703 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Born on a Monday |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:41:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125246098592 |
+| Players | 1/5 |
+| Host Name | wanna fact!? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:41:53 |
 
 
