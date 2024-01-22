@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124912575909 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | k3MGBELLCROSS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:55:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124910787036 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ☆ VAZ ☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124913869803 |
-| Players | 6/8 |
-| Host Name | Dobraik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:57:48 |
+| Lobby ID | 28617124913952119 |
+| Players | 2/8 |
+| Host Name | я летающий зубр аватара самолет |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:57:56 |
 
 
 |  | ot3_jungle_quintet |
