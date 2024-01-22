@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124915245156 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:59:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124915780289 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Buğra |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:00:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124914718392 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Elder Python |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:59:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124913815516 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Clit.Eastwood |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:44 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:01:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124916279573 |
+| Players | 2/8 |
+| Host Name | андрей aлпразолам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:01:22 |
 
 
 |  | epic_boss_fight_nightmare |
