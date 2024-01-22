@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124976011683 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | risk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:22:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124975891515 |
-| Players | 9/15 |
-| Host Name | адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:22:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124974961893 |
-| Players | 8/10 |
-| Host Name | Тот самый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:21:31 |
+| Lobby ID | 28617124976416321 |
+| Players | 3/8 |
+| Host Name | Satoru!!! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:23:22 |
 
 
 |  | epic_boss_fight_nightmare |
