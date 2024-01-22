@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:10:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125276553245 |
-| Players | 6/15 |
-| Host Name | ♡♡♡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:10:21 |
+| Lobby ID | 28617125276941188 |
+| Players | 3/24 |
+| Host Name | Avent- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:10:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125274929016 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 1K de dia - 1K-bro de noche |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:08:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125276571857 |
-| Players | 1/8 |
-| Host Name | Меня Тамаз завут |
+| Lobby ID | 28617125276936816 |
+| Players | 7/10 |
+| Host Name | сладкая вата |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:10:22 |
+| Lobby Creation Time | Monday, January 22, 2024 23:10:43 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125276598479 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SORRYIMSTONED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125273906323 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Nhị Sư Đệ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:07:53 |
@@ -137,22 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:09:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125276936816 |
-| Players | 4/10 |
-| Host Name | сладкая вата |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:10:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125276941188 |
-| Players | 3/24 |
-| Host Name | Avent- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:10:43 |
+| Lobby ID | 28617125277144613 |
+| Players | 2/15 |
+| Host Name | Levi Ackerman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:10:54 |
 
 
 |  | epic_boss_fight_nightmare |
