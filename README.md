@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125169392370 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:32:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125174520095 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Joshe Mr A.Z. |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:36:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125172598506 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:35:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125174579164 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | shpic707 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:36:54 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125174703981 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DG_COACH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:37:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125174822174 |
-| Players | 5/10 |
-| Host Name | ДЖОЙКАНИСТРА |
+| Lobby ID | 28617125175523671 |
+| Players | 1/8 |
+| Host Name | can`t win?! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:37:07 |
+| Lobby Creation Time | Monday, January 22, 2024 21:37:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125175053735 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Haezelnuts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:37:19 |
