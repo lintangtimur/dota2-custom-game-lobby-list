@@ -29,39 +29,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124916846980 |
-| Players | 23/24 |
-| Host Name | Lulalelilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:02:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124917896288 |
 | Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124917694815 |
-| Players | 9/10 |
-| Host Name | o.0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:03:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124917894227 |
-| Players | 6/8 |
-| Host Name | buntarou |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
 
 
@@ -72,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:11:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124918382499 |
+| Players | 1/5 |
+| Host Name | Granny tits 4 da win |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, January 22, 2024 17:04:25 |
 
 
