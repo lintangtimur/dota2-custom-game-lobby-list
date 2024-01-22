@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124913815516 |
-| Players | 12/15 |
-| Host Name | Clit.Eastwood |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:57:44 |
+| Lobby ID | 28617124920877730 |
+| Players | 5/8 |
+| Host Name | sq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:08:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124920703297 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BWC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:07:46 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:07:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124920877730 |
-| Players | 4/8 |
-| Host Name | sq |
+| Lobby ID | 28617124921177312 |
+| Players | 2/15 |
+| Host Name | Asuka Langley |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:08:02 |
+| Lobby Creation Time | Monday, January 22, 2024 17:08:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124918847727 |
-| Players | 8/10 |
-| Host Name | Blaze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:05:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28617124919001885 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Bad homeles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:05:19 |
