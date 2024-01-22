@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124924074712 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:12:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:18:15 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124928248418 |
+| Players | 5/8 |
+| Host Name | Pika4y |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:18:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124928302741 |
+| Players | 1/15 |
+| Host Name | tice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:18:39 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124924203108 |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124925543870 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | y peenoise r always dumb? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:14:44 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | StIngeR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:15:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124926572594 |
+| Players | 8/10 |
+| Host Name | Holy_Dad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:16:11 |
 
 
