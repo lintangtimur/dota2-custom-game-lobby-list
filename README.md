@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:48:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125207531396 |
-| Players | 9/10 |
-| Host Name | Hilfe ist unterwegs |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:06:28 |
+| Lobby ID | 28617125208590138 |
+| Players | 2/15 |
+| Host Name | matesh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:07:25 |
 
 
 |  | ot3_desert_octet |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:07:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125208590138 |
-| Players | 2/15 |
-| Host Name | New player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:07:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125208637945 |
-| Players | 1/15 |
-| Host Name | I am Batman~!~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:07:28 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28617125208172126 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125206698590 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Гена Цидармян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:05:43 |
