@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:28:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125233622273 |
-| Players | 7/10 |
-| Host Name | Dei_FoR |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:30:28 |
+| Lobby ID | 28617125232752562 |
+| Players | 7/8 |
+| Host Name | Саша-Яша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:29:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125231196066 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:28:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125231627814 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | magucciy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:28:39 |
@@ -83,57 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:30:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125233384799 |
-| Players | 1/24 |
-| Host Name | Tranquility5207 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 22, 2024 22:30:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125232752562 |
-| Players | 6/8 |
-| Host Name | Саша-Яша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:29:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125233915760 |
-| Players | 4/8 |
-| Host Name | Ancient Photoparation |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:30:44 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125233936766 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 4 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:30:45 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125234146805 |
+| Players | 1/24 |
+| Host Name | Tranquility5207 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:30:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125234137690 |
+| Players | 1/10 |
+| Host Name | Mr.Cop |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 22:30:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125225915039 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:23:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125227750105 |
-| Players | 9/10 |
-| Host Name | Славный Котик Иут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:25:07 |
 
 
