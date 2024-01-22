@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | [sms] ツ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125021013440 |
-| Players | 22/24 |
-| Host Name | Crunchypopo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:14:34 |
+| Lobby ID | 28617125022642548 |
+| Players | 6/15 |
+| Host Name | Wu1t |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:16:18 |
 
 
 |  | ot3_gardens_duo |
@@ -47,21 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:14:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617125022642548 |
-| Players | 6/15 |
-| Host Name | Wu1t |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:16:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125022817087 |
-| Players | 2/8 |
-| Host Name | Сыграем на мать? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:16:29 |
+| Lobby ID | 28617125022912113 |
+| Players | 1/5 |
+| Host Name | んﾉり乇 の刀 乃ひ丂ん |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:16:35 |
 
 
