@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:38:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124900925203 |
-| Players | 1/10 |
-| Host Name | Satoru Gojō |
+| Lobby ID | 28617124900896592 |
+| Players | 1/8 |
+| Host Name | Pachacutec |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:38:07 |
+| Lobby Creation Time | Monday, January 22, 2024 16:38:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,34 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124897085884 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | bigboiboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124900375374 |
-| Players | 7/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:37:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124900896592 |
-| Players | 1/8 |
-| Host Name | Pachacutec |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:38:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124900968166 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Power Pooch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:11 |
