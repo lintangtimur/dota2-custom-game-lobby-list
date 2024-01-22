@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317645529 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | lalala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:37 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315598176 |
-| Players | 5/15 |
-| Host Name | Disenchantment |
+| Players | 3/15 |
+| Host Name | Goooodlike |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125309627929 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | талант |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:41:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315466260 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Xtecoo |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125312673309 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:50 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:49:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125315788320 |
-| Players | 6/8 |
-| Host Name | dame time |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:47:50 |
+| Lobby ID | 28617125318084075 |
+| Players | 9/10 |
+| Host Name | Hplokoct |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317111334 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Harvest Dawn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:06 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:49:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125317875638 |
-| Players | 11/15 |
-| Host Name | Anvil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:49:50 |
+| Lobby ID | 28617125318288114 |
+| Players | 2/8 |
+| Host Name | AG.Kipitachka |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125318001138 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | aesthetic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:57 |
@@ -135,42 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125318098145 |
-| Players | 5/8 |
-| Host Name | Ваничка |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125318084075 |
-| Players | 4/10 |
-| Host Name | Hplokoct |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125318079569 |
-| Players | 1/10 |
-| Host Name | сипую кам |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125318104572 |
-| Players | 1/10 |
-| Host Name | TORONTOADIDAS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:03 |
 
 
 |  | epic_boss_fight_nightmare |
