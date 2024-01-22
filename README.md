@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124908131567 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:49:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124911033059 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:36 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:55:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124912364279 |
-| Players | 1/10 |
-| Host Name | Ronin |
+| Lobby ID | 28617124912463543 |
+| Players | 1/8 |
+| Host Name | KD6-3.7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:55:35 |
+| Lobby Creation Time | Monday, January 22, 2024 16:55:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124912575909 |
+| Players | 1/8 |
+| Host Name | k3MGBELLCROSS |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 16:55:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:11:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124911100321 |
-| Players | 2/5 |
-| Host Name | СЫН ОЛИВКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:53:43 |
 
 
 |  | epic_boss_fight_nightmare |
