@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125294261744 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:27:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125295714585 |
-| Players | 10/15 |
-| Host Name | Gh??ls don’t sleep (mute) |
+| Lobby ID | 28617125295902268 |
+| Players | 5/10 |
+| Host Name | Tainted Sprizzi |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:28:27 |
+| Lobby Creation Time | Monday, January 22, 2024 23:28:37 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125283210485 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:16:36 |
@@ -68,19 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125277169612 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Marshals |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125273435317 |
-| Players | 4/5 |
-| Host Name | BeforeFail |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 22, 2024 23:07:26 |
+| Lobby ID | 28617125295940101 |
+| Players | 3/15 |
+| Host Name | zzZz !! |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:28:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125295836844 |
+| Players | 1/8 |
+| Host Name | KinT.Anduin |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:28:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125295969339 |
+| Players | 2/15 |
+| Host Name | Disenchantment |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:28:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125295997916 |
+| Players | 1/8 |
+| Host Name | 5к узник |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 23:28:43 |
 
 
 |  | epic_boss_fight_nightmare |
