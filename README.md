@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125146722620 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125149283569 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | inxsomnia |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:14:42 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:14:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125149445753 |
-| Players | 1/8 |
-| Host Name | Кузя лакомкин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:14:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125149497483 |
-| Players | 2/10 |
-| Host Name | дверь. |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 21:14:53 |
 
 
 |  | epic_boss_fight_nightmare |
