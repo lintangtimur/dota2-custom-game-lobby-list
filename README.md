@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124978144355 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124980656790 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Hardtokill22 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:28:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124981194594 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sisya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:29:17 |
