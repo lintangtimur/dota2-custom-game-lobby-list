@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124903323347 |
-| Players | 10/15 |
-| Host Name | Фуфлик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:41:48 |
+| Lobby ID | 28617124903590141 |
+| Players | 3/8 |
+| Host Name | I am the supreme gentleman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:42:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124903238547 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ₭۞ђ ☯ ҜÆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:41:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124903477876 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:42:03 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124903590141 |
-| Players | 2/8 |
-| Host Name | I am the supreme gentleman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 16:42:13 |
 
 
 |  | epic_boss_fight_nightmare |
