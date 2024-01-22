@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124942122588 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ŧɇNf๘łĐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:37:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124940807810 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Eggtarts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:36:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124942328948 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:38:14 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:36:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124942625334 |
-| Players | 2/8 |
-| Host Name | yzf |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:38:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124942664950 |
-| Players | 4/10 |
-| Host Name | 355 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:38:42 |
+| Lobby ID | 28617124942794035 |
+| Players | 1/15 |
+| Host Name | D.Brain |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:38:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Study playing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124937821310 |
-| Players | 9/10 |
-| Host Name | Илья Николаевич |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:32:01 |
 
 
 |  | epic_boss_fight_nightmare |
