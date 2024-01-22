@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125241101219 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 1K de dia - 1K-bro de noche |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:37:16 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125246883633 |
-| Players | 3/8 |
-| Host Name | Raznitsa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:42:37 |
+| Lobby ID | 28617125247440324 |
+| Players | 2/8 |
+| Host Name | Flash Gordon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:43:09 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244559755 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Marshals |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:27 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125247411569 |
-| Players | 2/15 |
-| Host Name | Nandao VampireИб Claws |
+| Players | 1/15 |
+| Host Name | Fekita |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 22, 2024 22:43:07 |
 
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125247460829 |
+| Players | 11/15 |
+| Host Name | Isca |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:43:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125247646910 |
+| Players | 1/10 |
+| Host Name | the best |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:43:21 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125247162086 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Властелин |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:53 |
@@ -94,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125247453496 |
-| Players | 4/8 |
-| Host Name | ... |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:43:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125247440324 |
+| Lobby ID | 28617125247662689 |
 | Players | 1/8 |
-| Host Name | Flash Gordon |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:43:09 |
+| Host Name | MiMiK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:43:22 |
 
 
 |  | epic_boss_fight_nightmare |
