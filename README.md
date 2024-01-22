@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124980049352 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | not=lose#SprintRust |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:27:53 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124977851442 |
-| Players | 3/15 |
-| Host Name | NOOB LIKE SAY EZ!! |
+| Players | 2/15 |
+| Host Name | Pochison |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:10 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124978144355 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124980656790 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Hardtokill22 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:28:37 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 鱼人智者 |
 | Region | Unknown |
 | Lobby Creation Time | Monday, January 22, 2024 18:28:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124980944509 |
-| Players | 5/8 |
-| Host Name | NiggaSaurus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:28:58 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N a y |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:27:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124981105620 |
+| Players | 1/10 |
+| Host Name | Agoniya |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:29:10 |
 
 
