@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617124953207680 |
 | Players | 4/15 |
-| Host Name | Bona |
+| Host Name | Maito Gai |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:08 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:52:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124947768821 |
-| Players | 9/10 |
-| Host Name | Ĵęŗĩcħo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:45:42 |
+| Lobby ID | 28617124953411646 |
+| Players | 1/10 |
+| Host Name | leppprozy |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:53:25 |
 
 
 |  | epic_boss_fight_nightmare |
