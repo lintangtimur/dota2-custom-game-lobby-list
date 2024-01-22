@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125149995896 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:15:19 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125153557430 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | soar loser |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:18:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125153643498 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | VainHope |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:18:29 |
@@ -137,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:18:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125153951767 |
-| Players | 2/5 |
+| Lobby ID | 28617125154226887 |
+| Players | 2/10 |
 | Host Name | JOEJIZZ |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 21:18:45 |
+| Lobby Creation Time | Monday, January 22, 2024 21:18:59 |
 
 
