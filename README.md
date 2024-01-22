@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124996614154 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Натян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:47:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124996949320 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:48:08 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kLotho' |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:48:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124997375173 |
+| Players | 3/8 |
+| Host Name | zzZz !! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:48:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | y peenoise r always dumb? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:46:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124997173163 |
-| Players | 1/5 |
-| Host Name | shogun - グン様 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 18:48:24 |
 
 
