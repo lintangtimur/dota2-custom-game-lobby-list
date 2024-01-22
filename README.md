@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125049659270 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125052449323 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Kurmanjan Datka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125052690344 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | 勝利 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125052735257 |
-| Players | 8/10 |
-| Host Name | 6JleBoTHa9_LLlH9ra |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:46:43 |
+| Lobby ID | 28617125051808713 |
+| Players | 1/8 |
+| Host Name | gojo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:45:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125052793143 |
-| Players | 4/8 |
-| Host Name | SirAlanGyrero (Комиссар) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:46:46 |
+| Lobby ID | 28617125053267968 |
+| Players | 1/8 |
+| Host Name | Atomega_kaktus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:47:14 |
 
 
 |  | epic_boss_fight_nightmare |
