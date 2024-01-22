@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125294833048 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | DRAKE |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:27:37 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125296465561 |
-| Players | 7/8 |
-| Host Name | Miracle's Son |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:29:10 |
+| Lobby ID | 28617125296716072 |
+| Players | 2/8 |
+| Host Name | Deathly |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:24 |
 
 
 |  | ot3_gardens_duo |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:10:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125295836844 |
-| Players | 6/8 |
-| Host Name | KinT.Anduin |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:28:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125296406033 |
-| Players | 3/15 |
-| Host Name | Mister csgorun.run |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:29:06 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125296418553 |
@@ -99,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:29:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125296406033 |
+| Players | 8/15 |
+| Host Name | Mister csgorun.run |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125296745782 |
+| Players | 1/15 |
+| Host Name | i m no longer fear the razor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125296752949 |
+| Players | 1/10 |
+| Host Name | λ̯͡ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:26 |
 
 
 |  | epic_boss_fight_nightmare |
