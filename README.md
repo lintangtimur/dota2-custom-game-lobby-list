@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124908131567 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:49:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124909988257 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | -_- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:52:02 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124910038404 |
+| Lobby ID | 28617124910555616 |
 | Players | 1/15 |
 | Host Name | mr. anal rambo slayer |
 | Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 16:52:07 |
+| Lobby Creation Time | Monday, January 22, 2024 16:52:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124910563208 |
+| Players | 1/8 |
+| Host Name | XITER VAGAL |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 16:52:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124907817653 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 16:48:47 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124909818999 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:51:47 |
