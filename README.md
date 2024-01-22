@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124942035572 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Wake Up, Ciri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:37:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124942328948 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:38:14 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ŧɇNf๘łĐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:37:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124942504498 |
+| Players | 1/15 |
+| Host Name | D.Brain |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:38:29 |
 
 
 |  | epic_boss_fight_normal |
