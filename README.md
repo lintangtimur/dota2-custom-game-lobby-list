@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124954246038 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Gooble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124955750614 |
-| Players | 11/15 |
-| Host Name | Windows 10 |
+| Lobby ID | 28617124956206810 |
+| Players | 2/8 |
+| Host Name | Fire inside |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
+| Lobby Creation Time | Monday, January 22, 2024 17:57:11 |
 
 
 |  | ot3_gardens_duo |
@@ -83,30 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124956257644 |
-| Players | 2/8 |
-| Host Name | 23 gavno |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:57:15 |
+| Lobby ID | 28617124955404021 |
+| Players | 2/10 |
+| Host Name | Se7enth |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617124956206810 |
-| Players | 2/8 |
-| Host Name | Fire inside |
+| Lobby ID | 28617124956385024 |
+| Players | 1/5 |
+| Host Name | BallxGod |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:57:11 |
+| Lobby Creation Time | Monday, January 22, 2024 17:57:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124955404021 |
+| Lobby ID | 28617124956432763 |
 | Players | 1/10 |
-| Host Name | Se7enth |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
+| Host Name | [VGB]NUBISHKA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:57:29 |
 
 
