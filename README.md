@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124962907939 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:06:07 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124963931653 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | beardrinker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:07:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124964233777 |
+| Players | 2/8 |
+| Host Name | Big Fatхер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:07:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124960985352 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | san~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:03:35 |
