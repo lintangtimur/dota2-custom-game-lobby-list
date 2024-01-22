@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124983949549 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 从卄巳  冂囗乂丫认长卩口扫口 仁 仈仁牙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124982495599 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:30:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984566337 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | NAISLYMON666 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124984449441 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Attacc |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:13 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:21 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124984659946 |
+| Players | 1/15 |
+| Host Name | MARIA NO ME DEJES POR EL PAYASO |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28617124977592600 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124981997140 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 咬人猫 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:30:16 |
