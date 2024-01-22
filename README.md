@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:04:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125335693803 |
-| Players | 1/15 |
-| Host Name | Audi Whit |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:07:00 |
+| Lobby ID | 28617125334598858 |
+| Players | 1/8 |
+| Host Name | Pinoikyo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:05:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125335490584 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Basher Balance |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:06:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125333980047 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Mathiasla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125333939211 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | DAkA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:18 |
@@ -76,26 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125334598858 |
-| Players | 2/8 |
-| Host Name | Pinoikyo |
+| Lobby ID | 28617125335852904 |
+| Players | 1/8 |
+| Host Name | Displex |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:05:56 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:07:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125335512037 |
-| Players | 1/5 |
-| Host Name | Haise_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:06:49 |
+| Lobby ID | 28617125335916770 |
+| Players | 5/8 |
+| Host Name | васисдас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:07:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125336018532 |
+| Players | 5/8 |
+| Host Name | NiKitoss993111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:07:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125333988551 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ComradeHeval |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
