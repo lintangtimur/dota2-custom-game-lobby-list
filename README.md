@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124990497920 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Dence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:40:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124990749540 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | андрей aлпразолам |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:40:46 |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:40:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124987280051 |
-| Players | 23/24 |
-| Host Name | N8 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:36:37 |
+| Lobby ID | 28617124991337019 |
+| Players | 2/8 |
+| Host Name | АдминГинекологии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:41:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124991342571 |
+| Players | 4/8 |
+| Host Name | ≡Čŧėŕßŏчҝα™≡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:41:29 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124985808915 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | 4MORT |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:34:52 |
