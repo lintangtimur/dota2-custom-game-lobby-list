@@ -23,37 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125333150625 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Meowster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:04:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125334926391 |
-| Players | 7/8 |
-| Host Name | [Б.О.М.Ж.И.]нубасик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:06:15 |
+| Lobby ID | 28617125335582080 |
+| Players | 2/15 |
+| Host Name | Darkour |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:06:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125335442381 |
-| Players | 1/15 |
-| Host Name | Calib |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:06:45 |
+| Lobby ID | 28617125335490584 |
+| Players | 4/15 |
+| Host Name | Basher Balance |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:06:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125335058059 |
-| Players | 6/10 |
-| Host Name | myrza |
+| Lobby ID | 28617125333980047 |
+| Players | 2/24 |
+| Host Name | PlutON |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:06:23 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125333980047 |
-| Players | 2/24 |
-| Host Name | PlutON |
+| Lobby ID | 28617125335553138 |
+| Players | 2/10 |
+| Host Name | порно_князь |
 | Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:06:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125335512037 |
+| Players | 1/5 |
+| Host Name | Haise_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:06:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125333988551 |
+| Players | 5/10 |
+| Host Name | ComradeHeval |
+| Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
 
 
