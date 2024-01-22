@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125386070285 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:56:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125388185902 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Elysium |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:58:35 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125371611695 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | кий |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:42:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125388484387 |
-| Players | 6/10 |
-| Host Name | с7 аерлайнс |
+| Lobby ID | 28617125388533056 |
+| Players | 2/24 |
+| Host Name | didldu |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:58:53 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:58:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125386153186 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | SunsetLover |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:56:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125374419581 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | DKKs- |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:45:00 |
@@ -101,31 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:58:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125388430347 |
-| Players | 7/8 |
-| Host Name | pup |
+| Lobby ID | 28617125388661400 |
+| Players | 2/10 |
+| Host Name | idk |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:58:49 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:59:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125388481232 |
-| Players | 6/15 |
-| Host Name | aurash |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:58:52 |
+| Lobby ID | 28617125388717111 |
+| Players | 2/15 |
+| Host Name | 勝 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:59:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125388533056 |
-| Players | 1/24 |
-| Host Name | didldu |
+| Lobby ID | 28617125388728988 |
+| Players | 5/8 |
+| Host Name | Fruit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:59:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125388746568 |
+| Players | 1/15 |
+| Host Name | Conq |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:58:55 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:59:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +162,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | < unblank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:57:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125378306784 |
+| Players | 9/10 |
+| Host Name | bingbongbiang |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:48:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125388623092 |
+| Players | 1/10 |
+| Host Name | RaNKoR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:59:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125388681579 |
+| Players | 1/10 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:59:04 |
 
 
