@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -29,37 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124949328216 |
-| Players | 13/15 |
-| Host Name | Xoroba |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:47:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124949296377 |
-| Players | 6/10 |
-| Host Name | ва цао ни маааа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:47:48 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124947863925 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:45:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124949551859 |
+| Players | 1/24 |
+| Host Name | veon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:48:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124949550999 |
+| Players | 4/15 |
+| Host Name | AnusMaximus |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:48:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124947768821 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Ĵęŗĩcħo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:45:42 |
