@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125333150625 |
 | Players | 5/24 |
-| Host Name | wabisabi |
+| Host Name | Meowster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:04:33 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125333489051 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ramon Ventura |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:04:52 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125333397526 |
-| Players | 9/10 |
-| Host Name | ± |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:04:47 |
+| Lobby ID | 28617125333826828 |
+| Players | 2/10 |
+| Host Name | Оггі та кукарачі |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:05:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,36 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125333762605 |
-| Players | 1/15 |
-| Host Name | Anvil |
+| Players | 14/15 |
+| Host Name | xxxxxxxxxxxxxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125326882495 |
-| Players | 8/10 |
-| Host Name | One_in_field_warrior |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:58:32 |
+| Lobby ID | 28617125333939211 |
+| Players | 2/8 |
+| Host Name | DAkA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:05:18 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125333695624 |
-| Players | 1/7 |
-| Host Name | Clown |
+| Lobby ID | 28617125333945938 |
+| Players | 1/10 |
+| Host Name |  |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:05:04 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617125333723095 |
-| Players | 1/7 |
-| Host Name | Карамелька |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:05:06 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:05:19 |
 
 
