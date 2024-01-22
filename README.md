@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315598176 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | Disenchantment |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125316621446 |
-| Players | 4/8 |
-| Host Name | ==\\\\\ aLL mUTEDXDDDDDD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:48:37 |
+| Lobby ID | 28617125317257336 |
+| Players | 1/8 |
+| Host Name | mietekproplayer24 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:49:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:47:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125316276018 |
-| Players | 3/8 |
-| Host Name | Сын Сварщика |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:48:18 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317111334 |
@@ -108,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harvest Dawn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125317322992 |
+| Players | 5/15 |
+| Host Name | 永遠在我心中(KuroKy)Fukk S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:49:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125317360806 |
+| Players | 1/15 |
+| Host Name | Nesay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:49:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOVI |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125314661492 |
+| Players | 9/10 |
+| Host Name | OnlyGOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:46:45 |
 
 
