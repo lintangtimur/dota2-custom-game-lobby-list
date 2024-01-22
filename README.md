@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124952679867 |
-| Players | 13/15 |
-| Host Name | ПУТИН ПОД СПАЙСОМ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:52:25 |
+| Lobby ID | 28617124953207680 |
+| Players | 4/15 |
+| Host Name | Bona |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:53:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124951833702 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | ™ bhadzki ½ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:51:14 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:52:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124953167139 |
-| Players | 5/8 |
-| Host Name | игрь амфетоминовая пятка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:53:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124953168154 |
-| Players | 4/15 |
-| Host Name | prada\party |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:53:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124947768821 |
@@ -94,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124952568103 |
-| Players | 9/10 |
-| Host Name | call me autisticttipon |
+| Lobby ID | 28617124953299422 |
+| Players | 1/10 |
+| Host Name | Dndama |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:52:16 |
+| Lobby Creation Time | Monday, January 22, 2024 17:53:15 |
 
 
