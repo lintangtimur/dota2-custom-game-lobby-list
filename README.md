@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124878542919 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Michael Myers |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 22, 2024 16:02:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124897509470 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Rdnyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124901605594 |
-| Players | 22/24 |
-| Host Name | Jewish Tunnel Rat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
+| Lobby ID | 28617124904507279 |
+| Players | 3/8 |
+| Host Name | spre |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:43:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124903477876 |
-| Players | 13/15 |
-| Host Name | адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:42:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124904507279 |
-| Players | 1/8 |
-| Host Name | spre |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:43:40 |
+| Lobby ID | 28617124904747339 |
+| Players | 1/15 |
+| Host Name | ренатик чан |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:44:03 |
 
 
 |  | epic_boss_fight_nightmare |
