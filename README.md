@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125060434143 |
 | Players | 2/24 |
-| Host Name | manjiro sano |
+| Host Name | Modo chill |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 19:54:17 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125062322547 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | jusikz |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:56:08 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125063383415 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Agresor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125063446312 |
+| Players | 1/15 |
+| Host Name | Смешная нарезка детей |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:57:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125063521257 |
+| Players | 5/8 |
+| Host Name | шашки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:57:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125059892162 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:53:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125063259784 |
-| Players | 2/5 |
-| Host Name | 14рeзaл дeтoк в бучe88 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:57:03 |
 
 
