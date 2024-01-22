@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125075071965 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | Carellas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:22 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:08:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125075793550 |
-| Players | 3/8 |
-| Host Name | SoloWayGOD bandit.camp |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:09:03 |
+| Lobby ID | 28617125075843208 |
+| Players | 1/24 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:09:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,25 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125074256763 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DeathWinG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:07:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125075843208 |
-| Players | 1/24 |
-| Host Name | 123 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:09:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125073059992 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 𝔐𝔬𝔯𝔫𝔦𝔫𝔤 𝔖𝔱𝔞𝔯 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:06:28 |
