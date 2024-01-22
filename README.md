@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125118192847 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:47:30 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125127470960 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | باخان |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:55:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125127521861 |
-| Players | 9/10 |
-| Host Name | 3:15 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:55:44 |
+| Lobby ID | 28617125127943786 |
+| Players | 2/8 |
+| Host Name | oewe |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:56:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125126388900 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:54:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125127672329 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Shadowblade Riki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:55:52 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125127943786 |
-| Players | 1/8 |
-| Host Name | oewe |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:56:06 |
+| Lobby ID | 28617125128066675 |
+| Players | 5/8 |
+| Host Name | FuLl EnGaGe ChAnG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:56:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125128086486 |
+| Players | 1/15 |
+| Host Name | UnPlayEd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:56:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125128112815 |
+| Players | 7/10 |
+| Host Name | ИРИШКА ОТРЫЖКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:56:15 |
 
 
 |  | epic_boss_fight_nightmare |
