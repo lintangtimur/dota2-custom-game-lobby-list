@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:25:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125356810026 |
-| Players | 12/15 |
-| Host Name | mikaboshi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:27:46 |
+| Lobby ID | 28617125356772912 |
+| Players | 2/8 |
+| Host Name | Ксения |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:27:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125353591978 |
-| Players | 14/15 |
-| Host Name | Desert |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:24:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125350332900 |
-| Players | 20/24 |
-| Host Name | //MX` |
+| Lobby ID | 28617125357218428 |
+| Players | 3/8 |
+| Host Name | Стасик Гематоген |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:21:21 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125356811473 |
+| Players | 7/8 |
+| Host Name | μολὼν λαβέ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:27:46 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:25:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125356622077 |
-| Players | 1/8 |
-| Host Name | EVian |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:27:35 |
+| Lobby ID | 28617125356794408 |
+| Players | 1/10 |
+| Host Name | 為什麼你很爛 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:27:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125348232168 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:19:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125356811473 |
-| Players | 5/8 |
-| Host Name | μολὼν λαβέ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:27:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125356794408 |
-| Players | 1/10 |
-| Host Name | 為什麼你很爛 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:27:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125356772912 |
-| Players | 2/8 |
-| Host Name | Ксения |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:27:44 |
 
 
 |  | epic_boss_fight_normal |
