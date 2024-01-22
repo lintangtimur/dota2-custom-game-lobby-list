@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124954522525 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | флоря |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:55 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124955460721 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124955463859 |
-| Players | 1/15 |
-| Host Name | ЛЕСОРУБ |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
 
 
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124955588722 |
+| Players | 1/10 |
+| Host Name | duhkha |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:21 |
 
 
