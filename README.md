@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125001717354 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | = МС ГАНДЖУБАС = |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:53:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125001860184 |
+| Players | 2/8 |
+| Host Name | Glina |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:53:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124997433844 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:48:42 |
