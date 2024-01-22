@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124930771464 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | минус жёпа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:22:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124930364254 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | LEGENDA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:21:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124931087015 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | адидас |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 17:22:35 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:22:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124931154855 |
-| Players | 5/8 |
-| Host Name | Человек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:22:41 |
 
 
 |  | epic_boss_fight_normal |
