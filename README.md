@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125146153339 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:11:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125142306957 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | --.-- |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:08:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125146282648 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AdaTomas |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:05 |
@@ -85,19 +85,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125146709276 |
-| Players | 12/15 |
-| Host Name | DOODLES |
+| Lobby ID | 28617125147962602 |
+| Players | 1/15 |
+| Host Name | Granpa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:13:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125147886449 |
+| Players | 1/8 |
+| Host Name | Butterfly |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:12:28 |
+| Lobby Creation Time | Monday, January 22, 2024 21:13:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125144414963 |
+| Players | 14/15 |
+| Host Name | LA LION |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:10:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125147921771 |
+| Players | 2/10 |
+| Host Name | 初音ミク |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 21:13:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125146376194 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125147860541 |
+| Players | 1/10 |
+| Host Name | Novasiphon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:13:28 |
 
 
