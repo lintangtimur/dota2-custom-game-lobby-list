@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124968957502 |
-| Players | 7/10 |
-| Host Name | Eredar |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:13:54 |
+| Lobby ID | 28617124969328443 |
+| Players | 5/10 |
+| Host Name | пончибара |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:14:23 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124968695111 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Glina |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:13:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124969364370 |
+| Players | 5/8 |
+| Host Name | игрь амфетоминовая пятка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:14:26 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124969272701 |
+| Lobby ID | 28617124969359793 |
 | Players | 1/15 |
-| Host Name | ・・・ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:14:19 |
+| Host Name | Криминальный БО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:14:26 |
 
 
 |  | epic_boss_fight_nightmare |
