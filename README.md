@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124926438508 |
-| Players | 9/10 |
-| Host Name | Solowind |
+| Lobby ID | 28617124928523632 |
+| Players | 1/15 |
+| Host Name | Jungeeeeeeee |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:15:59 |
+| Lobby Creation Time | Monday, January 22, 2024 17:18:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124927074488 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SanctuaryMoon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124917896288 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124924074712 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:12:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:18:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124928389392 |
-| Players | 6/10 |
-| Host Name | Эшелон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:18:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124928302741 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:18:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124928523632 |
-| Players | 1/15 |
-| Host Name | Jungeeeeeeee |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:18:58 |
 
 
 |  | epic_boss_fight_normal |
