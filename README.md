@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125070213360 |
-| Players | 10/15 |
-| Host Name | Игрок 6 позиции |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:03:43 |
+| Lobby ID | 28617125071551695 |
+| Players | 2/15 |
+| Host Name | YoAkee |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:05:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125067325740 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | dNische_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:00:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125068567609 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ปู่มหามุนี |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:09 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125071259951 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | takado |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:04:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125071522807 |
+| Players | 1/15 |
+| Host Name | Ryuuga |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:04:59 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,18 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125070484353 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Vanesse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:03:59 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125071417490 |
-| Players | 1/7 |
-| Host Name | Wow |
+| Lobby ID | 28617125067461915 |
+| Players | 9/10 |
+| Host Name | Where is Danko? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:04:53 |
+| Lobby Creation Time | Monday, January 22, 2024 20:01:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125071603816 |
+| Players | 3/5 |
+| Host Name | король фида |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:05:03 |
 
 
