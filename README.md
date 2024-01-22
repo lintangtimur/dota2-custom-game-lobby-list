@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124909988257 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | -_- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:52:02 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:52:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124910563208 |
-| Players | 6/8 |
-| Host Name | XITER VAGAL |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 16:52:54 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124910787036 |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☆ VAZ ☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124910811845 |
-| Players | 3/8 |
-| Host Name | "He-Who-Must-Not-Be-Named" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:53:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:51:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124910935027 |
+| Players | 1/5 |
+| Host Name | Seventeen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:53:28 |
 
 
