@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124980049352 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | not=lose#SprintRust |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:27:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124978144355 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124980640854 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | sad--)) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:28:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124980656790 |
+| Players | 3/15 |
+| Host Name | Hardtokill22 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:28:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124980788266 |
+| Players | 4/10 |
+| Host Name | Sandkek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:28:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124980807257 |
+| Players | 1/8 |
+| Host Name | 鱼人智者 |
+| Region | Unknown |
+| Lobby Creation Time | Monday, January 22, 2024 18:28:48 |
 
 
 |  | epic_boss_fight_challenger |
@@ -74,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:21:52 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124980001531 |
-| Players | 1/5 |
-| Host Name | joni |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:27:49 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124980009512 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | N a y |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:27:50 |
