@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125156414312 |
-| Players | 9/10 |
-| Host Name | Дима Чуркоед |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:20:54 |
+| Lobby ID | 28617124984659946 |
+| Players | 13/15 |
+| Host Name | reybinoT |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:17:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125156370935 |
-| Players | 14/15 |
-| Host Name | smokey nagata ඞ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:20:52 |
+| Lobby ID | 28617125156524825 |
+| Players | 4/24 |
+| Host Name | John Does |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:21:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125147921771 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125148386675 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
@@ -86,54 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125155750316 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 21:20:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125152262746 |
-| Players | 1/10 |
-| Host Name | Cort3znica |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 21:17:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125156524825 |
-| Players | 3/24 |
-| Host Name | John Does |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:21:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125156326419 |
-| Players | 1/8 |
-| Host Name | _BlackPrince_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:20:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125157284146 |
-| Players | 4/8 |
-| Host Name | ?kiki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:21:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125156769573 |
-| Players | 2/5 |
-| Host Name | Alan Chechenec Borz |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:21:13 |
+| Lobby ID | 28617125157762290 |
+| Players | 1/15 |
+| Host Name | My LORD |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 21:22:06 |
 
 
