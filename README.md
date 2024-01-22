@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:48:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125208590138 |
-| Players | 11/15 |
-| Host Name | matesh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:07:25 |
+| Lobby ID | 28617125206092073 |
+| Players | 8/10 |
+| Host Name | Рома Гак |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 22:05:10 |
 
 
 |  | ot3_desert_octet |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:04:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125208445362 |
-| Players | 7/8 |
-| Host Name | Haruka<3 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:07:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125208902282 |
-| Players | 7/10 |
-| Host Name | Buğra |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:07:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125209102357 |
@@ -94,17 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125206092073 |
-| Players | 9/10 |
-| Host Name | Рома Гак |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:05:10 |
+| Lobby ID | 28617125208902282 |
+| Players | 8/10 |
+| Host Name | Buğra |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:07:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125209681885 |
+| Players | 2/8 |
+| Host Name | Девочка Уэенсдей |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:08:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125206698590 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Гена Цидармян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:05:43 |
