@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124903590141 |
-| Players | 6/8 |
-| Host Name | I am the supreme gentleman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 16:42:13 |
+| Lobby ID | 28617124904054137 |
+| Players | 2/10 |
+| Host Name | пупуня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:42:57 |
 
 
 |  | ot3_gardens_duo |
