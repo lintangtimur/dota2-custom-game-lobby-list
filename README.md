@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124936539466 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ・ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:30:13 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124937595728 |
-| Players | 1/8 |
-| Host Name | я буду мстить |
+| Lobby ID | 28617124937444646 |
+| Players | 8/10 |
+| Host Name | Вова Колобашкин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:31:42 |
+| Lobby Creation Time | Monday, January 22, 2024 17:31:29 |
 
 
 |  | ot3_desert_octet |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:27:36 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124937887304 |
+| Players | 1/8 |
+| Host Name | Wheredoyouwantme |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:32:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124937384108 |
-| Players | 14/15 |
-| Host Name | b0ne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:31:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124937703840 |
-| Players | 1/10 |
-| Host Name | OMNI-MAN |
+| Lobby ID | 28617124937893031 |
+| Players | 4/15 |
+| Host Name | Инокентий Чашелистник |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:31:51 |
+| Lobby Creation Time | Monday, January 22, 2024 17:32:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124937444646 |
-| Players | 5/10 |
-| Host Name | Вова Колобашкин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:31:29 |
+| Lobby ID | 28617124936912400 |
+| Players | 12/15 |
+| Host Name | Nevalyashka |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 17:30:44 |
 
 
 |  | epic_boss_fight_normal |
