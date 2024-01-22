@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125224763829 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Кокаин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:22:20 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125222002057 |
-| Players | 23/24 |
-| Host Name | KuKorn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:19:46 |
+| Lobby ID | 28617125226322767 |
+| Players | 1/24 |
+| Host Name | ХИ-ХИ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:23:48 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125225763050 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Camitel |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:23:16 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:23:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125226258677 |
-| Players | 3/8 |
-| Host Name | overkill |
+| Lobby ID | 28617125226436917 |
+| Players | 1/24 |
+| Host Name | Zone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:23:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125222627927 |
+| Players | 13/15 |
+| Host Name | 󠀡󠀡 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:23:44 |
+| Lobby Creation Time | Monday, January 22, 2024 22:20:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:23:25 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28617125226455518 |
+| Players | 5/7 |
+| Host Name | Milfhunter |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 22:23:55 |
 
 
