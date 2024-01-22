@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:19:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124971515145 |
-| Players | 1/24 |
-| Host Name | <Cyborgix> |
+| Lobby ID | 28617124977113241 |
+| Players | 2/15 |
+| Host Name | Frenky-kun |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:17:09 |
+| Lobby Creation Time | Monday, January 22, 2024 18:24:15 |
 
 
 |  | ot3_gardens_duo |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:21:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124976455539 |
-| Players | 13/15 |
-| Host Name | mc mc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:23:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124977048053 |
-| Players | 1/8 |
-| Host Name | Повеселимся? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:24:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124975266607 |
@@ -81,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Einsiedler [ru] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:21:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124977204015 |
+| Players | 1/5 |
+| Host Name | ming |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:24:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124977214407 |
+| Players | 1/10 |
+| Host Name | ⁂•☃Donald Treantツ☃•⁂ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:24:22 |
 
 
