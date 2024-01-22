@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125049654686 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125049704916 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:43 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:35:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125040327491 |
-| Players | 1/8 |
-| Host Name | Hi |
+| Lobby ID | 28617125049951860 |
+| Players | 3/15 |
+| Host Name | 水乳交融 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:34:30 |
+| Lobby Creation Time | Monday, January 22, 2024 19:43:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125049951860 |
-| Players | 3/15 |
-| Host Name | 水乳交融 |
+| Lobby ID | 28617125050404051 |
+| Players | 2/15 |
+| Host Name | Арсенчик |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:44:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125050407057 |
+| Players | 1/8 |
+| Host Name | Hi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:43:58 |
+| Lobby Creation Time | Monday, January 22, 2024 19:44:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125049612237 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125050253711 |
+| Players | 1/5 |
+| Host Name | .................. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:44:16 |
 
 
