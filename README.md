@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124943395068 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | The Beatles TH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:39:42 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:41:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124944959711 |
-| Players | 6/8 |
-| Host Name | pepsi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:41:49 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124944227528 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:40:50 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124944314950 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | All muth Dead Chat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:40:57 |
