@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125127672329 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Shadowblade Riki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:55:52 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125130774916 |
-| Players | 6/8 |
-| Host Name | yda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:58:37 |
+| Lobby ID | 28617125131987228 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:59:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125131156817 |
-| Players | 2/10 |
-| Host Name | i see |
+| Players | 1/10 |
+| Host Name | Van ♂️ Darkholme |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:58:58 |
 
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125131549187 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Смешная нарезка детей |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:59:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125131987228 |
-| Players | 1/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:59:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Osmos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:59:23 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28617125132129987 |
+| Players | 1/7 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:59:49 |
 
 
