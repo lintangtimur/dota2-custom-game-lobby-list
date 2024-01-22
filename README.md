@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | dNische_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -32,10 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125032706442 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Gaterade |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:26:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125033766761 |
+| Players | 3/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:27:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125031766672 |
+| Players | 11/15 |
+| Host Name | Натян |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:25:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125033422527 |
+| Players | 6/10 |
+| Host Name | сын берёзы |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:27:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125033822561 |
+| Players | 3/10 |
+| Host Name | sp33dy el' m00d1nY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:27:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -47,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:27:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125033713056 |
-| Players | 1/5 |
-| Host Name | quatrro  rs6 |
+| Lobby ID | 28617125033819860 |
+| Players | 2/10 |
+| Host Name | _ЗаЙка_ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:27:51 |
+| Lobby Creation Time | Monday, January 22, 2024 19:27:58 |
 
 
