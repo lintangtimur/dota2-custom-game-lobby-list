@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125169392370 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:32:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125178349639 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Reincarnationz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:40:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125176630968 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:38:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125178487990 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | balencikaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:40:21 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125178958278 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | lost your mind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:40:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125175053735 |
-| Players | 9/10 |
-| Host Name | trucker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:37:19 |
+| Lobby ID | 28617125179021053 |
+| Players | 5/10 |
+| Host Name | АДСКИЙ САТАНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:40:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125179198839 |
+| Players | 2/10 |
+| Host Name | Дима Чуркоед |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:40:58 |
 
 
 |  | epic_boss_fight_nightmare |
