@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124920877730 |
-| Players | 6/8 |
+| Players | 8/8 |
 | Host Name | sq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:08:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124921177312 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Asuka Langley |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:08:27 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124921354361 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ГРАФ ТРАХУЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:08:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124921414389 |
-| Players | 3/8 |
-| Host Name | Nhe4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:08:48 |
 
 
 |  | epic_boss_fight_nightmare |
