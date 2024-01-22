@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125324582611 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:56:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125312673309 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125328752953 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | divine / 666 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:00:20 |
@@ -113,16 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125329274446 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Пивной Элементаль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:00:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125329856943 |
+| Players | 1/15 |
+| Host Name |  |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:01:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125326882495 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | One_in_field_warrior |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:58:32 |
@@ -130,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125327101094 |
-| Players | 8/10 |
-| Host Name | duhkha |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:58:44 |
+| Lobby ID | 28617125329781659 |
+| Players | 2/10 |
+| Host Name | ДЕД ХАФПЕК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:01:19 |
 
 
