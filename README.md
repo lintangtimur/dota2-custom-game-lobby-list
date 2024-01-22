@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125307827928 |
-| Players | 23/24 |
+| Players | 18/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:40:09 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125309943745 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | enchantress (pregregnant) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125312836326 |
-| Players | 8/10 |
-| Host Name | #DFined |
+| Lobby ID | 28617125313631595 |
+| Players | 2/8 |
+| Host Name | gogi |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:44:59 |
+| Lobby Creation Time | Monday, January 22, 2024 23:45:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125310958419 |
-| Players | 14/15 |
-| Host Name | Brunesco |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 23:43:10 |
+| Lobby ID | 28617125313692171 |
+| Players | 3/8 |
+| Host Name | s |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:45:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125313332731 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | oldsneakygay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:45:29 |
@@ -119,49 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:45:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125312998252 |
-| Players | 14/15 |
-| Host Name | ალექსანდრე |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:45:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125313286739 |
-| Players | 3/15 |
-| Host Name | uselessuselessuselessuseless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:45:26 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125301370093 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:33:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125308061129 |
-| Players | 8/10 |
-| Host Name | EvilNoob2007 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:40:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125312176304 |
-| Players | 1/5 |
-| Host Name | Stupid. Brave but stupid. |
+| Lobby ID | 28617125313286739 |
+| Players | 7/15 |
+| Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:44:21 |
+| Lobby Creation Time | Monday, January 22, 2024 23:45:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125313552943 |
+| Players | 1/8 |
+| Host Name | kyuubi |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:45:42 |
 
 
 |  | epic_boss_fight_nightmare |
