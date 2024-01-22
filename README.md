@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124891907797 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Kaltes |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 16:23:59 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124897509470 |
-| Players | 3/15 |
-| Host Name | Steady Play |
+| Players | 1/15 |
+| Host Name | Rdnyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:46 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124901605594 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Jewish Tunnel Rat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RememberTheName |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:40:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124901277588 |
-| Players | 8/10 |
-| Host Name | Satoru Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:38:39 |
 
 
 |  | epic_boss_fight_nightmare |
