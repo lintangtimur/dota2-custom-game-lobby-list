@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125023460792 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | 23 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125017248517 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Михаил Дегтярев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125024105069 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 無念無想 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125023509175 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Monty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:13 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125023612859 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125024366008 |
-| Players | 1/5 |
-| Host Name | 小哥哥别杀我 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:18:07 |
 
 
