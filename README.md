@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124926438508 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:15:59 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124927009040 |
-| Players | 12/15 |
-| Host Name | Dr. Johansson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:16:48 |
 
 
 |  | epic_boss_fight_normal |
