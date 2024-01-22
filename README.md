@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125364483275 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | LicenciadoMu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:35:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125368003821 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | OpsCore |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125366337763 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ARC WARDEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:37:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125361913493 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Chipi Chapa Dubi Daba Boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:32:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125367842474 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ggbly 3414 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:31 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125368189279 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | Гаджи Псиблейд |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:51 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125367480406 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PMC Wagner Group |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:10 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125368205788 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | mietekproplayer24 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:52 |
