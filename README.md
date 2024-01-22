@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125020861247 |
-| Players | 7/8 |
-| Host Name | Kukurudza Striptizerka |
+| Lobby ID | 28617125024328753 |
+| Players | 4/8 |
+| Host Name | 𝖍𝖍𝖍 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:14:24 |
+| Lobby Creation Time | Monday, January 22, 2024 19:18:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125024105069 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 無念無想 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125023509175 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Monty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:13 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FEOFAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125024328753 |
-| Players | 1/8 |
-| Host Name | 𝖍𝖍𝖍 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:18:05 |
 
 
 |  | epic_boss_fight_nightmare |
