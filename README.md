@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125327605019 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | vladkyd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:59:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125326626985 |
-| Players | 21/24 |
-| Host Name | KAWAZAKI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:58:17 |
+| Lobby ID | 28617125328784185 |
+| Players | 11/15 |
+| Host Name | киберпапа |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:00:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:00:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125328784185 |
-| Players | 4/15 |
-| Host Name | киберпапа |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:00:22 |
+| Lobby ID | 28617125327489771 |
+| Players | 6/8 |
+| Host Name | Пузоотвод |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 23:59:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125326882495 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | One_in_field_warrior |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:58:32 |
