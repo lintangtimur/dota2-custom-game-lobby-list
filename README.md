@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124945393193 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 雨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -49,35 +49,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124954246038 |
-| Players | 19/24 |
-| Host Name | Gooble |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:54:32 |
+| Lobby ID | 28617124956847348 |
+| Players | 1/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:58:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124956206810 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Fire inside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:57:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124955426339 |
-| Players | 9/10 |
-| Host Name | Revoker |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:56:08 |
+| Lobby ID | 28617124956722842 |
+| Players | 1/8 |
+| Host Name | cringe ranks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:57:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124955460721 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
@@ -101,28 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:57:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124954210967 |
-| Players | 11/15 |
-| Host Name | SHADOWSONG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:54:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124956722842 |
-| Players | 1/8 |
-| Host Name | cringe ranks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:57:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124955404021 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124956728178 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [VGB]NUBISHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:57:53 |
