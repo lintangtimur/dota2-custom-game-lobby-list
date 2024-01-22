@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125035255708 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Aki ゲーマー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:29:25 |
@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:31:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125036015719 |
-| Players | 6/10 |
-| Host Name | че срал звалк? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:30:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125037483955 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Pochison |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:31:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125038260419 |
+| Players | 2/8 |
+| Host Name | 得到ins安静的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:32:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125038279057 |
+| Players | 2/8 |
+| Host Name | Implementer#grand-rust |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:32:27 |
 
 
 |  | epic_boss_fight_nightmare |
