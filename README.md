@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125363448331 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:34:13 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125370920636 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Tiny Trumpet! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:41:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125372398353 |
-| Players | 11/15 |
-| Host Name | YATOGOV ROT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:43:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125372681533 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | danek |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:43:17 |
