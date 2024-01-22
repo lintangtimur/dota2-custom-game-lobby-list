@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:59:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125134155951 |
-| Players | 8/10 |
-| Host Name | MakSoS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:01:36 |
+| Lobby ID | 28617125134738602 |
+| Players | 2/24 |
+| Host Name | House |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 21:02:06 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:00:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125131240312 |
-| Players | 22/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:59:02 |
+| Lobby ID | 28617125134909600 |
+| Players | 3/15 |
+| Host Name | Dark[O]ne |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:02:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125133289313 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | BORIXPC ;) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 21:00:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125134737115 |
+| Players | 5/8 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:02:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125134891806 |
+| Players | 1/8 |
+| Host Name | талант |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:02:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125134902406 |
+| Players | 4/8 |
+| Host Name | ナテanxietyテナ ϒdrainϒ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:02:15 |
 
 
 |  | epic_boss_fight_nightmare |
