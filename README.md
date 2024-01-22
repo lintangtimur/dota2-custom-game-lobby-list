@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124922568113 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Topskij托普斯基 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:10:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124922128064 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | duni66 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:09:49 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | One Love - One Piece |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:09:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124922483543 |
-| Players | 4/15 |
-| Host Name | W |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 17:10:20 |
 
 
 |  | ot3_necropolis_ffa |
