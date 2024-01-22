@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125152844392 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Genjut$u |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:17:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125164941856 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ♡♡♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:28:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125148386675 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125165444026 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Levi Ackerman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:28:55 |
@@ -158,9 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125162471423 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | еБЕНЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:26:17 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28617125165865196 |
+| Players | 2/7 |
+| Host Name | АЛЛАХАМОРА |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:29:18 |
 
 
