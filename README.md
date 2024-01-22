@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125004932546 |
-| Players | 3/10 |
-| Host Name | sad--)) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:57:16 |
+| Lobby ID | 28617125008719569 |
+| Players | 1/15 |
+| Host Name | PUAN MAHALINI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:01:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125008274976 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | folder |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:00:57 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125005016021 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:57:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125007836010 |
-| Players | 5/8 |
-| Host Name | серега дробовик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:00:28 |
 
 
