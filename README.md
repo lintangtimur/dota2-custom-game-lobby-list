@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125017130813 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | drunken Master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125017050698 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | tryna my best |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125016863374 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | STEEL EGGS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:11 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:10:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125017273828 |
-| Players | 4/10 |
-| Host Name | ArizonbIBoshki |
+| Lobby ID | 28617125015233894 |
+| Players | 6/8 |
+| Host Name | CalculuS |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:10:37 |
+| Lobby Creation Time | Monday, January 22, 2024 19:08:26 |
 
 
 |  | ot3_necropolis_ffa |
