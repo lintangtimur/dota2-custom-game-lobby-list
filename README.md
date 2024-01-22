@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125051526306 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:45:31 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:30:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125051212732 |
-| Players | 12/15 |
-| Host Name | 私には小児性愛者の友 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:45:13 |
+| Lobby ID | 28617125051949976 |
+| Players | 9/10 |
+| Host Name | maradonner |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:45:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125049659270 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:41 |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:44:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125049670643 |
-| Players | 9/10 |
-| Host Name | МАРАР |
+| Lobby ID | 28617125051921256 |
+| Players | 1/24 |
+| Host Name | Asalomu Alekum Inshallahovich |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:43:41 |
+| Lobby Creation Time | Monday, January 22, 2024 19:45:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125047811210 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:41:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125049612237 |
-| Players | 9/10 |
-| Host Name | 起个名真纠结 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:43:38 |
 
 
 |  | epic_boss_fight_normal |
