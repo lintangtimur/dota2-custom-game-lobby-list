@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125008719569 |
-| Players | 1/15 |
-| Host Name | PUAN MAHALINI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:01:26 |
+| Lobby ID | 28617125008888258 |
+| Players | 2/8 |
+| Host Name | повелитель |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:01:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:57:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125009039777 |
+| Players | 1/10 |
+| Host Name | Gган Даедалус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:01:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125008888822 |
+| Players | 1/5 |
+| Host Name | 小哥哥别杀我 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:01:36 |
 
 
