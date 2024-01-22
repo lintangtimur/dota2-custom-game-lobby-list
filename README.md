@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 11/24 |
+| Players | 7/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:44:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124947716227 |
-| Players | 9/10 |
-| Host Name | kLotho' |
+| Lobby ID | 28617124948476260 |
+| Players | 4/15 |
+| Host Name | це база |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:45:38 |
+| Lobby Creation Time | Monday, January 22, 2024 17:46:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124947863925 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:45:50 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124948096508 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yarrow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:46:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124948476260 |
-| Players | 2/15 |
-| Host Name | це база |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:46:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124947798477 |
-| Players | 14/15 |
-| Host Name | m1tochondr1a |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:45:45 |
 
 
 |  | epic_boss_fight_nightmare |
