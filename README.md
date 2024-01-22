@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124942122588 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | ŧɇNf๘łĐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:37:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124943030619 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | DreamsBurnDown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:39:12 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124943034236 |
-| Players | 1/10 |
-| Host Name | GeneralKoosha |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 17:39:12 |
+| Lobby ID | 28617124943100171 |
+| Players | 2/10 |
+| Host Name | я не макс, я макима |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:39:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124943081263 |
+| Players | 2/8 |
+| Host Name | Эшелон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:39:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Where is Danko? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:34:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124943039958 |
-| Players | 1/5 |
-| Host Name | Gal’murik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:39:13 |
 
 
