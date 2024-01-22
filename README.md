@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124946683861 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:44:13 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124948476260 |
+| Lobby ID | 28617124949014029 |
 | Players | 7/15 |
-| Host Name | це база |
+| Host Name | Pariator |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:46:40 |
+| Lobby Creation Time | Monday, January 22, 2024 17:47:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124947863925 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:45:50 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yarrow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:46:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124949104294 |
+| Players | 1/15 |
+| Host Name | tough |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:47:32 |
 
 
 |  | epic_boss_fight_nightmare |
