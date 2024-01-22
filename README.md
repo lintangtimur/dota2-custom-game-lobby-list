@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124954246038 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Gooble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:32 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:56:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124955194092 |
-| Players | 5/10 |
-| Host Name | sex |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:55:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124955460721 |
@@ -90,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:56:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124955748410 |
+| Players | 1/15 |
+| Host Name | Apex |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124955750614 |
+| Players | 1/15 |
+| Host Name | Windows 10 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:56:34 |
 
 
 |  | epic_boss_fight_nightmare |
