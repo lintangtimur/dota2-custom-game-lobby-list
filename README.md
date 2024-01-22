@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:58:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125013953552 |
-| Players | 23/24 |
-| Host Name | @_@ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:07:04 |
+| Lobby ID | 28617125017248517 |
+| Players | 3/10 |
+| Host Name | Михаил Дегтярев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:10:35 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:52:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125018808502 |
-| Players | 2/8 |
-| Host Name | ЖДК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:12:15 |
+| Lobby ID | 28617125018862560 |
+| Players | 1/15 |
+| Host Name | #1 Telvanni Wizard |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:12:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125018196185 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:11:36 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тумба юмба |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:10:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125017248517 |
-| Players | 3/10 |
-| Host Name | Михаил Дегтярев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:10:35 |
 
 
 |  | epic_boss_fight_nightmare |
