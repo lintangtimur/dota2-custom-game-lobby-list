@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124913815516 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Clit.Eastwood |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:44 |
@@ -38,6 +38,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124918419261 |
+| Players | 4/15 |
+| Host Name | Hollow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:04:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124918457998 |
+| Players | 1/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:04:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124883993913 |
@@ -45,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Se7enth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:11:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124918382499 |
-| Players | 1/5 |
-| Host Name | Granny tits 4 da win |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, January 22, 2024 17:04:25 |
 
 
