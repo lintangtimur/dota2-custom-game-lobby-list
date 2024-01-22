@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125069223940 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | pos 69 or feed |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125061504009 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:55:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125066115423 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | :_V |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:59:49 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125069830293 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Van ♂️ Darkholme |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:03:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125070067856 |
+| Players | 5/8 |
+| Host Name | 古埃及掌管不出分的神 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, January 22, 2024 20:03:35 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Жора из Hi-Fi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125069862539 |
-| Players | 4/5 |
-| Host Name | Sheih Ali De Feri Egor Abibi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:03:23 |
 
 
