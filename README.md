@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124970705340 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | соня миньен секс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:16:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124969181948 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:14:12 |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124971323168 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Darkneess |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:16:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124971515145 |
+| Players | 1/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:17:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124971527615 |
+| Players | 3/15 |
+| Host Name | Sm1le |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 18:17:10 |
 
 
 |  | epic_boss_fight_nightmare |
