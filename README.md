@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125144035628 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | 4YI7A4YI7C |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:10:09 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125138507020 |
+| Lobby ID | 28617125144678410 |
 | Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:05:23 |
+| Lobby Creation Time | Monday, January 22, 2024 21:10:42 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125143506936 |
-| Players | 4/24 |
+| Players | 11/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:09:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125144093230 |
-| Players | 2/8 |
-| Host Name | Escanor |
+| Lobby ID | 28617125144414963 |
+| Players | 12/15 |
+| Host Name | Jesse Pinkman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:10:12 |
+| Lobby Creation Time | Monday, January 22, 2024 21:10:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,27 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125144122192 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 4 pos idc |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:10:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125144414963 |
-| Players | 3/15 |
-| Host Name | Jesse Pinkman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:10:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125135369311 |
-| Players | 9/10 |
-| Host Name | ....,p.,.,giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 21:02:39 |
 
 
