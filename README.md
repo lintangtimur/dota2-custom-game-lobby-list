@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125216831970 |
-| Players | 5/10 |
-| Host Name | da, greshil |
+| Players | 7/10 |
+| Host Name | ПуссиДжуси |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:15:00 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125213951984 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | アイシテル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:12:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125212539353 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:11:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125211635491 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | LSVEN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:10:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125214080288 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Niliashan |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:12:27 |
@@ -95,9 +95,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125217178541 |
-| Players | 1/15 |
-| Host Name | I love myself |
+| Players | 10/15 |
+| Host Name | В доме 8/16 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:15:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125217713965 |
+| Players | 5/8 |
+| Host Name | mode:сынмияги |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 22:15:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125217844212 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:15:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125217563495 |
+| Players | 1/10 |
+| Host Name | oppixoppixfruit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:15:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125217617726 |
+| Players | 1/10 |
+| Host Name | lol |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:15:44 |
 
 
