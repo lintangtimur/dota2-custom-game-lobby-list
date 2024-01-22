@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125160777254 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | LOMBARDO VALENTINO PRIME |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:24:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125156524825 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:21:00 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125159416575 |
-| Players | 5/10 |
-| Host Name | RTZ.Kodiang |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:23:35 |
+| Lobby ID | 28617125161045485 |
+| Players | 5/15 |
+| Host Name | Bishop |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:25:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125161123663 |
+| Players | 3/8 |
+| Host Name | Ahoura Mazda |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 21:25:05 |
 
 
 |  | epic_boss_fight_normal |
