@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125270854745 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | elimis |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125271443559 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:35 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:06:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125269491778 |
-| Players | 9/10 |
-| Host Name | Bad Boy |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:03:46 |
+| Lobby ID | 28617125276108828 |
+| Players | 6/15 |
+| Host Name | 大pavshiy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:09:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125275054740 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | парашют sоли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:08:57 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:01:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125268255905 |
-| Players | 23/24 |
-| Host Name | saj |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:02:37 |
+| Lobby ID | 28617125276033367 |
+| Players | 1/15 |
+| Host Name | Булка |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:09:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125273906323 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Nhị Sư Đệ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:07:53 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125276033367 |
+| Lobby ID | 28617125276553245 |
 | Players | 1/15 |
-| Host Name | Булка |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:52 |
+| Host Name | ♡♡♡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:10:21 |
 
 
 |  | epic_boss_fight_nightmare |
