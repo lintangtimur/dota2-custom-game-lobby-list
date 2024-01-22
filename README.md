@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Kaltes |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125023460792 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | 23 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125026326663 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 2110 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:20:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125023711296 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | COD |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:26 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125026509478 |
-| Players | 2/10 |
+| Lobby ID | 28617125026575261 |
+| Players | 5/10 |
 | Host Name | kussya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:20:21 |
+| Lobby Creation Time | Monday, January 22, 2024 19:20:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125026720780 |
+| Players | 1/15 |
+| Host Name | Bloodblade |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:20:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ~Moskvi4~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:19:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125026417150 |
-| Players | 1/5 |
-| Host Name | Про100Нуб |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:20:15 |
 
 
