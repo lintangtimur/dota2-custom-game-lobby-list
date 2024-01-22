@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125171028356 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Чернобаев |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:33:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125172598506 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:35:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125148386675 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125171311583 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:34:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125172346784 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | Катенька |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:34:58 |
@@ -101,21 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:34:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125172336554 |
-| Players | 9/15 |
-| Host Name | BiBiton |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:34:58 |
+| Lobby ID | 28617125172752433 |
+| Players | 2/10 |
+| Host Name | سن ایچ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:35:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125173095407 |
+| Players | 3/8 |
+| Host Name | road to 1 mmr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:35:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125172339718 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | dkatasonov9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:34:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125172700479 |
+| Players | 1/10 |
+| Host Name | FAQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:35:17 |
 
 
