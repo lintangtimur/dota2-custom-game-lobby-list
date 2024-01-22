@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125022642548 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Wu1t |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:16:18 |
@@ -41,18 +41,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125020861247 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:14:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125022912113 |
-| Players | 1/5 |
-| Host Name | んﾉり乇 の刀 乃ひ丂ん |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:16:35 |
 
 
