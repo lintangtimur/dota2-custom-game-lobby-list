@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124915245156 |
-| Players | 9/10 |
-| Host Name | Satoru Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 16:59:50 |
+| Lobby ID | 28617124918571485 |
+| Players | 2/8 |
+| Host Name | oBjoRa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:04:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124913815516 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Clit.Eastwood |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124917896288 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124918419261 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Hollow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:04:28 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:04:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124918571485 |
-| Players | 1/8 |
-| Host Name | oBjoRa |
+| Lobby ID | 28617124918736827 |
+| Players | 2/10 |
+| Host Name | destroy lonely |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:04:41 |
+| Lobby Creation Time | Monday, January 22, 2024 17:04:56 |
 
 
 |  | epic_boss_fight_nightmare |
