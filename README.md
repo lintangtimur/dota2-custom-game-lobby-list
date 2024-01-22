@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125063668274 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -47,22 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:19:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125088499798 |
-| Players | 8/10 |
-| Host Name | шаленство |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:20:59 |
+| Lobby ID | 28617125089778703 |
+| Players | 1/24 |
+| Host Name | Dex L |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:22:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125089618737 |
-| Players | 1/8 |
-| Host Name | Von |
+| Players | 3/8 |
+| Host Name | Ramos #Free_Palestine |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:22:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125089651532 |
+| Players | 3/8 |
+| Host Name | Стасик Гематоген |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:22:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125089660236 |
+| Players | 7/15 |
+| Host Name | Сильная лопатка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:22:02 |
 
 
 |  | epic_boss_fight_nightmare |
