@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125075346787 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:38 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:02:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125077425038 |
-| Players | 4/10 |
-| Host Name | twitch.tv/senjarin |
+| Lobby ID | 28617125078748682 |
+| Players | 6/15 |
+| Host Name | Versatilius |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:10:37 |
+| Lobby Creation Time | Monday, January 22, 2024 20:11:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125069699272 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | a |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:03:14 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125077918219 |
-| Players | 4/8 |
-| Host Name | I dream |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:11:05 |
+| Lobby ID | 28617125077951172 |
+| Players | 1/8 |
+| Host Name | иh rezhet мой blade |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:11:07 |
 
 
 |  | ot3_desert_octet |
@@ -101,28 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:10:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125077824431 |
-| Players | 7/15 |
-| Host Name | Razol |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:10:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125077951172 |
-| Players | 1/8 |
-| Host Name | иh rezhet мой blade |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:11:07 |
+| Lobby ID | 28617125078309317 |
+| Players | 2/8 |
+| Host Name | bünyamin button |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:11:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125075589331 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Аллах чушпан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:52 |
@@ -140,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125077409573 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | RTZ.Kodiang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:10:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125078570424 |
+| Players | 1/5 |
+| Host Name | Masochise |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:11:42 |
 
 
