@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:48:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125055301630 |
-| Players | 23/24 |
-| Host Name | Silvers Rayleigh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:49:14 |
+| Lobby ID | 28617125057257259 |
+| Players | 5/8 |
+| Host Name | ignoring everybody |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:51:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125057274780 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 19:51:10 |
@@ -50,43 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125052449323 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Kurmanjan Datka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125057257259 |
-| Players | 5/8 |
-| Host Name | ignoring everybody |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:51:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125057164473 |
-| Players | 13/15 |
-| Host Name | Игорь Потов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:51:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125052592487 |
-| Players | 9/10 |
-| Host Name | -_= |
+| Lobby ID | 28617125058126749 |
+| Players | 1/24 |
+| Host Name | Red |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:46:34 |
+| Lobby Creation Time | Monday, January 22, 2024 19:52:00 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125057521432 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hermes |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:51:25 |
@@ -94,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125057682994 |
+| Lobby ID | 28617125058229820 |
 | Players | 1/10 |
 | Host Name | NoMoreTears |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:51:34 |
+| Lobby Creation Time | Monday, January 22, 2024 19:52:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125058289886 |
+| Players | 1/5 |
+| Host Name | shiro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:52:10 |
 
 
