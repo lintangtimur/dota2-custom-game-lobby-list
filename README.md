@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124904826647 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | EpicBossFightEnjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:44:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124897509470 |
-| Players | 6/15 |
+| Players | 2/15 |
 | Host Name | Rdnyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:46 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:44:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124904803082 |
-| Players | 12/15 |
-| Host Name | Versatilius |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 16:44:08 |
+| Lobby ID | 28617124905543882 |
+| Players | 3/8 |
+| Host Name | kalash? MadFun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:45:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Багбир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:44:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124903477876 |
+| Players | 13/15 |
+| Host Name | адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:42:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124905567387 |
+| Players | 3/8 |
+| Host Name | Nhe4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:45:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124901945387 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | YourOwnFear- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:39:42 |
