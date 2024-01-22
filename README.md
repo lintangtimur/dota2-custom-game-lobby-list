@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124931827005 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Abdul |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:23:37 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:23:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124932180042 |
-| Players | 7/8 |
-| Host Name | Yarrow |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:24:07 |
+| Lobby ID | 28617124933553280 |
+| Players | 7/15 |
+| Host Name | BlacK_ArroW |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:25:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124933553280 |
-| Players | 4/15 |
-| Host Name | BlacK_ArroW |
+| Lobby ID | 28617124933735402 |
+| Players | 1/24 |
+| Host Name | ValKyria GaLanTiS♥ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124933755448 |
+| Players | 4/8 |
+| Host Name | prada\party |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:26:02 |
+| Lobby Creation Time | Monday, January 22, 2024 17:26:19 |
 
 
 |  | epic_boss_fight_normal |
