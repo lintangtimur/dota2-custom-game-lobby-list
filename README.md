@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125251185722 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Hate. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:46:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244559755 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Marshals |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:27 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:46:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125250616726 |
-| Players | 11/15 |
-| Host Name | кусаю кошек |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:46:08 |
+| Lobby ID | 28617125251338708 |
+| Players | 3/8 |
+| Host Name | 小さな寿司❤ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:46:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | call me autisticttipon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:43:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125251478285 |
+| Players | 1/5 |
+| Host Name | 人テtalentlessテ人 hatred |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:46:56 |
 
 
