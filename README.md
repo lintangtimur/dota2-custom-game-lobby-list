@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125318401014 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 23:50:20 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125321003460 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | TONY PARRY |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:52:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125323196100 |
-| Players | 6/8 |
-| Host Name | Dedan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:54:59 |
+| Lobby ID | 28617125320401610 |
+| Players | 14/15 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 23:52:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125323470838 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | 50%< |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:55:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125320593640 |
-| Players | 2/10 |
-| Host Name | DUQUE |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:52:28 |
 
 
