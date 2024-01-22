@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125021013440 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:14:34 |
@@ -50,9 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125022642548 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Wu1t |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:16:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125022817087 |
+| Players | 2/8 |
+| Host Name | Сыграем на мать? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 19:16:29 |
 
 
