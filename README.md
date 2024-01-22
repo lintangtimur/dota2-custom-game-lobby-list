@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125336850273 |
-| Players | 6/15 |
-| Host Name | TurbA |
+| Players | 4/15 |
+| Host Name | p.khadunko.21vek.by |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:08:07 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125338013668 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | килограм анаши |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125338043083 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | papá no te vallas :c |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:17 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125338402042 |
-| Players | 2/8 |
-| Host Name | Миланка |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:09:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125338409152 |
-| Players | 5/10 |
-| Host Name | Ox |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:09:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125338420040 |
-| Players | 1/10 |
-| Host Name | Yar[bI]y |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:09:39 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125338451025 |
@@ -108,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мать |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125338409152 |
+| Players | 6/10 |
+| Host Name | Ox |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:09:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125338507013 |
+| Players | 9/15 |
+| Host Name | 100 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:09:44 |
 
 
 |  | epic_boss_fight_challenger |
