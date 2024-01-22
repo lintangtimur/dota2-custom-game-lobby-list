@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125241064847 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Novato Prime |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:37:14 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:24:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125242209971 |
-| Players | 9/24 |
-| Host Name | салам славяне |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 22:38:17 |
+| Lobby ID | 28617125246883633 |
+| Players | 3/8 |
+| Host Name | Raznitsa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:42:37 |
 
 
 |  | ot3_desert_octet |
@@ -59,46 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244559755 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Marshals |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125246414103 |
-| Players | 9/10 |
-| Host Name | ✪Inc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:42:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125246683041 |
-| Players | 2/10 |
-| Host Name | 初音ミク |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125246830642 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | rrrrrrrrrrrrrrrrrrrrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125246883633 |
-| Players | 2/8 |
-| Host Name | Raznitsa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:42:37 |
+| Lobby ID | 28617125246683041 |
+| Players | 4/10 |
+| Host Name | 初音ミク |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -112,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617125246098592 |
-| Players | 1/5 |
+| Lobby ID | 28617125247056923 |
+| Players | 2/5 |
 | Host Name | wanna fact!? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:41:53 |
+| Lobby Creation Time | Monday, January 22, 2024 22:42:47 |
 
 
