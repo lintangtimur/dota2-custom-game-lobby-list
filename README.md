@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124949551859 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:48:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124950246715 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | = МС ГАНДЖУБАС = |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:49:05 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ĵęŗĩcħo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:45:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124950442224 |
+| Players | 1/5 |
+| Host Name | Киса |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 22, 2024 17:49:21 |
 
 
