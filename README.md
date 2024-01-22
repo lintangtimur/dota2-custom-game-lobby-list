@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:36:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124942328948 |
-| Players | 13/15 |
-| Host Name | tice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:38:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124941162655 |
@@ -54,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mind breaker |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:36:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124943030619 |
+| Players | 3/15 |
+| Host Name | DreamsBurnDown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:39:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124943034236 |
+| Players | 1/10 |
+| Host Name | GeneralKoosha |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:39:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Where is Danko? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:34:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124943039958 |
+| Players | 1/5 |
+| Host Name | Gal’murik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:39:13 |
 
 
