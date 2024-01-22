@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125341840645 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | sonik09 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:13:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125339226637 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | PROPHET |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:10:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125341495935 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | etep |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:12:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125341516456 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | EpicBossFightEnjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:12:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125340549654 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Эль Чуро 주님 神إله هذه ال |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:11:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125341221961 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Inmortals.Piero 👓.✖‿✖ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:12:24 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 14рeзaл дeтoк в бучe88 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125342225116 |
+| Players | 1/10 |
+| Host Name | ПРОЖАН |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:13:23 |
 
 
