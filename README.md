@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124933027242 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:25:18 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:23:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124932852832 |
-| Players | 14/15 |
-| Host Name | EFF3CTS8<♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:25:03 |
 
 
 |  | ot3_necropolis_ffa |
