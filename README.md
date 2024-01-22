@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125241064847 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Novato Prime |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:37:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244459458 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | K h a m i |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125244559755 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Marshals |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:40:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125246830642 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | rrrrrrrrrrrrrrrrrrrrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:34 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125246683041 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125247162086 |
+| Players | 2/10 |
+| Host Name | Властелин |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:42:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125247225799 |
+| Players | 1/15 |
+| Host Name | Fekita |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 22:42:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БУБУЕБУЛЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:42:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125247056923 |
-| Players | 2/5 |
-| Host Name | wanna fact!? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:42:47 |
 
 
