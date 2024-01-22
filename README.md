@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125310081428 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Son Goku |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:19 |
@@ -56,40 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:42:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125309592160 |
-| Players | 6/8 |
-| Host Name | Angjelkov 2.0 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:41:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125310048682 |
-| Players | 2/10 |
-| Host Name | Капитан Доигралес |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 23:42:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125305291523 |
-| Players | 23/24 |
-| Host Name | MoonDio |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:37:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125310235782 |
+| Lobby ID | 28617125310606500 |
 | Players | 5/15 |
-| Host Name | kobinator |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:42:28 |
+| Host Name | Rodriguez |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 23:42:50 |
 
 
 |  | ot3_gardens_duo |
@@ -99,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jilix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:42:31 |
+
+
+|  | ot3_demo |
+| ------ | ------ |
+| Lobby ID | 28617125310288420 |
+| Players | 1/1 |
+| Host Name | oBeLx |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:42:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125310235782 |
+| Players | 10/15 |
+| Host Name | kobinator |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:42:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125310617104 |
+| Players | 4/8 |
+| Host Name | silf- |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 22, 2024 23:42:50 |
 
 
 |  | epic_boss_fight_nightmare |
