@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | <Cyborgix> |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124969181948 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:14:12 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124970556146 |
+| Lobby ID | 28617124970705340 |
 | Players | 1/8 |
 | Host Name | соня миньен секс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:15:57 |
+| Lobby Creation Time | Monday, January 22, 2024 18:16:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124967686136 |
 | Players | 3/10 |
-| Host Name | ЛЕНИН |
+| Host Name | DOMKPAT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:12:17 |
 
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Emperor⚜ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:13:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124970215333 |
+| Players | 1/10 |
+| Host Name | Сыбль-Би |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:15:31 |
 
 
