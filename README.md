@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124939851405 |
-| Players | 7/10 |
-| Host Name | Pray to Play |
+| Players | 1/10 |
+| Host Name | give me templar assassin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:34:50 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124938956754 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | эщкере панк |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:33:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124937821310 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Илья Николаевич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:01 |
