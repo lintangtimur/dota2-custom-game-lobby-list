@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | dNische_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -33,18 +33,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125034799195 |
 | Players | 5/8 |
-| Host Name | Миягу |
+| Host Name | / |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:28:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125034693039 |
-| Players | 1/8 |
-| Host Name | АдминГинекологии |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:28:51 |
+| Lobby ID | 28617125034415433 |
+| Players | 10/15 |
+| Host Name | Intercourse Haver |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:28:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Проказник |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:28:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125034415433 |
-| Players | 7/15 |
-| Host Name | Intercourse Haver |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:28:34 |
 
 
 |  | epic_boss_fight_nightmare |
