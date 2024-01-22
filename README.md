@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124926654763 |
-| Players | 4/8 |
-| Host Name | XITER VAGAL |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 17:16:18 |
+| Lobby ID | 28617124927074488 |
+| Players | 2/8 |
+| Host Name | SanctuaryMoon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 17:16:53 |
 
 
 |  | ot3_gardens_duo |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:12:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124926160334 |
-| Players | 7/10 |
-| Host Name | _Mazafaka_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:15:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124927009040 |
-| Players | 7/15 |
-| Host Name | Dr. Johansson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:16:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
@@ -83,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124927074488 |
-| Players | 2/8 |
-| Host Name | SanctuaryMoon |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 17:16:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124927373673 |
-| Players | 6/8 |
-| Host Name | pepsi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:17:19 |
+| Lobby ID | 28617124927009040 |
+| Players | 12/15 |
+| Host Name | Dr. Johansson |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:16:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124926572594 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Holy_Dad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:11 |
