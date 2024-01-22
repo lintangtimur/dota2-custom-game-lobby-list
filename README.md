@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124897085884 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | bigboiboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:07 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:34:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124898174510 |
-| Players | 21/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:33:49 |
+| Lobby ID | 28617124899252975 |
+| Players | 1/8 |
+| Host Name | REAPER |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 16:35:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124899081810 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | XITER VAGAL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 22, 2024 16:35:13 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Яндекс похороны |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:34:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124898930821 |
-| Players | 1/8 |
-| Host Name | REAPER |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 16:34:58 |
 
 
 |  | ot3_necropolis_ffa |
