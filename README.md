@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124983838662 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 完全 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:29 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124983554348 |
-| Players | 9/10 |
-| Host Name | il vento d'oro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:32:09 |
 
 
 |  | epic_boss_fight_challenger |
@@ -74,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:30:16 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617124984132906 |
-| Players | 3/5 |
-| Host Name | D O S A D A <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:32:51 |
+| Lobby ID | 28617124984287397 |
+| Players | 3/10 |
+| Host Name | играю плохо(влюбился) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:33:02 |
 
 
