@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125345903527 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Kiongku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:00 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:19:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125347211175 |
-| Players | 2/15 |
-| Host Name | Rosquette |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:18:17 |
+| Lobby ID | 28617125348453700 |
+| Players | 2/8 |
+| Host Name | Danila |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125343649581 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:14:46 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125347833935 |
-| Players | 6/8 |
-| Host Name | oewe |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:18:54 |
+| Lobby ID | 28617125348186638 |
+| Players | 1/8 |
+| Host Name | †ana†0s Ý |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:15 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125340660475 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PornoHubovich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:11:50 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125347798017 |
-| Players | 13/15 |
-| Host Name | GoriLL@ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:18:52 |
+| Lobby ID | 28617125348424877 |
+| Players | 1/15 |
+| Host Name | foress |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,38 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125348186638 |
+| Lobby ID | 28617125348335160 |
 | Players | 1/8 |
-| Host Name | †ana†0s Ý |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:19:15 |
+| Host Name | defo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125347350488 |
-| Players | 8/10 |
-| Host Name | Smertnik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:18:25 |
+| Lobby ID | 28617125348409948 |
+| Players | 8/15 |
+| Host Name | Human Prib |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:28 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125348298066 |
+| Lobby ID | 28617125346606148 |
 | Players | 4/10 |
-| Host Name | Неонацист |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:19:21 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617125337576453 |
-| Players | 1/7 |
-| Host Name | Славный Котик Иут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:08:50 |
+| Host Name | JMC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:17:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 14рeзaл дeтoк в бучe88 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125346606148 |
-| Players | 2/10 |
-| Host Name | JMC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:17:42 |
 
 
