@@ -23,25 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125030125577 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | RELEGATE FC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125023711296 |
-| Players | 14/15 |
-| Host Name | ЗА ПУТИНА |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 19:17:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125030350238 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ТИГРУЛЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:23 |
@@ -49,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125030519278 |
+| Lobby ID | 28617125030676427 |
+| Players | 2/15 |
+| Host Name | Арсенчик |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:24:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125030675415 |
 | Players | 1/15 |
-| Host Name | SHIZIK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:24:34 |
+| Host Name | ♡unlucky nn♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:24:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125029129312 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 𝔐𝔬𝔯𝔫𝔦𝔫𝔤 𝔖𝔱𝔞𝔯 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:23:06 |
