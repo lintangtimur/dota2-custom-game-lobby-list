@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124977851442 |
-| Players | 2/15 |
-| Host Name | Pochison |
+| Players | 1/15 |
+| Host Name | muted |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:10 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124978144355 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:25:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124980656790 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Hardtokill22 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:28:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124981194594 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sisya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:29:17 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124981604096 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | qwwqerreassa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:29:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124981829770 |
+| Players | 2/10 |
+| Host Name | Game Ruiner |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:30:04 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124981105620 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Agoniya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:29:10 |
