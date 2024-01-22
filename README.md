@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125134738602 |
-| Players | 22/24 |
-| Host Name | House |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 21:02:06 |
+| Lobby ID | 28617125153865758 |
+| Players | 1/24 |
+| Host Name | Leekholic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:18:41 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125148386675 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
@@ -104,18 +104,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125153557430 |
-| Players | 2/15 |
-| Host Name | The Pupa |
+| Players | 9/15 |
+| Host Name | soar loser |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:18:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125149083263 |
-| Players | 9/10 |
-| Host Name | 4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:14:32 |
+| Lobby ID | 28617125153643498 |
+| Players | 1/8 |
+| Host Name | VainHope |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:18:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125153655541 |
+| Players | 4/10 |
+| Host Name | ГАДЁНЫШ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:18:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125153869587 |
+| Players | 1/8 |
+| Host Name | Riz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 21:18:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125153951767 |
+| Players | 2/5 |
+| Host Name | JOEJIZZ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 21:18:45 |
 
 
