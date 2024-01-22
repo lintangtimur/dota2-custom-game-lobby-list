@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125294261744 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:27:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125295902268 |
-| Players | 9/10 |
-| Host Name | Tainted Sprizzi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:28:37 |
+| Lobby ID | 28617125296465561 |
+| Players | 7/8 |
+| Host Name | Miracle's Son |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:10 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125277169612 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Marshals |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:56 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125295836844 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | KinT.Anduin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:28:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125296406033 |
+| Players | 3/15 |
+| Host Name | Mister csgorun.run |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125296418553 |
+| Players | 2/24 |
+| Host Name | YouKnowMyName |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:29:07 |
 
 
 |  | epic_boss_fight_nightmare |
