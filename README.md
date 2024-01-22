@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125107793771 |
+| Lobby ID | 28617125114542072 |
 | Players | 7/8 |
-| Host Name | KKUNKIN FLORES |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 20:38:17 |
+| Host Name | мам ну еще 5 минут |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:44:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125111108526 |
-| Players | 22/24 |
-| Host Name | !== |
+| Lobby ID | 28617125114524241 |
+| Players | 2/15 |
+| Host Name | Yamei |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:41:12 |
+| Lobby Creation Time | Monday, January 22, 2024 20:44:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125114967439 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | darkness空虚 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:44:37 |
@@ -54,42 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ベニ・ヤウリ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 20:40:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125115146002 |
-| Players | 3/8 |
-| Host Name | Сухое море |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:44:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125114524241 |
-| Players | 1/15 |
-| Host Name | Yamei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:44:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125114542072 |
-| Players | 6/8 |
-| Host Name | мам ну еще 5 минут |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:44:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125114948697 |
-| Players | 6/15 |
-| Host Name | Шкарлупка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:44:36 |
 
 
 |  | epic_boss_fight_nightmare |
