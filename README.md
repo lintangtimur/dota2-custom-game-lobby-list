@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124952140283 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Тот самый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:51:40 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124952636133 |
-| Players | 1/15 |
-| Host Name | 最好的 |
+| Lobby ID | 28617124952679867 |
+| Players | 2/15 |
+| Host Name | ПУТИН ПОД СПАЙСОМ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:52:21 |
+| Lobby Creation Time | Monday, January 22, 2024 17:52:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124952568103 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | call me autisticttipon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:52:16 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28617124952623346 |
-| Players | 2/7 |
-| Host Name | ||Цeлуū Эkрāн|| пока я онлайн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:52:20 |
 
 
