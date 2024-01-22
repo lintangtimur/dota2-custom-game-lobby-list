@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125370055112 |
-| Players | 2/8 |
-| Host Name | recessed_ggg |
+| Lobby ID | 28617125369968592 |
+| Players | 1/15 |
+| Host Name | Vanished |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:40:41 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:40:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125368003821 |
-| Players | 5/15 |
-| Host Name | OpsCore |
+| Players | 3/15 |
+| Host Name | Drim |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:40 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125361913493 |
-| Players | 23/24 |
-| Host Name | Chipi Chapa Dubi Daba Boom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:32:44 |
+| Lobby ID | 28617125370251947 |
+| Players | 7/8 |
+| Host Name | Hidden pool is real* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:40:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125369155289 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Оггі та кукарачі |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125369133665 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CrazyDiller |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125368066414 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 76561198344937130 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:38:44 |
@@ -104,37 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125369934697 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | я Егор Крид |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:40:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125369968592 |
-| Players | 1/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:40:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125370143294 |
-| Players | 3/8 |
-| Host Name | NotCxrd |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:40:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125370160975 |
+| Lobby ID | 28617125370311041 |
 | Players | 3/10 |
-| Host Name | hideotop |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:40:47 |
+| Host Name | キット百二十一 |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:40:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DeD_XacaH |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125370278919 |
+| Players | 1/10 |
+| Host Name | Oz. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:40:54 |
 
 
