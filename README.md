@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125088346428 |
-| Players | 1/15 |
-| Host Name | Disruptor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:20:50 |
+| Lobby ID | 28617125084542765 |
+| Players | 13/24 |
+| Host Name | Kurmanjan Datka |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:17:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125087502731 |
-| Players | 12/15 |
-| Host Name | Ky6a³♫ |
+| Lobby ID | 28617125088516871 |
+| Players | 1/8 |
+| Host Name | SORRYIMSTONED |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:20:04 |
+| Lobby Creation Time | Monday, January 22, 2024 20:21:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125063668274 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -65,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:15:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125084542765 |
-| Players | 12/24 |
-| Host Name | Kurmanjan Datka |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:17:21 |
+| Lobby ID | 28617125088499798 |
+| Players | 2/10 |
+| Host Name | шаленство |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:20:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125088509942 |
+| Players | 5/15 |
+| Host Name | BaragoZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:20:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125088555924 |
+| Players | 1/8 |
+| Host Name | 7i_kt0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:21:02 |
 
 
 |  | epic_boss_fight_normal |
