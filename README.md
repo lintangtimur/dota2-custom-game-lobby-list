@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124971515145 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:17:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124973901616 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Tw1kkss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:20:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124973829770 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | plat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:20:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124973721291 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Super Position |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:19:57 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:20:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124972491634 |
+| Players | 1/8 |
+| Host Name | Сыграем на мать? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:18:23 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124974031178 |
+| Lobby ID | 28617124974536643 |
 | Players | 2/10 |
 | Host Name | ЕБЁМСЯ? |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:20:20 |
+| Lobby Creation Time | Monday, January 22, 2024 18:20:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:17:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124974083650 |
-| Players | 1/5 |
-| Host Name | KrakenScat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:20:24 |
 
 
