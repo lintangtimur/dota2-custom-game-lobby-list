@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125030125577 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | RELEGATE FC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125031430904 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | gay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:25:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125031766672 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Натян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:25:52 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝔐𝔬𝔯𝔫𝔦𝔫𝔤 𝔖𝔱𝔞𝔯 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:23:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125031799482 |
+| Players | 1/5 |
+| Host Name | JeanBot |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:25:54 |
 
 
