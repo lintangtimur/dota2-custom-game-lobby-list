@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125163431799 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:27:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125147921771 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125148386675 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125168279273 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | ♥Road To 7k♥→It's a dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:31:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125167903375 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Мелстрой |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:31:06 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125165204307 |
-| Players | 4/24 |
-| Host Name | o7 |
+| Players | 6/24 |
+| Host Name | KuKorn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:28:43 |
 
@@ -137,22 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:31:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125168441549 |
-| Players | 4/8 |
-| Host Name | коллайдер мефедрона |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:31:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125168429824 |
-| Players | 1/8 |
-| Host Name | Я из Чебоксар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:31:34 |
+| Lobby ID | 28617125168567313 |
+| Players | 6/15 |
+| Host Name | KNEE GAS |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 21:31:41 |
 
 
 |  | epic_boss_fight_nightmare |
