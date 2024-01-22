@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 12/24 |
+| Players | 8/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124953207680 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | ПИВОЗАВР |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124951833702 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | ™ bhadzki ½ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:51:14 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124952948730 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | i am a surgeon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:52:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124953855130 |
+| Players | 4/10 |
+| Host Name | Darkneess |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:54:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124953982073 |
+| Players | 1/8 |
+| Host Name | SLM_Valhejo |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 17:54:11 |
 
 
 |  | epic_boss_fight_nightmare |
