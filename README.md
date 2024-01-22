@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124983949549 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124982495599 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:30:53 |
+| Lobby ID | 28617124984877149 |
+| Players | 2/10 |
+| Host Name | Dark.Teacher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:33:44 |
 
 
 |  | ot3_gardens_duo |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124984566337 |
-| Players | 10/15 |
-| Host Name | NAISLYMON666 |
+| Lobby ID | 28617124984830535 |
+| Players | 1/24 |
+| Host Name | BalSik |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:33:22 |
+| Lobby Creation Time | Monday, January 22, 2024 18:33:40 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124984503712 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ltpw01 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:17 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MARIA NO ME DEJES POR EL PAYASO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124984830535 |
-| Players | 1/24 |
-| Host Name | BalSik |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:33:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124984877149 |
-| Players | 2/10 |
-| Host Name | Dark.Teacher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:33:44 |
 
 
 |  | epic_boss_fight_challenger |
