@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125023460792 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | 23 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125017248517 |
-| Players | 6/10 |
-| Host Name | Михаил Дегтярев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:10:35 |
+| Lobby ID | 28617125024899974 |
+| Players | 10/15 |
+| Host Name | місаблок |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:18:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125023711296 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | COD |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:26 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125024190409 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | FEOFAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125024899974 |
-| Players | 2/15 |
-| Host Name | місаблок |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:18:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125023612859 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:20 |
