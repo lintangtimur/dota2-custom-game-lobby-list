@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125263687606 |
 | Players | 3/8 |
-| Host Name | Yatoro-dog |
+| Host Name | Candyman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:58:20 |
 
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125262498453 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:57:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125263239495 |
-| Players | 6/10 |
-| Host Name | Оггі та кукарачі |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:57:55 |
+| Lobby ID | 28617125264029453 |
+| Players | 1/8 |
+| Host Name | sean serios |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 22:58:40 |
 
 
 |  | ot3_gardens_duo |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | a esede |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 22, 2024 22:58:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125263861617 |
-| Players | 3/8 |
-| Host Name | Ancient Photoparation |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 22:58:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125263715128 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Хозяин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:58:22 |
