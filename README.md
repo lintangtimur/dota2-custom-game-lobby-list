@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124951976838 |
-| Players | 1/8 |
-| Host Name | SmЭрTo_DeD(#_#) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:51:26 |
+| Lobby ID | 28617124962907939 |
+| Players | 8/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:06:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WXH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:07:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124963940597 |
-| Players | 1/8 |
-| Host Name | tttpttt |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 18:07:28 |
 
 
 |  | ot3_jungle_quintet |
