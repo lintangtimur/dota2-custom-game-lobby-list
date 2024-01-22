@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317645529 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | lalala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315598176 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Goooodlike |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125318084075 |
-| Players | 9/10 |
-| Host Name | Hplokoct |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:02 |
+| Lobby ID | 28617125318039885 |
+| Players | 1/10 |
+| Host Name | Pescadero |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 23:49:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317111334 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Harvest Dawn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:06 |
@@ -110,31 +110,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:49:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125318288114 |
-| Players | 2/8 |
-| Host Name | AG.Kipitachka |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:14 |
+| Lobby ID | 28617125318353224 |
+| Players | 8/10 |
+| Host Name | TORONTOADIDAS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125318001138 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | aesthetic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125318039885 |
-| Players | 1/10 |
-| Host Name | Pescadero |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:49:59 |
+| Lobby ID | 28617125318401014 |
+| Players | 1/24 |
+| Host Name | //MX` |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125318527800 |
+| Players | 1/8 |
+| Host Name | Эль Чуро 주님 神إله هذه ال |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:27 |
 
 
 |  | epic_boss_fight_nightmare |
