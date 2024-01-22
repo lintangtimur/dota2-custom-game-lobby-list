@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -50,37 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124910787036 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ☆ VAZ ☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124913451785 |
-| Players | 7/10 |
-| Host Name | Sir Henry Manchester |
+| Lobby ID | 28617124913869803 |
+| Players | 6/8 |
+| Host Name | Dobraik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:57:12 |
+| Lobby Creation Time | Monday, January 22, 2024 16:57:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124913815516 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Deicide |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124913826476 |
-| Players | 2/8 |
-| Host Name | JNF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:57:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:57:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124913798452 |
-| Players | 1/5 |
-| Host Name | Ce |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 22, 2024 16:57:42 |
 
 
