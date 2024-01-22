@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125337811494 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | mattew |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125337408257 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Kott ya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:08:40 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125337200653 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | 13 reasons why |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:08:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125336597198 |
-| Players | 9/10 |
-| Host Name | KILOT |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:07:53 |
+| Lobby ID | 28617125338013668 |
+| Players | 1/8 |
+| Host Name | килограм анаши |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:09:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125333988551 |
-| Players | 4/10 |
-| Host Name | ComradeHeval |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
+| Lobby ID | 28617125338032059 |
+| Players | 1/15 |
+| Host Name | TM.Zuk[A]♥J |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:09:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125338043083 |
+| Players | 1/15 |
+| Host Name | papá no te vallas :c |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:09:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:08:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125333988551 |
+| Players | 3/10 |
+| Host Name | ComradeHeval |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
 
 
