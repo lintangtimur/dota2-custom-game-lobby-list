@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124938956754 |
-| Players | 14/15 |
-| Host Name | эщкере панк |
+| Lobby ID | 28617124941047089 |
+| Players | 9/10 |
+| Host Name | Solowind |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:33:36 |
+| Lobby Creation Time | Monday, January 22, 2024 17:36:29 |
 
 
 |  | ot3_desert_octet |
@@ -42,27 +42,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617124941126173 |
 | Players | 4/15 |
-| Host Name | адидас |
+| Host Name | E B Y П Р О Ф Е Н |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:36:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124941047089 |
-| Players | 6/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:36:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124941538616 |
-| Players | 1/8 |
-| Host Name | Ней Бегров |
+| Lobby ID | 28617124941653438 |
+| Players | 2/8 |
+| Host Name | Хан 7000 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:37:09 |
+| Lobby Creation Time | Monday, January 22, 2024 17:37:19 |
 
 
 |  | epic_boss_fight_normal |
