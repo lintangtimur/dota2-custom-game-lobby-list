@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125054978277 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | U_U |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:48:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125052449323 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Kurmanjan Datka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125053684703 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Михаил Дегтярев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:47:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125055301630 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Silvers Rayleigh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:49:14 |
