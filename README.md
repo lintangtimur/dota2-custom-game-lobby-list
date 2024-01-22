@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124934007903 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | wwwwwwwwwwwwwwwwww. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:40 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:28:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124934854589 |
-| Players | 1/10 |
-| Host Name | SLM_Valhejo |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 17:27:51 |
+| Lobby ID | 28617124935719311 |
+| Players | 2/8 |
+| Host Name | BTW psychopath❄ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:29:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124934162913 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Agony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:53 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124935430840 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Hollow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:28:39 |
