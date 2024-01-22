@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:48:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125219325812 |
-| Players | 7/8 |
-| Host Name | ROCK HARD |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 22:17:18 |
+| Lobby ID | 28617125220239394 |
+| Players | 7/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 22:18:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125215753448 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Никита Кощей |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:14:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125214665547 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 初音ミク |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:13:00 |
@@ -77,19 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125219368257 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | KUKURIKAPO! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:17:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125220239394 |
-| Players | 6/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:18:09 |
+| Lobby ID | 28617125220730161 |
+| Players | 6/10 |
+| Host Name | Чикиряу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:18:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125220732416 |
+| Players | 2/8 |
+| Host Name | I am the supreme gentleman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:18:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125220747546 |
+| Players | 1/10 |
+| Host Name | Milk Shake |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:18:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 22, 2024 22:18:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125220676622 |
+| Players | 1/10 |
+| Host Name | Ginger or Ni...r? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:18:33 |
 
 
