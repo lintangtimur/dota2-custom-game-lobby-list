@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124945393193 |
-| Players | 5/15 |
-| Host Name | 雨 |
+| Players | 4/15 |
+| Host Name | Norea Du Noc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124960508962 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | YatogoROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:02:57 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:01:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124960751540 |
-| Players | 3/8 |
-| Host Name | XITER VAGAL |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 18:03:17 |
+| Lobby ID | 28617124961109220 |
+| Players | 8/10 |
+| Host Name | кЪваршня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:03:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,37 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124960666396 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Clixco |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:03:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124957776449 |
-| Players | 23/24 |
-| Host Name | Hoye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:59:17 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124961035954 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | SeDoy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:03:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124961109220 |
-| Players | 3/10 |
-| Host Name | кЪваршня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:03:45 |
 
 
 |  | epic_boss_fight_nightmare |
