@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125173312154 |
-| Players | 7/8 |
-| Host Name | Makenbald Vimper |
+| Lobby ID | 28617125173554127 |
+| Players | 2/8 |
+| Host Name | Акаши Сейджуро |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:35:48 |
+| Lobby Creation Time | Monday, January 22, 2024 21:36:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125172598506 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:35:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125148386675 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:13:55 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125173135057 |
-| Players | 2/8 |
-| Host Name | твой_пупс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:35:39 |
+| Lobby ID | 28617125173196670 |
+| Players | 1/8 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:35:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125173208305 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Vlad III. Drăculea |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:35:43 |
@@ -119,28 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:35:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125173196670 |
-| Players | 1/8 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 21:35:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125173517375 |
-| Players | 2/8 |
-| Host Name | poLeyK#JustRust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:35:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125172339718 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | dkatasonov9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:34:58 |
