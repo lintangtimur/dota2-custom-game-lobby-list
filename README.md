@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125254905236 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | black enegry drink |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:50:05 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:46:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125247806684 |
-| Players | 11/24 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 22:43:30 |
+| Lobby ID | 28617125256347840 |
+| Players | 1/10 |
+| Host Name | N.XHostk |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 22:51:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125255767288 |
-| Players | 8/15 |
-| Host Name | адйос паясос |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:50:54 |
+| Lobby ID | 28617125256269143 |
+| Players | 2/10 |
+| Host Name | BA[  [GGGGGGGGAFDPPSA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:51:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125253165059 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:48:29 |
@@ -101,40 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:48:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125254147488 |
-| Players | 7/8 |
-| Host Name | Q |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:49:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125256269143 |
-| Players | 2/10 |
-| Host Name | BA[  [GGGGGGGGAFDPPSA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:51:22 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125256083594 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ✪ SOLO JUEGO OVERTHROW |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:51:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125256347840 |
-| Players | 1/10 |
-| Host Name | N.XHostk |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 22:51:26 |
 
 
 |  | epic_boss_fight_nightmare |
