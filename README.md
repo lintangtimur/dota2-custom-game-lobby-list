@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124962907073 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | WIO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:06:07 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i hate people |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:06:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124963802270 |
+| Players | 2/10 |
+| Host Name | WXH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:07:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124962907939 |
+| Players | 14/15 |
+| Host Name | Vanished |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:06:07 |
 
 
 |  | epic_boss_fight_nightmare |
