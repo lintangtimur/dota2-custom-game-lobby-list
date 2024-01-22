@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124908131567 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:49:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124908340511 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | дед ещё могёт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:49:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124897509470 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Rdnyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:32:46 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:46:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124908290712 |
-| Players | 12/15 |
-| Host Name | Охотник на Куниц |
+| Lobby ID | 28617124908843908 |
+| Players | 5/10 |
+| Host Name | Asuka Langley |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:49:29 |
+| Lobby Creation Time | Monday, January 22, 2024 16:50:18 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:50:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124908843908 |
-| Players | 4/10 |
-| Host Name | Asuka Langley |
+| Lobby ID | 28617124909239648 |
+| Players | 2/15 |
+| Host Name | 4eJIoBeK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:50:18 |
+| Lobby Creation Time | Monday, January 22, 2024 16:50:54 |
 
 
 |  | epic_boss_fight_nightmare |
