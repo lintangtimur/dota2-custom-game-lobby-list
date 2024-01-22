@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125141054416 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Meid |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:07:35 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:02:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125132476475 |
-| Players | 20/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:00:08 |
+| Lobby ID | 28617125140789755 |
+| Players | 7/8 |
+| Host Name | Iron Heart |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 21:07:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125141083323 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Don'tStopHooligans™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:07:37 |
@@ -101,28 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:07:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125140789755 |
-| Players | 7/8 |
-| Host Name | Iron Heart |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:07:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125133129060 |
-| Players | 8/10 |
-| Host Name | KiJo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:00:42 |
+| Lobby ID | 28617125142022586 |
+| Players | 1/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 21:08:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125139221804 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Atista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:06:00 |
