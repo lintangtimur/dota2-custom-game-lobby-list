@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124953207680 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Maito Gai |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124951833702 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ™ bhadzki ½ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:51:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124953411646 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | leppprozy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124953299422 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Dndama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:53:15 |
