@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124971864349 |
-| Players | 1/8 |
-| Host Name | Psychosocial |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:17:36 |
+| Lobby ID | 28617124970705340 |
+| Players | 7/8 |
+| Host Name | соня миньен секс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:16:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124971353115 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | rasmus |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:16:57 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:17:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124971908272 |
-| Players | 12/15 |
-| Host Name | kai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:17:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124972254984 |
-| Players | 1/15 |
-| Host Name | F.H |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:18:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124972346017 |
@@ -90,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | не мыл жопу 3 дня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:18:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617124972487870 |
-| Players | 1/24 |
-| Host Name | ValKyria GaLanTiS♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 18:18:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124972491634 |
-| Players | 2/8 |
-| Host Name | Сыграем на мать? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:18:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:17:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124972554523 |
+| Players | 1/5 |
+| Host Name | ♥ThE^_^eNd_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:18:28 |
 
 
