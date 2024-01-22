@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125040327491 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:34:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125040970334 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Кирюш турбо хрюш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125041726475 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Jon Snow |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:53 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125041742845 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | flowy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:35:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125042218969 |
+| Players | 1/24 |
+| Host Name | Diamond Fish sauce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:36:23 |
 
 
 |  | epic_boss_fight_normal |
