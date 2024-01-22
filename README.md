@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125001149353 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | DTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:53:00 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124998652001 |
-| Players | 9/10 |
-| Host Name | Satoru Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 18:50:07 |
+| Lobby ID | 28617125001860184 |
+| Players | 3/8 |
+| Host Name | Glina |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:53:50 |
 
 
 |  | ot3_desert_octet |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125001717354 |
-| Players | 13/15 |
-| Host Name | = МС ГАНДЖУБАС = |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:53:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125001860184 |
-| Players | 2/8 |
-| Host Name | Glina |
+| Lobby ID | 28617125002112054 |
+| Players | 2/15 |
+| Host Name | 完全 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:53:50 |
+| Lobby Creation Time | Monday, January 22, 2024 18:54:07 |
 
 
 |  | epic_boss_fight_nightmare |
