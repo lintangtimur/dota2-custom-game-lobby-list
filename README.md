@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125337408257 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:08:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125338043083 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | papá no te vallas :c |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125333980047 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Mathiasla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
@@ -65,13 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:10:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125339238368 |
+| Players | 4/8 |
+| Host Name | Fruit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:10:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125339226637 |
+| Players | 1/24 |
+| Host Name | PROPHET |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:10:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125339260447 |
+| Players | 4/8 |
+| Host Name | MonaH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:10:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125339249098 |
+| Players | 1/8 |
+| Host Name | Пьяный черкаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:10:28 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125338989136 |
+| Lobby ID | 28617125339239453 |
 | Players | 1/15 |
-| Host Name | GOZONE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:10:13 |
+| Host Name | Egotheist |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:10:27 |
 
 
 |  | epic_boss_fight_challenger |
