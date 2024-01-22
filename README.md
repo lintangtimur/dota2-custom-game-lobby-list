@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124905543882 |
-| Players | 4/8 |
-| Host Name | kalash? MadFun |
+| Players | 3/8 |
+| Host Name | BestMemeNeverDie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:45:16 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124904795827 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Багбир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:44:07 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isskender |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:43:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124905097429 |
+| Players | 3/5 |
+| Host Name | Hue G's |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:44:35 |
 
 
