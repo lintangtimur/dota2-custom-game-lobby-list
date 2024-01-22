@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125001149353 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | DTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:53:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125001860184 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Glina |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:53:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:52:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125002112054 |
-| Players | 11/15 |
-| Host Name | Wu1t |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:54:07 |
+| Lobby ID | 28617124998652001 |
+| Players | 8/10 |
+| Host Name | Satoru Gojō |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 18:50:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | λåüȹçϯåλüн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:54:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125002519763 |
-| Players | 1/8 |
-| Host Name | он в потоке kizaru's son |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:54:34 |
 
 
 |  | epic_boss_fight_nightmare |
