@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125023460792 |
-| Players | 11/15 |
+| Players | 7/15 |
 | Host Name | 23 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:10 |
@@ -49,24 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125024105069 |
-| Players | 11/15 |
-| Host Name | 無念無想 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:17:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125023509175 |
-| Players | 21/24 |
-| Host Name | Monty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:17:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28617125023711296 |
 | Players | 2/15 |
 | Host Name | COD |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FEOFAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:17:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125024899974 |
+| Players | 2/15 |
+| Host Name | місаблок |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:18:40 |
 
 
 |  | epic_boss_fight_nightmare |
