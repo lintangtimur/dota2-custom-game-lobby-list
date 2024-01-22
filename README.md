@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124878542919 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Michael Myers |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 22, 2024 16:02:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124900896592 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124901261770 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ля франсе? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:38 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124901596261 |
+| Players | 1/10 |
+| Host Name | glinomes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:39:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124901605594 |
+| Players | 1/24 |
+| Host Name | Jewish Tunnel Rat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shadowqtrxz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:33:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124901285146 |
-| Players | 1/10 |
-| Host Name | Skills in Pills |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:38:40 |
 
 
 |  | epic_boss_fight_nightmare |
