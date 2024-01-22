@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124954099799 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Olivia Rodrigo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124958485863 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | 金木 研 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:00:15 |
