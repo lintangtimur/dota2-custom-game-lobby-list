@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125075346787 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125077425038 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | twitch.tv/senjarin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:10:37 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:04:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125077382385 |
-| Players | 8/15 |
-| Host Name | YATOGO ROT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:10:34 |
+| Lobby ID | 28617125077727355 |
+| Players | 4/8 |
+| Host Name | qwwqerreassa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:54 |
 
 
 |  | ot3_desert_octet |
@@ -122,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125077409573 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | RTZ.Kodiang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:10:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125073059992 |
-| Players | 9/10 |
-| Host Name | 𝔐𝔬𝔯𝔫𝔦𝔫𝔤 𝔖𝔱𝔞𝔯 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:06:28 |
 
 
