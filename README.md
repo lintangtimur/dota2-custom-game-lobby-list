@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:08:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125076199550 |
-| Players | 7/8 |
-| Host Name | KatenKyokotsu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:09:27 |
+| Lobby ID | 28617125077171023 |
+| Players | 1/24 |
+| Host Name | 123 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:22 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125076409424 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | can`t win?! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:09:39 |
@@ -86,25 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125076323247 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Luboš Kotvička |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:09:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125077382385 |
+| Players | 3/15 |
+| Host Name | YATOGO ROT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:34 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125077171023 |
+| Lobby ID | 28617125077405188 |
 | Players | 1/24 |
-| Host Name | 123 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Monday, January 22, 2024 20:10:22 |
+| Host Name | Al'do |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125075589331 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Аллах чушпан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:52 |
@@ -121,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125077210257 |
+| Lobby ID | 28617125077409573 |
 | Players | 1/10 |
 | Host Name | RTZ.Kodiang |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:10:24 |
+| Lobby Creation Time | Monday, January 22, 2024 20:10:36 |
 
 
