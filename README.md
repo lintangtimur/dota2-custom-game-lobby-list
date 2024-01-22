@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125260806984 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | жужа зеленская |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 22:55:39 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125269394104 |
-| Players | 5/8 |
-| Host Name | маник пикси герл |
+| Players | 6/8 |
+| Host Name | stresssq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:03:41 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:00:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125269274031 |
-| Players | 9/10 |
-| Host Name | Jack Lev |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:03:34 |
+| Lobby ID | 28617125269780491 |
+| Players | 1/15 |
+| Host Name | haggrit* |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:04:02 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125269491778 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Bad Boy |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:03:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125266807478 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name |  Marco Aurelio Denegri  |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:01:15 |
@@ -104,54 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125268255905 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | saj |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:02:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125269377540 |
-| Players | 1/8 |
-| Host Name | агузок |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 22, 2024 23:03:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125269788078 |
-| Players | 1/8 |
-| Host Name | pikea rata ctm |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 23:04:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125269249447 |
-| Players | 8/10 |
-| Host Name | Жопик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:03:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125269780491 |
-| Players | 1/15 |
-| Host Name | haggrit* |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 22, 2024 23:04:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125267795525 |
-| Players | 1/10 |
-| Host Name | kaaa |
+| Lobby ID | 28617125269828580 |
+| Players | 6/10 |
+| Host Name | 13 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:02:11 |
+| Lobby Creation Time | Monday, January 22, 2024 23:04:05 |
 
 
