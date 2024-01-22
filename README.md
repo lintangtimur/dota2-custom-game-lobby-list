@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124973721291 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Super Position |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:19:57 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124976455539 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | mc mc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:23:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124976673331 |
-| Players | 1/15 |
-| Host Name | AxelSkors |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 18:23:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Einsiedler [ru] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:21:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124976867340 |
+| Players | 1/5 |
+| Host Name | Evenworse |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:23:56 |
 
 
