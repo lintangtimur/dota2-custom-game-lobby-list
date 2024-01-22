@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125364483275 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Antikunos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:35:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125363079361 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TU VIEJOO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:33:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125364760461 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | DVD ghoul |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:35:30 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125365044949 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | io |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:35:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125365074193 |
+| Players | 1/8 |
+| Host Name | 4 pos idc |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:35:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125365166258 |
+| Players | 2/24 |
+| Host Name | Katletka Nym Nym |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:35:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125361872070 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | mAbEx^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:32:41 |
