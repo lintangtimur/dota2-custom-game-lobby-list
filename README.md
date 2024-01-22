@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125388964998 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | vN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:59:21 |
@@ -58,29 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125386153186 |
-| Players | 13/15 |
-| Host Name | SunsetLover |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:56:34 |
+| Lobby ID | 28617125389731534 |
+| Players | 7/15 |
+| Host Name | Milkman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:00:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125374419581 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | DKKs- |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:45:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125389491549 |
-| Players | 5/8 |
-| Host Name | Hantik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:59:53 |
+| Lobby ID | 28617125389842128 |
+| Players | 1/10 |
+| Host Name | Pescadero |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:00:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 01:00:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125389714828 |
-| Players | 3/8 |
-| Host Name | mercedes w222 owner |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:00:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125389731534 |
-| Players | 3/15 |
-| Host Name | Milkman |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:00:07 |
+| Lobby ID | 28617125389907565 |
+| Players | 1/15 |
+| Host Name | Asesino |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:00:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125369209094 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | mad_wisp |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:51 |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RaNKoR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:59:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125389889274 |
+| Players | 1/5 |
+| Host Name | Random |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 23, 2024 01:00:16 |
 
 
