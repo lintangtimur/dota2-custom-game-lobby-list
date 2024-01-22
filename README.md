@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125055301630 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Silvers Rayleigh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:49:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125050407057 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:44:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125057274780 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 19:51:10 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125057164473 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Игорь Потов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:51:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125057543520 |
-| Players | 3/8 |
-| Host Name | gojo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:51:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125052592487 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | -_= |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:34 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hermes |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:51:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125057682994 |
+| Players | 1/10 |
+| Host Name | NoMoreTears |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:51:34 |
 
 
