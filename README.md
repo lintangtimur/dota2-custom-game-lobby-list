@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:41:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125369133665 |
-| Players | 9/10 |
-| Host Name | CrazyDiller |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:39:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125372398353 |
-| Players | 3/15 |
-| Host Name | YATOGOV ROT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:43:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125372247390 |
-| Players | 6/8 |
-| Host Name | Gandon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:42:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125370920636 |
@@ -101,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:41:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125372398353 |
+| Players | 11/15 |
+| Host Name | YATOGOV ROT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:43:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125372681533 |
+| Players | 4/10 |
+| Host Name | danek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:43:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125369209094 |
@@ -108,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Green_Elf |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125370434461 |
-| Players | 8/10 |
-| Host Name | Oz. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:41:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125371753039 |
-| Players | 1/5 |
-| Host Name | Аск |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:42:21 |
 
 
 |  | epic_boss_fight_nightmare |
