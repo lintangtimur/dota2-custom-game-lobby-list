@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125093641191 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | туалет крутится |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:25:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125099235129 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:30:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125092816347 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 20:24:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125099902314 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Sdnss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:31:18 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125099985075 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Баленса?ракнута |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:31:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125082052045 |
+| Players | 7/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:15:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125100509167 |
+| Players | 5/8 |
+| Host Name | чичел |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:31:50 |
 
 
 |  | epic_boss_fight_challenger |
@@ -94,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617125098649679 |
-| Players | 2/5 |
-| Host Name | enotebetosla |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:30:11 |
+| Lobby ID | 28617125092777298 |
+| Players | 1/5 |
+| Host Name | Waterproof Teabag |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:24:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125094246525 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Stars |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:26:13 |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125097880320 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 条友真系唔识喔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:29:29 |
@@ -121,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28617125092777298 |
+| Lobby ID | 28617125100455809 |
 | Players | 1/5 |
-| Host Name | Waterproof Teabag |
+| Host Name | Артемида |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:24:53 |
+| Lobby Creation Time | Monday, January 22, 2024 20:31:47 |
 
 
