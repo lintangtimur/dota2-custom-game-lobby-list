@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125384917652 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Elysium |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:55:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125382819657 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ae-in |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:53:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125383478335 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Junnomancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:53:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125382907100 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | God Of Shit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:53:22 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125385251895 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | РУБИЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:55:40 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | дети блядей ебанный все знают |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:55:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125385811012 |
+| Players | 6/8 |
+| Host Name | cartier |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:56:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SHTERN! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:55:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125385954510 |
+| Players | 1/10 |
+| Host Name | Sanctions??? We don't feel it.D |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:56:22 |
 
 
