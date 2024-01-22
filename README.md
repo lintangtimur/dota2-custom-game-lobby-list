@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125030125577 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | RELEGATE FC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:09 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125030676427 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Арсенчик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:24:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125030675415 |
-| Players | 1/15 |
-| Host Name | ♡unlucky nn♡ |
+| Lobby ID | 28617125030848186 |
+| Players | 2/10 |
+| Host Name | ЛЕГЕНДА |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:24:44 |
+| Lobby Creation Time | Monday, January 22, 2024 19:24:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125029129312 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 𝔐𝔬𝔯𝔫𝔦𝔫𝔤 𝔖𝔱𝔞𝔯 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:23:06 |
