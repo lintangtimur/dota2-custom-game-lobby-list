@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125051526306 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:45:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125049659270 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:43:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125052229160 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Sonya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:13 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125052267686 |
-| Players | 2/8 |
-| Host Name | Atomega_kaktus |
+| Players | 4/8 |
+| Host Name | Я НЕГР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:46:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125052449323 |
+| Players | 1/24 |
+| Host Name | Kurmanjan Datka |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:46:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125047811210 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:41:51 |
