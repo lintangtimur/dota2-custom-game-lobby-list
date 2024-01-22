@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125371402873 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SnM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:42:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125363448331 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:34:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125365352777 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | mario |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:36:05 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125368888701 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | didldu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:33 |
@@ -122,17 +122,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125372015106 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | JjKaate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:42:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125372178289 |
+| Players | 1/8 |
+| Host Name | TheNotorious |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:42:46 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125369209094 |
-| Players | 3/10 |
-| Host Name | DeD_XacaH |
+| Players | 2/10 |
+| Host Name | Green_Elf |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:39:51 |
 
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125371197643 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Porsche Kaef |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:41:48 |
