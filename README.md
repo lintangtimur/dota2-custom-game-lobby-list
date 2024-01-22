@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125316292357 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | cherry |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:48:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125317645529 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | lalala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:49:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125315466260 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Xtecoo |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 22, 2024 23:47:32 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:49:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125318648125 |
+| Players | 1/15 |
+| Host Name | KAKA |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:34 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125318353224 |
-| Players | 8/10 |
-| Host Name | TORONTOADIDAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:50:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125318001138 |
-| Players | 7/8 |
-| Host Name | aesthetic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:49:57 |
+| Lobby ID | 28617125318677980 |
+| Players | 2/10 |
+| Host Name | Чурка с 3 подъезда |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:36 |
 
 
 |  | ot3_desert_octet |
@@ -140,19 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125318527800 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Эль Чуро 주님 神إله هذه ال |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:50:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125312272547 |
-| Players | 9/10 |
-| Host Name | Simpson |
+| Lobby ID | 28617125318712343 |
+| Players | 1/15 |
+| Host Name | GOZONE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:44:26 |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125318719048 |
+| Players | 1/15 |
+| Host Name | Carry Potter |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 23:50:38 |
 
 
 |  | epic_boss_fight_nightmare |
