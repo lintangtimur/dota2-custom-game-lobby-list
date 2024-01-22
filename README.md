@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125146153339 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:11:59 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 21:08:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125140884264 |
-| Players | 1/8 |
-| Host Name | //// |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 21:07:26 |
+| Lobby ID | 28617125146722620 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 21:12:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125134738602 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | House |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:02:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125146361461 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | парашют sоли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:09 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125146702864 |
 | Players | 3/8 |
-| Host Name | кубометр тильта |
+| Host Name | 633 offlane prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:27 |
 
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125146709276 |
-| Players | 2/15 |
-| Host Name | ЕБЁМСЯ? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 21:12:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125146722620 |
 | Players | 1/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
+| Host Name | я голубь)))) |
+| Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125146376194 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:12:10 |
