@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125068530162 |
-| Players | 9/10 |
-| Host Name | spirin-sport |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:02:07 |
+| Lobby ID | 28617125069699272 |
+| Players | 2/10 |
+| Host Name | a |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 20:03:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125068567609 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ปู่มหามุนี |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125069241020 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | SigmaSkuf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:48 |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125069699272 |
+| Lobby ID | 28617125069830293 |
 | Players | 2/10 |
-| Host Name | a |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:03:14 |
+| Host Name | Van ♂️ Darkholme |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:03:21 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28617125069033050 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Жора из Hi-Fi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:02:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125069862539 |
+| Players | 4/5 |
+| Host Name | Sheih Ali De Feri Egor Abibi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 20:03:23 |
 
 
