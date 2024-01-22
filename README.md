@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124946606795 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Качатель качей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:44:07 |
@@ -50,17 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124947013168 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | quasar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:44:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124947014088 |
-| Players | 6/8 |
-| Host Name | fjsiaijgsajigsjia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:44:41 |
 
@@ -74,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:45:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124947465816 |
-| Players | 1/10 |
-| Host Name | Satoru Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 17:45:18 |
+| Lobby ID | 28617124947622524 |
+| Players | 1/8 |
+| Host Name | tough |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:45:30 |
 
 
