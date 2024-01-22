@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:28:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125356811473 |
-| Players | 7/8 |
-| Host Name | μολὼν λαβέ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:27:46 |
+| Lobby ID | 28617125357315699 |
+| Players | 1/15 |
+| Host Name | bruh |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125350837178 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Kimsach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:21:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125354279515 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | fool |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:25:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125356794408 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 為什麼你很爛 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:27:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125355218410 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Elysium |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:26:13 |
@@ -101,10 +101,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:19:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125357338736 |
+| Players | 1/8 |
+| Host Name | Xtr3me |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125357344630 |
+| Players | 1/8 |
+| Host Name | 1000-7:?? |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125357340681 |
+| Players | 4/15 |
+| Host Name | Hashi morning Star |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125357457388 |
+| Players | 2/15 |
+| Host Name | 13 reasons why |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125357476827 |
+| Players | 5/10 |
+| Host Name | Ðєαтн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:28:25 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125338355450 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | 14рeзaл дeтoк в бучe88 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:09:35 |
