@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125271443559 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:35 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:46:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125273469128 |
-| Players | 6/10 |
-| Host Name | Шляпа Ивановна |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:07:28 |
+| Lobby ID | 28617125273940193 |
+| Players | 2/15 |
+| Host Name | КОН ЧИ в меня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:07:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125272695618 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | feeling alive |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:06:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125266807478 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name |  Marco Aurelio Denegri  |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:01:15 |
@@ -103,20 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125272718726 |
-| Players | 13/15 |
-| Host Name | Пузожитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:06:46 |
+| Lobby ID | 28617125273906323 |
+| Players | 2/15 |
+| Host Name | it is what it is |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:07:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125272882663 |
-| Players | 6/8 |
-| Host Name | MAHLER HAMMER |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 23:06:56 |
+| Lobby ID | 28617125273948997 |
+| Players | 1/15 |
+| Host Name | PITBULM4 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:07:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125273949857 |
+| Players | 1/15 |
+| Host Name | Лезгин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:07:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:04:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125271556510 |
-| Players | 9/10 |
-| Host Name | Sakazuki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:05:42 |
 
 
 |  | epic_boss_fight_normal |
