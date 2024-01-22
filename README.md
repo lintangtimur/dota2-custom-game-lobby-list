@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124970705340 |
-| Players | 6/8 |
-| Host Name | соня миньен секс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:16:08 |
+| Lobby ID | 28617124971864349 |
+| Players | 1/8 |
+| Host Name | Psychosocial |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 18:17:36 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124969181948 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Teudoongie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:14:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124971323168 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Darkneess |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:16:55 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124971527615 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sm1le |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 18:17:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124971825695 |
+| Players | 1/15 |
+| Host Name | arlez |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 18:17:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥ThE^_^eNd_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:16:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124971713161 |
-| Players | 2/5 |
-| Host Name | гиппопотомонс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:17:24 |
 
 
