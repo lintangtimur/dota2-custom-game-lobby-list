@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125071888389 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Shadowblade Riki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:05:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125073409217 |
-| Players | 1/10 |
-| Host Name | Titio Dark Kevin |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 20:06:48 |
+| Lobby ID | 28617125075071965 |
+| Players | 7/15 |
+| Host Name | Carellas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:08:22 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:02:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125072856460 |
-| Players | 6/8 |
-| Host Name | テロ |
+| Lobby ID | 28617125075209457 |
+| Players | 1/24 |
+| Host Name | BalSik |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 20:06:16 |
+| Lobby Creation Time | Monday, January 22, 2024 20:08:30 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125075014780 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BWC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:19 |
