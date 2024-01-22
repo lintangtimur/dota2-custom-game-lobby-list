@@ -4,100 +4,154 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617122558482484 |
-| Players | 10/24 |
-| Host Name | code10 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:29:18 |
+| Lobby ID | 28617124894727051 |
+| Players | 3/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124878542919 |
+| Players | 1/24 |
+| Host Name | Michael Myers |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, January 22, 2024 16:02:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124808353715 |
+| Players | 1/10 |
+| Host Name | aliruf |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124826905113 |
+| Players | 2/24 |
+| Host Name | gelatinacrusial |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 14:38:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617122562709085 |
-| Players | 5/8 |
-| Host Name | уринабомбер |
+| Lobby ID | 28617124898922961 |
+| Players | 1/8 |
+| Host Name | гадаю на клиторе |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:35:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122557849553 |
-| Players | 3/24 |
-| Host Name | C|R|E|E|P |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, January 20, 2024 15:28:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122562424897 |
-| Players | 14/24 |
-| Host Name | 小百合 平野 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:34:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617122558107926 |
-| Players | 2/24 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Saturday, January 20, 2024 15:28:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122563020924 |
-| Players | 1/10 |
-| Host Name | Morpheus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:35:41 |
+| Lobby Creation Time | Monday, January 22, 2024 16:34:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617122562882492 |
-| Players | 5/15 |
-| Host Name | MASTAK_ZAPAD_KGZ |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, January 20, 2024 15:35:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617122561869426 |
-| Players | 9/10 |
-| Host Name | Джон Дик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:34:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617122563172138 |
+| Lobby ID | 28617124891907797 |
 | Players | 1/15 |
-| Host Name | NGABLAK |
+| Host Name | Kaltes |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 16:23:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124897509470 |
+| Players | 2/15 |
+| Host Name | Steady Play |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, January 20, 2024 15:35:54 |
+| Lobby Creation Time | Monday, January 22, 2024 16:32:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124897085884 |
+| Players | 5/24 |
+| Host Name | bigboiboi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:32:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124898329933 |
+| Players | 3/10 |
+| Host Name | ggez25 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:34:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617124898174510 |
+| Players | 18/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:33:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124898297199 |
+| Players | 14/15 |
+| Host Name | AMATERASU |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:34:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124898295904 |
+| Players | 1/15 |
+| Host Name | Яндекс похороны |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:34:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124898930821 |
+| Players | 1/8 |
+| Host Name | REAPER |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 16:34:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617122559460544 |
-| Players | 9/10 |
-| Host Name | GordeyeV_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:30:40 |
+| Lobby ID | 28617124883993913 |
+| Players | 1/10 |
+| Host Name | Se7enth |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:11:32 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617122563168237 |
-| Players | 1/7 |
-| Host Name | den4ik |
+| Lobby ID | 28617124896643145 |
+| Players | 5/10 |
+| Host Name | Secretary-specific |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:31:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124889954314 |
+| Players | 8/10 |
+| Host Name | Fey |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, January 20, 2024 15:35:54 |
+| Lobby Creation Time | Monday, January 22, 2024 16:20:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124898266020 |
+| Players | 1/5 |
+| Host Name | shadowqtrxz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:33:57 |
 
 
