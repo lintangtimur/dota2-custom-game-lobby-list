@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124934007903 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | wwwwwwwwwwwwwwwwww. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:40 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:28:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124917896288 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 22, 2024 17:03:42 |
+| Lobby ID | 28617124936117590 |
+| Players | 1/15 |
+| Host Name | JalenGreen 4 Rockets |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, January 22, 2024 17:29:38 |
 
 
 |  | ot3_desert_octet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124935971249 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Был ли он счастлив.... |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:29:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124936117590 |
-| Players | 1/15 |
-| Host Name | JalenGreen 4 Rockets |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 22, 2024 17:29:38 |
 
 
 |  | epic_boss_fight_normal |
