@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124909443159 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SanctuaryMoon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:51:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124911033059 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:53:36 |
