@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125315974180 |
-| Players | 2/15 |
-| Host Name | dynastie morte, tvar' |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:48:01 |
+| Lobby ID | 28617125315598176 |
+| Players | 1/15 |
+| Host Name | Disenchantment |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125312673309 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 3-hp |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125316116649 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | ГОРЯЧИЙ МУЧАЧОС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:48:09 |
@@ -101,19 +101,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:46:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125316276018 |
+| Players | 2/8 |
+| Host Name | Сын Сварщика |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:48:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125316292357 |
+| Players | 1/8 |
+| Host Name | cherry |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 22, 2024 23:48:19 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125315598176 |
+| Lobby ID | 28617125316325295 |
+| Players | 2/15 |
+| Host Name | Нафотомоядевушка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:48:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125316370110 |
+| Players | 2/8 |
+| Host Name | ==\\\\\ aLL mUTEDXDDDDDD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 23:48:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125316397282 |
 | Players | 1/15 |
-| Host Name | Disenchantment |
+| Host Name | zzZz !! |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, January 22, 2024 23:47:39 |
+| Lobby Creation Time | Monday, January 22, 2024 23:48:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125312272547 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Simpson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:44:26 |
