@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125213951984 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | アイシテル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 22:12:20 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:11:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125203454065 |
-| Players | 21/24 |
-| Host Name | Llanvirn |
+| Lobby ID | 28617125214455832 |
+| Players | 1/8 |
+| Host Name | бомбардирОчка |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:02:48 |
+| Lobby Creation Time | Monday, January 22, 2024 22:12:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125211635491 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | LSVEN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:10:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125214162443 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zaur |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:12:32 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125213955991 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | выпустил кишки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:12:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125210456027 |
+| Players | 7/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 22, 2024 22:09:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125214401673 |
+| Players | 6/15 |
+| Host Name | салам славяне |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:12:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125212317306 |
+| Players | 20/24 |
+| Host Name | whatever |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:10:50 |
 
 
 |  | epic_boss_fight_nightmare |
