@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:26:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125224402519 |
-| Players | 7/8 |
-| Host Name | --.-- |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 22:22:00 |
+| Lobby ID | 28617125228920352 |
+| Players | 14/15 |
+| Host Name | G r e e n |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 22:26:11 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125231196066 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:28:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125231209907 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | krENDel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:28:16 |
@@ -85,29 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125231445190 |
+| Lobby ID | 28617125231615818 |
 | Players | 1/8 |
-| Host Name | ice |
+| Host Name | ANIMALE |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 22:28:29 |
+| Lobby Creation Time | Monday, January 22, 2024 22:28:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125228920352 |
-| Players | 12/15 |
-| Host Name | G r e e n |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:26:11 |
+| Lobby ID | 28617125231627814 |
+| Players | 1/24 |
+| Host Name | magucciy |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:28:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125231507937 |
-| Players | 3/8 |
-| Host Name | Найроби |
+| Lobby ID | 28617125231605847 |
+| Players | 1/8 |
+| Host Name | Blinch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 22:28:33 |
+| Lobby Creation Time | Monday, January 22, 2024 22:28:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125225091017 |
+| Players | 23/24 |
+| Host Name | Chisato |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 22:22:39 |
 
 
 |  | epic_boss_fight_nightmare |
