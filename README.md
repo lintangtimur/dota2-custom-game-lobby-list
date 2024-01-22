@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124894727051 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 16:28:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124909443159 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | SanctuaryMoon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:51:13 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124911343563 |
+| Players | 3/8 |
+| Host Name | HEARTSNOW۞ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:54:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124910555616 |
+| Lobby ID | 28617124911420533 |
 | Players | 1/15 |
 | Host Name | mr. anal rambo slayer |
 | Region | USWEST |
-| Lobby Creation Time | Monday, January 22, 2024 16:52:54 |
+| Lobby Creation Time | Monday, January 22, 2024 16:54:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124911443908 |
+| Players | 2/10 |
+| Host Name | Дондочакка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:54:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124907817653 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 16:48:47 |
