@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:01:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124961756189 |
-| Players | 7/15 |
-| Host Name | 765611 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:04:36 |
+| Lobby ID | 28617124961887274 |
+| Players | 2/10 |
+| Host Name | Satoru Gojō |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 22, 2024 18:04:46 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KENGisREAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:04:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124962008406 |
+| Players | 4/8 |
+| Host Name | buntarou |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 18:04:56 |
 
 
 |  | epic_boss_fight_nightmare |
