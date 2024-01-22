@@ -4,18 +4,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125340873319 |
-| Players | 5/8 |
-| Host Name | ver |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:12:03 |
+| Lobby ID | 28617125341221961 |
+| Players | 7/8 |
+| Host Name | Inmortals.Piero 👓.✖‿✖ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:12:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125341840645 |
-| Players | 3/8 |
-| Host Name | sonik09 |
+| Players | 2/8 |
+| Host Name | KinT.Anduin |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:13:00 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125339226637 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | PROPHET |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:10:27 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125341495935 |
-| Players | 12/15 |
-| Host Name | etep |
+| Lobby ID | 28617125342348417 |
+| Players | 4/15 |
+| Host Name | ✰𝕯𝖨ᾰ𝐁𝙡ⲟ✰ |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:12:40 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:13:29 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125341516456 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | EpicBossFightEnjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:12:41 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:11:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125341221961 |
-| Players | 7/8 |
-| Host Name | Inmortals.Piero 👓.✖‿✖ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:12:24 |
+| Lobby ID | 28617125342376923 |
+| Players | 3/10 |
+| Host Name | пидорас(fullpohui) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:13:31 |
 
 
 |  | epic_boss_fight_challenger |
