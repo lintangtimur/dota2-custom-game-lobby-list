@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124933735402 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:26:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124938240254 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Nhe4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:36 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:27:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124937887304 |
-| Players | 7/8 |
-| Host Name | Wheredoyouwantme |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:32:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124938343169 |
@@ -63,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | УгаБуга |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124938745947 |
+| Players | 1/10 |
+| Host Name | DON COQUEX 90 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 22, 2024 17:33:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124938754209 |
+| Players | 1/8 |
+| Host Name | theOne |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:33:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124938765136 |
+| Players | 1/8 |
+| Host Name | SMOTRA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:33:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124937821310 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Илья Николаевич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:32:01 |
