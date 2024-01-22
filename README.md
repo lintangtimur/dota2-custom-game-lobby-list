@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | TSR.iJean_x |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125075346787 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:08:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125063668274 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Modo chill |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 19:57:27 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125071084627 |
-| Players | 3/8 |
-| Host Name | Skvazimabzabza |
+| Lobby ID | 28617125079532147 |
+| Players | 1/8 |
+| Host Name | Wheredoyouwantme |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:04:34 |
+| Lobby Creation Time | Monday, January 22, 2024 20:12:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125079417501 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | mrpro554410 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:12:31 |
@@ -128,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:10:36 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28617125078570424 |
-| Players | 1/5 |
-| Host Name | Masochise |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 20:11:42 |
+| Lobby ID | 28617125079533042 |
+| Players | 3/7 |
+| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, January 22, 2024 20:12:37 |
 
 
