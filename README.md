@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124943030619 |
-| Players | 13/15 |
-| Host Name | DreamsBurnDown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:39:12 |
+| Lobby ID | 28617124943729492 |
+| Players | 7/15 |
+| Host Name | YEEZER |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:40:09 |
 
 
 |  | ot3_desert_octet |
@@ -29,40 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124943354588 |
-| Players | 3/8 |
-| Host Name | Something changed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:39:38 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124943395068 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | Hoye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:39:42 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124943317188 |
-| Players | 6/10 |
-| Host Name | Эшелон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:39:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124943604600 |
+| Lobby ID | 28617124943801465 |
 | Players | 2/8 |
-| Host Name | deorgen_ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:39:59 |
+| Host Name | чопорный бабай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:40:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124944003843 |
+| Players | 1/10 |
+| Host Name | evilparrot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:40:31 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Where is Danko? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:34:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617124943902793 |
+| Players | 2/10 |
+| Host Name | tiil na mani |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:40:23 |
 
 
