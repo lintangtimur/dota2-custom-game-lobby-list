@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:12:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124925080860 |
-| Players | 8/10 |
-| Host Name | я не макс, я макима |
+| Lobby ID | 28617124925648542 |
+| Players | 9/15 |
+| Host Name | unnecessary |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:14:04 |
+| Lobby Creation Time | Monday, January 22, 2024 17:14:53 |
 
 
 |  | ot3_gardens_duo |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:13:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124925648542 |
-| Players | 6/15 |
-| Host Name | unnecessary |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:14:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124923446051 |
-| Players | 7/8 |
-| Host Name | GodK4pp4lelelelele!!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:11:42 |
+| Lobby ID | 28617124926160334 |
+| Players | 3/10 |
+| Host Name | _Mazafaka_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:15:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124918568814 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Mr.Einsiedler [ru] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:04:41 |
