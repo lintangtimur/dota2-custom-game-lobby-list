@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124995839358 |
-| Players | 6/8 |
-| Host Name | Шoker |
+| Lobby ID | 28617124996614154 |
+| Players | 4/15 |
+| Host Name | Натян |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:46:51 |
+| Lobby Creation Time | Monday, January 22, 2024 18:47:45 |
 
 
 |  | ot3_gardens_duo |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124996376647 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | LI4INU$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:47:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124996614154 |
-| Players | 2/15 |
-| Host Name | Натян |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:47:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124996739228 |
-| Players | 2/8 |
-| Host Name | женемтьсмьатвтзу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:47:54 |
 
 
 |  | epic_boss_fight_nightmare |
