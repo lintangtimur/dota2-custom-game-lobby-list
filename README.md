@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124956206810 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Fire inside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:57:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124956472204 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Technical Crossout |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:57:32 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:57:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124956868286 |
-| Players | 7/10 |
-| Host Name | НЭЙТ АРЧИБАЛЬД |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:58:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124955404021 |
@@ -119,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:56:06 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124956385024 |
-| Players | 1/5 |
-| Host Name | BallxGod |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:57:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124956728178 |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [VGB]NUBISHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:57:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124957263345 |
+| Players | 1/5 |
+| Host Name | Чиба риба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:58:35 |
 
 
