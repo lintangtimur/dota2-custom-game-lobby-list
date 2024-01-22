@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124983949549 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124984554464 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | игрь амфетоминовая пятка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:21 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124984449441 |
-| Players | 7/8 |
-| Host Name | Attacc |
+| Lobby ID | 28617124985305880 |
+| Players | 1/8 |
+| Host Name | Glina |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:33:13 |
+| Lobby Creation Time | Monday, January 22, 2024 18:34:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124984659946 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MARIA NO ME DEJES POR EL PAYASO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 18:33:28 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124983838662 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 完全 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:32:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617124985274809 |
-| Players | 3/10 |
-| Host Name | Frenky-kun |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:34:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617124985305880 |
-| Players | 1/8 |
-| Host Name | Glina |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:34:15 |
 
 
 |  | epic_boss_fight_challenger |
