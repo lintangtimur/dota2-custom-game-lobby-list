@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124945668088 |
-| Players | 5/8 |
-| Host Name | Tryhard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 17:42:49 |
+| Lobby ID | 28617124945393193 |
+| Players | 1/15 |
+| Host Name | 雨 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124943395068 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | The Beatles TH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:39:42 |
@@ -50,25 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124945365189 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yanekoro雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617124945393193 |
-| Players | 1/15 |
-| Host Name | 雨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124944227528 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Mистер Роябот Абд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:40:50 |
