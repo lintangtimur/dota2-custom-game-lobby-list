@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 17:20:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124929771139 |
-| Players | 7/8 |
-| Host Name | 4 pos idc |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 17:20:43 |
+| Lobby ID | 28617124930364254 |
+| Players | 1/10 |
+| Host Name | LEGENDA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:21:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124927051424 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124930393548 |
+| Players | 1/8 |
+| Host Name | Боба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 17:21:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124928920433 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:19:31 |
