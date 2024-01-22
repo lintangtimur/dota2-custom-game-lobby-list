@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 22:24:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125238002218 |
-| Players | 12/15 |
-| Host Name | Peppa La Cerda |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 22:34:26 |
+| Lobby ID | 28617125238325860 |
+| Players | 1/8 |
+| Host Name | Displex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:34:44 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125237347117 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Absolutely Perfect |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:33:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125237408911 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | k@nit.m |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 22:33:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125237522252 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | xXx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:34:00 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cage_Scorp1x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 22:34:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125238418237 |
+| Players | 1/15 |
+| Host Name | Intec |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:34:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125238414138 |
+| Players | 3/15 |
+| Host Name | Kiss |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 22:34:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125238464075 |
+| Players | 1/24 |
+| Host Name | Jaqen H'ghar |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 22, 2024 22:34:51 |
 
 
 |  | epic_boss_fight_nightmare |
