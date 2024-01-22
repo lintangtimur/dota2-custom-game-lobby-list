@@ -68,43 +68,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125042701680 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Memento_mori |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:36:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125043880184 |
-| Players | 7/8 |
-| Host Name | children of stepdaughter |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:38:01 |
+| Lobby ID | 28617125044872468 |
+| Players | 1/15 |
+| Host Name | Aon MatSir |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:39:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125043906200 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:38:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125042218969 |
-| Players | 23/24 |
-| Host Name | 九 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:36:23 |
+| Lobby ID | 28617125044947963 |
+| Players | 1/10 |
+| Host Name | Revoker |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:39:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125044526804 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | zaborus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:38:39 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125043674360 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:37:49 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125043864929 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | RATORO! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:38:00 |
