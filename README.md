@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125345903527 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Kiongku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:00 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:19:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125348453700 |
-| Players | 2/8 |
-| Host Name | Danila |
+| Lobby ID | 28617125348616667 |
+| Players | 7/15 |
+| Host Name | Ветеран |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:19:30 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125343649581 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PIPHELS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:14:46 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125348424877 |
-| Players | 1/15 |
-| Host Name | foress |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:19:29 |
+| Lobby ID | 28617125348409948 |
+| Players | 13/15 |
+| Host Name | Human Prib |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,31 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:19:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125348409948 |
-| Players | 8/15 |
-| Host Name | Human Prib |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:19:28 |
+| Lobby ID | 28617125348666043 |
+| Players | 1/8 |
+| Host Name | Ati |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:19:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125346606148 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:17:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125345063211 |
-| Players | 1/5 |
-| Host Name | ayyyf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:16:10 |
 
 
 |  | epic_boss_fight_normal |
