@@ -32,18 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124966023245 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | 孫悟空 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:10:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124966179070 |
+| Players | 1/8 |
+| Host Name | тоха |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 18:10:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617124964779701 |
-| Players | 14/15 |
-| Host Name | ❌XART✅❤ |
+| Lobby ID | 28617124966228388 |
+| Players | 1/15 |
+| Host Name | maku reactor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:08:33 |
+| Lobby Creation Time | Monday, January 22, 2024 18:10:24 |
 
 
