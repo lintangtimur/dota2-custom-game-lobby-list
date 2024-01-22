@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125300281144 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Egoisto. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:32:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125294261744 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:27:04 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125300242770 |
-| Players | 1/10 |
-| Host Name | verstalschik |
+| Players | 2/10 |
+| Host Name | СЕРЬОГА ПУЗЫРЬ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:32:48 |
 
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 23:32:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125299697205 |
-| Players | 6/10 |
-| Host Name | Ya feel me? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:32:16 |
+| Lobby ID | 28617125298199870 |
+| Players | 4/8 |
+| Host Name | korvo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:30:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125277169612 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Мышонок |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:10:56 |
@@ -85,19 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125298199870 |
+| Lobby ID | 28617125300657066 |
 | Players | 4/8 |
-| Host Name | korvo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 23:30:50 |
+| Host Name | ＧＲＩＦＦＩＴＨ |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 22, 2024 23:33:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125300584404 |
-| Players | 2/10 |
+| Lobby ID | 28617125300706840 |
+| Players | 4/8 |
+| Host Name | bimbim bambam |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 23:33:15 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28617125300721367 |
+| Players | 2/7 |
 | Host Name | PaiNwoW~ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:33:08 |
+| Lobby Creation Time | Monday, January 22, 2024 23:33:16 |
 
 
