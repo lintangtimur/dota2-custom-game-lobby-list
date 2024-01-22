@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125009519096 |
+| Lobby ID | 28617125008274976 |
 | Players | 14/15 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 22, 2024 19:02:18 |
+| Host Name | folder |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:00:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125011159583 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | koksaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:04:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124977617943 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:03:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125005016021 |
-| Players | 18/24 |
-| Host Name | GotPzPPT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:57:21 |
+| Lobby ID | 28617125011242840 |
+| Players | 3/10 |
+| Host Name | blxdie. |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:04:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125011070179 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Itakun春分 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 19:03:58 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sad--)) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 19:04:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125011242840 |
-| Players | 2/10 |
-| Host Name | blxdie. |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:04:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125011430297 |
-| Players | 2/8 |
-| Host Name | Punk Monk |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:04:21 |
 
 
 |  | epic_boss_fight_nightmare |
