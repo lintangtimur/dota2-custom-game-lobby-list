@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125355444274 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | МЕГА ТАНК СУПЕР ПРО SSS+ HERO |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:26:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125350332900 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | //MX` |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:21:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125355371912 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | [So]Voker |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:26:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125348232168 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:19:17 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125355721431 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | JZZ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:26:42 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125353240059 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | chort100_TwitchTV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:24:15 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125355649483 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Angel(a) |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:26:38 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125355670323 |
-| Players | 6/10 |
-| Host Name | Ksavar? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:26:39 |
+| Lobby ID | 28617125355957883 |
+| Players | 2/10 |
+| Host Name | SDSD |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:26:56 |
 
 
 |  | epic_boss_fight_challenger |
