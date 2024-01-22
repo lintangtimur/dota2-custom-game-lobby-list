@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125136971210 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | LicenciadoMu |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:04:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125174520095 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Joshe Mr A.Z. |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 21:36:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125174579164 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | shpic707 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 21:36:54 |
@@ -86,34 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125174822174 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | ДЖОЙКАНИСТРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 21:37:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125174978517 |
-| Players | 1/15 |
-| Host Name | Geruson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:37:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125172700479 |
-| Players | 9/10 |
-| Host Name | FAQ |
+| Lobby ID | 28617125175053735 |
+| Players | 4/10 |
+| Host Name | Haezelnuts |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 21:35:17 |
+| Lobby Creation Time | Monday, January 22, 2024 21:37:19 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617125170759370 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | Alter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 21:33:35 |
