@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125231934472 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | I am the supreme gentleman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:28:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125233936766 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | 4 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 22:30:45 |
@@ -103,11 +103,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125234137690 |
+| Lobby ID | 28617125234272479 |
 | Players | 1/10 |
 | Host Name | Mr.Cop |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, January 22, 2024 22:30:56 |
+| Lobby Creation Time | Monday, January 22, 2024 22:31:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28617125226436917 |
+| Players | 23/24 |
+| Host Name | Goose |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:23:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125234331507 |
+| Players | 3/8 |
+| Host Name | толстолобик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 22:31:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617125234296410 |
+| Players | 2/10 |
+| Host Name | Qusaka.ᛕᚤᛖ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:31:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 22:23:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125234155598 |
+| Players | 1/5 |
+| Host Name | 김지수 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 22:30:57 |
 
 
