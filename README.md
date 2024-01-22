@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125287995390 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 23:21:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125289124690 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Joffrey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:22:10 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eduardo tu bebita Marengo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:22:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125289380975 |
+| Players | 4/8 |
+| Host Name | РАБ КАБАНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:22:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125289494401 |
+| Players | 1/8 |
+| Host Name | i lord it over you |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:22:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125287849648 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Pachunya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:20:59 |
