@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124945393193 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | 雨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:42:26 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124954099799 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Olivia Rodrigo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 17:54:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617124958485863 |
-| Players | 7/8 |
-| Host Name | 金木 研 |
+| Lobby ID | 28617124959645074 |
+| Players | 7/10 |
+| Host Name | димка накиев |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:00:15 |
+| Lobby Creation Time | Monday, January 22, 2024 18:01:49 |
 
 
 |  | ot3_gardens_duo |
@@ -95,36 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124959248220 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Chunk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:01:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124959645074 |
-| Players | 7/10 |
-| Host Name | димка накиев |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 18:01:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617124959006502 |
-| Players | 8/10 |
-| Host Name | Eyjafjalla |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:00:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617124959742133 |
-| Players | 1/5 |
-| Host Name | MAXWELL |
+| Lobby ID | 28617124959861053 |
+| Players | 6/8 |
+| Host Name | GigaXinQ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 18:01:56 |
+| Lobby Creation Time | Monday, January 22, 2024 18:02:06 |
 
 
