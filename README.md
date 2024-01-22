@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124908131567 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | veon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:49:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124909443159 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SanctuaryMoon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:51:13 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:53:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617124909430759 |
-| Players | 8/10 |
-| Host Name | шкекер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 16:51:12 |
+| Lobby ID | 28617124910787036 |
+| Players | 6/24 |
+| Host Name | ☆ VAZ ☆ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 16:52:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617124910787036 |
-| Players | 6/24 |
-| Host Name | ☆ VAZ ☆ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 16:53:14 |
+| Lobby ID | 28617124911185128 |
+| Players | 1/8 |
+| Host Name | kroh |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 16:53:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617124907817653 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 22, 2024 16:48:47 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:51:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124911100321 |
+| Players | 2/5 |
+| Host Name | СЫН ОЛИВКИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:53:43 |
 
 
