@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124928523632 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Jungeeeeeeee |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 17:18:58 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Filosofia Lujan Carrion |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 17:16:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617124929771139 |
+| Players | 1/8 |
+| Host Name | 4 pos idc |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 17:20:43 |
 
 
 |  | epic_boss_fight_normal |
