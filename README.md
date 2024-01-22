@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125363218461 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | dobriydebil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:33:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125360993154 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Ermak |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:31:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125363085593 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Plotneishiy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:33:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125361913493 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Chipi Chapa Dubi Daba Boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:32:44 |
@@ -59,34 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125361090620 |
-| Players | 2/15 |
-| Host Name | BanNer7 |
+| Players | 1/15 |
+| Host Name | RoyaL |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:31:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125362464171 |
-| Players | 2/15 |
-| Host Name | Rex |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:33:16 |
+| Lobby ID | 28617125363487530 |
+| Players | 2/8 |
+| Host Name | Абсолютный L1MONAD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:34:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125362683300 |
-| Players | 7/8 |
-| Host Name | ты не чувствуешь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:33:29 |
+| Lobby ID | 28617125363384327 |
+| Players | 4/8 |
+| Host Name | အကြောင်းပြ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:34:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125350332900 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Element |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:21:21 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125362839289 |
-| Players | 9/10 |
-| Host Name | сру(шпион) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:33:38 |
+| Lobby ID | 28617125363386235 |
+| Players | 3/10 |
+| Host Name | QUAS SEX ESCORT |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:34:09 |
 
 
 |  | ot3_gardens_duo |
@@ -130,20 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125363384327 |
+| Lobby ID | 28617125363448331 |
 | Players | 1/8 |
-| Host Name | အကြောင်းပြ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:34:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125363386235 |
-| Players | 2/10 |
-| Host Name | QUAS SEX ESCORT |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:34:09 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:34:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +162,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M-Ch23 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:33:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125363569595 |
+| Players | 1/5 |
+| Host Name | you canyou up |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:34:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125363575316 |
+| Players | 2/5 |
+| Host Name | mentalhealthcentar |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:34:20 |
 
 
