@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617124900896592 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ............. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 16:38:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617124901605594 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jewish Tunnel Rat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:39:10 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617124902244711 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | RememberTheName |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:40:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28617124903238547 |
+| Players | 3/10 |
+| Host Name | ₭۞ђ ☯ ҜÆ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:41:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617124903323347 |
+| Players | 3/15 |
+| Host Name | BAD JUJU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 16:41:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124898266020 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | shadowqtrxz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 16:33:57 |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YourOwnFear- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 16:39:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617124903274965 |
+| Players | 3/5 |
+| Host Name | Hue G's |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 16:41:44 |
 
 
