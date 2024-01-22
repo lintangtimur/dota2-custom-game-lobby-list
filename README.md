@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 18:24:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125028651252 |
-| Players | 3/8 |
-| Host Name | 󠀡󠀡 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:22:36 |
+| Lobby ID | 28617125028965179 |
+| Players | 4/15 |
+| Host Name | default |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 19:22:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125025454418 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 19:19:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125028890077 |
-| Players | 1/8 |
-| Host Name | Жан клот вандам т |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 19:22:51 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 19:22:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125028965179 |
-| Players | 1/15 |
-| Host Name | default |
+| Lobby ID | 28617125029152145 |
+| Players | 2/8 |
+| Host Name | Bulbasaur |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 22, 2024 19:22:56 |
+| Lobby Creation Time | Monday, January 22, 2024 19:23:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125028907976 |
-| Players | 1/10 |
+| Lobby ID | 28617125028999128 |
+| Players | 2/10 |
 | Host Name | Oyasuminasai™ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 19:22:52 |
+| Lobby Creation Time | Monday, January 22, 2024 19:22:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28617125029129312 |
+| Players | 1/10 |
+| Host Name | 𝔐𝔬𝔯𝔫𝔦𝔫𝔤 𝔖𝔱𝔞𝔯 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 22, 2024 19:23:06 |
 
 
