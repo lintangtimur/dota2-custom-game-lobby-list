@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125118192847 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:47:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125128437779 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | ★★666 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:56:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125127943786 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | oewe |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:56:06 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125126388900 |
-| Players | 20/24 |
-| Host Name | 出生在海边 从小喜欢浪 |
+| Players | 21/24 |
+| Host Name | Hellbound. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 22, 2024 20:54:45 |
 
@@ -96,7 +96,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28617125128870826 |
 | Players | 1/10 |
-| Host Name | красавчик |
+| Host Name | ЧЕРЕЗДЕВИЦ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:56:55 |
 
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:56:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125128885834 |
+| Players | 1/8 |
+| Host Name | Riz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:56:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125126597682 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Just a blood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 20:54:56 |
