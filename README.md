@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125270854745 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | elimis |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:05:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125274929016 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 1K de dia - 1K-bro de noche |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 23:08:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125275054740 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | парашют sоли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 23:08:57 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125266807478 |
-| Players | 14/15 |
-| Host Name |  Marco Aurelio Denegri  |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 22, 2024 23:01:15 |
+| Lobby ID | 28617125275326538 |
+| Players | 9/15 |
+| Host Name | штанга качат |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 23:09:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125268255905 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | saj |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:02:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125273906323 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Rex |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 23:07:53 |
@@ -135,24 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dowerk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 23:09:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125275335132 |
-| Players | 2/8 |
-| Host Name | Uncrowned King |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125275326538 |
-| Players | 4/15 |
-| Host Name | штанга качат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 23:09:12 |
 
 
 |  | epic_boss_fight_nightmare |
