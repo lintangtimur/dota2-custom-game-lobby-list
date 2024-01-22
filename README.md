@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125120112967 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Cort3znica |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 22, 2024 20:49:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125118192847 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:47:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125122167614 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Slave Master |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 20:51:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125110747626 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | ベニ・ヤウリ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 22, 2024 20:40:53 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 22, 2024 20:48:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125122938795 |
+| Players | 3/8 |
+| Host Name | Алёша Попович |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 22, 2024 20:51:41 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125121873067 |
-| Players | 11/15 |
-| Host Name | Человек Гандон |
+| Lobby ID | 28617125122857653 |
+| Players | 2/15 |
+| Host Name | dzahbar03 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 22, 2024 20:50:44 |
+| Lobby Creation Time | Monday, January 22, 2024 20:51:37 |
 
 
 |  | epic_boss_fight_nightmare |
