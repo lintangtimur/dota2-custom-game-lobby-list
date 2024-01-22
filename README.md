@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125360243493 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | jhonfrancia548 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:31:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125360993154 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ermak |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:31:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125361913493 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Chipi Chapa Dubi Daba Boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:32:44 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125362464171 |
-| Players | 4/15 |
-| Host Name | Danila |
+| Players | 8/15 |
+| Host Name | Rex |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:33:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125362487264 |
+| Lobby ID | 28617125362683300 |
 | Players | 1/8 |
-| Host Name | Абсолютный L1MONAD |
+| Host Name | ты не чувствуешь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:33:17 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:33:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125350332900 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Element |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:21:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28617125357852264 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Elysium |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:28:47 |
@@ -110,13 +110,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 23, 2024 00:32:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28617125361407659 |
+| Players | 14/15 |
+| Host Name | INZOI |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:32:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125362631985 |
+| Players | 6/8 |
+| Host Name | GAYmer |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:33:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125362366442 |
+| Players | 5/8 |
+| Host Name | cristoforo colombo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:33:10 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125361949828 |
-| Players | 7/10 |
-| Host Name | заткни ебло |
+| Lobby ID | 28617125362781577 |
+| Players | 6/10 |
+| Host Name | СhUUUmA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:32:46 |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:33:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125362799077 |
+| Players | 4/8 |
+| Host Name | seru 3000 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:33:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28617125361872070 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | mAbEx^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:32:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28617125362676923 |
+| Players | 1/5 |
+| Host Name | Кайфарік |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:33:28 |
 
 
