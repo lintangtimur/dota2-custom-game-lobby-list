@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124808353715 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | aliruf |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 22, 2024 14:05:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617124999808569 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ЖДК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:51:27 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28617125000077545 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | 12345667890 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 22, 2024 18:51:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28617125000391628 |
+| Players | 1/8 |
+| Host Name | El_Nardaro |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 22, 2024 18:52:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28617124997433844 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 22, 2024 18:48:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125000229259 |
-| Players | 1/10 |
-| Host Name | levi ackerman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 22, 2024 18:51:57 |
 
 
