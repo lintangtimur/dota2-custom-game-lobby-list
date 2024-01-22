@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125341221961 |
-| Players | 7/8 |
-| Host Name | Inmortals.Piero 👓.✖‿✖ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:12:24 |
+| Lobby ID | 28617125343436082 |
+| Players | 2/8 |
+| Host Name | -PSYCHO- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:14:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125343261322 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Deid |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:14:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28617125343172781 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DarkBoi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:14:18 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125339226637 |
-| Players | 21/24 |
-| Host Name | PROPHET |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:10:27 |
+| Lobby ID | 28617125341516456 |
+| Players | 20/24 |
+| Host Name | EpicBossFightEnjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 23, 2024 00:12:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28617125333980047 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Mathiasla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:05:21 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PornoHubovich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 23, 2024 00:11:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125341516456 |
-| Players | 19/24 |
-| Host Name | EpicBossFightEnjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:12:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125343434422 |
-| Players | 1/15 |
-| Host Name | Nevalyashka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:14:33 |
 
 
 |  | epic_boss_fight_challenger |
