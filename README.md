@@ -1,193 +1,112 @@
 ## Dota 2 Arcade Custom Game - Lobby List
 
-This list only for Epic Boss Fight Reborn and Overthrow 3
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125396529753 |
-| Players | 7/24 |
-| Host Name | Cemka |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:06:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125396939966 |
-| Players | 4/10 |
-| Host Name | ccaнинa мepтвoгo дeдa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:07:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125399371020 |
-| Players | 8/10 |
-| Host Name | RAZMES666 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:09:38 |
-
+This list only for Epic Boss Fight Imba, Reborn and OT3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28617125387496492 |
-| Players | 3/8 |
-| Host Name | magnus did nothing wrong |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:57:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125371611695 |
-| Players | 5/15 |
-| Host Name | кий |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 23, 2024 00:42:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28617125399703762 |
-| Players | 6/24 |
-| Host Name | MinD |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:09:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125400149059 |
-| Players | 1/8 |
-| Host Name | no le hables a mi coach ctmre |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125395276157 |
-| Players | 3/8 |
-| Host Name | тумба юмба |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:05:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125399420511 |
-| Players | 4/10 |
-| Host Name | Мармеладзе |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:09:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28617125399017608 |
-| Players | 13/15 |
-| Host Name | johnlinceycaster |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:09:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125398314146 |
+| Lobby ID | 28664886949232642 |
 | Players | 4/8 |
-| Host Name | Peon Redfield |
+| Host Name | Hi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:08:35 |
+| Lobby Creation Time | Friday, February 23, 2024 16:59:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28664886972834063 |
+| Players | 3/8 |
+| Host Name | 20:37 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, February 23, 2024 17:14:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125399958449 |
-| Players | 6/24 |
-| Host Name | 28min |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:12 |
+| Lobby ID | 28664886945825419 |
+| Players | 5/24 |
+| Host Name | apTeom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, February 23, 2024 16:57:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28664886940302784 |
+| Players | 1/10 |
+| Host Name | el lame chuchas |
+| Region | PERU |
+| Lobby Creation Time | Friday, February 23, 2024 16:53:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28617125399864930 |
+| Lobby ID | 28664886972168594 |
 | Players | 1/24 |
-| Host Name | ЗЭК |
+| Host Name | justforfun |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28617125400399504 |
-| Players | 8/10 |
-| Host Name | Oledzhinal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:38 |
+| Lobby Creation Time | Friday, February 23, 2024 17:13:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125400589596 |
+| Lobby ID | 28664886972542670 |
 | Players | 10/15 |
-| Host Name | Kyoujurou |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28617125400499266 |
-| Players | 4/8 |
-| Host Name | балбес |
+| Host Name | jekacorez |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:44 |
+| Lobby Creation Time | Friday, February 23, 2024 17:13:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28617125400790501 |
-| Players | 1/10 |
-| Host Name | SDS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:11:01 |
+| Lobby ID | 28664886973089829 |
+| Players | 4/10 |
+| Host Name | Aezakmi 冷 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, February 23, 2024 17:14:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28617125399653544 |
-| Players | 14/15 |
-| Host Name | Yami |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:09:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28617125397111265 |
-| Players | 5/10 |
-| Host Name | †Dracula† |
+| Lobby ID | 28664886973237233 |
+| Players | 1/15 |
+| Host Name | WANNA BREAK FROM THE ADS? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:07:22 |
+| Lobby Creation Time | Friday, February 23, 2024 17:14:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28617125399582780 |
-| Players | 1/10 |
-| Host Name | Sanctions??? We don't feel it.D |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:09:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28617125400513298 |
-| Players | 2/5 |
-| Host Name | Che Guevara |
+| Lobby ID | 28664886955415532 |
+| Players | 8/10 |
+| Host Name | sasha-ainur777 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 23, 2024 01:10:44 |
+| Lobby Creation Time | Friday, February 23, 2024 17:03:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28664886945941293 |
+| Players | 1/10 |
+| Host Name | Oliver_Janoski |
+| Region | USEAST |
+| Lobby Creation Time | Friday, February 23, 2024 16:57:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28664886958132810 |
+| Players | 7/10 |
+| Host Name | ♡ ChikoLulu ♡ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, February 23, 2024 17:04:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28664886971343136 |
+| Players | 7/10 |
+| Host Name | Sakazuki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, February 23, 2024 17:13:05 |
 
 

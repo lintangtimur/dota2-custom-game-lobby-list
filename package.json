@@ -1,0 +1,19 @@
+{
+  "name": "dota2-arcade-lobby-lists",
+  "version": "1.0.0",
+  "description": "This list only for Epic Boss Fight Reborn and Overthrow 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lintangtimur/dota2-custom-game-lobby-list.git"
+  },
+  "author": "lintangtimur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lintangtimur/dota2-custom-game-lobby-list/issues"
+  },
+  "homepage": "https://github.com/lintangtimur/dota2-custom-game-lobby-list#readme"
+}
