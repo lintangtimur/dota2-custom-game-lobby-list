@@ -1,3 +1,4 @@
+color 0a
 git pull origin master
 main.exe
 git add .
